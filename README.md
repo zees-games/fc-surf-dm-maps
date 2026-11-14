@@ -1,149 +1,92 @@
 # fc-surf-dm-maps
 
-The combat surf maps Zee's Fatal Contact ([game-fatal-contact](https://github.com/zees-games/game-fatal-contact)) plays as a deathmatch, as a repository of their own: the imported maps in `maps/` and the list of them with their authors in `maps.json`.
+Combat surf maps for [Fatal Contact](https://github.com/zees-games/game-fatal-contact) (FC), imported from the surf genre. They are not courses. They are small maps with buy zones, weapons on the floor and teleports back to a spawn, built to fight on. Each map's manifest has `"kind": "arena"`, which is what FC looks for. A map with another kind is skipped.
 
-These are maps from the surf genre that are not courses: small maps with buy zones, weapons on the floor and teleports back to a spawn, built to fight on. Each manifest says `"kind": "arena"`, and that is what game-fatal-contact looks for; a map that says otherwise is skipped.
+Every map is somebody else's work, made for the genre years ago and imported so it can be played again. Each one is credited below and on screen when a server changes to it. If you made one of these maps and want it credited differently or taken down, open an issue and it will be done.
 
-Every map here is somebody else's work, made for the genre years ago and imported so it can be played again. Each one is credited below and on screen whenever a server changes to it. If you made one of these maps and want it credited differently or taken down, open an issue and it will be done.
+## Why the maps are not in the game
 
-## Why the maps are not in the game's repository
-
-game-fatal-contact ships with its three built-in maps only. A server that wants these names them in its content configuration, and each map is its own signed pack, `gamemann/<map id>`, fetched when the server changes to it, so a player joining downloads the map that is running and not 170 MB of maps. Keeping them here means a map can be added, fixed or withdrawn without a release of the game.
+FC ships with its three built-in maps only. A server that wants these names them in its content configuration. Each map is its own signed pack, `gamemann/arena-surf-dm-maps-<map id>`, fetched the first time the server changes to it, so a player downloads only the map that is running. Keeping them here means a map can be added, fixed or withdrawn without a game release.
 
 ## Layout
 
-```
-maps/<id>/<id>.json      what the importer produced: the map's manifest,
-maps/<id>/<id>.bin       its geometry, lightmap and textures,
-maps/<id>/textures/      with the .import markers beside them
-maps.json                every map, its author and its source page
-```
+| Path | Contents |
+| --- | --- |
+| `maps/<id>/<id>.json` | The map manifest the importer produced |
+| `maps/<id>/<id>.bin` | Geometry and lightmap |
+| `maps/<id>/provides.json` | Lists the map's pack in the Workshop (collection `fc-surf-dm-maps`) |
+| `worlds/<id>/` | The shared importer's output that the game draws |
+| `maps.json` | Every map with its author and source page |
+| `licence.json` | Licence record per map |
+| `tools/` | Pack staging and checks |
 
 ## Using it
 
-For local development, game-fatal-contact's `maps/imported` is a link to this repository's `maps/` (dot-bootstrap makes it from the `# bootstrap-link:` line in the game's `.gitignore`). That is the path the `.import` markers were written against, so the game imports and tests these files without a copy. Without the link the game plays its built-in maps, which is supported.
+For local development, FC's `maps/imported` is a link to this repository's `maps/` (dot-bootstrap creates it from the `# bootstrap-link:` line in the game's `.gitignore`). Without the link the game plays its built-in maps.
 
-**Releasing is a tag**: `git tag v1.x.y && git push --tags`. `.github/workflows/release.yml` calls dot-ci's `release-maps.yml`, which checks game-fatal-contact out beside this repository, links `maps/` in, imports, and attaches one `<map>-<version>-pack.zip` per map; the site publishes each as `gamemann/<map>@<version>` and signs it.
+Releasing is a tag: `git tag v1.x.y && git push --tags`. `.github/workflows/release.yml` imports each map and attaches one `<map>-<version>-pack.zip` per map. The site publishes each as `gamemann/<map>@<version>` and signs it. Maps added after the last tag become packs at the next tag.
 
 ## Naming them on a server
 
-A tag publishes the packs; a server offers them when its `cfg/game/game-arena/server.yml` names them (dot-server-deploy). The block for game-fatal-contact, one line per map in `maps.json`:
+A server offers a map when its server configuration (dot-server-deploy) lists it, one line per map in `maps.json`:
 
 ```yaml
 games:
-  game-arena:
+  game-arena:   # the Fatal Contact project directory
     maps:
       add:
         - gamemann/arena-surf-dm-maps-surf_10x_final
-        - gamemann/arena-surf-dm-maps-surf_10x_reloaded_fixed
-        - gamemann/arena-surf-dm-maps-surf_110b_austinpowers
-        - gamemann/arena-surf-dm-maps-surf_29_12_06
         - gamemann/arena-surf-dm-maps-surf_adverse
-        - gamemann/arena-surf-dm-maps-surf_aim_akcolt
-        - gamemann/arena-surf-dm-maps-surf_akai_final
-        - gamemann/arena-surf-dm-maps-surf_bathroom_final
-        - gamemann/arena-surf-dm-maps-surf_buck_wild
-        - gamemann/arena-surf-dm-maps-surf_dust2_2008_final
-        - gamemann/arena-surf-dm-maps-surf_fastspiral_retro
-        - gamemann/arena-surf-dm-maps-surf_forbidden_ways_2nd
-        - gamemann/arena-surf-dm-maps-surf_forbidden_ways_reloaded
-        - gamemann/arena-surf-dm-maps-surf_fruits
-        - gamemann/arena-surf-dm-maps-surf_grave_reloaded
-        - gamemann/arena-surf-dm-maps-surf_greatriver
-        - gamemann/arena-surf-dm-maps-surf_greatriver_v4
-        - gamemann/arena-surf-dm-maps-surf_greatriver_xdre4m
-        - gamemann/arena-surf-dm-maps-surf_i_hate_campers
-        - gamemann/arena-surf-dm-maps-surf_japan_ptad
-        - gamemann/arena-surf-dm-maps-surf_legends
-        - gamemann/arena-surf-dm-maps-surf_machine2
-        - gamemann/arena-surf-dm-maps-surf_machine_remix_final
-        - gamemann/arena-surf-dm-maps-surf_mai_redone_final2
-        - gamemann/arena-surf-dm-maps-surf_mai_remix
-        - gamemann/arena-surf-dm-maps-surf_matrix_v8
-        - gamemann/arena-surf-dm-maps-surf_ny_advance
-        - gamemann/arena-surf-dm-maps-surf_ny_bigloop_2008a
-        - gamemann/arena-surf-dm-maps-surf_ny_exploder_prime
-        - gamemann/arena-surf-dm-maps-surf_parrot_selector
-        - gamemann/arena-surf-dm-maps-surf_pavilion
-        - gamemann/arena-surf-dm-maps-surf_poolday
-        - gamemann/arena-surf-dm-maps-surf_pox
-        - gamemann/arena-surf-dm-maps-surf_rebel_resistance_final3
-        - gamemann/arena-surf-dm-maps-surf_ski_2
-        - gamemann/arena-surf-dm-maps-surf_ski_2_source
-        - gamemann/arena-surf-dm-maps-surf_skyworld
-        - gamemann/arena-surf-dm-maps-surf_snipers_island
-        - gamemann/arena-surf-dm-maps-surf_the_flow
-        - gamemann/arena-surf-dm-maps-surf_the_gloaming
-        - gamemann/arena-surf-dm-maps-surf_thriller
-        - gamemann/arena-surf-dm-maps-surf_torque2
-        - gamemann/arena-surf-dm-maps-surf_velocity
-        - gamemann/arena-surf-dm-maps-surf_xiv_v2a
+        # ... one line per map in maps.json
 ```
-
-A map is fetched the first time the server changes to it. Maps added here after the last tag are not packs until the next tag (`v1.0.2` and later).
 
 ## Credits
 
-| Map | Author | Source |
-| --- | --- | --- |
-| `surf_10x_final` | Wof- | https://gamebanana.com/mods/121522 |
-| `surf_10x_reloaded_fixed` | Buck Nasty | https://gamebanana.com/mods/121524 |
-| `surf_110b_austinpowers` | TheInvoker | https://gamebanana.com/mods/121530 |
-| `surf_29_12_06` | matrix-hetman | https://gamebanana.com/mods/121540 |
-| `surf_adverse` | target practice, Archangel | https://gamebanana.com/mods/137677 |
-| `surf_aim_akcolt` | Lagged | https://gamebanana.com/mods/121593 |
-| `surf_akai_final` | akai | https://gamebanana.com/mods/121606 |
-| `surf_bathroom_final` | smooth | https://gamebanana.com/mods/121698 |
-| `surf_buck_wild` | buck nasty | https://gamebanana.com/mods/121787 |
-| `surf_dust2_2008_final` | Matrix Hetman, Karatekäfer | https://gamebanana.com/mods/121962 |
-| `surf_fastspiral_retro` | qdg, eintagsfliege (original) | https://gamebanana.com/mods/122039 |
-| `surf_forbidden_ways_2nd` | krusty | https://gamebanana.com/mods/122075 |
-| `surf_forbidden_ways_reloaded` | Krusty, sky by Karatekäfer | https://gamebanana.com/mods/122076 |
-| `surf_fruits` | Sangre, Hellraisedsurfer, Robsonfire, Machine, Jaden, Komaokc, Icecreamlock, Shahzam, SKAR, JackTheStripper (copy-mark), Linus | https://gamebanana.com/mods/122092 |
-| `surf_grave_reloaded` | xblah | https://gamebanana.com/mods/122151 |
-| `surf_greatriver` | Ace Of Spades13 | https://gamebanana.com/mods/122158 |
-| `surf_greatriver_v4` | BeNnY | https://gamebanana.com/mods/122202 |
-| `surf_greatriver_xdre4m` | !Black, with Ace Of Spades13 and Junior | https://gamebanana.com/mods/122206 |
-| `surf_i_hate_campers` | Snah | https://gamebanana.com/mods/122339 |
-| `surf_japan_ptad` | ptad, monkeydie | https://gamebanana.com/mods/137687 |
-| `surf_legends` | SintaxError | https://gamebanana.com/mods/122424 |
-| `surf_machine2` | Z-machine | https://gamebanana.com/mods/122478 |
-| `surf_machine_remix_final` | paper-cut, z-machine(original) | https://gamebanana.com/mods/122497 |
-| `surf_mai_redone_final2` | AndYZ, Krusty | https://gamebanana.com/mods/122504 |
-| `surf_mai_remix` | Krusty | https://gamebanana.com/mods/122505 |
-| `surf_matrix_v8` | Flippi273 | https://gamebanana.com/mods/122520 |
-| `surf_ny_advance` | faj | https://gamebanana.com/mods/122641 |
-| `surf_ny_bigloop_2008a` | Paper-Cut, FAJ | https://gamebanana.com/mods/122644 |
-| `surf_ny_exploder_prime` | FAJ | https://gamebanana.com/mods/122646 |
-| `surf_parrot_selector` | ptad | https://gamebanana.com/mods/122709 |
-| `surf_pavilion` | Black Sheep | https://gamebanana.com/mods/122711 |
-| `surf_poolday` | iceeater | https://gamebanana.com/mods/122736 |
-| `surf_pox` | Krusty, Pariah, Karatekäfer, Korr | https://gamebanana.com/mods/122741 |
-| `surf_rebel_resistance_final3` | -)RR(-ArchAngel -)RR(-Lethalis | https://gamebanana.com/mods/122824 |
-| `surf_ski_2` | Massive Boredom and Mario | https://gamebanana.com/mods/122953 |
-| `surf_ski_2_source` | Korliki ''Angel | https://gamebanana.com/mods/122956 |
-| `surf_skyworld` | Goerge | https://gamebanana.com/mods/122985 |
-| `surf_snipers_island` | Loller Dan | https://gamebanana.com/mods/137698 |
-| `surf_the_flow` | G-Flow, Karatekäfer (skybox), Stavros Xanthis | https://gamebanana.com/mods/137701 |
-| `surf_the_gloaming` | Roosta, Teeth | https://gamebanana.com/mods/123134 |
-| `surf_thriller` | buck nasty | https://gamebanana.com/mods/123141 |
-| `surf_torque2` | Sangre Nueva | https://gamebanana.com/mods/123157 |
-| `surf_velocity` | copy-mark, jack the stripper, sangre, hellraisedsurfer, target practice, jesuswashomeless, skar | https://gamebanana.com/mods/123224 |
-| `surf_xiv_v2a` | smooth.nl | https://gamebanana.com/mods/123284 |
+All maps are credited here and on screen. They are published under the credited-community-map exception recorded in `licence.json`. Where the source page states a licence it is shown. Where it states none, the page text does not forbid sharing or porting. If an author or anyone speaking for them wants a map removed or credited differently, open an issue at https://github.com/zees-games/fc-surf-dm-maps/issues.
 
-`surf_i_hate_campers` is listed on its page as CC BY-NC-ND 4.0 with redistribution marked "ask"; it is credited to Snah here and on screen, and if Snah or anyone speaking for them wants it removed or credited differently, open an issue and it will be done.
-
-`surf_snipers_island` is listed on its page as CC BY-NC-ND 4.0 with redistribution marked "ask", and the page's text does not forbid sharing or porting (checked 2026-10-20); it is credited to Loller Dan here and on screen, and if Loller Dan or anyone speaking for them wants it removed or credited differently, open an issue and it will be done.
-
-`surf_the_flow` is listed on its page as CC BY-NC-ND 4.0, and the page's text does not forbid sharing or porting (checked 2026-10-20); it is credited to G-Flow here and on screen, and if G-Flow or anyone speaking for them wants it removed or credited differently, open an issue and it will be done.
-
-`surf_poolday` is listed on its page as CC BY-NC-ND 4.0, and the page's text does not forbid sharing or porting (checked 2026-11-07); it is credited to iceeater here and on screen, and if iceeater or anyone speaking for them wants it removed or credited differently, open an issue and it will be done.
-
-`surf_ny_exploder_prime` is listed on its page as CC BY-NC-ND 4.0, and the page's text does not forbid sharing or porting (checked 2026-11-07); it is credited to FAJ here and on screen, and if FAJ or anyone speaking for them wants it removed or credited differently, open an issue and it will be done.
-
-`surf_mai_redone_final2` is listed on its page as CC BY-NC-ND 4.0, and the page's text does not forbid sharing or porting (checked 2026-11-07); it is credited to AndYZ, Krusty here and on screen, and if AndYZ or anyone speaking for them wants it removed or credited differently, open an issue and it will be done.
-
-`surf_aim_akcolt` is listed on its page as CC BY-NC-ND 4.0, and the page's text does not forbid sharing or porting (checked 2026-11-07); it is credited to Lagged here and on screen, and if Lagged or anyone speaking for them wants it removed or credited differently, open an issue and it will be done.
-
-`surf_fastspiral_retro` is listed on its page as CC BY-NC-ND 4.0, and the page's text does not forbid sharing or porting (checked 2026-11-08); it is credited to qdg and to eintagsfliege (author of the original surf_fastspiral) here and on screen, and if either of them or anyone speaking for them wants it removed or credited differently, open an issue and it will be done.
-
+| Map | Author | Source | Licence |
+| --- | --- | --- | --- |
+| `surf_10x_final` | Wof- | https://gamebanana.com/mods/121522 | None stated on the source page |
+| `surf_10x_reloaded_fixed` | Buck Nasty | https://gamebanana.com/mods/121524 | None stated on the source page |
+| `surf_110b_austinpowers` | TheInvoker | https://gamebanana.com/mods/121530 | None stated on the source page |
+| `surf_29_12_06` | matrix-hetman | https://gamebanana.com/mods/121540 | None stated on the source page |
+| `surf_adverse` | target practice, Archangel | https://gamebanana.com/mods/137677 | None stated on the source page |
+| `surf_aim_akcolt` | Lagged | https://gamebanana.com/mods/121593 | CC BY-NC-ND 4.0 |
+| `surf_akai_final` | akai | https://gamebanana.com/mods/121606 | None stated on the source page |
+| `surf_bathroom_final` | smooth | https://gamebanana.com/mods/121698 | None stated on the source page |
+| `surf_buck_wild` | buck nasty | https://gamebanana.com/mods/121787 | None stated on the source page |
+| `surf_dust2_2008_final` | Matrix Hetman, Karatekäfer | https://gamebanana.com/mods/121962 | None stated on the source page |
+| `surf_fastspiral_retro` | qdg, eintagsfliege (original) | https://gamebanana.com/mods/122039 | CC BY-NC-ND 4.0 |
+| `surf_forbidden_ways_2nd` | krusty | https://gamebanana.com/mods/122075 | None stated on the source page |
+| `surf_forbidden_ways_reloaded` | Krusty, sky by Karatekäfer | https://gamebanana.com/mods/122076 | None stated on the source page |
+| `surf_fruits` | Sangre, Hellraisedsurfer, Robsonfire, Machine, Jaden, Komaokc, Icecreamlock, Shahzam, SKAR, JackTheStripper (copy-mark), Linus | https://gamebanana.com/mods/122092 | None stated on the source page |
+| `surf_grave_reloaded` | xblah | https://gamebanana.com/mods/122151 | None stated on the source page |
+| `surf_greatriver` | Ace Of Spades13 | https://gamebanana.com/mods/122158 | None stated on the source page |
+| `surf_greatriver_v4` | BeNnY | https://gamebanana.com/mods/122202 | None stated on the source page |
+| `surf_greatriver_xdre4m` | !Black, with Ace Of Spades13 and Junior | https://gamebanana.com/mods/122206 | None stated on the source page |
+| `surf_i_hate_campers` | Snah | https://gamebanana.com/mods/122339 | CC BY-NC-ND 4.0 |
+| `surf_japan_ptad` | ptad, monkeydie | https://gamebanana.com/mods/137687 | None stated on the source page |
+| `surf_legends` | SintaxError | https://gamebanana.com/mods/122424 | None stated on the source page |
+| `surf_machine2` | Z-machine | https://gamebanana.com/mods/122478 | None stated on the source page |
+| `surf_machine_remix_final` | paper-cut, z-machine(original) | https://gamebanana.com/mods/122497 | None stated on the source page |
+| `surf_mai_redone_final2` | AndYZ, Krusty | https://gamebanana.com/mods/122504 | CC BY-NC-ND 4.0 |
+| `surf_mai_remix` | Krusty | https://gamebanana.com/mods/122505 | None stated on the source page |
+| `surf_matrix_v8` | Flippi273 | https://gamebanana.com/mods/122520 | None stated on the source page |
+| `surf_ny_advance` | faj | https://gamebanana.com/mods/122641 | None stated on the source page |
+| `surf_ny_bigloop_2008a` | Paper-Cut, FAJ | https://gamebanana.com/mods/122644 | None stated on the source page |
+| `surf_ny_exploder_prime` | FAJ | https://gamebanana.com/mods/122646 | CC BY-NC-ND 4.0 |
+| `surf_parrot_selector` | ptad | https://gamebanana.com/mods/122709 | None stated on the source page |
+| `surf_pavilion` | Black Sheep | https://gamebanana.com/mods/122711 | None stated on the source page |
+| `surf_poolday` | iceeater | https://gamebanana.com/mods/122736 | CC BY-NC-ND 4.0 |
+| `surf_pox` | Krusty, Pariah, Karatekäfer, Korr | https://gamebanana.com/mods/122741 | None stated on the source page |
+| `surf_rebel_resistance_final3` | -)RR(-ArchAngel -)RR(-Lethalis | https://gamebanana.com/mods/122824 | None stated on the source page |
+| `surf_ski_2` | Massive Boredom and Mario | https://gamebanana.com/mods/122953 | None stated on the source page |
+| `surf_ski_2_source` | Korliki ''Angel | https://gamebanana.com/mods/122956 | None stated on the source page |
+| `surf_skyworld` | Goerge | https://gamebanana.com/mods/122985 | None stated on the source page |
+| `surf_snipers_island` | Loller Dan | https://gamebanana.com/mods/137698 | CC BY-NC-ND 4.0 |
+| `surf_the_flow` | G-Flow, Karatekäfer (skybox), Stavros Xanthis | https://gamebanana.com/mods/137701 | CC BY-NC-ND 4.0 |
+| `surf_the_gloaming` | Roosta, Teeth | https://gamebanana.com/mods/123134 | None stated on the source page |
+| `surf_thriller` | buck nasty | https://gamebanana.com/mods/123141 | None stated on the source page |
+| `surf_torque2` | Sangre Nueva | https://gamebanana.com/mods/123157 | None stated on the source page |
+| `surf_velocity` | copy-mark, jack the stripper, sangre, hellraisedsurfer, target practice, jesuswashomeless, skar | https://gamebanana.com/mods/123224 | None stated on the source page |
+| `surf_xiv_v2a` | smooth.nl | https://gamebanana.com/mods/123284 | None stated on the source page |
