@@ -3,7 +3,7 @@
 Every texture of this map is a free replacement; the original map's textures and models are not used.
 
 - pbr (pbr_embedded_plank_flooring): polyhaven, Dimitrios Savva, CC0-1.0, https://polyhaven.com/a/embedded_plank_flooring
-- generated (water): dot-map cutout_texture, TMC (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
+- generated (water): Gamespice cutout_texture, Gamespice (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
 - pbr (pbr_Marble025): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Marble025
 - pbr (pbr_Wallpaper002C): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wallpaper002C
 - pbr (pbr_Metal033): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal033
@@ -54,7 +54,7 @@ Every texture of this map is a free replacement; the original map's textures and
 - pbr (pbr_Wood071): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood071
 - pbr (pbr_tree_bark_03): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/tree_bark_03
 - pbr (pbr_Planks039): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Planks039
-- generated (glass): dot-map cutout_texture, TMC (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
+- generated (glass): Gamespice cutout_texture, Gamespice (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
 - pbr (pbr_wood_planks_dirt): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/wood_planks_dirt
 - pbr (pbr_white_stucco): polyhaven, Amal Kumar, CC0-1.0, https://polyhaven.com/a/white_stucco
 - pbr (pbr_coral_fort_wall_01): polyhaven, Dimitrios Savva, Rico Cilliers, CC0-1.0, https://polyhaven.com/a/coral_fort_wall_01
@@ -63,4 +63,4 @@ Every texture of this map is a free replacement; the original map's textures and
 - pbr (pbr_Tiles009): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles009
 - pbr (pbr_volcanic_herringbone_01): polyhaven, Charlotte Baglioni, CC0-1.0, https://polyhaven.com/a/volcanic_herringbone_01
 - pbr (pbr_Metal027): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal027
-- generated (bars): dot-map cutout_texture, TMC (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
+- generated (bars): Gamespice cutout_texture, Gamespice (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)

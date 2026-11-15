@@ -75606,7 +75606,7 @@
    },
    {
     "area": 3548.0,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.375,
      0.375,
@@ -75618,7 +75618,7 @@
     "key": "generated:glass:606060",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/glasswindow007a"
     ],
@@ -75627,7 +75627,7 @@
    },
    {
     "area": 3779.5,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -75639,7 +75639,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/sewer_water001",
      "nature/sewer_water001_bottom"
@@ -75857,7 +75857,7 @@
    },
    {
     "area": 6262.1,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.25,
      0.5,
@@ -75869,7 +75869,7 @@
     "key": "generated:glass:408060",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/glasswindow020a"
     ],
@@ -75970,7 +75970,7 @@
    },
    {
     "area": 110.2,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.375,
      0.375,
@@ -75982,7 +75982,7 @@
     "key": "generated:foliage_card:606060",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "halflife/{grate2"
     ],

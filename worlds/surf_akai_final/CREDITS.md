@@ -9,10 +9,10 @@ Every texture of this map is a free replacement; the original map's textures and
 - pbr (pbr_PaintedWood006B): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=PaintedWood006B
 - pbr (pbr_WoodFloor068): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=WoodFloor068
 - pbr (pbr_aerial_sand): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/aerial_sand
-- generated (glass): dot-map cutout_texture, TMC (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
+- generated (glass): Gamespice cutout_texture, Gamespice (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
 - pbr (pbr_Bricks058): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Bricks058
 - pbr (pbr_Ground014): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Ground014
-- generated (water): dot-map cutout_texture, TMC (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
+- generated (water): Gamespice cutout_texture, Gamespice (generated), CC0-1.0, drawn in code by addons/dot_map/bsp/dot_map_bsp_mesh.gd (cutout_texture)
 - pbr (pbr_okoume_veneer): polyhaven, Jenelle van Heerden, CC0-1.0, https://polyhaven.com/a/okoume_veneer
 - pbr (pbr_Wood095): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Wood095
 - pbr (pbr_WoodFloor071): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=WoodFloor071

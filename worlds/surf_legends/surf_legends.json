@@ -24640,10 +24640,10 @@
   "skipped_skybox_models": 0,
   "sounds": [
    {
-    "author": "TMC (dot-audio authors)",
+    "author": "Gamespice (audio authors)",
     "count": 7,
     "licence": "CC0-1.0",
-    "source": "dot-audio stock ambience (synthesised)",
+    "source": "Gamespice audio stock ambience (synthesised)",
     "stand_in": "amb_wind",
     "url": "https://github.com/gamespice-platform/audio"
    },
@@ -24728,7 +24728,7 @@
    },
    {
     "area": 7300.2,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -24740,7 +24740,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "dev/dev_waterbeneath2",
      "liquids/aztecwater"
@@ -24819,7 +24819,7 @@
    },
    {
     "area": 269.9,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -24831,7 +24831,7 @@
     "key": "generated:fence:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "metal/metalfence001a"
     ],
@@ -24840,7 +24840,7 @@
    },
    {
     "area": 380.4,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.125,
@@ -24852,7 +24852,7 @@
     "key": "generated:water:202040",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/water_movingplane"
     ],
@@ -24861,7 +24861,7 @@
    },
    {
     "area": 380.4,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -24873,7 +24873,7 @@
     "key": "generated:water:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/water_movingplane_beneath"
     ],

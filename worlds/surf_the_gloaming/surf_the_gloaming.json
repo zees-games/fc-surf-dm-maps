@@ -27168,7 +27168,7 @@
    },
    {
     "area": 5171.1,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.75,
      0.75,
@@ -27180,7 +27180,7 @@
     "key": "generated:water:bfbfbf",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/water_canals03_dx70",
      "nature/water_dx70_beneath"
@@ -27213,7 +27213,7 @@
    },
    {
     "area": 192744.0,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -27225,7 +27225,7 @@
     "key": "generated:glass:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/combineglass001a"
     ],

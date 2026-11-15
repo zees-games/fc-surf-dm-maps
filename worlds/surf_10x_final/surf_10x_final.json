@@ -5230,7 +5230,7 @@
    },
    {
     "area": 5618.4,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -5242,7 +5242,7 @@
     "key": "generated:water:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/water_movingplane_beneath"
     ],
@@ -5920,7 +5920,7 @@
    },
    {
     "area": 51.8,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -5932,7 +5932,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "dev/dev_waterbeneath2",
      "liquids/aztecwater"
@@ -6357,7 +6357,7 @@
    },
    {
     "area": 91.1,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.75,
      0.75,
@@ -6369,7 +6369,7 @@
     "key": "generated:water:bfbfbf",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "liquids/water_dx70_beneath",
      "nature/water_canals03_dx70"
@@ -6448,7 +6448,7 @@
    },
    {
     "area": 217.9,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.0,
@@ -6460,7 +6460,7 @@
     "key": "generated:glass:200020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/unbreakable"
     ],
@@ -6653,7 +6653,7 @@
    },
    {
     "area": 15.0,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.125,
@@ -6665,7 +6665,7 @@
     "key": "generated:bars:202020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "metal/metalgate005a"
     ],

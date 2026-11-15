@@ -3068,10 +3068,10 @@
   "skipped_skybox_models": 0,
   "sounds": [
    {
-    "author": "TMC (dot-audio authors)",
+    "author": "Gamespice (audio authors)",
     "count": 1,
     "licence": "CC0-1.0",
-    "source": "dot-audio stock ambience (synthesised)",
+    "source": "Gamespice audio stock ambience (synthesised)",
     "stand_in": "amb_wind",
     "url": "https://github.com/gamespice-platform/audio"
    },
@@ -3087,7 +3087,7 @@
   "textures": [
    {
     "area": 6529622.4,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -3099,7 +3099,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "dev/dev_waterbeneath2",
      "nature/water_canals_cheap001"

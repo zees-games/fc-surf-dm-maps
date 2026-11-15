@@ -79973,7 +79973,7 @@
    },
    {
     "area": 827.4,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -79985,7 +79985,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/water_canals03",
      "nature/water_canals03_beneath"
@@ -80018,7 +80018,7 @@
    },
    {
     "area": 39017.5,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -80030,7 +80030,7 @@
     "key": "generated:glass:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/combineglass001a"
     ],
@@ -80062,7 +80062,7 @@
    },
    {
     "area": 53532.8,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.0,
@@ -80074,7 +80074,7 @@
     "key": "generated:glass:200020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/unbreakable"
     ],
@@ -80152,7 +80152,7 @@
    },
    {
     "area": 408.3,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.25,
      0.25,
@@ -80164,7 +80164,7 @@
     "key": "generated:shield:404040",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "effects/com_shield003a"
     ],

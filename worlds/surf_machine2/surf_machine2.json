@@ -5520,10 +5520,10 @@
   "skipped_skybox_models": 0,
   "sounds": [
    {
-    "author": "TMC (dot-audio authors)",
+    "author": "Gamespice (audio authors)",
     "count": 1,
     "licence": "CC0-1.0",
-    "source": "dot-audio stock ambience (synthesised)",
+    "source": "Gamespice audio stock ambience (synthesised)",
     "stand_in": "amb_wind",
     "url": "https://github.com/gamespice-platform/audio"
    }
@@ -5646,7 +5646,7 @@
    },
    {
     "area": 44.6,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.375,
      0.5,
@@ -5658,7 +5658,7 @@
     "key": "generated:shield:608080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "effects/combine_binocoverlay"
     ],
@@ -5854,7 +5854,7 @@
    },
    {
     "area": 34.4,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -5866,7 +5866,7 @@
     "key": "generated:glass:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/combineglass001a"
     ],
@@ -5921,7 +5921,7 @@
    },
    {
     "area": 120.0,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.0,
@@ -5933,7 +5933,7 @@
     "key": "generated:glass:200020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/unbreakable"
     ],
@@ -6380,7 +6380,7 @@
    },
    {
     "area": 240.7,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -6392,7 +6392,7 @@
     "key": "generated:glass:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/glasswindowbreak070a"
     ],
@@ -6401,7 +6401,7 @@
    },
    {
     "area": 392.0,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -6413,7 +6413,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "dev/dev_waterbeneath2",
      "nature/water_canals_cheap001"
@@ -6469,7 +6469,7 @@
    },
    {
     "area": 3.0,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.625,
      0.5,
@@ -6481,7 +6481,7 @@
     "key": "generated:foliage_card:9f8060",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "de_chateau/{cxarrow01"
     ],
@@ -6559,7 +6559,7 @@
    },
    {
     "area": 188.3,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.125,
@@ -6571,7 +6571,7 @@
     "key": "generated:glass:202040",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/offwndwb"
     ],

@@ -12817,7 +12817,7 @@
    },
    {
     "area": 275.2,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.125,
@@ -12829,7 +12829,7 @@
     "key": "generated:fence:202020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "cs_havana/metalfence007a",
      "metal/metalfence007a"
@@ -13023,7 +13023,7 @@
    },
    {
     "area": 75859.4,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -13035,7 +13035,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "liquids/militiawater",
      "liquids/militiawaterbeneath"

@@ -38013,7 +38013,7 @@
    },
    {
     "area": 1976.0,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -38025,7 +38025,7 @@
     "key": "generated:glass:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/combineglass001a",
      "glass/glasswindow070c"
@@ -38081,7 +38081,7 @@
    },
    {
     "area": 131.8,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.375,
      0.5,
@@ -38093,7 +38093,7 @@
     "key": "generated:shield:608080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "effects/combine_binocoverlay"
     ],

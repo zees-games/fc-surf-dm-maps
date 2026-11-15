@@ -12704,7 +12704,7 @@
    },
    {
     "area": 2510.9,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -12716,7 +12716,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/water_canals03",
      "nature/water_canals03_beneath"
@@ -12820,7 +12820,7 @@
    },
    {
     "area": 202.1,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.0,
@@ -12832,7 +12832,7 @@
     "key": "generated:glass:200020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/unbreakable"
     ],
@@ -12841,7 +12841,7 @@
    },
    {
     "area": 652.1,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.25,
      0.25,
@@ -12853,7 +12853,7 @@
     "key": "generated:shield:404040",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "effects/combineshield/comshieldwall3"
     ],

@@ -15543,7 +15543,7 @@
    },
    {
     "area": 19.3,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.75,
      0.125,
@@ -15555,7 +15555,7 @@
     "key": "generated:shield:bf2000",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "effects/laserplane"
     ],
@@ -15564,7 +15564,7 @@
    },
    {
     "area": 4156.9,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -15576,7 +15576,7 @@
     "key": "generated:glass:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/combineglass001a"
     ],
@@ -15608,7 +15608,7 @@
    },
    {
     "area": 1458.9,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.75,
      0.75,
@@ -15620,7 +15620,7 @@
     "key": "generated:water:bfbfbf",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "liquids/militiawater_dx70",
      "liquids/militiawater_dx70_beneath",
@@ -15793,7 +15793,7 @@
    },
    {
     "area": 49.1,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.25,
      0.25,
@@ -15805,7 +15805,7 @@
     "key": "generated:ladder:404020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "halflife/{ladder2"
     ],

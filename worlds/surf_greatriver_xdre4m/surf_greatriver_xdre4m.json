@@ -10927,7 +10927,7 @@
    },
    {
     "area": 1859.9,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -10939,7 +10939,7 @@
     "key": "generated:glass:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/combineglass001a"
     ],
@@ -11040,7 +11040,7 @@
    },
    {
     "area": 4934.5,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -11052,7 +11052,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "liquids/militiawater",
      "liquids/militiawaterbeneath"
@@ -11085,7 +11085,7 @@
    },
    {
     "area": 64.0,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.0,
@@ -11097,7 +11097,7 @@
     "key": "generated:bars:000000",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "metal/metalbar001c"
     ],
@@ -11106,7 +11106,7 @@
    },
    {
     "area": 9.5,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -11118,7 +11118,7 @@
     "key": "generated:water:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/water_movingplane_beneath"
     ],
@@ -11173,7 +11173,7 @@
    },
    {
     "area": 0.1,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.125,
@@ -11185,7 +11185,7 @@
     "key": "generated:fence:202020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "cs_havana/metalfence007a"
     ],

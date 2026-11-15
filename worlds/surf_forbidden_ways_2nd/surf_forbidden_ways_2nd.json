@@ -18521,7 +18521,7 @@
    },
    {
     "area": 41318.3,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -18533,7 +18533,7 @@
     "key": "generated:glass:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/glasswindow070c"
     ],
@@ -18542,7 +18542,7 @@
    },
    {
     "area": 1103.6,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.125,
@@ -18554,7 +18554,7 @@
     "key": "generated:water:202040",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/water_movingplane"
     ],
@@ -18563,7 +18563,7 @@
    },
    {
     "area": 1103.6,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -18575,7 +18575,7 @@
     "key": "generated:water:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/water_movingplane_beneath"
     ],
@@ -18631,7 +18631,7 @@
    },
    {
     "area": 267.7,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.0,
@@ -18643,7 +18643,7 @@
     "key": "generated:bars:000000",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "metal/metalbar001c"
     ],

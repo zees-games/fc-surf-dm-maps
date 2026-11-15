@@ -25985,7 +25985,7 @@
  "licence": {
   "model_stand_ins": [
    {
-    "author": "TMC (generated for dot-map)",
+    "author": "Gamespice (generated for map)",
     "count": 2,
     "file": "own/own_box_135x38x220_8a9aa8/own_box_135x38x220_8a9aa8.glb",
     "files": [],
@@ -25996,7 +25996,7 @@
     "url": "https://github.com/gamespice-platform/map"
    },
    {
-    "author": "TMC (generated for dot-map)",
+    "author": "Gamespice (generated for map)",
     "count": 12,
     "file": "own/own_box_54x227x42_e8e8e0/own_box_54x227x42_e8e8e0.glb",
     "files": [],
@@ -26134,7 +26134,7 @@
    },
    {
     "area": 9974.0,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.75,
      0.75,
@@ -26146,7 +26146,7 @@
     "key": "generated:water:bfbfbf",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/water_canals03_dx70",
      "nature/water_dx70_beneath"
@@ -26156,7 +26156,7 @@
    },
    {
     "area": 135.5,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.875,
      0.875,
@@ -26168,7 +26168,7 @@
     "key": "generated:foliage_card:dfdfdf",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "bucknasty/bucknasty"
     ],
@@ -26246,7 +26246,7 @@
    },
    {
     "area": 3177.1,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.0,
@@ -26258,7 +26258,7 @@
     "key": "generated:glass:200020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/unbreakable"
     ],
@@ -26386,7 +26386,7 @@
    },
    {
     "area": 47.6,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.125,
@@ -26398,7 +26398,7 @@
     "key": "generated:bars:202020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "metal/metalrail013c"
     ],
@@ -26545,7 +26545,7 @@
    },
    {
     "area": 489.7,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -26557,7 +26557,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "dev/dev_water2",
      "dev/dev_waterbeneath2",
@@ -26733,7 +26733,7 @@
    },
    {
     "area": 341.6,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.25,
      0.25,
@@ -26745,7 +26745,7 @@
     "key": "generated:bars:404040",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "metal/metalrail012c"
     ],
@@ -26823,7 +26823,7 @@
    },
    {
     "area": 11.4,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -26835,7 +26835,7 @@
     "key": "generated:glass:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/combineglass001a"
     ],
@@ -26890,7 +26890,7 @@
    },
    {
     "area": 7.3,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.75,
      0.75,
@@ -26902,7 +26902,7 @@
     "key": "generated:foliage_card:bfbf9f",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "bucknasty/gaj"
     ],
@@ -26911,7 +26911,7 @@
    },
    {
     "area": 25.8,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.125,
@@ -26923,7 +26923,7 @@
     "key": "generated:foliage_card:202020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "bucknasty/river_flow"
     ],
@@ -26932,7 +26932,7 @@
    },
    {
     "area": 53.5,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.375,
      0.375,
@@ -26944,7 +26944,7 @@
     "key": "generated:foliage_card:606060",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "bucknasty/ampevmf2",
      "bucknasty/ampvmf",
@@ -26958,7 +26958,7 @@
    },
    {
     "area": 26.8,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -26970,7 +26970,7 @@
     "key": "generated:foliage_card:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "bucknasty/nocturnalvmf",
      "bucknasty/spacedoutvmf",
@@ -27004,7 +27004,7 @@
    },
    {
     "area": 8.9,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.375,
      0.5,
@@ -27016,7 +27016,7 @@
     "key": "generated:foliage_card:608080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "bucknasty/10xrvmf"
     ],

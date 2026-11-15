@@ -66499,7 +66499,7 @@
    },
    {
     "area": 20079.7,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.625,
      0.0,
@@ -66511,7 +66511,7 @@
     "key": "generated:glass:9f0040",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nikkiglass/combineglasshotpink"
     ],
@@ -66520,7 +66520,7 @@
    },
    {
     "area": 8999.5,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.75,
      0.25,
@@ -66532,7 +66532,7 @@
     "key": "generated:glass:bf4080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nikkiglass/combineglasspinkwb"
     ],
@@ -66610,7 +66610,7 @@
    },
    {
     "area": 6037.3,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -66622,7 +66622,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/sewer_water001",
      "nature/sewer_water001_bottom",
@@ -66659,7 +66659,7 @@
    },
    {
     "area": 33827.3,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -66671,7 +66671,7 @@
     "key": "generated:glass:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nikkiglass/combineglass001a",
      "nikkiglass/combineglassdark"
@@ -67144,7 +67144,7 @@
    },
    {
     "area": 247.8,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.25,
      0.25,
@@ -67156,7 +67156,7 @@
     "key": "generated:shield:404040",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "effects/combineshield/comshieldwall"
     ],

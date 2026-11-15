@@ -58015,7 +58015,7 @@
     "url": "https://kenney.nl/assets/food-kit"
    },
    {
-    "author": "TMC (generated for dot-map)",
+    "author": "Gamespice (generated for map)",
     "count": 5,
     "file": "own/own_box_15x17x15_e8e8e0/own_box_15x17x15_e8e8e0.glb",
     "files": [],
@@ -58452,7 +58452,7 @@
    },
    {
     "area": 5310.3,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.75,
      0.75,
@@ -58464,7 +58464,7 @@
     "key": "generated:water:bfbfbf",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/water_canals03_dx70",
      "nature/water_canals_water2_dx70",
@@ -58475,7 +58475,7 @@
    },
    {
     "area": 4994.9,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -58487,7 +58487,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "dev/dev_water2",
      "dev/dev_water2_cheap",
@@ -58669,7 +58669,7 @@
    },
    {
     "area": 10187.8,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.25,
      0.5,
@@ -58681,7 +58681,7 @@
     "key": "generated:glass:408060",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/glasswindow020a"
     ],
@@ -58690,7 +58690,7 @@
    },
    {
     "area": 3355.7,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.75,
      0.0,
@@ -58702,7 +58702,7 @@
     "key": "generated:glass:bf0000",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/red"
     ],
@@ -59126,7 +59126,7 @@
    },
    {
     "area": 24119.9,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -59138,7 +59138,7 @@
     "key": "generated:glass:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/combineglass001a",
      "glass/glasswindow070c"
@@ -59565,7 +59565,7 @@
    },
    {
     "area": 276.3,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      1.0,
      0.5,
@@ -59577,7 +59577,7 @@
     "key": "generated:glass:ff8000",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "icecreamlock/orangeglass"
     ],
@@ -59586,7 +59586,7 @@
    },
    {
     "area": 905.5,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.625,
      0.75,
@@ -59598,7 +59598,7 @@
     "key": "generated:glass:9fbfbf",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "icecreamlock/lolglass"
     ],
@@ -59607,7 +59607,7 @@
    },
    {
     "area": 174.8,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.75,
      0.75,
@@ -59619,7 +59619,7 @@
     "key": "generated:foliage_card:bfbf9f",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "icecreamlock/pineapple"
     ],
@@ -59698,7 +59698,7 @@
    },
    {
     "area": 1425.2,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.625,
      0.0,
@@ -59710,7 +59710,7 @@
     "key": "generated:glass:9f009f",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "icecreamlock/purpleglass"
     ],
@@ -59857,7 +59857,7 @@
    },
    {
     "area": 88.9,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.75,
      0.75,
@@ -59869,7 +59869,7 @@
     "key": "generated:glass:bfbf60",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "custom/lemonglass"
     ],
@@ -59924,7 +59924,7 @@
    },
    {
     "area": 1.3,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -59936,7 +59936,7 @@
     "key": "generated:water:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/water_movingplane_beneath"
     ],
@@ -59945,7 +59945,7 @@
    },
    {
     "area": 37.9,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.375,
      0.5,
@@ -59957,7 +59957,7 @@
     "key": "generated:shield:608080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "effects/combine_binocoverlay"
     ],
@@ -60243,7 +60243,7 @@
    },
    {
     "area": 7160.8,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.375,
      0.375,
@@ -60255,7 +60255,7 @@
     "key": "generated:glass:606060",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/glasswindow007a"
     ],
@@ -60357,7 +60357,7 @@
    },
    {
     "area": 26.0,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -60369,7 +60369,7 @@
     "key": "generated:glass:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "models/props_trainstation/trainstation_clock_glass001"
     ],
@@ -60493,7 +60493,7 @@
    },
    {
     "area": 76.8,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.875,
      0.875,
@@ -60505,7 +60505,7 @@
     "key": "generated:foliage_card:dfdfdf",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "customs/logos/spraylogo"
     ],
@@ -60514,7 +60514,7 @@
    },
    {
     "area": 349.4,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.875,
      0.625,
@@ -60526,7 +60526,7 @@
     "key": "generated:foliage_card:df9f80",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "customs/orange2"
     ],

@@ -13993,7 +13993,7 @@
     "url": "https://kenney.nl/assets/retro-urban-kit"
    },
    {
-    "author": "TMC (generated for dot-map)",
+    "author": "Gamespice (generated for map)",
     "count": 2,
     "file": "own/own_box_14x31x38_e8e8e0/own_box_14x31x38_e8e8e0.glb",
     "files": [],
@@ -14885,7 +14885,7 @@
    },
    {
     "area": 50.2,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.0,
@@ -14897,7 +14897,7 @@
     "key": "generated:glass:200020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/unbreakable"
     ],
@@ -14906,7 +14906,7 @@
    },
    {
     "area": 59.3,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.125,
      0.125,
@@ -14918,7 +14918,7 @@
     "key": "generated:bars:202020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "metal/metalrail013a"
     ],
@@ -14950,7 +14950,7 @@
    },
    {
     "area": 262.9,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.25,
      0.5,
@@ -14962,7 +14962,7 @@
     "key": "generated:glass:408060",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/glasswindow020a"
     ],
@@ -14994,7 +14994,7 @@
    },
    {
     "area": 856.2,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -15006,7 +15006,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "dev/dev_water2",
      "dev/dev_waterbeneath2"
@@ -15223,7 +15223,7 @@
    },
    {
     "area": 383.6,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.375,
      0.375,
@@ -15235,7 +15235,7 @@
     "key": "generated:glass:606060",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/glasswindow007a"
     ],
@@ -15244,7 +15244,7 @@
    },
    {
     "area": 34.1,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.25,
      0.25,
@@ -15256,7 +15256,7 @@
     "key": "generated:shield:404040",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "effects/com_shield003a"
     ],

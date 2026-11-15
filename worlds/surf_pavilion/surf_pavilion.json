@@ -35273,7 +35273,7 @@
     "url": "https://kenney.nl/assets/pirate-kit"
    },
    {
-    "author": "TMC (generated for dot-map)",
+    "author": "Gamespice (generated for map)",
     "count": 1,
     "file": "own/own_box_24x204x467_b8996a/own_box_24x204x467_b8996a.glb",
     "files": [],
@@ -35971,7 +35971,7 @@
    },
    {
     "area": 10179.1,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.0,
      0.125,
@@ -35983,7 +35983,7 @@
     "key": "generated:glass:002020",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/combineglass001a"
     ],
@@ -36247,7 +36247,7 @@
    },
    {
     "area": 2535.6,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.375,
@@ -36259,7 +36259,7 @@
     "key": "generated:glass:806060",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "glass/prodwndwa"
     ],
@@ -36291,7 +36291,7 @@
    },
    {
     "area": 42.1,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.5,
      0.5,
@@ -36303,7 +36303,7 @@
     "key": "generated:water:808080",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "nature/sewer_water001",
      "nature/sewer_water001_bottom"
@@ -36751,7 +36751,7 @@
    },
    {
     "area": 0.8,
-    "author": "TMC (generated)",
+    "author": "Gamespice (generated)",
     "colour": [
      0.625,
      0.5,
@@ -36763,7 +36763,7 @@
     "key": "generated:foliage_card:9f8060",
     "kind": "generated",
     "licence": "CC0-1.0",
-    "source": "dot-map cutout_texture",
+    "source": "Gamespice cutout_texture",
     "sources": [
      "de_chateau/{cxarrow01"
     ],
