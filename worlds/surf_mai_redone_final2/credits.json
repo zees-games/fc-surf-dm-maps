@@ -200,7 +200,7 @@
    "name": "lib/dm_light_inset",
    "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/dot-map/blob/main/tools/models/light_inset.py",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/light_inset.py",
    "source": "dot-map Blender model",
    "attribution": false,
    "uses": 3

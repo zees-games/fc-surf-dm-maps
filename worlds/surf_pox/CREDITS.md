@@ -13,5 +13,5 @@ Every texture of this map is a free replacement; the original map's textures and
 # Model stand-ins
 
 - cardboard_box: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
-- lib/own_box_21x3x21_e8e8e0: TMC generated model, TMC (generated for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map
+- lib/own_box_21x3x21_e8e8e0: TMC generated model, TMC (generated for dot-map), CC0-1.0, https://github.com/gamespice-platform/map
 - lib/ph_cheiridopsis_succulent: Poly Haven, James Ray Cock, Jenelle van Heerden, CC0-1.0, https://polyhaven.com/a/cheiridopsis_succulent
