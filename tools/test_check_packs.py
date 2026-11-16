@@ -118,7 +118,7 @@ class StagePacks(unittest.TestCase):
                 "import shutil, sys, os\nw = sys.argv[2]\nout = sys.argv[sys.argv.index('--out') + 1]\n"
                 "shutil.copytree(w, os.path.join(out, os.path.basename(w)))\n")
             out = os.path.join(tmp, "out")
-            env = dict(os.environ, DOT_MAP_CONVERT=conv, DOT_PY=sys.executable)
+            env = dict(os.environ, GS_MAP_CONVERT=conv, GS_PY=sys.executable)
             r = subprocess.run(["bash", os.path.join(repo, "tools", "stage_packs.sh"), out, "m1"], env=env, capture_output=True, text=True)
             self.assertEqual(r.returncode, 0, r.stderr)
             self.assertFalse(os.path.exists(os.path.join(out, "m1", "textures")))
