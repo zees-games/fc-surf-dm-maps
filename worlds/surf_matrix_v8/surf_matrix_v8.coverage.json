@@ -12,9 +12,8 @@
    "fallback": 2
   },
   "free_by_tier": {
-   "addon": 15,
-   "default": 8,
-   "nearest": 4
+   "addon": 19,
+   "default": 8
   },
   "nearest_photo": [
    "cs_assault/assault_skybox_building02",
@@ -28,8 +27,9 @@
   ]
  },
  "models": {
-  "looked_up": 13,
+  "looked_up": 14,
   "by_tier": {
+   "category": 1,
    "default": 13
   }
  },
@@ -127,6 +127,10 @@
   "links_unresolved": [
    "func_button.OnPressed->Sign"
   ],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn",
+   "func_monitor.SetCamera"
+  ],
   "surfaces_opaque": [
    "models/props/de_nuke/light_red1_glass",
    "models/props_combine/citadel_cable"
@@ -140,6 +144,7 @@
   "classes_unmapped": 0,
   "keys_unmapped": 15,
   "links_unresolved": 1,
+  "inputs_unimplemented": 2,
   "surfaces_opaque": 2
  }
 }

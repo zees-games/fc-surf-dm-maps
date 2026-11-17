@@ -27,10 +27,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Metal054C",
+   "name": "pbr_Metal056C",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal054C",
+   "url": "https://ambientcg.com/view?id=Metal056C",
    "source": "ambientCG",
    "attribution": false,
    "uses": 202
@@ -73,7 +73,7 @@
    "url": "https://ambientcg.com/view?id=Metal028",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 966
+   "uses": 964
   },
   {
    "kind": "texture",
@@ -287,11 +287,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_wood_table_001",
-   "author": "Dimitrios Savva, Rico Cilliers",
+   "name": "pbr_Wood013",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/wood_table_001",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Wood013",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 1
   },
@@ -347,10 +347,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Concrete027",
+   "name": "pbr_Concrete030",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Concrete027",
+   "url": "https://ambientcg.com/view?id=Concrete030",
    "source": "ambientCG",
    "attribution": false,
    "uses": 8
@@ -537,13 +537,23 @@
   },
   {
    "kind": "model",
+   "name": "lib/dm_light_inset",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/light_inset.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 50
+  },
+  {
+   "kind": "model",
    "name": "lib/own_box_135x38x220_8a9aa8",
    "author": "Gamespice (generated for map)",
    "licence": "CC0-1.0",
    "url": "https://github.com/gamespice-platform/map",
    "source": "TMC generated model",
    "attribution": false,
-   "uses": 51
+   "uses": 1
   },
   {
    "kind": "model",
@@ -552,6 +562,16 @@
    "licence": "CC0-1.0",
    "url": "https://polyhaven.com/a/covered_car",
    "source": "Poly Haven",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "sound",
+   "name": "machine_low",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/sci-fi-sounds",
+   "source": "Kenney Sci-Fi Sounds",
    "attribution": false,
    "uses": 1
   }

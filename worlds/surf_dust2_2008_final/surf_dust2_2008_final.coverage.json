@@ -12,9 +12,8 @@
    "fallback": 4
   },
   "free_by_tier": {
-   "addon": 27,
-   "default": 4,
-   "nearest": 30
+   "addon": 57,
+   "default": 4
   },
   "nearest_photo": [
    "cs_italy/marketwall04",
@@ -40,19 +39,11 @@
    "de_dust/sitebwall05",
    "de_dust/sitebwall05a",
    "de_dust/sitebwall05c",
-   "de_dust/sitebwall10",
    "de_dust/sitebwall10a",
    "de_dust/sitebwall10b",
-   "de_dust/sitebwall11",
-   "de_dust/sitebwall11a",
    "de_dust/sitebwall12",
    "de_dust/sitebwall12a",
-   "de_dust/sitebwall12b",
    "de_dust/stonestep02",
-   "de_dust/stonewall02a",
-   "de_dust/stonewall02b",
-   "de_dust/templewall02a",
-   "de_dust/templewall04",
    "de_dust/templewall04b",
    "de_dust/tilefloor01",
    "textury/floor",
@@ -65,8 +56,8 @@
  "models": {
   "looked_up": 38,
   "by_tier": {
-   "default": 37,
-   "fallback": 1
+   "category": 1,
+   "default": 37
   }
  },
  "sounds": {
@@ -116,9 +107,7 @@
    "TEXTURY/ZZ14"
   ],
   "textures_flat": [],
-  "models_unmapped": [
-   "props/de_dust/du_dome_d2b.mdl"
-  ],
+  "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [
@@ -131,16 +120,22 @@
    "weapon_scout.ammo"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn",
+   "game_player_equip.",
+   "player_weaponstrip.Strip"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
   "textures_unmapped": 4,
   "textures_flat": 0,
-  "models_unmapped": 1,
+  "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
   "keys_unmapped": 7,
   "links_unresolved": 0,
+  "inputs_unimplemented": 3,
   "surfaces_opaque": 0
  }
 }

@@ -5,16 +5,15 @@
  "sha256": "6256bd99085f6a1c2b705f8a8f13b6e098ae384413546a0720c5ca9ccf5b4f69",
  "textures": {
   "looked_up": 79,
-  "drawn": 68,
+  "drawn": 67,
   "by_tier": {
-   "addon": 52,
+   "addon": 53,
    "default": 24,
-   "fallback": 3
+   "fallback": 2
   },
   "free_by_tier": {
-   "addon": 61,
-   "default": 5,
-   "nearest": 2
+   "addon": 63,
+   "default": 4
   },
   "nearest_photo": [
    "cs_havana/tunnelplaster02",
@@ -27,15 +26,14 @@
    "models/props/de_nuke/pipeset_metal02",
    "models/props_canal/metalcrate001d",
    "plaster/plasterwall005a",
-   "plaster/plasterwall017a",
-   "plastic/plasticwall002a"
+   "plaster/plasterwall017a"
   ]
  },
  "models": {
-  "looked_up": 15,
+  "looked_up": 16,
   "by_tier": {
-   "default": 14,
-   "fallback": 1
+   "default": 15,
+   "parts": 1
   }
  },
  "sounds": {
@@ -54,10 +52,6 @@
   "unmapped": {
    "game_player_equip": [
     "weapon_knife"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
    ]
   }
  },
@@ -68,19 +62,14 @@
  "lists": {
   "textures_unmapped": [
    "DE_CHATEAU/{CXARROW01",
-   "DE_PRODIGY/FLOOR01",
-   "PLASTIC/PLASTICWALL002A"
+   "DE_PRODIGY/FLOOR01"
   ],
   "textures_flat": [],
-  "models_unmapped": [
-   "props/de_nuke/nuclearcontrolbox.mdl"
-  ],
+  "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "game_player_equip.weapon_knife",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration"
+   "game_player_equip.weapon_knife"
   ],
   "links_unresolved": [
    "logic_compare.OnEqualTo->heli1_thruster_up",
@@ -88,18 +77,25 @@
    "trigger_multiple.OnTrigger->player",
    "trigger_once.OnTrigger->player"
   ],
+  "inputs_unimplemented": [
+   "game_player_equip.Use",
+   "phys_thruster.Activate",
+   "phys_thruster.Deactivate",
+   "player_weaponstrip.Strip"
+  ],
   "surfaces_opaque": [
    "models/props/de_nuke/light_red1_glass_on"
   ]
  },
  "counts": {
-  "textures_unmapped": 3,
+  "textures_unmapped": 2,
   "textures_flat": 0,
-  "models_unmapped": 1,
+  "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 3,
+  "keys_unmapped": 1,
   "links_unresolved": 4,
+  "inputs_unimplemented": 4,
   "surfaces_opaque": 1
  }
 }

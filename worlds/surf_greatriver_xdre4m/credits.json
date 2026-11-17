@@ -7,10 +7,10 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_dirt",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_flower_scattered_dirt",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/dirt",
+   "url": "https://polyhaven.com/a/flower_scattered_dirt",
    "source": "polyhaven",
    "attribution": false,
    "uses": 52
@@ -37,11 +37,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Plaster001",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_white_stucco",
+   "author": "Amal Kumar",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Plaster001",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/white_stucco",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 90
   },
@@ -147,11 +147,21 @@
   },
   {
    "kind": "model",
-   "name": "cardboard_box",
-   "author": "Kenney",
+   "name": "lib/dm_ductrun",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/furniture-kit",
-   "source": "Kenney Furniture Kit",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/clutter.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 3
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_weaponrifle",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py",
+   "source": "dot-map Blender model",
    "attribution": false,
    "uses": 1
   },

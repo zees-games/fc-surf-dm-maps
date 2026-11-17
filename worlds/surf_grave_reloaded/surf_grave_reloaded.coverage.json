@@ -8,13 +8,11 @@
   "drawn": 52,
   "by_tier": {
    "addon": 25,
-   "default": 24,
-   "fallback": 3
+   "default": 27
   },
   "free_by_tier": {
-   "addon": 31,
-   "default": 12,
-   "nearest": 9
+   "addon": 40,
+   "default": 12
   },
   "nearest_photo": [
    "de_cbble/cratesm01a",
@@ -38,8 +36,8 @@
  "models": {
   "looked_up": 4,
   "by_tier": {
-   "default": 3,
-   "fallback": 1
+   "category": 1,
+   "default": 3
   }
  },
  "sounds": {
@@ -58,9 +56,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "weapon_ak47": [
     "ammo"
    ],
@@ -98,19 +93,12 @@
   "unresolved": 0
  },
  "lists": {
-  "textures_unmapped": [
-   "DE_CBBLE/WALLINTERIOR01",
-   "DE_CBBLE/WALLINTERIOR01A",
-   "DE_CBBLE/WALLINTERIOR01B"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
-  "models_unmapped": [
-   "props/de_cbble/cb_wndsng16.mdl"
-  ],
+  "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "weapon_ak47.ammo",
    "weapon_aug.ammo",
    "weapon_awp.ammo",
@@ -123,16 +111,18 @@
    "weapon_sg552.ammo"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [],
   "surfaces_opaque": []
  },
  "counts": {
-  "textures_unmapped": 3,
+  "textures_unmapped": 0,
   "textures_flat": 0,
-  "models_unmapped": 1,
+  "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 11,
+  "keys_unmapped": 10,
   "links_unresolved": 0,
+  "inputs_unimplemented": 0,
   "surfaces_opaque": 0
  }
 }

@@ -12,9 +12,8 @@
    "fallback": 36
   },
   "free_by_tier": {
-   "addon": 42,
-   "default": 15,
-   "nearest": 30
+   "addon": 72,
+   "default": 15
   },
   "nearest_photo": [
    "brick/brickwall038a",
@@ -90,9 +89,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "func_door_rotating": [
     "message"
    ],
@@ -123,9 +119,6 @@
    ],
    "weapon_scout": [
     "ammo"
-   ],
-   "worldspawn": [
-    "no_decomp"
    ]
   }
  },
@@ -179,7 +172,6 @@
   ],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "func_door_rotating.message",
    "func_rot_button.StartDisabled",
    "game_player_equip.item_assaultsuit",
@@ -196,11 +188,17 @@
    "light.no_decomp",
    "trigger_once.wait",
    "weapon_awp.ammo",
-   "weapon_scout.ammo",
-   "worldspawn.no_decomp"
+   "weapon_scout.ammo"
   ],
   "links_unresolved": [
    "trigger_multiple.OnTrigger->player_equip_defuser"
+  ],
+  "inputs_unimplemented": [
+   "env_splash.Splash",
+   "func_water_analog.Close",
+   "func_water_analog.Open",
+   "func_water_analog.SetPosition",
+   "game_player_equip.Use"
   ],
   "surfaces_opaque": [
    "de_train/train_bombsite_arrow_01",
@@ -213,8 +211,9 @@
   "models_unmapped": 0,
   "sounds_unmapped": 1,
   "classes_unmapped": 0,
-  "keys_unmapped": 19,
+  "keys_unmapped": 17,
   "links_unresolved": 1,
+  "inputs_unimplemented": 5,
   "surfaces_opaque": 2
  }
 }

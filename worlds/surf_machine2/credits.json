@@ -17,10 +17,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_rock_ground_02",
+   "name": "pbr_aerial_ground_rock",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rock_ground_02",
+   "url": "https://polyhaven.com/a/aerial_ground_rock",
    "source": "polyhaven",
    "attribution": false,
    "uses": 1
@@ -47,10 +47,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Marble015",
+   "name": "pbr_Travertine009",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Marble015",
+   "url": "https://ambientcg.com/view?id=Travertine009",
    "source": "ambientCG",
    "attribution": false,
    "uses": 6
@@ -187,10 +187,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_red_brick_03",
-   "author": "Rob Tuytel",
+   "name": "pbr_patterned_brick_wall_02",
+   "author": "Dario Barresi, Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/red_brick_03",
+   "url": "https://polyhaven.com/a/patterned_brick_wall_02",
    "source": "polyhaven",
    "attribution": false,
    "uses": 1
@@ -327,11 +327,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Leaf001",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_mud_forest",
+   "author": "eye-candy.xyz",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Leaf001",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/mud_forest",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 10
   },
@@ -347,11 +347,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Planks025C",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_dark_paneled_wood",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Planks025C",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/dark_paneled_wood",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 1
   },
@@ -397,23 +397,53 @@
   },
   {
    "kind": "model",
-   "name": "lib/kenney_food-kit_muffin",
-   "author": "Kenney",
+   "name": "lib/dm_chainlinkfence",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/food-kit",
-   "source": "Kenney Food Kit",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/fences.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 9
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_doorlever",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_details.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 10
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_truss",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/clutter.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 8
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_watermelon",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
    "uses": 2
   },
   {
    "kind": "model",
-   "name": "lib/kenney_pirate-kit_structure-fence-sides",
-   "author": "Kenney",
+   "name": "lib/ph_hanging_picture_frame_02",
+   "author": "James Ray Cock",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/pirate-kit",
-   "source": "Kenney Pirate Kit",
+   "url": "https://polyhaven.com/a/hanging_picture_frame_02",
+   "source": "Poly Haven",
    "attribution": false,
-   "uses": 5
+   "uses": 1
   },
   {
    "kind": "model",
@@ -424,16 +454,6 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_modular_chainlink_fence",
-   "author": "James Ray Cock, Amal Kumar",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/modular_chainlink_fence",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 4
   },
   {
    "kind": "sound",

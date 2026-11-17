@@ -5,16 +5,15 @@
  "sha256": "2a38a371af25681d7076f0423b2f6bc82e1753b26fb849145ebedae99398e142",
  "textures": {
   "looked_up": 41,
-  "drawn": 41,
+  "drawn": 40,
   "by_tier": {
    "addon": 20,
-   "default": 14,
-   "fallback": 7
+   "default": 15,
+   "fallback": 6
   },
   "free_by_tier": {
-   "addon": 26,
-   "default": 4,
-   "nearest": 11
+   "addon": 37,
+   "default": 3
   },
   "nearest_photo": [
    "cs_havana/iceilb01",
@@ -128,7 +127,6 @@
  },
  "lists": {
   "textures_unmapped": [
-   "CS_HAVANA/ICEILB01",
    "SURF_JAPAN_PTAD/BANNER1B",
    "SURF_JAPAN_PTAD/BANNER2C",
    "SURF_JAPAN_PTAD/CLOUDSMUM",
@@ -167,16 +165,22 @@
    "weapon_xm1014.ammo"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_hudhint.ShowHudHint",
+   "point_spotlight.LightOff",
+   "prop_ragdoll.ignite"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
-  "textures_unmapped": 7,
+  "textures_unmapped": 6,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
   "keys_unmapped": 24,
   "links_unresolved": 0,
+  "inputs_unimplemented": 3,
   "surfaces_opaque": 0
  }
 }

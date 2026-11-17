@@ -7,10 +7,10 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_PavingStones078",
+   "name": "pbr_PavingStones025",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones078",
+   "url": "https://ambientcg.com/view?id=PavingStones025",
    "source": "ambientCG",
    "attribution": false,
    "uses": 92
@@ -97,11 +97,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Metal061C",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_corrugated_iron",
+   "author": "Jenelle van Heerden, Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal061C",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/corrugated_iron",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 1
   },

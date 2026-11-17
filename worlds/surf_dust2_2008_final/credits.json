@@ -13,24 +13,24 @@
    "url": "https://polyhaven.com/a/stone_wall",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 22
+   "uses": 57
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones102",
+   "name": "pbr_Rock026",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones102",
+   "url": "https://ambientcg.com/view?id=Rock026",
    "source": "ambientCG",
    "attribution": false,
    "uses": 10
   },
   {
    "kind": "texture",
-   "name": "pbr_hacked_concrete",
+   "name": "pbr_concrete_slab_wall",
    "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/hacked_concrete",
+   "url": "https://polyhaven.com/a/concrete_slab_wall",
    "source": "polyhaven",
    "attribution": false,
    "uses": 10
@@ -43,7 +43,7 @@
    "url": "https://ambientcg.com/view?id=PavingStones044",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 10
+   "uses": 11
   },
   {
    "kind": "texture",
@@ -73,14 +73,14 @@
    "url": "https://polyhaven.com/a/marble_rock_02",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 15
+   "uses": 18
   },
   {
    "kind": "texture",
-   "name": "pbr_concrete_floor",
-   "author": "eye-candy.xyz",
+   "name": "pbr_concrete_wall_008",
+   "author": "Dario Barresi, Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/concrete_floor",
+   "url": "https://polyhaven.com/a/concrete_wall_008",
    "source": "polyhaven",
    "attribution": false,
    "uses": 28
@@ -93,27 +93,17 @@
    "url": "https://polyhaven.com/a/marble_01",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 60
+   "uses": 77
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones133",
+   "name": "pbr_PavingStones032",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones133",
+   "url": "https://ambientcg.com/view?id=PavingStones032",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 30
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Rocks013",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Rocks013",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 8
+   "uses": 26
   },
   {
    "kind": "texture",
@@ -123,7 +113,7 @@
    "url": "https://ambientcg.com/view?id=Rock040",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 4
+   "uses": 9
   },
   {
    "kind": "texture",
@@ -133,7 +123,7 @@
    "url": "https://polyhaven.com/a/rock_boulder_dry",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 4
+   "uses": 20
   },
   {
    "kind": "texture",
@@ -147,16 +137,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones009",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones009",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 15
-  },
-  {
-   "kind": "texture",
    "name": "pbr_granite_tile_04",
    "author": "Amal Kumar",
    "licence": "CC0-1.0",
@@ -167,13 +147,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_rocks_ground_03",
+   "name": "pbr_aerial_ground_rock",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rocks_ground_03",
+   "url": "https://polyhaven.com/a/aerial_ground_rock",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 22
+   "uses": 38
   },
   {
    "kind": "texture",
@@ -187,43 +167,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_rock_ground_02",
+   "name": "pbr_rocks_ground_01",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rock_ground_02",
+   "url": "https://polyhaven.com/a/rocks_ground_01",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 16
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_stone_embedded_tiles",
-   "author": "Dimitrios Savva",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/stone_embedded_tiles",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 11
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_PavingStones146",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones146",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 3
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_yellow_stone_wall",
-   "author": "S\u01a1n Nguy\u1ec5n",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/yellow_stone_wall",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 32
+   "uses": 13
   },
   {
    "kind": "texture",
@@ -247,36 +197,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_cobblestone_floor_04",
-   "author": "Rob Tuytel",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/cobblestone_floor_04",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 3
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_marble_cliff_04",
-   "author": "Amal Kumar",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/marble_cliff_04",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 4
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_stone_wall_03",
-   "author": "eye-candy.xyz",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/stone_wall_03",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 2
-  },
-  {
-   "kind": "texture",
    "name": "pbr_wood_inlaid_stone_wall",
    "author": "Amal Kumar",
    "licence": "CC0-1.0",
@@ -287,33 +207,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Marble026",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_plaster_stone_wall_01",
+   "author": "Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Marble026",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/plaster_stone_wall_01",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 1
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_rock_2",
-   "author": "Rob Tuytel",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rock_2",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 4
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_cobblestone_large_01",
-   "author": "Rob Tuytel",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/cobblestone_large_01",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 3
   },
   {
    "kind": "texture",
@@ -327,11 +227,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Wood089",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_rough_wood",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Wood089",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/rough_wood",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 3
   },
@@ -357,30 +257,30 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_seaworn_stone_tiles",
-   "author": "Dimitrios Savva",
+   "name": "pbr_stone_tiles_02",
+   "author": "Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/seaworn_stone_tiles",
+   "url": "https://polyhaven.com/a/stone_tiles_02",
    "source": "polyhaven",
    "attribution": false,
    "uses": 3
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones147",
+   "name": "pbr_Marble024",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones147",
+   "url": "https://ambientcg.com/view?id=Marble024",
    "source": "ambientCG",
    "attribution": false,
    "uses": 2
   },
   {
    "kind": "texture",
-   "name": "pbr_sand_03",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_damp_beach_sand_02",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/sand_03",
+   "url": "https://polyhaven.com/a/damp_beach_sand_02",
    "source": "polyhaven",
    "attribution": false,
    "uses": 1
@@ -406,26 +306,6 @@
    "uses": 1
   },
   {
-   "kind": "texture",
-   "name": "pbr_PavingStones066",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones066",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "cardboard_box",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/furniture-kit",
-   "source": "Kenney Furniture Kit",
-   "attribution": false,
-   "uses": 6
-  },
-  {
    "kind": "model",
    "name": "crate",
    "author": "Kenney",
@@ -447,21 +327,71 @@
   },
   {
    "kind": "model",
-   "name": "lib/kenney_food-kit_carton",
-   "author": "Kenney",
+   "name": "lib/dm_carsedan",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/food-kit",
-   "source": "Kenney Food Kit",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/vehicles.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
-   "uses": 4
+   "uses": 2
   },
   {
    "kind": "model",
-   "name": "lib/kenney_pirate-kit_crate-bottles",
-   "author": "Kenney",
+   "name": "lib/dm_dustdome",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/pirate-kit",
-   "source": "Kenney Pirate Kit",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_details.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 12
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_milkcarton",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_plasticbottle",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 3
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_weaponrifle",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/weapons.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 6
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_weaponsniper",
+   "author": "TMC (modelled for dot-map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py",
+   "source": "dot-map Blender model",
+   "attribution": false,
+   "uses": 3
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_wood_crate_cube",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/wood_crate.py",
+   "source": "Gamespice map Blender remodel",
    "attribution": false,
    "uses": 19
   },
@@ -473,17 +403,7 @@
    "url": "https://polyhaven.com/a/cement_bag",
    "source": "Poly Haven",
    "attribution": false,
-   "uses": 2
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_cheiridopsis_succulent",
-   "author": "James Ray Cock, Jenelle van Heerden",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/cheiridopsis_succulent",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 2
+   "uses": 1
   },
   {
    "kind": "model",
@@ -494,16 +414,6 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 10
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_covered_car",
-   "author": "MP",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/covered_car",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 2
   },
   {
    "kind": "model",
@@ -537,13 +447,13 @@
   },
   {
    "kind": "model",
-   "name": "lib/sf_fallout_4_nuka_cola_bottle_17cd00",
-   "author": "Aike",
-   "licence": "CC-BY-4.0",
-   "url": "https://sketchfab.com/3d-models/none-17cd007c38824321b184c763b1eec4e2",
-   "source": "Sketchfab",
-   "attribution": true,
-   "uses": 3
+   "name": "lib/ph_wooden_bucket_01",
+   "author": "James Ray Cock",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/wooden_bucket_01",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 2
   },
   {
    "kind": "model",

@@ -5,16 +5,15 @@
  "sha256": "f6faca2893c94e38c3c0b298bb14bf7e92572052d636638a86aba42d77204190",
  "textures": {
   "looked_up": 24,
-  "drawn": 24,
+  "drawn": 23,
   "by_tier": {
    "addon": 13,
    "default": 10,
    "fallback": 1
   },
   "free_by_tier": {
-   "addon": 15,
-   "default": 7,
-   "nearest": 2
+   "addon": 17,
+   "default": 6
   },
   "nearest_photo": [
    "brick/brickwall038a",
@@ -33,7 +32,7 @@
  "sounds": {
   "looked_up": 1,
   "by_tier": {
-   "fallback": 1
+   "default": 1
   }
  },
  "classes": {
@@ -45,11 +44,7 @@
  },
  "keys": {
   "catalogue": true,
-  "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ]
-  }
+  "unmapped": {}
  },
  "links": {
   "total": 25,
@@ -61,14 +56,13 @@
   ],
   "textures_flat": [],
   "models_unmapped": [],
-  "sounds_unmapped": [
-   "bot.stuck1"
-  ],
+  "sounds_unmapped": [],
   "classes_unmapped": [],
-  "keys_unmapped": [
-   "ambient_generic.pitch"
-  ],
+  "keys_unmapped": [],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn"
+  ],
   "surfaces_opaque": [
    "de_train/train_abombsite_02"
   ]
@@ -77,10 +71,11 @@
   "textures_unmapped": 1,
   "textures_flat": 0,
   "models_unmapped": 0,
-  "sounds_unmapped": 1,
+  "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 1,
+  "keys_unmapped": 0,
   "links_unresolved": 0,
+  "inputs_unimplemented": 1,
   "surfaces_opaque": 1
  }
 }

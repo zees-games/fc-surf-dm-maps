@@ -37,21 +37,21 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PaintedPlaster010",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_rough_plaster_brick_04",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PaintedPlaster010",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/rough_plaster_brick_04",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 1
   },
   {
    "kind": "texture",
-   "name": "pbr_damaged_plaster",
-   "author": "Amal Kumar",
+   "name": "pbr_Facade018B",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/damaged_plaster",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Facade018B",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 1
   },
@@ -77,11 +77,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PaintedPlaster018",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_plaster_brick_pattern",
+   "author": "Amal Kumar",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PaintedPlaster018",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/plaster_brick_pattern",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 1
   },
@@ -217,13 +217,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles040",
+   "name": "pbr_Tiles141",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles040",
+   "url": "https://ambientcg.com/view?id=Tiles141",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 28
+   "uses": 49
   },
   {
    "kind": "texture",
@@ -237,23 +237,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Metal061C",
+   "name": "pbr_Metal053B",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal061C",
+   "url": "https://ambientcg.com/view?id=Metal053B",
    "source": "ambientCG",
    "attribution": false,
    "uses": 90
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Tiles002",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles002",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 10
   },
   {
    "kind": "texture",
@@ -287,16 +277,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles043",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles043",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 7
-  },
-  {
-   "kind": "texture",
    "name": "pbr_Tiles038",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -317,70 +297,70 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles009",
+   "name": "pbr_Tiles071",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles009",
+   "url": "https://ambientcg.com/view?id=Tiles071",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 39
+   "uses": 42
   },
   {
    "kind": "texture",
-   "name": "pbr_Ground063",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_rocks_ground_01",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Ground063",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/rocks_ground_01",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 12
   },
   {
    "kind": "texture",
-   "name": "pbr_Bricks099",
+   "name": "pbr_Bricks030",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Bricks099",
+   "url": "https://ambientcg.com/view?id=Bricks030",
    "source": "ambientCG",
    "attribution": false,
    "uses": 4
   },
   {
    "kind": "texture",
-   "name": "pbr_Bricks058",
+   "name": "pbr_Facade020A",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Bricks058",
+   "url": "https://ambientcg.com/view?id=Facade020A",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
   },
   {
    "kind": "texture",
-   "name": "pbr_herringbone_concrete_tile",
+   "name": "pbr_marble_tiles",
    "author": "Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/herringbone_concrete_tile",
+   "url": "https://polyhaven.com/a/marble_tiles",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 1
+   "uses": 11
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles024",
+   "name": "pbr_Tiles129A",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles024",
+   "url": "https://ambientcg.com/view?id=Tiles129A",
    "source": "ambientCG",
    "attribution": false,
    "uses": 5
   },
   {
    "kind": "texture",
-   "name": "pbr_Ground039",
+   "name": "pbr_MetalPlates010",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Ground039",
+   "url": "https://ambientcg.com/view?id=MetalPlates010",
    "source": "ambientCG",
    "attribution": false,
    "uses": 2
@@ -397,16 +377,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles128A",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles128A",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "texture",
    "name": "pbr_aerial_wood_snips",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",
@@ -417,33 +387,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles116",
+   "name": "pbr_Tiles007",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles116",
+   "url": "https://ambientcg.com/view?id=Tiles007",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 10
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Tiles069",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles069",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 12
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Tiles054",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles054",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 2
+   "uses": 19
   },
   {
    "kind": "texture",
@@ -477,10 +427,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles133C",
+   "name": "pbr_Tiles010",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles133C",
+   "url": "https://ambientcg.com/view?id=Tiles010",
    "source": "ambientCG",
    "attribution": false,
    "uses": 2
@@ -497,33 +447,23 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles117",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_stone_tiles_02",
+   "author": "Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles117",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/stone_tiles_02",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 1
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles046",
+   "name": "pbr_Tiles133D",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles046",
+   "url": "https://ambientcg.com/view?id=Tiles133D",
    "source": "ambientCG",
    "attribution": false,
    "uses": 2
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Tiles028",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles028",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 4
   },
   {
    "kind": "texture",
@@ -537,11 +477,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles063",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_blue_floor_tiles_01",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles063",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/blue_floor_tiles_01",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 5
   },
@@ -557,23 +497,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_grey_oak_veneer_01",
-   "author": "Jenelle van Heerden",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/grey_oak_veneer_01",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Tiles016",
+   "name": "pbr_Planks022",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles016",
+   "url": "https://ambientcg.com/view?id=Planks022",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 7
+   "uses": 1
   },
   {
    "kind": "texture",
@@ -587,20 +517,20 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles026",
+   "name": "pbr_Tiles056",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles026",
+   "url": "https://ambientcg.com/view?id=Tiles056",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles139",
+   "name": "pbr_Tiles120",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles139",
+   "url": "https://ambientcg.com/view?id=Tiles120",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
@@ -617,11 +547,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles049",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_floor_tiles_02",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles049",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/floor_tiles_02",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 1
   },
@@ -667,51 +597,31 @@
   },
   {
    "kind": "model",
-   "name": "cardboard_box",
+   "name": "ceiling_light",
    "author": "Kenney",
    "licence": "CC0-1.0",
    "url": "https://kenney.nl/assets/furniture-kit",
    "source": "Kenney Furniture Kit",
    "attribution": false,
-   "uses": 14
+   "uses": 10
   },
   {
    "kind": "model",
-   "name": "lib/ph_cement_bag",
-   "author": "PierreB3D",
+   "name": "lib/dm_weaponlmg",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/cement_bag",
-   "source": "Poly Haven",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/weapons.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
-   "uses": 2
+   "uses": 12
   },
   {
    "kind": "model",
-   "name": "lib/ph_cheiridopsis_succulent",
-   "author": "James Ray Cock, Jenelle van Heerden",
+   "name": "lib/dm_weaponsmg",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/cheiridopsis_succulent",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 4
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_security_camera_01",
-   "author": "Alexander Otterbeck, Yann Kervran",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/security_camera_01",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 2
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_tea_set_01",
-   "author": "James Ray Cock, Rico Cilliers, Jurita Burger",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/tea_set_01",
-   "source": "Poly Haven",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py",
+   "source": "dot-map Blender model",
    "attribution": false,
    "uses": 2
   },

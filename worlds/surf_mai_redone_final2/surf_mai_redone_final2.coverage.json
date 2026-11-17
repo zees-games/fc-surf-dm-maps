@@ -16,11 +16,11 @@
    "default": 6
   },
   "nearest_photo": [
+   "building_template/courtyard_template001a",
    "de_train/train_bombsite_arrow_02",
    "effects/bluelaser1",
    "effects/tp_eyefx/tpeye",
-   "sprites/strider_bluebeam",
-   "wood/offdesktop"
+   "sprites/strider_bluebeam"
   ]
  },
  "models": {
@@ -33,8 +33,8 @@
  "sounds": {
   "looked_up": 6,
   "by_tier": {
-   "default": 4,
-   "fallback": 2
+   "default": 5,
+   "fallback": 1
   }
  },
  "classes": {
@@ -47,13 +47,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
-   ],
    "trigger_once": [
     "wait"
    ],
@@ -79,14 +72,10 @@
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [
-   "bot.stuck1",
    "items/ammopickup.wav"
   ],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration",
    "trigger_once.wait",
    "weapon_awp.ammo",
    "weapon_deagle.ammo",
@@ -96,10 +85,7 @@
   "inputs_unimplemented": [
    "env_entity_maker.ForceSpawn",
    "env_hudhint.ShowHudHint",
-   "item_kevlar.ClearParent",
-   "item_kevlar.SetParent",
-   "point_servercommand.Command",
-   "prop_physics.DisableMotion"
+   "point_servercommand.Command"
   ],
   "surfaces_opaque": [
    "de_train/train_bombsite_arrow_02"
@@ -109,11 +95,11 @@
   "textures_unmapped": 1,
   "textures_flat": 0,
   "models_unmapped": 0,
-  "sounds_unmapped": 2,
+  "sounds_unmapped": 1,
   "classes_unmapped": 0,
-  "keys_unmapped": 7,
+  "keys_unmapped": 4,
   "links_unresolved": 0,
-  "inputs_unimplemented": 6,
+  "inputs_unimplemented": 3,
   "surfaces_opaque": 1
  }
 }

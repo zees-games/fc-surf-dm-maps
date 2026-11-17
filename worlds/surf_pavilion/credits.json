@@ -237,11 +237,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_DiamondPlate006B",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_brick_wall_02",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=DiamondPlate006B",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/brick_wall_02",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 1
   },
@@ -477,10 +477,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Pipe004",
+   "name": "pbr_Pipe001",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Pipe004",
+   "url": "https://ambientcg.com/view?id=Pipe001",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
@@ -567,63 +567,73 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PaintedMetal004",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_rusty_metal_03",
+   "author": "Amal Kumar",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PaintedMetal004",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/rusty_metal_03",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 1
   },
   {
    "kind": "model",
-   "name": "lib/kenney_factory-kit_conveyor-bars-stripe-fence",
-   "author": "Kenney",
+   "name": "lib/dm_controlmonitor",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/factory-kit",
-   "source": "Kenney Factory Kit",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/scenery.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_doorknob",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_details.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 6
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_electricalbox",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_handrail",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/handrail.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 23
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_milcratetall",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/building_props.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
    "uses": 2
   },
   {
    "kind": "model",
-   "name": "lib/kenney_furniture-kit_televisionModern",
-   "author": "Kenney",
+   "name": "lib/dm_wood_crate_cube",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/furniture-kit",
-   "source": "Kenney Furniture Kit",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_graveyard-kit_fence-gate",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/graveyard-kit",
-   "source": "Kenney Graveyard Kit",
-   "attribution": false,
-   "uses": 21
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_pirate-kit_crate-bottles",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/pirate-kit",
-   "source": "Kenney Pirate Kit",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/wood_crate.py",
+   "source": "Gamespice map Blender remodel",
    "attribution": false,
    "uses": 4
-  },
-  {
-   "kind": "model",
-   "name": "lib/own_box_24x204x467_b8996a",
-   "author": "Gamespice (generated for map)",
-   "licence": "CC0-1.0",
-   "url": "https://github.com/gamespice-platform/map",
-   "source": "TMC generated model",
-   "attribution": false,
-   "uses": 1
   },
   {
    "kind": "model",
@@ -634,16 +644,6 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 11
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_rusted_wheel_rim_01",
-   "author": "John Hutcheson",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rusted_wheel_rim_01",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 2
   },
   {
    "kind": "model",
@@ -664,16 +664,6 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 1
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_wooden_military_crate",
-   "author": "Prabhjinder Singh",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/wooden_military_crate",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 2
   },
   {
    "kind": "model",

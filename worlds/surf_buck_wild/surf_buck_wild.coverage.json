@@ -5,16 +5,15 @@
  "sha256": "1a4a9150afd3da7b34a3704eea7919fe79c81787f346f57f2bd541f901013213",
  "textures": {
   "looked_up": 69,
-  "drawn": 59,
+  "drawn": 57,
   "by_tier": {
    "addon": 23,
    "default": 26,
    "fallback": 20
   },
   "free_by_tier": {
-   "addon": 31,
-   "default": 25,
-   "nearest": 3
+   "addon": 34,
+   "default": 23
   },
   "nearest_photo": [
    "bucknasty/bullseye",
@@ -27,10 +26,10 @@
   ]
  },
  "models": {
-  "looked_up": 6,
+  "looked_up": 7,
   "by_tier": {
-   "default": 4,
-   "fallback": 2
+   "category": 3,
+   "default": 4
   }
  },
  "sounds": {
@@ -49,9 +48,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "func_button": [
     "no_decomp"
    ],
@@ -63,10 +59,6 @@
    ],
    "logic_relay": [
     "no_decomp"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
    ],
    "weapon_ak47": [
     "ammo"
@@ -131,20 +123,14 @@
    "MODELS/PROPS_COMBINE/STASISFIELD_BEAM"
   ],
   "textures_flat": [],
-  "models_unmapped": [
-   "props/de_dust/dustteeth_5.mdl",
-   "props_combine/breentp_rings.mdl"
-  ],
+  "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "func_button.no_decomp",
    "func_rot_button.StartDisabled",
    "logic_branch.no_decomp",
    "logic_relay.no_decomp",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration",
    "weapon_ak47.ammo",
    "weapon_aug.ammo",
    "weapon_awp.ammo",
@@ -162,6 +148,9 @@
    "logic_branch.OnTrue->stage02_ct_door",
    "prop_dynamic.OnUser1->stage02_ct_door"
   ],
+  "inputs_unimplemented": [
+   "func_button.Press"
+  ],
   "surfaces_opaque": [
    "bucknasty/ab_spacedn",
    "bucknasty/ab_spacelf",
@@ -174,11 +163,12 @@
  "counts": {
   "textures_unmapped": 20,
   "textures_flat": 0,
-  "models_unmapped": 2,
+  "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 18,
+  "keys_unmapped": 15,
   "links_unresolved": 3,
+  "inputs_unimplemented": 1,
   "surfaces_opaque": 6
  }
 }

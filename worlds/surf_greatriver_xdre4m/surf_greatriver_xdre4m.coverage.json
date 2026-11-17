@@ -11,9 +11,8 @@
    "default": 13
   },
   "free_by_tier": {
-   "addon": 12,
-   "default": 6,
-   "nearest": 2
+   "addon": 14,
+   "default": 6
   },
   "nearest_photo": [
    "building_template/courtyard_template001a",
@@ -26,8 +25,9 @@
   ]
  },
  "models": {
-  "looked_up": 3,
+  "looked_up": 4,
   "by_tier": {
+   "category": 1,
    "default": 3
   }
  },
@@ -47,13 +47,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
-   ],
    "weapon_ak47": [
     "ammo"
    ],
@@ -115,9 +108,6 @@
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration",
    "weapon_ak47.ammo",
    "weapon_awp.ammo",
    "weapon_deagle.ammo",
@@ -136,6 +126,12 @@
    "weapon_tmp.ammo"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn",
+   "func_button.Press",
+   "player_weaponstrip.Strip",
+   "point_servercommand.Command"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
@@ -144,8 +140,9 @@
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 19,
+  "keys_unmapped": 16,
   "links_unresolved": 0,
+  "inputs_unimplemented": 4,
   "surfaces_opaque": 0
  }
 }

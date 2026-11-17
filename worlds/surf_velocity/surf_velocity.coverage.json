@@ -5,16 +5,15 @@
  "sha256": "7f3b800837242df2ec0d994baf6ab5147b6286fd39d38b4cf5cbb4fa3b8599e5",
  "textures": {
   "looked_up": 87,
-  "drawn": 85,
+  "drawn": 80,
   "by_tier": {
    "addon": 43,
    "default": 36,
    "fallback": 8
   },
   "free_by_tier": {
-   "addon": 60,
-   "default": 22,
-   "nearest": 3
+   "addon": 62,
+   "default": 18
   },
   "nearest_photo": [
    "commune3tp/triangle_final_256x256_v1",
@@ -49,7 +48,7 @@
  "sounds": {
   "looked_up": 1,
   "by_tier": {
-   "fallback": 1
+   "default": 1
   }
  },
  "classes": {
@@ -62,9 +61,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "game_player_equip": [
     "weapon_elite",
     "weapon_knife",
@@ -72,10 +68,6 @@
     "weapon_mp5navy",
     "weapon_p90",
     "weapon_usp"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
    ],
    "weapon_ak47": [
     "ammo"
@@ -112,20 +104,15 @@
    "my model/circlejailnames1.mdl",
    "my model/circlejailnames2.mdl"
   ],
-  "sounds_unmapped": [
-   "vehicles/v8/v8_rev_short_loop1.wav"
-  ],
+  "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "game_player_equip.weapon_elite",
    "game_player_equip.weapon_knife",
    "game_player_equip.weapon_m249",
    "game_player_equip.weapon_mp5navy",
    "game_player_equip.weapon_p90",
    "game_player_equip.weapon_usp",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration",
    "weapon_ak47.ammo",
    "weapon_awp.ammo",
    "weapon_m249.ammo",
@@ -137,16 +124,25 @@
    "logic_auto.OnMapSpawn->Car.Camera",
    "trigger_multiple.OnStartTouch->trapspike"
   ],
+  "inputs_unimplemented": [
+   "env_hudhint.ShowHudHint",
+   "game_player_equip.Use",
+   "phys_thruster.Activate",
+   "phys_thruster.Deactivate",
+   "player_weaponstrip.Strip",
+   "point_servercommand.Command"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
   "textures_unmapped": 8,
   "textures_flat": 0,
   "models_unmapped": 3,
-  "sounds_unmapped": 1,
+  "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 13,
+  "keys_unmapped": 10,
   "links_unresolved": 4,
+  "inputs_unimplemented": 6,
   "surfaces_opaque": 0
  }
 }

@@ -57,10 +57,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Planks032",
+   "name": "pbr_Planks029L",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Planks032",
+   "url": "https://ambientcg.com/view?id=Planks029L",
    "source": "ambientCG",
    "attribution": false,
    "uses": 89
@@ -77,13 +77,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_stone_embedded_tiles",
-   "author": "Dimitrios Savva",
+   "name": "pbr_rocks_ground_01",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/stone_embedded_tiles",
+   "url": "https://polyhaven.com/a/rocks_ground_01",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 69
+   "uses": 68
   },
   {
    "kind": "texture",
@@ -97,10 +97,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_raked_dirt",
-   "author": "Dario Barresi, Dimitrios Savva",
+   "name": "pbr_flower_scattered_dirt",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/raked_dirt",
+   "url": "https://polyhaven.com/a/flower_scattered_dirt",
    "source": "polyhaven",
    "attribution": false,
    "uses": 86
@@ -117,11 +117,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_snow_floor",
-   "author": "eye-candy.xyz",
+   "name": "pbr_Snow012",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/snow_floor",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Snow012",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 10
   },
@@ -227,13 +227,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles107",
+   "name": "pbr_OfficeCeiling001",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles107",
+   "url": "https://ambientcg.com/view?id=OfficeCeiling001",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 2
+   "uses": 3
   },
   {
    "kind": "texture",
@@ -257,16 +257,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_OfficeCeiling001",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=OfficeCeiling001",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "texture",
    "name": "pbr_Gravel021",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -277,10 +267,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones015",
+   "name": "pbr_PavingStones109",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones015",
+   "url": "https://ambientcg.com/view?id=PavingStones109",
    "source": "ambientCG",
    "attribution": false,
    "uses": 3
@@ -297,10 +287,20 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones027",
+   "name": "pbr_stone_tiles_02",
+   "author": "Charlotte Baglioni",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/stone_tiles_02",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_PavingStones067",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones027",
+   "url": "https://ambientcg.com/view?id=PavingStones067",
    "source": "ambientCG",
    "attribution": false,
    "uses": 23
@@ -317,21 +317,21 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Rock023",
+   "name": "pbr_PavingStones019",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Rock023",
+   "url": "https://ambientcg.com/view?id=PavingStones019",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
   },
   {
    "kind": "model",
-   "name": "lib/kenney_food-kit_muffin",
-   "author": "Kenney",
+   "name": "lib/dm_watermelon",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/food-kit",
-   "source": "Kenney Food Kit",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
    "uses": 1
   },

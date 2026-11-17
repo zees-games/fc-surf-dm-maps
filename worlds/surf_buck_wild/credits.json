@@ -27,11 +27,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_grass_ground",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_Grass004",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/grass_ground",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Grass004",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 25
   },
@@ -137,10 +137,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_yellow_stone_wall",
-   "author": "S\u01a1n Nguy\u1ec5n",
+   "name": "pbr_stone_wall",
+   "author": "Dario Barresi, Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/yellow_stone_wall",
+   "url": "https://polyhaven.com/a/stone_wall",
    "source": "polyhaven",
    "attribution": false,
    "uses": 10
@@ -217,11 +217,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles034",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_green_metal_rust",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles034",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/green_metal_rust",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 1
   },
@@ -292,6 +292,26 @@
    "licence": "CC0-1.0",
    "url": "https://polyhaven.com/a/plastered_wall_04",
    "source": "polyhaven",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_dustteeth",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_details.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 5
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_keypad",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/detail_fixtures.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
    "uses": 1
   },

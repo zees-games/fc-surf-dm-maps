@@ -12,9 +12,8 @@
    "fallback": 1
   },
   "free_by_tier": {
-   "addon": 38,
-   "default": 8,
-   "nearest": 5
+   "addon": 43,
+   "default": 8
   },
   "nearest_photo": [
    "brick/brickwall031a",
@@ -33,10 +32,10 @@
   ]
  },
  "models": {
-  "looked_up": 5,
+  "looked_up": 8,
   "by_tier": {
-   "category": 1,
-   "default": 4
+   "category": 3,
+   "default": 5
   }
  },
  "sounds": {
@@ -54,11 +53,7 @@
  },
  "keys": {
   "catalogue": true,
-  "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ]
-  }
+  "unmapped": {}
  },
  "links": {
   "total": 104,
@@ -72,10 +67,12 @@
   "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
-  "keys_unmapped": [
-   "ambient_generic.pitch"
-  ],
+  "keys_unmapped": [],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn",
+   "point_servercommand.Command"
+  ],
   "surfaces_opaque": [
    "models/props_c17/frostedglass_01a_dx60"
   ]
@@ -86,8 +83,9 @@
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 1,
+  "keys_unmapped": 0,
   "links_unresolved": 0,
+  "inputs_unimplemented": 2,
   "surfaces_opaque": 1
  }
 }
