@@ -39,9 +39,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "game_player_equip": [
     "ammo_50ae",
     "weapon_knife"
@@ -62,11 +59,15 @@
   ],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "game_player_equip.ammo_50ae",
    "game_player_equip.weapon_knife"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn",
+   "func_button.Press",
+   "func_monitor.SetCamera"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
@@ -75,8 +76,9 @@
   "models_unmapped": 0,
   "sounds_unmapped": 2,
   "classes_unmapped": 0,
-  "keys_unmapped": 3,
+  "keys_unmapped": 2,
   "links_unresolved": 0,
+  "inputs_unimplemented": 3,
   "surfaces_opaque": 0
  }
 }

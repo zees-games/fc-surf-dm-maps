@@ -77,33 +77,23 @@
   },
   {
    "kind": "model",
-   "name": "cardboard_box",
-   "author": "Kenney",
+   "name": "lib/dm_weaponpistol",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/furniture-kit",
-   "source": "Kenney Furniture Kit",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py",
+   "source": "dot-map Blender model",
    "attribution": false,
-   "uses": 11
+   "uses": 9
   },
   {
    "kind": "model",
-   "name": "lib/ph_cheiridopsis_succulent",
-   "author": "James Ray Cock, Jenelle van Heerden",
+   "name": "lib/dm_weaponrifle",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/cheiridopsis_succulent",
-   "source": "Poly Haven",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/weapons.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
-   "uses": 4
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_tea_set_01",
-   "author": "James Ray Cock, Rico Cilliers, Jurita Burger",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/tea_set_01",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 2
+   "uses": 8
   }
  ]
 }

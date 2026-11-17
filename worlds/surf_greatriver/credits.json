@@ -27,10 +27,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_rock_face_03",
-   "author": "Dario Barresi, Rico Cilliers",
+   "name": "pbr_aerial_ground_rock",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rock_face_03",
+   "url": "https://polyhaven.com/a/aerial_ground_rock",
    "source": "polyhaven",
    "attribution": false,
    "uses": 50
@@ -137,20 +137,20 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones078",
+   "name": "pbr_PavingStones025",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones078",
+   "url": "https://ambientcg.com/view?id=PavingStones025",
    "source": "ambientCG",
    "attribution": false,
    "uses": 4
   },
   {
    "kind": "texture",
-   "name": "pbr_aerial_sand",
-   "author": "Rob Tuytel",
+   "name": "pbr_patterned_clay_plaster",
+   "author": "Amal Kumar",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/aerial_sand",
+   "url": "https://polyhaven.com/a/patterned_clay_plaster",
    "source": "polyhaven",
    "attribution": false,
    "uses": 1

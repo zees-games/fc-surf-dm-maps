@@ -5,16 +5,15 @@
  "sha256": "5c2918ea90e3b75fbb73f50b7d20c05e523bf7aaa423d496c88440c0efabad13",
  "textures": {
   "looked_up": 16,
-  "drawn": 16,
+  "drawn": 15,
   "by_tier": {
    "addon": 5,
    "default": 7,
    "fallback": 4
   },
   "free_by_tier": {
-   "addon": 5,
-   "default": 10,
-   "nearest": 1
+   "addon": 6,
+   "default": 9
   },
   "nearest_photo": [
    "customs/fw1",
@@ -51,10 +50,6 @@
     "knife",
     "spawnflags",
     "strip"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
    ],
    "weapon_ak47": [
     "ammo"
@@ -154,8 +149,6 @@
    "multi_manager.knife",
    "multi_manager.spawnflags",
    "multi_manager.strip",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration",
    "weapon_ak47.ammo",
    "weapon_aug.ammo",
    "weapon_awp.ammo",
@@ -185,6 +178,7 @@
   "links_unresolved": [
    "trigger_once.OnStartTouch->door_areaportal_1"
   ],
+  "inputs_unimplemented": [],
   "surfaces_opaque": []
  },
  "counts": {
@@ -193,8 +187,9 @@
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 32,
+  "keys_unmapped": 30,
   "links_unresolved": 1,
+  "inputs_unimplemented": 0,
   "surfaces_opaque": 0
  }
 }

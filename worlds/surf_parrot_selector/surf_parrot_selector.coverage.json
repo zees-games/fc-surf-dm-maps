@@ -5,16 +5,15 @@
  "sha256": "d444507bcf279e74408b5e1cb2df0a988e7cac0e6de17d6c0ac687a4fdf62242",
  "textures": {
   "looked_up": 15,
-  "drawn": 14,
+  "drawn": 13,
   "by_tier": {
    "addon": 5,
    "default": 7,
    "fallback": 3
   },
   "free_by_tier": {
-   "addon": 7,
-   "default": 5,
-   "nearest": 2
+   "addon": 9,
+   "default": 4
   },
   "nearest_photo": [
    "metal/citadel_metalwall063a",
@@ -49,10 +48,6 @@
     "weapon_deagle",
     "weapon_m3"
    ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
-   ],
    "weapon_ak47": [
     "ammo"
    ],
@@ -85,8 +80,6 @@
    "game_player_equip.item_assaultsuit",
    "game_player_equip.weapon_deagle",
    "game_player_equip.weapon_m3",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration",
    "weapon_ak47.ammo",
    "weapon_awp.ammo",
    "weapon_m3.ammo",
@@ -98,6 +91,12 @@
    "trigger_once.OnStartTouch->secret1_door",
    "trigger_teleport.OnStartTouch->fade"
   ],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn",
+   "env_hudhint.ShowHudHint",
+   "game_player_equip.Use",
+   "player_weaponstrip.Strip"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
@@ -106,8 +105,9 @@
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 9,
+  "keys_unmapped": 7,
   "links_unresolved": 4,
+  "inputs_unimplemented": 4,
   "surfaces_opaque": 0
  }
 }

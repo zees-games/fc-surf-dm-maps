@@ -14,6 +14,6 @@ Every texture of this map is a free replacement; the original map's textures and
 
 # Model stand-ins
 
-- cardboard_box: Kenney Furniture Kit, Kenney, CC0-1.0, https://kenney.nl/assets/furniture-kit
-- lib/ph_cheiridopsis_succulent: Poly Haven, James Ray Cock, Jenelle van Heerden, CC0-1.0, https://polyhaven.com/a/cheiridopsis_succulent
-- lib/ph_tea_set_01: Poly Haven, James Ray Cock, Rico Cilliers, Jurita Burger, CC0-1.0, https://polyhaven.com/a/tea_set_01
+- lib/dm_weaponpistol: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py
+- lib/dm_weaponrifle: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/weapons.py
+- lib/dm_weaponsniper: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py

@@ -8,13 +8,11 @@
   "drawn": 31,
   "by_tier": {
    "addon": 18,
-   "default": 12,
-   "fallback": 2
+   "default": 14
   },
   "free_by_tier": {
-   "addon": 24,
-   "default": 4,
-   "nearest": 3
+   "addon": 27,
+   "default": 4
   },
   "nearest_photo": [
    "cs_italy/boxsides_t01",
@@ -24,8 +22,7 @@
    "environment maps/pipemetal004b",
    "metal/metaldoor003a",
    "props/plasticexitsign001b",
-   "props/plasticexitsign002a",
-   "sprites/640hud7"
+   "props/plasticexitsign002a"
   ]
  },
  "models": {
@@ -60,10 +57,6 @@
     "stopsnd",
     "unlocked_sentence"
    ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
-   ],
    "weapon_ak47": [
     "ammo"
    ],
@@ -84,9 +77,6 @@
    ],
    "weapon_tmp": [
     "ammo"
-   ],
-   "worldspawn": [
-    "MaxRange"
    ]
   }
  },
@@ -95,10 +85,7 @@
   "unresolved": 0
  },
  "lists": {
-  "textures_unmapped": [
-   "PROPS/PLASTICEXITSIGN001B",
-   "PROPS/PLASTICEXITSIGN002A"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -113,28 +100,29 @@
    "func_water.startposition",
    "func_water.stopsnd",
    "func_water.unlocked_sentence",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration",
    "weapon_ak47.ammo",
    "weapon_awp.ammo",
    "weapon_deagle.ammo",
    "weapon_hegrenade.ammo",
    "weapon_m4a1.ammo",
    "weapon_scout.ammo",
-   "weapon_tmp.ammo",
-   "worldspawn.MaxRange"
+   "weapon_tmp.ammo"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "prop_physics.Skin"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
-  "textures_unmapped": 2,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 19,
+  "keys_unmapped": 16,
   "links_unresolved": 0,
+  "inputs_unimplemented": 1,
   "surfaces_opaque": 0
  }
 }

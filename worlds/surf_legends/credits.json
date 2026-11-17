@@ -7,10 +7,10 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_rustic_stone_wall_02",
+   "name": "pbr_stone_wall_04",
    "author": "Amal Kumar",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rustic_stone_wall_02",
+   "url": "https://polyhaven.com/a/stone_wall_04",
    "source": "polyhaven",
    "attribution": false,
    "uses": 3282
@@ -37,21 +37,21 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_road_damaged_2",
-   "author": "Dimitrios Savva",
+   "name": "pbr_Road008A",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/road_damaged_2",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Road008A",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 70
   },
   {
    "kind": "texture",
-   "name": "pbr_PaintedMetal004",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_rusty_metal_03",
+   "author": "Amal Kumar",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PaintedMetal004",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/rusty_metal_03",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 140
   },

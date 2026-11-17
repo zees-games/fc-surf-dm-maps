@@ -607,6 +607,16 @@
   },
   {
    "kind": "model",
+   "name": "lib/dm_plugholder",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/fc_final.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "model",
    "name": "lib/dm_weaponlmg",
    "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",

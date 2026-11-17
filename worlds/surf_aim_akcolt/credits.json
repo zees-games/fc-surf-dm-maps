@@ -13,24 +13,44 @@
    "url": "https://ambientcg.com/view?id=Bricks067",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 139
+   "uses": 70
   },
   {
    "kind": "texture",
-   "name": "pbr_worn_mossy_plasterwall",
-   "author": "Amal Kumar",
+   "name": "pbr_patterned_brick_wall_02",
+   "author": "Dario Barresi, Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/worn_mossy_plasterwall",
+   "url": "https://polyhaven.com/a/patterned_brick_wall_02",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 69
+   "uses": 57
   },
   {
    "kind": "texture",
-   "name": "pbr_rock_tile_floor",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_patterned_plaster_wall",
+   "author": "Amal Kumar",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rock_tile_floor",
+   "url": "https://polyhaven.com/a/patterned_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 10
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_flower_scattered_dirt",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/flower_scattered_dirt",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 49
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_stone_wall_04",
+   "author": "Amal Kumar",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/stone_wall_04",
    "source": "polyhaven",
    "attribution": false,
    "uses": 9
@@ -47,6 +67,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_brick_wall_08",
+   "author": "Amal Kumar",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/brick_wall_08",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 12
+  },
+  {
+   "kind": "texture",
    "name": "pbr_MetalWalkway011",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -54,6 +84,26 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 8
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_wood_inlaid_stone_wall",
+   "author": "Amal Kumar",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/wood_inlaid_stone_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 6
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_metal_plate",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/metal_plate",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 4
   },
   {
    "kind": "texture",

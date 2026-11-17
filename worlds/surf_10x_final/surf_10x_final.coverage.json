@@ -7,14 +7,13 @@
   "looked_up": 70,
   "drawn": 69,
   "by_tier": {
-   "addon": 30,
+   "addon": 31,
    "default": 36,
-   "fallback": 4
+   "fallback": 3
   },
   "free_by_tier": {
-   "addon": 50,
-   "default": 7,
-   "nearest": 12
+   "addon": 62,
+   "default": 7
   },
   "nearest_photo": [
    "building_template/building_template024a",
@@ -40,7 +39,6 @@
    "models/props_c17/metalladder001",
    "models/props_c17/metalladder002",
    "models/props_canal/canal_bridge_railing_01c",
-   "models/props_combine/portalball001_sheet",
    "nature/dirtfloor003a",
    "nature/dirtwall001a",
    "plaster/plasterceiling003a",
@@ -83,8 +81,7 @@
   "textures_unmapped": [
    "MODELS/PROPS/CS_ASSAULT/LIGHT_SHOP2_OFF",
    "MODELS/PROPS/CS_ASSAULT/PYLON",
-   "MODELS/PROPS_CANAL/CANAL_BRIDGE_RAILING_01C",
-   "MODELS/PROPS_COMBINE/PORTALBALL001_SHEET"
+   "MODELS/PROPS_CANAL/CANAL_BRIDGE_RAILING_01C"
   ],
   "textures_flat": [],
   "models_unmapped": [],
@@ -94,19 +91,21 @@
    "func_door.message"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [],
   "surfaces_opaque": [
    "models/props_combine/portalball001_sheet",
    "vehicle/metaltrainglass001a"
   ]
  },
  "counts": {
-  "textures_unmapped": 4,
+  "textures_unmapped": 3,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
   "keys_unmapped": 1,
   "links_unresolved": 0,
+  "inputs_unimplemented": 0,
   "surfaces_opaque": 2
  }
 }

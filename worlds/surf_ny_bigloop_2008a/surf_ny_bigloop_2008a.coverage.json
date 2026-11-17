@@ -5,14 +5,14 @@
  "sha256": "fc1ed83f2f8c1228327c413577b80e2c972442e8032682c2daf5655a93238031",
  "textures": {
   "looked_up": 8,
-  "drawn": 8,
+  "drawn": 7,
   "by_tier": {
    "addon": 4,
    "default": 4
   },
   "free_by_tier": {
    "addon": 5,
-   "default": 3
+   "default": 2
   },
   "nearest_photo": [
    "cs_italy/marketwall01e"
@@ -67,6 +67,7 @@
    "weapon_xm1014.ammo"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [],
   "surfaces_opaque": []
  },
  "counts": {
@@ -77,6 +78,7 @@
   "classes_unmapped": 0,
   "keys_unmapped": 4,
   "links_unresolved": 0,
+  "inputs_unimplemented": 0,
   "surfaces_opaque": 0
  }
 }

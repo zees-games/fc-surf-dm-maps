@@ -7,10 +7,10 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_wood_planks_dirt",
-   "author": "Rob Tuytel",
+   "name": "pbr_flower_scattered_dirt",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/wood_planks_dirt",
+   "url": "https://polyhaven.com/a/flower_scattered_dirt",
    "source": "polyhaven",
    "attribution": false,
    "uses": 161
@@ -147,20 +147,20 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_yellow_plaster_02",
-   "author": "Rob Tuytel",
+   "name": "pbr_clay_plaster",
+   "author": "Amal Kumar",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/yellow_plaster_02",
+   "url": "https://polyhaven.com/a/clay_plaster",
    "source": "polyhaven",
    "attribution": false,
    "uses": 2
   },
   {
    "kind": "texture",
-   "name": "pbr_grey_plaster",
+   "name": "pbr_grey_plaster_02",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/grey_plaster",
+   "url": "https://polyhaven.com/a/grey_plaster_02",
    "source": "polyhaven",
    "attribution": false,
    "uses": 4
@@ -237,10 +237,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Pipe002",
+   "name": "pbr_Pipe001",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Pipe002",
+   "url": "https://ambientcg.com/view?id=Pipe001",
    "source": "ambientCG",
    "attribution": false,
    "uses": 10

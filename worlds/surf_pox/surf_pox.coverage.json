@@ -8,13 +8,12 @@
   "drawn": 11,
   "by_tier": {
    "addon": 1,
-   "default": 6,
-   "fallback": 4
+   "default": 7,
+   "fallback": 3
   },
   "free_by_tier": {
-   "addon": 4,
-   "default": 5,
-   "nearest": 2
+   "addon": 6,
+   "default": 5
   },
   "nearest_photo": [
    "customs/hellblau_neon",
@@ -46,17 +45,10 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "game_player_equip": [
     "item_assaultsuit",
     "item_kevlar",
     "weapon_knife"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
    ],
    "prop_physics_multiplayer": [
     "parent"
@@ -89,7 +81,6 @@
   "textures_unmapped": [
    "CUSTOMS/HELLBLAU_NEON",
    "CUSTOMS/TEXBLAU",
-   "CUSTOMS/TEXWEISS_1",
    "CUSTOMS/WEISS_NEON"
   ],
   "textures_flat": [],
@@ -99,12 +90,9 @@
   ],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "game_player_equip.item_assaultsuit",
    "game_player_equip.item_kevlar",
    "game_player_equip.weapon_knife",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration",
    "prop_physics_multiplayer.parent",
    "weapon_ak47.ammo",
    "weapon_awp.ammo",
@@ -114,16 +102,23 @@
    "weapon_mp5navy.ammo"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "game_player_equip.Use",
+   "player_weaponstrip.Strip",
+   "point_spotlight.LightOff",
+   "point_spotlight.LightOn"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
-  "textures_unmapped": 4,
+  "textures_unmapped": 3,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 1,
   "classes_unmapped": 0,
-  "keys_unmapped": 13,
+  "keys_unmapped": 10,
   "links_unresolved": 0,
+  "inputs_unimplemented": 4,
   "surfaces_opaque": 0
  }
 }

@@ -13,7 +13,7 @@
    "url": "https://ambientcg.com/view?id=Metal028",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 640
+   "uses": 638
   },
   {
    "kind": "texture",
@@ -33,7 +33,7 @@
    "url": "https://ambientcg.com/view?id=CorrugatedSteel008A",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 35
+   "uses": 101
   },
   {
    "kind": "texture",
@@ -53,7 +53,7 @@
    "url": "https://polyhaven.com/a/corrugated_iron",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 67
+   "uses": 69
   },
   {
    "kind": "texture",
@@ -97,10 +97,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_raked_dirt",
-   "author": "Dario Barresi, Dimitrios Savva",
+   "name": "pbr_flower_scattered_dirt",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/raked_dirt",
+   "url": "https://polyhaven.com/a/flower_scattered_dirt",
    "source": "polyhaven",
    "attribution": false,
    "uses": 2
@@ -117,20 +117,20 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles107",
+   "name": "pbr_OfficeCeiling001",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles107",
+   "url": "https://ambientcg.com/view?id=OfficeCeiling001",
    "source": "ambientCG",
    "attribution": false,
    "uses": 4
   },
   {
    "kind": "texture",
-   "name": "pbr_Chipboard003",
+   "name": "pbr_Wood091B",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Chipboard003",
+   "url": "https://ambientcg.com/view?id=Wood091B",
    "source": "ambientCG",
    "attribution": false,
    "uses": 14
@@ -182,16 +182,6 @@
    "licence": "CC0-1.0",
    "url": "https://polyhaven.com/a/rusty_corrugated_iron",
    "source": "polyhaven",
-   "attribution": false,
-   "uses": 2
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Metal061C",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal061C",
-   "source": "ambientCG",
    "attribution": false,
    "uses": 2
   },
@@ -257,20 +247,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Metal034",
+   "name": "pbr_Tiles090",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal034",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 66
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Tiles089",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles089",
+   "url": "https://ambientcg.com/view?id=Tiles090",
    "source": "ambientCG",
    "attribution": false,
    "uses": 90
@@ -287,11 +267,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_stretch_poplin",
-   "author": "colormass, Rico Cilliers",
+   "name": "pbr_PaintedWood004",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/stretch_poplin",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=PaintedWood004",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 11
   },
@@ -337,13 +317,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_ScatteredLeaves008",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_rusty_metal_03",
+   "author": "Amal Kumar",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=ScatteredLeaves008",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/rusty_metal_03",
+   "source": "polyhaven",
    "attribution": false,
-   "uses": 27
+   "uses": 5
   },
   {
    "kind": "texture",
@@ -377,10 +357,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Pipe002",
+   "name": "pbr_Pipe001",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Pipe002",
+   "url": "https://ambientcg.com/view?id=Pipe001",
    "source": "ambientCG",
    "attribution": false,
    "uses": 52
@@ -397,13 +377,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PaintedWood002",
+   "name": "pbr_Grass005",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PaintedWood002",
+   "url": "https://ambientcg.com/view?id=Grass005",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 25
+   "uses": 68
   },
   {
    "kind": "texture",
@@ -427,11 +407,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_snow_floor",
-   "author": "eye-candy.xyz",
+   "name": "pbr_Snow012",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/snow_floor",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Snow012",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 11
   },
@@ -577,16 +557,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Grass006",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Grass006",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 21
-  },
-  {
-   "kind": "texture",
    "name": "pbr_Wallpaper002A",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -727,11 +697,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Bricks097",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_wood_textured_concrete",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Bricks097",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/wood_textured_concrete",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 27
   },
@@ -747,20 +717,20 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_rock_ground_02",
-   "author": "Rob Tuytel",
+   "name": "pbr_Rock038",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rock_ground_02",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Rock038",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 3
   },
   {
    "kind": "texture",
-   "name": "pbr_Metal051B",
+   "name": "pbr_PaintedMetal010",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal051B",
+   "url": "https://ambientcg.com/view?id=PaintedMetal010",
    "source": "ambientCG",
    "attribution": false,
    "uses": 6
@@ -847,10 +817,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Fabric035",
+   "name": "pbr_DiamondPlate006B",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Fabric035",
+   "url": "https://ambientcg.com/view?id=DiamondPlate006B",
    "source": "ambientCG",
    "attribution": false,
    "uses": 2
@@ -877,23 +847,33 @@
   },
   {
    "kind": "model",
-   "name": "lib/kenney_food-kit_muffin",
-   "author": "Kenney",
+   "name": "lib/dm_ceilinglantern",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/food-kit",
-   "source": "Kenney Food Kit",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/debris_goods.py",
+   "source": "Gamespice map Blender model",
+   "attribution": false,
+   "uses": 5
+  },
+  {
+   "kind": "model",
+   "name": "lib/dm_watermelon",
+   "author": "Gamespice (modelled for map)",
+   "licence": "CC0-1.0",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
    "uses": 35
   },
   {
    "kind": "model",
-   "name": "lib/own_box_15x17x15_e8e8e0",
-   "author": "Gamespice (generated for map)",
+   "name": "lib/dm_weaponlmg",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/gamespice-platform/map",
-   "source": "TMC generated model",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/weapons.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
-   "uses": 5
+   "uses": 1
   },
   {
    "kind": "model",
@@ -934,16 +914,6 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 14
-  },
-  {
-   "kind": "model",
-   "name": "lib/ph_security_camera_01",
-   "author": "Alexander Otterbeck, Yann Kervran",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/security_camera_01",
-   "source": "Poly Haven",
-   "attribution": false,
-   "uses": 1
   },
   {
    "kind": "model",

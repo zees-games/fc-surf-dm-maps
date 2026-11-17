@@ -5,16 +5,15 @@
  "sha256": "7e8fd59c5f83081e3c0d7f35207a4946fdab499722e3de9e7b7751fbfcab85d1",
  "textures": {
   "looked_up": 127,
-  "drawn": 134,
+  "drawn": 133,
   "by_tier": {
    "addon": 60,
    "default": 48,
    "fallback": 19
   },
   "free_by_tier": {
-   "addon": 86,
-   "default": 16,
-   "nearest": 32
+   "addon": 118,
+   "default": 15
   },
   "nearest_photo": [
    "brick/brickwall056a",
@@ -100,9 +99,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "game_player_equip": [
     "ammo_338mag",
     "ammo_357sig",
@@ -179,9 +175,6 @@
    ],
    "weapon_xm1014": [
     "ammo"
-   ],
-   "worldspawn": [
-    "no_decomp"
    ]
   }
  },
@@ -216,7 +209,6 @@
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "game_player_equip.ammo_338mag",
    "game_player_equip.ammo_357sig",
    "game_player_equip.ammo_45acp",
@@ -259,8 +251,7 @@
    "weapon_scout.ammo",
    "weapon_sg552.ammo",
    "weapon_ump45.ammo",
-   "weapon_xm1014.ammo",
-   "worldspawn.no_decomp"
+   "weapon_xm1014.ammo"
   ],
   "links_unresolved": [
    "func_rot_button.OnPressed->player",
@@ -278,8 +269,7 @@
    "filter_activator_team.TestActivator",
    "func_conveyor.SetSpeed",
    "func_rot_button.Press",
-   "game_player_equip.Use",
-   "trigger_hurt.SetParent"
+   "game_player_equip.Use"
   ],
   "surfaces_opaque": [
    "collab/fourcornersinfo",
@@ -294,9 +284,9 @@
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 45,
+  "keys_unmapped": 43,
   "links_unresolved": 10,
-  "inputs_unimplemented": 5,
+  "inputs_unimplemented": 4,
   "surfaces_opaque": 4
  }
 }

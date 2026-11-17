@@ -27,10 +27,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_rock_face_03",
-   "author": "Dario Barresi, Rico Cilliers",
+   "name": "pbr_aerial_ground_rock",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rock_face_03",
+   "url": "https://polyhaven.com/a/aerial_ground_rock",
    "source": "polyhaven",
    "attribution": false,
    "uses": 81
@@ -47,10 +47,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_aerial_sand",
-   "author": "Rob Tuytel",
+   "name": "pbr_patterned_clay_plaster",
+   "author": "Amal Kumar",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/aerial_sand",
+   "url": "https://polyhaven.com/a/patterned_clay_plaster",
    "source": "polyhaven",
    "attribution": false,
    "uses": 4
@@ -87,10 +87,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_CorrugatedSteel008B",
+   "name": "pbr_CorrugatedSteel008A",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=CorrugatedSteel008B",
+   "url": "https://ambientcg.com/view?id=CorrugatedSteel008A",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
@@ -107,13 +107,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Fabric059",
+   "name": "pbr_PaintedWood001",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Fabric059",
+   "url": "https://ambientcg.com/view?id=PaintedWood001",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 1
+   "uses": 2
   },
   {
    "kind": "texture",
@@ -127,10 +127,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_dirt",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_flower_scattered_dirt",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/dirt",
+   "url": "https://polyhaven.com/a/flower_scattered_dirt",
    "source": "polyhaven",
    "attribution": false,
    "uses": 1
@@ -143,7 +143,7 @@
    "url": "https://ambientcg.com/view?id=PaintedPlaster001",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 1
+   "uses": 3
   },
   {
    "kind": "texture",
@@ -167,16 +167,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PaintedWood001",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PaintedWood001",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "texture",
    "name": "pbr_Fabric046",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -193,17 +183,7 @@
    "url": "https://ambientcg.com/view?id=Tiles037",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 5
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_PaintedMetal004",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PaintedMetal004",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 7
+   "uses": 10
   },
   {
    "kind": "texture",
@@ -223,17 +203,17 @@
    "url": "https://ambientcg.com/view?id=Rock026",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 20
+   "uses": 24
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones014",
+   "name": "pbr_PavingStones046",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones014",
+   "url": "https://ambientcg.com/view?id=PavingStones046",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 7
+   "uses": 3
   }
  ]
 }

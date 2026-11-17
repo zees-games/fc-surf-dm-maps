@@ -5,14 +5,14 @@
  "sha256": "f4a51959267ba75263f05837622931824ad8a086f3d343ea6d748149268d568d",
  "textures": {
   "looked_up": 22,
-  "drawn": 22,
+  "drawn": 21,
   "by_tier": {
    "addon": 18,
    "default": 3,
    "fallback": 1
   },
   "free_by_tier": {
-   "addon": 19,
+   "addon": 18,
    "default": 3
   },
   "nearest_photo": [
@@ -41,17 +41,10 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "game_player_equip": [
     "ammo",
     "weapon_deagle",
     "weapon_knife"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
    ],
    "weapon_ak47": [
     "ammo"
@@ -95,12 +88,9 @@
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "game_player_equip.ammo",
    "game_player_equip.weapon_deagle",
    "game_player_equip.weapon_knife",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration",
    "weapon_ak47.ammo",
    "weapon_aug.ammo",
    "weapon_awp.ammo",
@@ -112,6 +102,10 @@
    "weapon_scout.ammo"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn",
+   "point_servercommand.Command"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
@@ -120,8 +114,9 @@
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 15,
+  "keys_unmapped": 12,
   "links_unresolved": 0,
+  "inputs_unimplemented": 2,
   "surfaces_opaque": 0
  }
 }

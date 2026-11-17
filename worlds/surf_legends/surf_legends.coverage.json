@@ -5,16 +5,15 @@
  "sha256": "3e64540e9bd7d1d3d8b91f6daa2b52cde8a3daec236fb30413c15f61a068cf35",
  "textures": {
   "looked_up": 12,
-  "drawn": 11,
+  "drawn": 9,
   "by_tier": {
    "addon": 1,
    "default": 10,
    "fallback": 1
   },
   "free_by_tier": {
-   "addon": 3,
-   "default": 5,
-   "nearest": 3
+   "addon": 6,
+   "default": 3
   },
   "nearest_photo": [
    "de_aztec/road01_cheap",
@@ -46,9 +45,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "func_door_rotating": [
     "message"
    ],
@@ -70,10 +66,6 @@
     "BasisOrigin",
     "BasisU",
     "BasisV"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
    ]
   }
  },
@@ -90,7 +82,6 @@
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "func_door_rotating.message",
    "game_player_equip.ammo_338mag",
    "game_player_equip.ammo_357sig",
@@ -106,11 +97,14 @@
    "infodecal.BasisNormal",
    "infodecal.BasisOrigin",
    "infodecal.BasisU",
-   "infodecal.BasisV",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration"
+   "infodecal.BasisV"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn",
+   "func_water_analog.Close",
+   "func_water_analog.Open"
+  ],
   "surfaces_opaque": [
    "de_train/train_bombsite_arrow_01",
    "models/props/de_nuke/light_red1_glass"
@@ -122,8 +116,9 @@
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 19,
+  "keys_unmapped": 16,
   "links_unresolved": 0,
+  "inputs_unimplemented": 3,
   "surfaces_opaque": 2
  }
 }

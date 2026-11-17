@@ -87,10 +87,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Wood001",
+   "name": "pbr_Metal053C",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Wood001",
+   "url": "https://ambientcg.com/view?id=Metal053C",
    "source": "ambientCG",
    "attribution": false,
    "uses": 262
@@ -117,10 +117,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles107",
+   "name": "pbr_OfficeCeiling001",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles107",
+   "url": "https://ambientcg.com/view?id=OfficeCeiling001",
    "source": "ambientCG",
    "attribution": false,
    "uses": 4
@@ -177,43 +177,33 @@
   },
   {
    "kind": "model",
-   "name": "cardboard_box",
-   "author": "Kenney",
+   "name": "lib/dm_watermelon",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/furniture-kit",
-   "source": "Kenney Furniture Kit",
-   "attribution": false,
-   "uses": 6
-  },
-  {
-   "kind": "model",
-   "name": "lib/kenney_food-kit_muffin",
-   "author": "Kenney",
-   "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/food-kit",
-   "source": "Kenney Food Kit",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
    "uses": 1
   },
   {
    "kind": "model",
-   "name": "lib/ph_cement_bag",
-   "author": "PierreB3D",
+   "name": "lib/dm_weaponpistol",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/cement_bag",
-   "source": "Poly Haven",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py",
+   "source": "dot-map Blender model",
    "attribution": false,
-   "uses": 3
+   "uses": 6
   },
   {
    "kind": "model",
-   "name": "lib/ph_cheiridopsis_succulent",
-   "author": "James Ray Cock, Jenelle van Heerden",
+   "name": "lib/dm_weaponrifle",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/cheiridopsis_succulent",
-   "source": "Poly Haven",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/weapons.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
-   "uses": 2
+   "uses": 5
   },
   {
    "kind": "model",

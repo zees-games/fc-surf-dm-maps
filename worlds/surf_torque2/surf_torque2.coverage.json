@@ -5,22 +5,20 @@
  "sha256": "f647e84545c732c03e4bcae3d79285164321ed2c5d7faecf40bccc41e0ec9c02",
  "textures": {
   "looked_up": 53,
-  "drawn": 53,
+  "drawn": 50,
   "by_tier": {
    "addon": 24,
    "default": 28,
    "fallback": 1
   },
   "free_by_tier": {
-   "addon": 37,
-   "default": 11,
-   "nearest": 5
+   "addon": 41,
+   "default": 9
   },
   "nearest_photo": [
    "custom/torque2",
    "de_chateau/intbrickk",
    "de_nuke/nukwater_movingplane",
-   "de_nuke/nukwater_movingplane_beneath",
    "de_train/train_metalceiling_02",
    "metal/metalfloor003a_black",
    "metal/metalfloor003a_blue",
@@ -61,9 +59,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "game_player_equip": [
     "weapon_aug",
     "weapon_deagle",
@@ -74,10 +69,6 @@
     "weapon_scout",
     "weapon_tmp",
     "weapon_usp"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
    ],
    "trigger_once": [
     "wait"
@@ -103,7 +94,6 @@
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "game_player_equip.weapon_aug",
    "game_player_equip.weapon_deagle",
    "game_player_equip.weapon_hegrenade",
@@ -113,13 +103,17 @@
    "game_player_equip.weapon_scout",
    "game_player_equip.weapon_tmp",
    "game_player_equip.weapon_usp",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration",
    "trigger_once.wait",
    "weapon_m3.ammo",
    "weapon_scout.ammo"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_hudhint.ShowHudHint",
+   "game_player_equip.Use",
+   "player_speedmod.ModifySpeed",
+   "player_weaponstrip.Strip"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
@@ -128,8 +122,9 @@
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 15,
+  "keys_unmapped": 12,
   "links_unresolved": 0,
+  "inputs_unimplemented": 4,
   "surfaces_opaque": 0
  }
 }

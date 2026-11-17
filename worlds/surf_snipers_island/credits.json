@@ -37,10 +37,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_forrest_sand_01",
-   "author": "Rob Tuytel",
+   "name": "pbr_damp_beach_sand_02",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/forrest_sand_01",
+   "url": "https://polyhaven.com/a/damp_beach_sand_02",
    "source": "polyhaven",
    "attribution": false,
    "uses": 30

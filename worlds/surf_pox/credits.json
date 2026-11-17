@@ -17,23 +17,33 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_Wallpaper001A",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Wallpaper001A",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 193
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Paint002",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Paint002",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 268
+  },
+  {
+   "kind": "texture",
    "name": "pbr_Tiles011",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
    "url": "https://ambientcg.com/view?id=Tiles011",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 316
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_CorrugatedSteel001",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=CorrugatedSteel001",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 268
+   "uses": 123
   },
   {
    "kind": "texture",
@@ -47,33 +57,23 @@
   },
   {
    "kind": "model",
-   "name": "cardboard_box",
-   "author": "Kenney",
+   "name": "lib/dm_light_inset",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/furniture-kit",
-   "source": "Kenney Furniture Kit",
-   "attribution": false,
-   "uses": 6
-  },
-  {
-   "kind": "model",
-   "name": "lib/own_box_21x3x21_e8e8e0",
-   "author": "Gamespice (generated for map)",
-   "licence": "CC0-1.0",
-   "url": "https://github.com/gamespice-platform/map",
-   "source": "TMC generated model",
+   "url": "https://github.com/gamespice-platform/map/blob/main/tools/models/light_inset.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
    "uses": 7
   },
   {
    "kind": "model",
-   "name": "lib/ph_cheiridopsis_succulent",
-   "author": "James Ray Cock, Jenelle van Heerden",
+   "name": "lib/dm_weaponpistol",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/cheiridopsis_succulent",
-   "source": "Poly Haven",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py",
+   "source": "dot-map Blender model",
    "attribution": false,
-   "uses": 2
+   "uses": 8
   }
  ]
 }

@@ -5,14 +5,14 @@
  "sha256": "79574688692e5f2c3cca5fbd6d5b87ba47da920d7b06700f3cf39446cca48ea9",
  "textures": {
   "looked_up": 8,
-  "drawn": 7,
+  "drawn": 6,
   "by_tier": {
    "addon": 3,
    "default": 5
   },
   "free_by_tier": {
    "addon": 5,
-   "default": 2
+   "default": 1
   },
   "nearest_photo": [
    "de_piranesi/castle02",
@@ -50,6 +50,7 @@
   "classes_unmapped": [],
   "keys_unmapped": [],
   "links_unresolved": [],
+  "inputs_unimplemented": [],
   "surfaces_opaque": []
  },
  "counts": {
@@ -60,6 +61,7 @@
   "classes_unmapped": 0,
   "keys_unmapped": 0,
   "links_unresolved": 0,
+  "inputs_unimplemented": 0,
   "surfaces_opaque": 0
  }
 }

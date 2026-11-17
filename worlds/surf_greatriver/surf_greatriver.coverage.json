@@ -12,9 +12,8 @@
    "fallback": 1
   },
   "free_by_tier": {
-   "addon": 15,
-   "default": 9,
-   "nearest": 3
+   "addon": 18,
+   "default": 9
   },
   "nearest_photo": [
    "brick/brickwall019a",
@@ -59,6 +58,7 @@
   "classes_unmapped": [],
   "keys_unmapped": [],
   "links_unresolved": [],
+  "inputs_unimplemented": [],
   "surfaces_opaque": [
    "building_template/building_trainstation_template001a"
   ]
@@ -71,6 +71,7 @@
   "classes_unmapped": 0,
   "keys_unmapped": 0,
   "links_unresolved": 0,
+  "inputs_unimplemented": 0,
   "surfaces_opaque": 1
  }
 }

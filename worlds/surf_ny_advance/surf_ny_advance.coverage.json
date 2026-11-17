@@ -5,14 +5,14 @@
  "sha256": "d54736b661e85cc97d192719938b9791b29651ade84a944058729e17bd5e4848",
  "textures": {
   "looked_up": 24,
-  "drawn": 24,
+  "drawn": 23,
   "by_tier": {
    "addon": 19,
    "default": 5
   },
   "free_by_tier": {
    "addon": 19,
-   "default": 5
+   "default": 4
   },
   "nearest_photo": []
  },
@@ -67,6 +67,12 @@
    "trigger_once.wait"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "func_rot_button.Press",
+   "game_player_equip.Use",
+   "phys_thruster.Activate",
+   "phys_thruster.Deactivate"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
@@ -77,6 +83,7 @@
   "classes_unmapped": 0,
   "keys_unmapped": 7,
   "links_unresolved": 0,
+  "inputs_unimplemented": 4,
   "surfaces_opaque": 0
  }
 }

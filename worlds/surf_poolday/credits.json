@@ -33,7 +33,7 @@
    "url": "https://polyhaven.com/a/rock_tile_floor",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 106
+   "uses": 96
   },
   {
    "kind": "texture",
@@ -53,7 +53,7 @@
    "url": "https://polyhaven.com/a/rocks_ground_04",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 53
+   "uses": 51
   },
   {
    "kind": "texture",
@@ -97,23 +97,23 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Metal053C",
+   "name": "pbr_MetalWalkway012",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal053C",
+   "url": "https://ambientcg.com/view?id=MetalWalkway012",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 18
+   "uses": 6
   },
   {
    "kind": "texture",
-   "name": "pbr_RoofingTiles013A",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_clay_roof_tiles_03",
+   "author": "Amal Kumar",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=RoofingTiles013A",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/clay_roof_tiles_03",
+   "source": "polyhaven",
    "attribution": false,
-   "uses": 10
+   "uses": 6
   },
   {
    "kind": "texture",
@@ -147,13 +147,33 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Bricks067",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_whitewashed_brick",
+   "author": "Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Bricks067",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/whitewashed_brick",
+   "source": "polyhaven",
    "attribution": false,
-   "uses": 56
+   "uses": 46
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_stone_tile_wall",
+   "author": "Charlotte Baglioni",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/stone_tile_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 8
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_patterned_brick_wall_02",
+   "author": "Dario Barresi, Charlotte Baglioni",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/patterned_brick_wall_02",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 6
   },
   {
    "kind": "texture",
@@ -177,6 +197,36 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_RoofingTiles013A",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=RoofingTiles013A",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 4
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_PavingStones151",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=PavingStones151",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Metal053C",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Metal053C",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "texture",
    "name": "pbr_plastered_wall_04",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",
@@ -187,6 +237,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_marble_01",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/marble_01",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "texture",
    "name": "pbr_concrete_pavement",
    "author": "Charlotte Baglioni",
    "licence": "CC0-1.0",
@@ -194,6 +254,16 @@
    "source": "polyhaven",
    "attribution": false,
    "uses": 15
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_rough_plaster_brick",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/rough_plaster_brick",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 4
   },
   {
    "kind": "texture",
@@ -214,6 +284,16 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 2
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Metal021",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Metal021",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 10
   },
   {
    "kind": "texture",

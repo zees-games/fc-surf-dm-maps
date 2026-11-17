@@ -12,9 +12,8 @@
    "fallback": 47
   },
   "free_by_tier": {
-   "addon": 39,
-   "default": 3,
-   "nearest": 19
+   "addon": 58,
+   "default": 3
   },
   "nearest_photo": [
    "cs_havana/dirtfloor006a",
@@ -32,10 +31,8 @@
    "gr_v4/v4_kp_4",
    "gr_v4/v4_kp_5",
    "gr_v4/v4_kp_6",
-   "gr_v4/v4_kp_7",
    "gr_v4/v4_kp_8",
    "gr_v4/v4_kp_9",
-   "gr_v4/v4_kp_star",
    "gr_v4/v4_mapbybenny",
    "gr_v4/v4_padytoexit",
    "gr_v4/v4_sponsor_fragfest",
@@ -241,6 +238,9 @@
    "func_button.OnPressed->Red_button_Sprite1",
    "func_button.OnPressed->Red_button_Sprite2"
   ],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
@@ -251,6 +251,7 @@
   "classes_unmapped": 0,
   "keys_unmapped": 22,
   "links_unresolved": 2,
+  "inputs_unimplemented": 1,
   "surfaces_opaque": 0
  }
 }

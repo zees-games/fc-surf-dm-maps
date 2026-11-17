@@ -12,9 +12,8 @@
    "fallback": 31
   },
   "free_by_tier": {
-   "addon": 25,
-   "default": 8,
-   "nearest": 20
+   "addon": 45,
+   "default": 8
   },
   "nearest_photo": [
    "austinpowerstex/1",
@@ -79,9 +78,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "game_player_equip": [
     "Ammo_45acp",
     "ammo_338mag",
@@ -168,7 +164,6 @@
   ],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "game_player_equip.Ammo_45acp",
    "game_player_equip.ammo_338mag",
    "game_player_equip.ammo_45acp",
@@ -190,6 +185,10 @@
    "weapon_tmp.ammo"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "func_monitor.SetCamera",
+   "game_player_equip.Use"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
@@ -198,8 +197,9 @@
   "models_unmapped": 1,
   "sounds_unmapped": 5,
   "classes_unmapped": 0,
-  "keys_unmapped": 20,
+  "keys_unmapped": 19,
   "links_unresolved": 0,
+  "inputs_unimplemented": 2,
   "surfaces_opaque": 0
  }
 }

@@ -11,9 +11,8 @@
    "default": 9
   },
   "free_by_tier": {
-   "addon": 15,
-   "default": 4,
-   "nearest": 2
+   "addon": 17,
+   "default": 4
   },
   "nearest_photo": [
    "ground/snow01",
@@ -42,11 +41,7 @@
  },
  "keys": {
   "catalogue": true,
-  "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ]
-  }
+  "unmapped": {}
  },
  "links": {
   "total": 10,
@@ -58,9 +53,7 @@
   "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
-  "keys_unmapped": [
-   "ambient_generic.pitch"
-  ],
+  "keys_unmapped": [],
   "links_unresolved": [],
   "inputs_unimplemented": [],
   "surfaces_opaque": []
@@ -71,7 +64,7 @@
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 1,
+  "keys_unmapped": 0,
   "links_unresolved": 0,
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0

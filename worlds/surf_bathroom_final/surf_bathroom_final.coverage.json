@@ -67,8 +67,9 @@
   ]
  },
  "models": {
-  "looked_up": 10,
+  "looked_up": 11,
   "by_tier": {
+   "category": 1,
    "default": 10
   }
  },

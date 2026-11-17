@@ -11,9 +11,8 @@
    "default": 5
   },
   "free_by_tier": {
-   "addon": 6,
-   "default": 4,
-   "nearest": 1
+   "addon": 7,
+   "default": 4
   },
   "nearest_photo": [
    "metal/citadel_metalwall063a"
@@ -41,9 +40,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "game_player_equip": [
     "weapon_knife"
    ],
@@ -51,10 +47,6 @@
     "knife",
     "spawnflags",
     "strip"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
    ],
    "weapon_ak47": [
     "ammo"
@@ -129,13 +121,10 @@
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "game_player_equip.weapon_knife",
    "multi_manager.knife",
    "multi_manager.spawnflags",
    "multi_manager.strip",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration",
    "weapon_ak47.ammo",
    "weapon_aug.ammo",
    "weapon_awp.ammo",
@@ -158,6 +147,9 @@
    "weapon_xm1014.ammo"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn"
+  ],
   "surfaces_opaque": []
  },
  "counts": {
@@ -166,8 +158,9 @@
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 27,
+  "keys_unmapped": 24,
   "links_unresolved": 0,
+  "inputs_unimplemented": 1,
   "surfaces_opaque": 0
  }
 }

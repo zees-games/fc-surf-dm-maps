@@ -14,6 +14,8 @@
    "addon": 11
   },
   "nearest_photo": [
+   "brick/brickwall031a",
+   "brick/brickwall040c",
    "building_template/building_template005a",
    "building_template/building_trainstation_truss_template001f",
    "cs_havana/dirtfloor006a",

@@ -37,10 +37,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Metal046A",
+   "name": "pbr_Metal021",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal046A",
+   "url": "https://ambientcg.com/view?id=Metal021",
    "source": "ambientCG",
    "attribution": false,
    "uses": 826
@@ -67,10 +67,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PaintedMetal016",
+   "name": "pbr_Wood029",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PaintedMetal016",
+   "url": "https://ambientcg.com/view?id=Wood029",
    "source": "ambientCG",
    "attribution": false,
    "uses": 6
@@ -97,13 +97,23 @@
   },
   {
    "kind": "model",
-   "name": "lib/kenney_food-kit_muffin",
-   "author": "Kenney",
+   "name": "lib/dm_orange",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://kenney.nl/assets/food-kit",
-   "source": "Kenney Food Kit",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
-   "uses": 3
+   "uses": 2
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_bananas",
+   "author": "Alexander Shulha",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/bananas",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 1
   }
  ]
 }

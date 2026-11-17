@@ -5,15 +5,14 @@
  "sha256": "b5938c011dce9e0acee703530b297d07c990691d3a12f039541e45da918365f7",
  "textures": {
   "looked_up": 18,
-  "drawn": 18,
+  "drawn": 17,
   "by_tier": {
    "addon": 4,
    "default": 14
   },
   "free_by_tier": {
-   "addon": 6,
-   "default": 3,
-   "nearest": 9
+   "addon": 15,
+   "default": 2
   },
   "nearest_photo": [
    "dev/dev_measurebarrel",
@@ -51,9 +50,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "game_player_equip": [
     "ammo_338mag",
     "ammo_50ae",
@@ -74,10 +70,6 @@
     "weapon_m3",
     "weapon_m4a1",
     "weapon_p90"
-   ],
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
    ]
   }
  },
@@ -94,7 +86,6 @@
   ],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "game_player_equip.ammo_338mag",
    "game_player_equip.ammo_50ae",
    "game_player_equip.ammo_556mm",
@@ -113,9 +104,7 @@
    "game_player_equip.weapon_m249",
    "game_player_equip.weapon_m3",
    "game_player_equip.weapon_m4a1",
-   "game_player_equip.weapon_p90",
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration"
+   "game_player_equip.weapon_p90"
   ],
   "links_unresolved": [],
   "inputs_unimplemented": [
@@ -130,7 +119,7 @@
   "models_unmapped": 0,
   "sounds_unmapped": 1,
   "classes_unmapped": 0,
-  "keys_unmapped": 22,
+  "keys_unmapped": 19,
   "links_unresolved": 0,
   "inputs_unimplemented": 2,
   "surfaces_opaque": 0

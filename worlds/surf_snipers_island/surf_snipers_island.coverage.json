@@ -11,9 +11,8 @@
    "default": 2
   },
   "free_by_tier": {
-   "addon": 12,
-   "default": 2,
-   "nearest": 1
+   "addon": 13,
+   "default": 2
   },
   "nearest_photo": [
    "nature/blendgrassgravel001a",
@@ -42,9 +41,6 @@
  "keys": {
   "catalogue": true,
   "unmapped": {
-   "ambient_generic": [
-    "pitch"
-   ],
    "game_player_equip": [
     "weapon_knife",
     "weapon_scout"
@@ -89,7 +85,6 @@
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [
-   "ambient_generic.pitch",
    "game_player_equip.weapon_knife",
    "game_player_equip.weapon_scout",
    "weapon_ak47.ammo",
@@ -103,6 +98,7 @@
    "weapon_sg552.ammo"
   ],
   "links_unresolved": [],
+  "inputs_unimplemented": [],
   "surfaces_opaque": []
  },
  "counts": {
@@ -111,8 +107,9 @@
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 12,
+  "keys_unmapped": 11,
   "links_unresolved": 0,
+  "inputs_unimplemented": 0,
   "surfaces_opaque": 0
  }
 }

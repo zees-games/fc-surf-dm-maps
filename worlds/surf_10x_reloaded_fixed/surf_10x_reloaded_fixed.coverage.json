@@ -12,9 +12,8 @@
    "fallback": 1
   },
   "free_by_tier": {
-   "addon": 23,
-   "default": 8,
-   "nearest": 4
+   "addon": 27,
+   "default": 8
   },
   "nearest_photo": [
    "building_template/building_template024a",

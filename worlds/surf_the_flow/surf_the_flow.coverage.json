@@ -5,14 +5,14 @@
  "sha256": "11889034007e9ef0d337e5a028d87256b97c301ad6ac0ce9f0de1afca31d2e65",
  "textures": {
   "looked_up": 11,
-  "drawn": 10,
+  "drawn": 9,
   "by_tier": {
    "addon": 7,
    "default": 4
   },
   "free_by_tier": {
    "addon": 7,
-   "default": 3
+   "default": 2
   },
   "nearest_photo": []
  },
@@ -33,12 +33,7 @@
  },
  "keys": {
   "catalogue": true,
-  "unmapped": {
-   "point_viewcontrol": [
-    "acceleration",
-    "deceleration"
-   ]
-  }
+  "unmapped": {}
  },
  "links": {
   "total": 0,
@@ -50,11 +45,9 @@
   "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
-  "keys_unmapped": [
-   "point_viewcontrol.acceleration",
-   "point_viewcontrol.deceleration"
-  ],
+  "keys_unmapped": [],
   "links_unresolved": [],
+  "inputs_unimplemented": [],
   "surfaces_opaque": []
  },
  "counts": {
@@ -63,8 +56,9 @@
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
-  "keys_unmapped": 2,
+  "keys_unmapped": 0,
   "links_unresolved": 0,
+  "inputs_unimplemented": 0,
   "surfaces_opaque": 0
  }
 }

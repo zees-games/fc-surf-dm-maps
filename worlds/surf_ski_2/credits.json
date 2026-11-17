@@ -43,7 +43,7 @@
    "url": "https://ambientcg.com/view?id=Grate001",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 12
+   "uses": 23
   },
   {
    "kind": "texture",
@@ -67,10 +67,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Pipe002",
+   "name": "pbr_Pipe001",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Pipe002",
+   "url": "https://ambientcg.com/view?id=Pipe001",
    "source": "ambientCG",
    "attribution": false,
    "uses": 27
@@ -177,10 +177,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PaintedPlaster006",
+   "name": "pbr_Metal061A",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PaintedPlaster006",
+   "url": "https://ambientcg.com/view?id=Metal061A",
    "source": "ambientCG",
    "attribution": false,
    "uses": 2
@@ -197,11 +197,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_white_stucco",
-   "author": "Amal Kumar",
+   "name": "pbr_Metal062B",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/white_stucco",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Metal062B",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 1
   },
@@ -236,24 +236,24 @@
    "uses": 11
   },
   {
-   "kind": "texture",
-   "name": "pbr_Bricks058",
-   "author": "Lennart Demes and contributors",
+   "kind": "model",
+   "name": "lib/dm_keyboard",
+   "author": "Gamespice (modelled for map)",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Bricks058",
-   "source": "ambientCG",
+   "url": "https://github.com/gamespice-platform/map-convert/blob/main/tools/models/clutter.py",
+   "source": "Gamespice map Blender model",
    "attribution": false,
-   "uses": 11
+   "uses": 1
   },
   {
    "kind": "model",
-   "name": "lib/kenney_furniture-kit_computerKeyboard",
+   "name": "lib/kenney_furniture-kit_computerMouse",
    "author": "Kenney",
    "licence": "CC0-1.0",
    "url": "https://kenney.nl/assets/furniture-kit",
    "source": "Kenney Furniture Kit",
    "attribution": false,
-   "uses": 2
+   "uses": 1
   },
   {
    "kind": "model",
