@@ -116,10 +116,7 @@
    "class_unsupported:ai_changetarget (approximated)",
    "class_unsupported:point_viewcontrol (ignored)",
    "input_unimplemented:ai_changetarget.Activate",
-   "input_unimplemented:game_player_equip.Use",
-   "volume_key_unread:trigger_hurt.damagecap=-20",
-   "volume_key_unread:trigger_hurt.damagecap=1437",
-   "volume_key_unread:trigger_hurt.damagecap=2.5"
+   "input_unimplemented:game_player_equip.Use"
   ]
  },
  "counts": {
@@ -132,18 +129,16 @@
   "links_unresolved": 0,
   "inputs_unimplemented": 2,
   "surfaces_opaque": 0,
-  "gameplay_lost": 7
+  "gameplay_lost": 4
  },
  "gameplay": {
   "findings": {
    "class_unsupported": 2,
-   "input_unimplemented": 2,
-   "volume_key_unread": 3
+   "input_unimplemented": 2
   },
   "severity": {
    "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "volume_key_unread": "unsupported"
+   "input_unimplemented": "unsupported"
   },
   "classes": {
    "approximated": 3,

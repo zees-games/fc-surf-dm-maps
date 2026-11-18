@@ -113,8 +113,7 @@
    "input_unimplemented:game_player_equip.Use",
    "input_unimplemented:player_weaponstrip.Strip",
    "player_input:color x4",
-   "player_input:setdamagefilter x3",
-   "volume_key_unread:trigger_hurt.damagecap=9001"
+   "player_input:setdamagefilter x3"
   ]
  },
  "counts": {
@@ -127,22 +126,20 @@
   "links_unresolved": 4,
   "inputs_unimplemented": 4,
   "surfaces_opaque": 0,
-  "gameplay_lost": 16
+  "gameplay_lost": 15
  },
  "gameplay": {
   "findings": {
    "class_unsupported": 9,
    "input_unimplemented": 4,
    "player_input": 2,
-   "target_dangling": 5,
-   "volume_key_unread": 1
+   "target_dangling": 5
   },
   "severity": {
    "class_unsupported": "unsupported",
    "input_unimplemented": "unsupported",
    "player_input": "unsupported",
-   "target_dangling": "source",
-   "volume_key_unread": "unsupported"
+   "target_dangling": "source"
   },
   "classes": {
    "approximated": 14,

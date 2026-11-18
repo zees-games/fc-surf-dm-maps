@@ -293,7 +293,6 @@
    "input_unimplemented:func_rot_button.Press",
    "input_unimplemented:game_player_equip.Use",
    "player_input:color x30",
-   "volume_key_unread:trigger_hurt.damagecap=1000",
    "volume_parented:trigger_hurt#548 -> slide_spikes",
    "volume_parented:trigger_hurt#602 -> rebel_lasers_movelinear2",
    "volume_parented:trigger_hurt#603 -> rebel_lasers_movelinear1",
@@ -340,7 +339,7 @@
   "links_unresolved": 10,
   "inputs_unimplemented": 4,
   "surfaces_opaque": 4,
-  "gameplay_lost": 50
+  "gameplay_lost": 49
  },
  "gameplay": {
   "findings": {
@@ -349,7 +348,6 @@
    "player_input": 1,
    "target_dangling": 18,
    "teleport_dangling": 2,
-   "volume_key_unread": 1,
    "volume_parented": 34
   },
   "severity": {
@@ -358,7 +356,6 @@
    "player_input": "unsupported",
    "target_dangling": "source",
    "teleport_dangling": "source",
-   "volume_key_unread": "unsupported",
    "volume_parented": "unsupported"
   },
   "classes": {

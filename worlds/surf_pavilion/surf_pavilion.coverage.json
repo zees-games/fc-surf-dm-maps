@@ -97,9 +97,6 @@
    "input_unimplemented:phys_thruster.Activate",
    "input_unimplemented:phys_thruster.Deactivate",
    "input_unimplemented:player_weaponstrip.Strip",
-   "volume_key_unread:trigger_hurt.damagecap=1000",
-   "volume_key_unread:trigger_hurt.damagecap=2000",
-   "volume_key_unread:trigger_hurt.damagecap=500",
    "volume_parented:trigger_hurt#1674 -> balling_1",
    "volume_parented:trigger_hurt#1675 -> balling_2",
    "volume_parented:trigger_hurt#458 -> gun_1",
@@ -138,21 +135,19 @@
   "links_unresolved": 4,
   "inputs_unimplemented": 4,
   "surfaces_opaque": 1,
-  "gameplay_lost": 39
+  "gameplay_lost": 36
  },
  "gameplay": {
   "findings": {
    "class_unsupported": 6,
    "input_unimplemented": 4,
    "target_dangling": 4,
-   "volume_key_unread": 3,
    "volume_parented": 26
   },
   "severity": {
    "class_unsupported": "unsupported",
    "input_unimplemented": "unsupported",
    "target_dangling": "source",
-   "volume_key_unread": "unsupported",
    "volume_parented": "unsupported"
   },
   "classes": {

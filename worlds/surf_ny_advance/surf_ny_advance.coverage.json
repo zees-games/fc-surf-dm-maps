@@ -81,7 +81,6 @@
    "input_unimplemented:phys_thruster.Activate",
    "input_unimplemented:phys_thruster.Deactivate",
    "player_input:setdamagefilter x1",
-   "volume_key_unread:trigger_hurt.damagecap=1332",
    "volume_parented:trigger_hurt#449 -> car",
    "volume_parented:trigger_hurt#450 -> car",
    "volume_parented:trigger_hurt#647 -> jail_splitter",
@@ -99,21 +98,19 @@
   "links_unresolved": 0,
   "inputs_unimplemented": 4,
   "surfaces_opaque": 0,
-  "gameplay_lost": 12
+  "gameplay_lost": 11
  },
  "gameplay": {
   "findings": {
    "class_unsupported": 1,
    "input_unimplemented": 4,
    "player_input": 1,
-   "volume_key_unread": 1,
    "volume_parented": 5
   },
   "severity": {
    "class_unsupported": "unsupported",
    "input_unimplemented": "unsupported",
    "player_input": "unsupported",
-   "volume_key_unread": "unsupported",
    "volume_parented": "unsupported"
   },
   "classes": {

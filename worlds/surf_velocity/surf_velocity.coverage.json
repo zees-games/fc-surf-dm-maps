@@ -151,7 +151,6 @@
    "player_input:color x3",
    "player_input:ignite x1",
    "player_input:setdamagefilter x6",
-   "volume_key_unread:trigger_hurt.damagecap=1000",
    "volume_parented:trigger_hurt#859 -> Car"
   ]
  },
@@ -165,7 +164,7 @@
   "links_unresolved": 4,
   "inputs_unimplemented": 6,
   "surfaces_opaque": 0,
-  "gameplay_lost": 19
+  "gameplay_lost": 18
  },
  "gameplay": {
   "findings": {
@@ -173,7 +172,6 @@
    "input_unimplemented": 6,
    "player_input": 5,
    "target_dangling": 4,
-   "volume_key_unread": 1,
    "volume_parented": 1
   },
   "severity": {
@@ -181,7 +179,6 @@
    "input_unimplemented": "unsupported",
    "player_input": "unsupported",
    "target_dangling": "source",
-   "volume_key_unread": "unsupported",
    "volume_parented": "unsupported"
   },
   "classes": {

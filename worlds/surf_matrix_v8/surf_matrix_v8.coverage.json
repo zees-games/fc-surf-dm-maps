@@ -140,7 +140,6 @@
    "class_unsupported:env_fire (approximated)",
    "input_unimplemented:env_entity_maker.ForceSpawn",
    "input_unimplemented:func_monitor.SetCamera",
-   "volume_key_unread:trigger_hurt.damagecap=200",
    "volume_parented:trigger_hurt#456 -> Car Slide",
    "volume_parented:trigger_hurt#459 -> Car Slide 3",
    "volume_parented:trigger_hurt#462 -> Car Slide 2",
@@ -158,7 +157,7 @@
   "links_unresolved": 1,
   "inputs_unimplemented": 2,
   "surfaces_opaque": 2,
-  "gameplay_lost": 10
+  "gameplay_lost": 9
  },
  "gameplay": {
   "findings": {
@@ -166,7 +165,6 @@
    "input_unimplemented": 2,
    "parent_dangling": 5,
    "target_dangling": 2,
-   "volume_key_unread": 1,
    "volume_parented": 5
   },
   "severity": {
@@ -174,7 +172,6 @@
    "input_unimplemented": "unsupported",
    "parent_dangling": "source",
    "target_dangling": "source",
-   "volume_key_unread": "unsupported",
    "volume_parented": "unsupported"
   },
   "classes": {
