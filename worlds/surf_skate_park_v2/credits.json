@@ -1,0 +1,109 @@
+{
+ "map": {
+  "author": "[Happy-camper] Flan",
+  "page": "https://gamebanana.com/mods/122946",
+  "licence": "none stated"
+ },
+ "works": [
+  {
+   "kind": "texture",
+   "name": "pbr_pavement_06",
+   "author": "Jan Martens",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/pavement_06",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 88
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_coral_fort_wall_01",
+   "author": "Dimitrios Savva, Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/coral_fort_wall_01",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 38
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Wood096",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Wood096",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 33
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_white_planks_clean",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/white_planks_clean",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 254
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_corrugated_iron",
+   "author": "Jenelle van Heerden, Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/corrugated_iron",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 17
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Concrete013",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Concrete013",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 28
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_PaintedMetal013",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=PaintedMetal013",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 5
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_rusty_metal_03",
+   "author": "Amal Kumar",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/rusty_metal_03",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 5
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Metal028",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Metal028",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 22
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Wood080",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Wood080",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 1
+  }
+ ]
+}

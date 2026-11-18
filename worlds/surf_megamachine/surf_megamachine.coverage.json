@@ -1,0 +1,164 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "surf_megamachine",
+ "sha256": "e2f826dcccd49f5092db07e21fcd71f81817a0fa3c034eb8ed210f9fc22ed550",
+ "textures": {
+  "looked_up": 51,
+  "drawn": 55,
+  "by_tier": {
+   "addon": 20,
+   "default": 31
+  },
+  "free_by_tier": {
+   "addon": 45,
+   "default": 10
+  },
+  "nearest_photo": [
+   "concrete/concretewall015c",
+   "customs/metal_002",
+   "de_nuke/nukwater_movingplane",
+   "de_tides/tides_roof_1",
+   "grueddi/credits_machine",
+   "grueddi/ct_machine",
+   "grueddi/jail_machine",
+   "grueddi/pre_machine",
+   "grueddi/sky_machine",
+   "grueddi/t_machine",
+   "grueddi/top_machine",
+   "hud/t_victories_counter-terrorist-eliminated",
+   "lights/white003",
+   "metal/citadel_metaldoor_core01",
+   "models/props_c17/frostedglass_01a_dx60",
+   "nature/blendgrassgravel001a",
+   "nature/blendgrassgravel002a",
+   "nature/blendgrassgravel003a",
+   "nature/blendrockgrass004a",
+   "nature/blendrockgravel001a",
+   "nature/blendrocksgrass006a",
+   "props/signcaution002a"
+  ]
+ },
+ "models": {
+  "looked_up": 10,
+  "by_tier": {
+   "default": 10
+  }
+ },
+ "sounds": {
+  "looked_up": 1,
+  "by_tier": {
+   "default": 1
+  }
+ },
+ "classes": {
+  "distinct": 63,
+  "entities": 482,
+  "by_tier": {
+   "default": 63
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "weapon_ak47": [
+    "ammo"
+   ],
+   "weapon_aug": [
+    "ammo"
+   ],
+   "weapon_awp": [
+    "ammo"
+   ],
+   "weapon_deagle": [
+    "ammo"
+   ],
+   "weapon_m249": [
+    "ammo"
+   ],
+   "weapon_m3": [
+    "ammo"
+   ],
+   "weapon_m4a1": [
+    "ammo"
+   ],
+   "weapon_sg552": [
+    "ammo"
+   ],
+   "weapon_xm1014": [
+    "ammo"
+   ]
+  }
+ },
+ "links": {
+  "total": 222,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 10,
+   "input_unimplemented": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "approximated": 11,
+   "ignored": 4,
+   "implemented": 47
+  }
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "weapon_ak47.ammo",
+   "weapon_aug.ammo",
+   "weapon_awp.ammo",
+   "weapon_deagle.ammo",
+   "weapon_m249.ammo",
+   "weapon_m3.ammo",
+   "weapon_m4a1.ammo",
+   "weapon_sg552.ammo",
+   "weapon_xm1014.ammo"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_beam.StrikeOnce",
+   "env_entity_maker.ForceSpawn"
+  ],
+  "surfaces_opaque": [
+   "models/props_c17/frostedglass_01a_dx60"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:path_track (ignored)",
+   "class_unsupported:point_teleport (ignored)",
+   "class_unsupported:point_tesla (approximated)",
+   "class_unsupported:weapon_elite (approximated)",
+   "class_unsupported:weapon_fiveseven (approximated)",
+   "class_unsupported:weapon_flashbang (approximated)",
+   "class_unsupported:weapon_m249 (approximated)",
+   "class_unsupported:weapon_p228 (approximated)",
+   "class_unsupported:weapon_smokegrenade (approximated)",
+   "input_unimplemented:env_beam.StrikeOnce",
+   "input_unimplemented:env_entity_maker.ForceSpawn"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 9,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 2,
+  "surfaces_opaque": 1,
+  "gameplay_lost": 12
+ }
+}

@@ -65,11 +65,13 @@ All maps are credited here and on screen. They are published under the credited-
 | `surf_i_hate_campers` | Snah | https://gamebanana.com/mods/122339 | CC BY-NC-ND 4.0 |
 | `surf_japan_ptad` | ptad, monkeydie | https://gamebanana.com/mods/137687 | None stated on the source page |
 | `surf_legends` | SintaxError | https://gamebanana.com/mods/122424 | None stated on the source page |
+| `surf_machine` | Z-machine | https://gamebanana.com/mods/122477 | CC BY-NC-ND 4.0 |
 | `surf_machine2` | Z-machine | https://gamebanana.com/mods/122478 | None stated on the source page |
 | `surf_machine_remix_final` | paper-cut, z-machine(original) | https://gamebanana.com/mods/122497 | None stated on the source page |
 | `surf_mai_redone_final2` | AndYZ, Krusty | https://gamebanana.com/mods/122504 | CC BY-NC-ND 4.0 |
 | `surf_mai_remix` | Krusty | https://gamebanana.com/mods/122505 | None stated on the source page |
 | `surf_matrix_v8` | Flippi273 | https://gamebanana.com/mods/122520 | None stated on the source page |
+| `surf_megamachine` | grueddi, Chuck Norris | https://gamebanana.com/mods/122528 | CC BY-NC-ND 4.0 |
 | `surf_ny_advance` | faj | https://gamebanana.com/mods/122641 | None stated on the source page |
 | `surf_ny_bigloop_2008a` | Paper-Cut, FAJ | https://gamebanana.com/mods/122644 | None stated on the source page |
 | `surf_ny_exploder_prime` | FAJ | https://gamebanana.com/mods/122646 | CC BY-NC-ND 4.0 |
@@ -78,6 +80,7 @@ All maps are credited here and on screen. They are published under the credited-
 | `surf_poolday` | iceeater | https://gamebanana.com/mods/122736 | CC BY-NC-ND 4.0 |
 | `surf_pox` | Krusty, Pariah, Karatekäfer, Korr | https://gamebanana.com/mods/122741 | None stated on the source page |
 | `surf_rebel_resistance_final3` | -)RR(-ArchAngel -)RR(-Lethalis | https://gamebanana.com/mods/122824 | None stated on the source page |
+| `surf_skate_park_v2` | [Happy-camper] Flan | https://gamebanana.com/mods/122946 | CC BY-NC-ND 4.0 |
 | `surf_ski_2` | Massive Boredom and Mario | https://gamebanana.com/mods/122953 | None stated on the source page |
 | `surf_ski_2_source` | Korliki ''Angel | https://gamebanana.com/mods/122956 | None stated on the source page |
 | `surf_skyworld` | Goerge | https://gamebanana.com/mods/122985 | None stated on the source page |

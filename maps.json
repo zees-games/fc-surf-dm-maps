@@ -129,6 +129,12 @@
       "bytes": 4026895
     },
     {
+      "id": "surf_machine",
+      "author": "Z-machine",
+      "source": "https://gamebanana.com/mods/122477",
+      "bytes": 560708
+    },
+    {
       "id": "surf_machine2",
       "author": "Z-machine",
       "source": "https://gamebanana.com/mods/122478",
@@ -157,6 +163,12 @@
       "author": "Flippi273",
       "source": "https://gamebanana.com/mods/122520",
       "bytes": 1513422
+    },
+    {
+      "id": "surf_megamachine",
+      "author": "grueddi, Chuck Norris",
+      "source": "https://gamebanana.com/mods/122528",
+      "bytes": 11442344
     },
     {
       "id": "surf_ny_advance",
@@ -205,6 +217,12 @@
       "author": "-)RR(-ArchAngel -)RR(-Lethalis",
       "source": "https://gamebanana.com/mods/122824",
       "bytes": 1977691
+    },
+    {
+      "id": "surf_skate_park_v2",
+      "author": "[Happy-camper] Flan",
+      "source": "https://gamebanana.com/mods/122946",
+      "bytes": 1563937
     },
     {
       "id": "surf_ski_2",

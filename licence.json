@@ -232,6 +232,17 @@
   },
   {
     "paths": [
+      "maps/surf_machine"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "Surf Machine",
+    "author": "Z-machine",
+    "source_url": "https://gamebanana.com/mods/122477",
+    "removal_contact": "https://github.com/zees-games/fc-surf-dm-maps/issues"
+  },
+  {
+    "paths": [
       "maps/surf_machine2"
     ],
     "licence": "none stated",
@@ -283,6 +294,17 @@
     "title": "Surf Matrix V8",
     "author": "Flippi273",
     "source_url": "https://gamebanana.com/mods/122520",
+    "removal_contact": "https://github.com/zees-games/fc-surf-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_megamachine"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "Surf Megamachine",
+    "author": "grueddi, Chuck Norris",
+    "source_url": "https://gamebanana.com/mods/122528",
     "removal_contact": "https://github.com/zees-games/fc-surf-dm-maps/issues"
   },
   {
@@ -371,6 +393,17 @@
     "title": "Surf Rebel Resistance Final3",
     "author": "-)RR(-ArchAngel -)RR(-Lethalis",
     "source_url": "https://gamebanana.com/mods/122824",
+    "removal_contact": "https://github.com/zees-games/fc-surf-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_skate_park_v2"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "Surf Skate Park V2",
+    "author": "[Happy-camper] Flan",
+    "source_url": "https://gamebanana.com/mods/122946",
     "removal_contact": "https://github.com/zees-games/fc-surf-dm-maps/issues"
   },
   {

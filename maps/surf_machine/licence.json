@@ -1,0 +1,24 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "Gamespice",
+    "url": "https://github.com/zees-games/fc-surf-dm-maps",
+    "title": "fc-surf-dm-maps (original content)"
+  },
+  {
+    "paths": [
+      "surf_machine",
+      "textures/",
+      "worlds/surf_machine/"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "Surf Machine",
+    "author": "Z-machine",
+    "source_url": "https://gamebanana.com/mods/122477",
+    "removal_contact": "https://github.com/zees-games/fc-surf-dm-maps/issues"
+  }
+]

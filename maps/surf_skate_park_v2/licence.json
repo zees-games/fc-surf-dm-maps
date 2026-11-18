@@ -1,0 +1,24 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "Gamespice",
+    "url": "https://github.com/zees-games/fc-surf-dm-maps",
+    "title": "fc-surf-dm-maps (original content)"
+  },
+  {
+    "paths": [
+      "surf_skate_park_v2",
+      "textures/",
+      "worlds/surf_skate_park_v2/"
+    ],
+    "licence": "CC-BY-NC-ND-4.0",
+    "exception": "credited-community-map",
+    "title": "Surf Skate Park V2",
+    "author": "[Happy-camper] Flan",
+    "source_url": "https://gamebanana.com/mods/122946",
+    "removal_contact": "https://github.com/zees-games/fc-surf-dm-maps/issues"
+  }
+]

@@ -1,0 +1,79 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "surf_skate_park_v2",
+ "sha256": "67b4ae34402d27c6296bb91e64a5ebf5601f04e4cbc611d27e74d9cc2f0192e8",
+ "textures": {
+  "looked_up": 11,
+  "drawn": 11,
+  "by_tier": {
+   "addon": 10,
+   "default": 1
+  },
+  "free_by_tier": {
+   "addon": 10,
+   "default": 1
+  },
+  "nearest_photo": []
+ },
+ "models": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 22,
+  "entities": 473,
+  "by_tier": {
+   "default": 22
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "func_door": [
+    "message"
+   ]
+  }
+ },
+ "links": {
+  "total": 0,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {},
+  "severity": {},
+  "classes": {
+   "implemented": 22
+  }
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "func_door.message"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": [],
+  "gameplay_lost": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 1,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0,
+  "gameplay_lost": 0
+ }
+}

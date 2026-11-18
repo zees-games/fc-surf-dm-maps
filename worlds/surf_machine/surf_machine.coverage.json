@@ -1,0 +1,83 @@
+{
+ "format": "dot-bsp-coverage",
+ "version": 1,
+ "map": "surf_machine",
+ "sha256": "bf7a5f6e47694a56b82ba74bc810cab359a789d5a884173c65a2dbcbe633eaf9",
+ "textures": {
+  "looked_up": 32,
+  "drawn": 32,
+  "by_tier": {
+   "addon": 19,
+   "default": 13
+  },
+  "free_by_tier": {
+   "addon": 26,
+   "default": 6
+  },
+  "nearest_photo": [
+   "building_template/building_template022a",
+   "de_piranesi/marblefloor13",
+   "de_train/train_blinds_03",
+   "z_just_jump",
+   "z_thanks",
+   "z_to_see"
+  ]
+ },
+ "models": {
+  "looked_up": 10,
+  "by_tier": {
+   "default": 10
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 38,
+  "entities": 263,
+  "by_tier": {
+   "default": 38
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 1,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {},
+  "severity": {},
+  "classes": {
+   "ignored": 1,
+   "implemented": 36
+  }
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": [],
+  "gameplay_lost": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0,
+  "gameplay_lost": 0
+ }
+}

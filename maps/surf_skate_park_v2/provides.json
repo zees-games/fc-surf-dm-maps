@@ -1,0 +1,20 @@
+{
+    "schema": 1,
+    "title": "Surf Skate Park V2",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-fatal-contact"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "surf_skate_park_v2",
+            "name": "Surf Skate Park V2",
+            "scene": "surf_skate_park_v2.json",
+            "map_kind": "arena"
+        }
+    ],
+    "collection": "fc-surf-dm-maps"
+}
