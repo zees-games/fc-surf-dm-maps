@@ -170,7 +170,20 @@
    "point_spotlight.LightOff",
    "prop_ragdoll.ignite"
   ],
-  "surfaces_opaque": []
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:env_fire (approximated)",
+   "class_unsupported:func_bomb_target (ignored)",
+   "class_unsupported:func_buyzone (ignored)",
+   "class_unsupported:path_track (ignored)",
+   "class_unsupported:prop_ragdoll (approximated)",
+   "class_unsupported:weapon_awp (approximated)",
+   "class_unsupported:weapon_deagle (approximated)",
+   "input_unimplemented:env_hudhint.ShowHudHint",
+   "input_unimplemented:point_spotlight.LightOff",
+   "input_unimplemented:prop_ragdoll.ignite",
+   "player_input:addoutput health x1"
+  ]
  },
  "counts": {
   "textures_unmapped": 6,
@@ -181,6 +194,24 @@
   "keys_unmapped": 24,
   "links_unresolved": 0,
   "inputs_unimplemented": 3,
-  "surfaces_opaque": 0
+  "surfaces_opaque": 0,
+  "gameplay_lost": 11
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 7,
+   "input_unimplemented": 3,
+   "player_input": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported"
+  },
+  "classes": {
+   "approximated": 10,
+   "ignored": 4,
+   "implemented": 43
+  }
  }
 }

@@ -106,7 +106,16 @@
    "env_entity_maker.ForceSpawn",
    "point_servercommand.Command"
   ],
-  "surfaces_opaque": []
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "class_unsupported:weapon_ak47 (approximated)",
+   "class_unsupported:weapon_m4a1 (approximated)",
+   "input_unimplemented:env_entity_maker.ForceSpawn",
+   "input_unimplemented:point_servercommand.Command",
+   "player_input:setdamagefilter x96"
+  ]
  },
  "counts": {
   "textures_unmapped": 1,
@@ -117,6 +126,24 @@
   "keys_unmapped": 12,
   "links_unresolved": 0,
   "inputs_unimplemented": 2,
-  "surfaces_opaque": 0
+  "surfaces_opaque": 0,
+  "gameplay_lost": 7
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 4,
+   "input_unimplemented": 2,
+   "player_input": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported"
+  },
+  "classes": {
+   "approximated": 4,
+   "ignored": 1,
+   "implemented": 35
+  }
  }
 }

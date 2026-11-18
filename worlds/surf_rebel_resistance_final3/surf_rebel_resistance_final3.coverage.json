@@ -68,7 +68,17 @@
    "func_button.Press",
    "func_monitor.SetCamera"
   ],
-  "surfaces_opaque": []
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:env_laser (approximated)",
+   "class_unsupported:game_weapon_manager (ignored)",
+   "class_unsupported:path_track (approximated)",
+   "class_unsupported:weapon_mp5navy (approximated)",
+   "input_unimplemented:env_entity_maker.ForceSpawn",
+   "input_unimplemented:func_button.Press",
+   "input_unimplemented:func_monitor.SetCamera"
+  ]
  },
  "counts": {
   "textures_unmapped": 0,
@@ -79,6 +89,22 @@
   "keys_unmapped": 2,
   "links_unresolved": 0,
   "inputs_unimplemented": 3,
-  "surfaces_opaque": 0
+  "surfaces_opaque": 0,
+  "gameplay_lost": 8
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 5,
+   "input_unimplemented": 3
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "approximated": 6,
+   "ignored": 3,
+   "implemented": 39
+  }
  }
 }

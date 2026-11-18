@@ -108,6 +108,20 @@
   "surfaces_opaque": [
    "de_train/train_bombsite_arrow_01",
    "models/props/de_nuke/light_red1_glass"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "input_unimplemented:env_entity_maker.ForceSpawn",
+   "input_unimplemented:func_water_analog.Close",
+   "input_unimplemented:func_water_analog.Open",
+   "volume_key_unread:func_water_analog.movedistance=255",
+   "volume_key_unread:trigger_hurt.damagemodel=1",
+   "volume_parented:trigger_teleport#124 -> secret1plat",
+   "volume_parented:trigger_teleport#125 -> secret1plat",
+   "volume_parented:trigger_teleport#131 -> secret2plat",
+   "volume_parented:trigger_teleport#132 -> secret2plat",
+   "volume_parented:trigger_teleport#169 -> secret3door"
   ]
  },
  "counts": {
@@ -119,6 +133,26 @@
   "keys_unmapped": 16,
   "links_unresolved": 0,
   "inputs_unimplemented": 3,
-  "surfaces_opaque": 2
+  "surfaces_opaque": 2,
+  "gameplay_lost": 12
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2,
+   "input_unimplemented": 3,
+   "volume_key_unread": 2,
+   "volume_parented": 5
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "volume_key_unread": "unsupported",
+   "volume_parented": "unsupported"
+  },
+  "classes": {
+   "approximated": 3,
+   "ignored": 4,
+   "implemented": 45
+  }
  }
 }

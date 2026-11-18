@@ -161,6 +161,34 @@
   ],
   "surfaces_opaque": [
    "models/effects/vol_light002"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:env_muzzleflash (approximated)",
+   "class_unsupported:point_teleport (approximated)",
+   "class_unsupported:point_viewcontrol (approximated)",
+   "class_unsupported:weapon_ak47 (approximated)",
+   "class_unsupported:weapon_awp (approximated)",
+   "class_unsupported:weapon_deagle (approximated)",
+   "class_unsupported:weapon_hegrenade (approximated)",
+   "class_unsupported:weapon_m3 (approximated)",
+   "class_unsupported:weapon_m4a1 (approximated)",
+   "class_unsupported:weapon_ump45 (approximated)",
+   "input_unimplemented:env_entity_maker.ForceSpawn",
+   "input_unimplemented:env_hudhint.ShowHudHint",
+   "input_unimplemented:env_muzzleflash.Fire",
+   "input_unimplemented:func_rot_button.Press",
+   "input_unimplemented:game_player_equip.Use",
+   "input_unimplemented:point_spotlight.LightOff",
+   "input_unimplemented:point_spotlight.LightOn",
+   "input_unimplemented:point_teleport.Teleport",
+   "player_input:setdamagefilter x14",
+   "volume_key_unread:trigger_hurt.damagecap=10",
+   "volume_key_unread:trigger_hurt.damagecap=8484",
+   "volume_key_unread:trigger_hurt.nodmgforce=1",
+   "volume_parented:trigger_gravity#244 -> controlroomjail_spin",
+   "volume_parented:trigger_hurt#299 -> autoheal_shotgun",
+   "volume_parented:trigger_push#330 -> cball_cannon1_Y"
   ]
  },
  "counts": {
@@ -172,6 +200,32 @@
   "keys_unmapped": 27,
   "links_unresolved": 1,
   "inputs_unimplemented": 8,
-  "surfaces_opaque": 1
+  "surfaces_opaque": 1,
+  "gameplay_lost": 26
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 11,
+   "input_unimplemented": 8,
+   "parent_dangling": 6,
+   "player_input": 1,
+   "target_dangling": 1,
+   "volume_key_unread": 3,
+   "volume_parented": 3
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "parent_dangling": "source",
+   "player_input": "unsupported",
+   "target_dangling": "source",
+   "volume_key_unread": "unsupported",
+   "volume_parented": "unsupported"
+  },
+  "classes": {
+   "approximated": 15,
+   "ignored": 3,
+   "implemented": 38
+  }
  }
 }

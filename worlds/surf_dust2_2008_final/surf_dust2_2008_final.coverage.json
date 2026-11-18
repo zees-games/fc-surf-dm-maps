@@ -125,7 +125,16 @@
    "game_player_equip.",
    "player_weaponstrip.Strip"
   ],
-  "surfaces_opaque": []
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:func_bomb_target (ignored)",
+   "class_unsupported:func_buyzone (ignored)",
+   "class_unsupported:player_weaponstrip (approximated)",
+   "input_unimplemented:env_entity_maker.ForceSpawn",
+   "input_unimplemented:game_player_equip.",
+   "input_unimplemented:player_weaponstrip.Strip"
+  ]
  },
  "counts": {
   "textures_unmapped": 4,
@@ -136,6 +145,22 @@
   "keys_unmapped": 7,
   "links_unresolved": 0,
   "inputs_unimplemented": 3,
-  "surfaces_opaque": 0
+  "surfaces_opaque": 0,
+  "gameplay_lost": 7
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 4,
+   "input_unimplemented": 3
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "approximated": 2,
+   "ignored": 2,
+   "implemented": 28
+  }
  }
 }

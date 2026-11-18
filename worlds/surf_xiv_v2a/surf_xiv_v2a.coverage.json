@@ -276,6 +276,58 @@
    "collab/infoscreen",
    "collab/participants",
    "de_train/train_bombsite_arrow_01"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:env_laser (approximated)",
+   "class_unsupported:func_bomb_target (ignored)",
+   "class_unsupported:func_buyzone (ignored)",
+   "class_unsupported:path_track (ignored)",
+   "class_unsupported:weapon_ak47 (approximated)",
+   "class_unsupported:weapon_awp (approximated)",
+   "class_unsupported:weapon_hegrenade (approximated)",
+   "class_unsupported:weapon_m3 (approximated)",
+   "class_unsupported:weapon_m4a1 (approximated)",
+   "class_unsupported:weapon_mp5navy (approximated)",
+   "input_unimplemented:filter_activator_team.TestActivator",
+   "input_unimplemented:func_conveyor.SetSpeed",
+   "input_unimplemented:func_rot_button.Press",
+   "input_unimplemented:game_player_equip.Use",
+   "player_input:color x30",
+   "volume_key_unread:trigger_hurt.damagecap=1000",
+   "volume_parented:trigger_hurt#548 -> slide_spikes",
+   "volume_parented:trigger_hurt#602 -> rebel_lasers_movelinear2",
+   "volume_parented:trigger_hurt#603 -> rebel_lasers_movelinear1",
+   "volume_parented:trigger_teleport#108 -> rotater_teleport_dest",
+   "volume_parented:trigger_teleport#157 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#158 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#159 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#160 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#189 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#190 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#218 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#219 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#341 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#342 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#432 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#433 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#452 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#453 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#457 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#458 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#561 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#562 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#621 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#622 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#688 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#689 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#776 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#777 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#818 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#819 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#902 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#903 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#936 -> spawn_sweeper",
+   "volume_parented:trigger_teleport#937 -> spawn_sweeper"
   ]
  },
  "counts": {
@@ -287,6 +339,32 @@
   "keys_unmapped": 43,
   "links_unresolved": 10,
   "inputs_unimplemented": 4,
-  "surfaces_opaque": 4
+  "surfaces_opaque": 4,
+  "gameplay_lost": 50
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 10,
+   "input_unimplemented": 4,
+   "player_input": 1,
+   "target_dangling": 18,
+   "teleport_dangling": 2,
+   "volume_key_unread": 1,
+   "volume_parented": 34
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported",
+   "target_dangling": "source",
+   "teleport_dangling": "source",
+   "volume_key_unread": "unsupported",
+   "volume_parented": "unsupported"
+  },
+  "classes": {
+   "approximated": 8,
+   "ignored": 3,
+   "implemented": 50
+  }
  }
 }

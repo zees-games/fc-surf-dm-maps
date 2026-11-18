@@ -65,7 +65,10 @@
   "inputs_unimplemented": [
    "point_servercommand.Command"
   ],
-  "surfaces_opaque": []
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "input_unimplemented:point_servercommand.Command"
+  ]
  },
  "counts": {
   "textures_unmapped": 0,
@@ -76,6 +79,18 @@
   "keys_unmapped": 2,
   "links_unresolved": 0,
   "inputs_unimplemented": 1,
-  "surfaces_opaque": 0
+  "surfaces_opaque": 0,
+  "gameplay_lost": 1
+ },
+ "gameplay": {
+  "findings": {
+   "input_unimplemented": 1
+  },
+  "severity": {
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "implemented": 14
+  }
  }
 }

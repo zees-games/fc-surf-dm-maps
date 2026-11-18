@@ -158,6 +158,13 @@
    "bucknasty/ab_spaceup",
    "bucknasty/bullseye",
    "models/props_combine/stasisfield_beam"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:func_bomb_target (approximated)",
+   "class_unsupported:func_buyzone (ignored)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "class_unsupported:weapon_m3 (approximated)",
+   "input_unimplemented:func_button.Press"
   ]
  },
  "counts": {
@@ -169,6 +176,24 @@
   "keys_unmapped": 15,
   "links_unresolved": 3,
   "inputs_unimplemented": 1,
-  "surfaces_opaque": 6
+  "surfaces_opaque": 6,
+  "gameplay_lost": 5
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 4,
+   "input_unimplemented": 1,
+   "target_dangling": 7
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "target_dangling": "source"
+  },
+  "classes": {
+   "approximated": 5,
+   "ignored": 4,
+   "implemented": 46
+  }
  }
 }

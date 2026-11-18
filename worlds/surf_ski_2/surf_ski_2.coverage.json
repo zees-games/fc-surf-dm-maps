@@ -112,7 +112,12 @@
   "inputs_unimplemented": [
    "prop_physics.Skin"
   ],
-  "surfaces_opaque": []
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:func_buyzone (ignored)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "input_unimplemented:prop_physics.Skin"
+  ]
  },
  "counts": {
   "textures_unmapped": 0,
@@ -123,6 +128,22 @@
   "keys_unmapped": 16,
   "links_unresolved": 0,
   "inputs_unimplemented": 1,
-  "surfaces_opaque": 0
+  "surfaces_opaque": 0,
+  "gameplay_lost": 3
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2,
+   "input_unimplemented": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "approximated": 1,
+   "ignored": 2,
+   "implemented": 25
+  }
  }
 }

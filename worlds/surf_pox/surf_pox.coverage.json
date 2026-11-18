@@ -108,7 +108,21 @@
    "point_spotlight.LightOff",
    "point_spotlight.LightOn"
   ],
-  "surfaces_opaque": []
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:env_entity_maker (ignored)",
+   "class_unsupported:player_weaponstrip (approximated)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "class_unsupported:weapon_ak47 (approximated)",
+   "class_unsupported:weapon_deagle (approximated)",
+   "class_unsupported:weapon_hegrenade (approximated)",
+   "class_unsupported:weapon_m4a1 (approximated)",
+   "class_unsupported:weapon_mp5navy (approximated)",
+   "input_unimplemented:game_player_equip.Use",
+   "input_unimplemented:player_weaponstrip.Strip",
+   "input_unimplemented:point_spotlight.LightOff",
+   "input_unimplemented:point_spotlight.LightOn"
+  ]
  },
  "counts": {
   "textures_unmapped": 3,
@@ -119,6 +133,22 @@
   "keys_unmapped": 10,
   "links_unresolved": 0,
   "inputs_unimplemented": 4,
-  "surfaces_opaque": 0
+  "surfaces_opaque": 0,
+  "gameplay_lost": 12
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 8,
+   "input_unimplemented": 4
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "approximated": 8,
+   "ignored": 2,
+   "implemented": 23
+  }
  }
 }

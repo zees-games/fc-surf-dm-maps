@@ -189,7 +189,22 @@
    "func_monitor.SetCamera",
    "game_player_equip.Use"
   ],
-  "surfaces_opaque": []
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:env_fire (approximated)",
+   "class_unsupported:path_track (ignored)",
+   "input_unimplemented:func_monitor.SetCamera",
+   "input_unimplemented:game_player_equip.Use",
+   "volume_parented:trigger_multiple#143 -> EntitiyAmmo9mmDEagle",
+   "volume_parented:trigger_multiple#159 -> EntitiyAmmo9mmElites",
+   "volume_parented:trigger_multiple#161 -> Entity57mmAmmo",
+   "volume_parented:trigger_multiple#163 -> EntitiyAmmo45acp",
+   "volume_parented:trigger_multiple#173 -> EntitiyAmmo9mmDEagle",
+   "volume_parented:trigger_multiple#188 -> EntitiyAmmo9mmElites",
+   "volume_parented:trigger_multiple#190 -> Entity57mmAmmo",
+   "volume_parented:trigger_multiple#192 -> EntitiyAmmo45acp",
+   "volume_parented:trigger_multiple#209 -> EntityMainAmmo"
+  ]
  },
  "counts": {
   "textures_unmapped": 31,
@@ -200,6 +215,24 @@
   "keys_unmapped": 19,
   "links_unresolved": 0,
   "inputs_unimplemented": 2,
-  "surfaces_opaque": 0
+  "surfaces_opaque": 0,
+  "gameplay_lost": 13
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2,
+   "input_unimplemented": 2,
+   "volume_parented": 9
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "volume_parented": "unsupported"
+  },
+  "classes": {
+   "approximated": 6,
+   "ignored": 3,
+   "implemented": 41
+  }
  }
 }

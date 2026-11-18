@@ -150,6 +150,16 @@
    "de_train/train_bombsite_arrow_01",
    "de_train/train_bombsite_arrow_02",
    "surf_fruits section - strawberries/strawb tex2"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:player_weaponstrip (approximated)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "class_unsupported:weapon_hegrenade (approximated)",
+   "input_unimplemented:game_player_equip.Use",
+   "input_unimplemented:player_weaponstrip.Strip",
+   "player_input:setdamagefilter x11",
+   "volume_parented:trigger_teleport#233 -> Spinning wall2",
+   "volume_parented:trigger_teleport#242 -> Spinning wall"
   ]
  },
  "counts": {
@@ -161,6 +171,26 @@
   "keys_unmapped": 11,
   "links_unresolved": 0,
   "inputs_unimplemented": 2,
-  "surfaces_opaque": 4
+  "surfaces_opaque": 4,
+  "gameplay_lost": 8
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 3,
+   "input_unimplemented": 2,
+   "player_input": 1,
+   "volume_parented": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported",
+   "volume_parented": "unsupported"
+  },
+  "classes": {
+   "approximated": 2,
+   "ignored": 2,
+   "implemented": 37
+  }
  }
 }

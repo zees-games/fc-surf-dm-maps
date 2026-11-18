@@ -113,6 +113,13 @@
   ],
   "surfaces_opaque": [
    "metal/mildoor001"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:func_buyzone (ignored)",
+   "input_unimplemented:func_button.Press",
+   "input_unimplemented:func_rot_button.Press",
+   "input_unimplemented:game_player_equip.Use",
+   "input_unimplemented:point_servercommand.Command"
   ]
  },
  "counts": {
@@ -124,6 +131,26 @@
   "keys_unmapped": 12,
   "links_unresolved": 3,
   "inputs_unimplemented": 4,
-  "surfaces_opaque": 1
+  "surfaces_opaque": 1,
+  "gameplay_lost": 5
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1,
+   "input_unimplemented": 4,
+   "parent_dangling": 16,
+   "target_dangling": 3
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "parent_dangling": "source",
+   "target_dangling": "source"
+  },
+  "classes": {
+   "approximated": 2,
+   "ignored": 1,
+   "implemented": 27
+  }
  }
 }

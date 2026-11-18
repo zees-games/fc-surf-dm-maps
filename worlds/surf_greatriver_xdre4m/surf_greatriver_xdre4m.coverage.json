@@ -132,7 +132,22 @@
    "player_weaponstrip.Strip",
    "point_servercommand.Command"
   ],
-  "surfaces_opaque": []
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:env_laser (approximated)",
+   "class_unsupported:func_buyzone (ignored)",
+   "class_unsupported:path_track (ignored)",
+   "class_unsupported:player_weaponstrip (approximated)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "class_unsupported:weapon_awp (approximated)",
+   "class_unsupported:weapon_hegrenade (approximated)",
+   "class_unsupported:weapon_knife (approximated)",
+   "input_unimplemented:env_entity_maker.ForceSpawn",
+   "input_unimplemented:func_button.Press",
+   "input_unimplemented:player_weaponstrip.Strip",
+   "input_unimplemented:point_servercommand.Command"
+  ]
  },
  "counts": {
   "textures_unmapped": 0,
@@ -143,6 +158,22 @@
   "keys_unmapped": 16,
   "links_unresolved": 0,
   "inputs_unimplemented": 4,
-  "surfaces_opaque": 0
+  "surfaces_opaque": 0,
+  "gameplay_lost": 13
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 9,
+   "input_unimplemented": 4
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "approximated": 9,
+   "ignored": 3,
+   "implemented": 44
+  }
  }
 }

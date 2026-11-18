@@ -97,7 +97,25 @@
    "game_player_equip.Use",
    "player_weaponstrip.Strip"
   ],
-  "surfaces_opaque": []
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:info_teleport_destination (approximated)",
+   "class_unsupported:player_weaponstrip (approximated)",
+   "class_unsupported:point_tesla (approximated)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "class_unsupported:weapon_ak47 (approximated)",
+   "class_unsupported:weapon_awp (approximated)",
+   "class_unsupported:weapon_m3 (approximated)",
+   "class_unsupported:weapon_m4a1 (approximated)",
+   "input_unimplemented:env_entity_maker.ForceSpawn",
+   "input_unimplemented:env_hudhint.ShowHudHint",
+   "input_unimplemented:game_player_equip.Use",
+   "input_unimplemented:player_weaponstrip.Strip",
+   "player_input:color x4",
+   "player_input:setdamagefilter x3",
+   "volume_key_unread:trigger_hurt.damagecap=9001"
+  ]
  },
  "counts": {
   "textures_unmapped": 3,
@@ -108,6 +126,28 @@
   "keys_unmapped": 7,
   "links_unresolved": 4,
   "inputs_unimplemented": 4,
-  "surfaces_opaque": 0
+  "surfaces_opaque": 0,
+  "gameplay_lost": 16
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 9,
+   "input_unimplemented": 4,
+   "player_input": 2,
+   "target_dangling": 5,
+   "volume_key_unread": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported",
+   "target_dangling": "source",
+   "volume_key_unread": "unsupported"
+  },
+  "classes": {
+   "approximated": 14,
+   "ignored": 2,
+   "implemented": 25
+  }
  }
 }
