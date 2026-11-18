@@ -8,8 +8,7 @@
   "drawn": 61,
   "by_tier": {
    "addon": 8,
-   "default": 6,
-   "fallback": 47
+   "default": 53
   },
   "free_by_tier": {
    "addon": 58,
@@ -156,56 +155,25 @@
   "total": 155,
   "unresolved": 2
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 5,
+   "input_unimplemented": 1,
+   "target_dangling": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "target_dangling": "source"
+  },
+  "classes": {
+   "approximated": 4,
+   "ignored": 3,
+   "implemented": 50
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "GR_V4/V4_HOF_GREATESTRIVER",
-   "GR_V4/V4_HOF_GREATRIVER",
-   "GR_V4/V4_HOF_HOF",
-   "GR_V4/V4_HOF_V2",
-   "GR_V4/V4_HOF_V3",
-   "GR_V4/V4_KP_#",
-   "GR_V4/V4_KP_0",
-   "GR_V4/V4_KP_1",
-   "GR_V4/V4_KP_2",
-   "GR_V4/V4_KP_3",
-   "GR_V4/V4_KP_4",
-   "GR_V4/V4_KP_5",
-   "GR_V4/V4_KP_6",
-   "GR_V4/V4_KP_7",
-   "GR_V4/V4_KP_8",
-   "GR_V4/V4_KP_9",
-   "GR_V4/V4_KP_STAR",
-   "GR_V4/V4_MAPBYBENNY",
-   "GR_V4/V4_PADYTOEXIT",
-   "GR_V4/V4_SPONSOR_FRAGFEST",
-   "GR_V4/V4_WEP_228",
-   "GR_V4/V4_WEP_AK47",
-   "GR_V4/V4_WEP_AUG",
-   "GR_V4/V4_WEP_AWP",
-   "GR_V4/V4_WEP_BOMB",
-   "GR_V4/V4_WEP_DEAGLE",
-   "GR_V4/V4_WEP_DEFUSER",
-   "GR_V4/V4_WEP_ELITE",
-   "GR_V4/V4_WEP_FAMAS",
-   "GR_V4/V4_WEP_FIVESEVEN",
-   "GR_V4/V4_WEP_GALIL",
-   "GR_V4/V4_WEP_GLOCK",
-   "GR_V4/V4_WEP_KEVLAR",
-   "GR_V4/V4_WEP_M249",
-   "GR_V4/V4_WEP_M3",
-   "GR_V4/V4_WEP_M4A1",
-   "GR_V4/V4_WEP_MAC10",
-   "GR_V4/V4_WEP_MP5",
-   "GR_V4/V4_WEP_NADES",
-   "GR_V4/V4_WEP_NVGS",
-   "GR_V4/V4_WEP_P90",
-   "GR_V4/V4_WEP_SCOUT",
-   "GR_V4/V4_WEP_SG552",
-   "GR_V4/V4_WEP_TMP",
-   "GR_V4/V4_WEP_UMP",
-   "GR_V4/V4_WEP_USP",
-   "GR_V4/V4_WEP_XM1014"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -252,7 +220,7 @@
   ]
  },
  "counts": {
-  "textures_unmapped": 47,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
@@ -262,22 +230,5 @@
   "inputs_unimplemented": 1,
   "surfaces_opaque": 0,
   "gameplay_lost": 6
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 5,
-   "input_unimplemented": 1,
-   "target_dangling": 2
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "target_dangling": "source"
-  },
-  "classes": {
-   "approximated": 4,
-   "ignored": 3,
-   "implemented": 50
-  }
  }
 }

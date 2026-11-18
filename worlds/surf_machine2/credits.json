@@ -367,6 +367,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_forest_floor",
+   "author": "eye-candy.xyz",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/forest_floor",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "texture",
    "name": "pbr_Concrete041B",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",

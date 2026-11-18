@@ -8,21 +8,30 @@
   "drawn": 57,
   "by_tier": {
    "addon": 23,
-   "default": 26,
-   "fallback": 20
+   "default": 46
   },
   "free_by_tier": {
-   "addon": 34,
-   "default": 23
+   "addon": 45,
+   "default": 12
   },
   "nearest_photo": [
+   "bucknasty/10xrvmf",
+   "bucknasty/ampvmf",
+   "bucknasty/b-wvmf",
+   "bucknasty/bucknasty",
    "bucknasty/bullseye",
+   "bucknasty/droughtvmf",
+   "bucknasty/gaj",
+   "bucknasty/insanityvmf",
+   "bucknasty/nocturnalvmf",
+   "bucknasty/spacedoutvmf",
+   "bucknasty/thriller2vmf",
+   "bucknasty/thrillervmf",
    "de_cbble/grassfloor01",
    "de_dust/stonewall02a",
    "de_dust/tilefloor01",
    "effects/tp_eyefx/tpeye",
-   "models/combine_citadel/combine_citadel001",
-   "models/props_combine/stasisfield_beam"
+   "models/combine_citadel/combine_citadel001"
   ]
  },
  "models": {
@@ -99,29 +108,25 @@
   "total": 82,
   "unresolved": 3
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 4,
+   "input_unimplemented": 1,
+   "target_dangling": 7
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "target_dangling": "source"
+  },
+  "classes": {
+   "approximated": 5,
+   "ignored": 4,
+   "implemented": 46
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "BUCKNASTY/10XRVMF",
-   "BUCKNASTY/AB_SPACEDN",
-   "BUCKNASTY/AB_SPACELF",
-   "BUCKNASTY/AB_SPACERT",
-   "BUCKNASTY/AB_SPACEUP",
-   "BUCKNASTY/AMPEVMF2",
-   "BUCKNASTY/AMPVMF",
-   "BUCKNASTY/B-WVMF",
-   "BUCKNASTY/BUCKNASTY",
-   "BUCKNASTY/BULLSEYE",
-   "BUCKNASTY/DROUGHTVMF",
-   "BUCKNASTY/GAJ",
-   "BUCKNASTY/INSANITYVMF",
-   "BUCKNASTY/NOCTURNALVMF",
-   "BUCKNASTY/RIVER_FLOW",
-   "BUCKNASTY/SPACEDOUTVMF",
-   "BUCKNASTY/THRILLER2VMF",
-   "BUCKNASTY/THRILLERVMF",
-   "MODELS/COMBINE_CITADEL/COMBINE_CITADEL001",
-   "MODELS/PROPS_COMBINE/STASISFIELD_BEAM"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -151,14 +156,7 @@
   "inputs_unimplemented": [
    "func_button.Press"
   ],
-  "surfaces_opaque": [
-   "bucknasty/ab_spacedn",
-   "bucknasty/ab_spacelf",
-   "bucknasty/ab_spacert",
-   "bucknasty/ab_spaceup",
-   "bucknasty/bullseye",
-   "models/props_combine/stasisfield_beam"
-  ],
+  "surfaces_opaque": [],
   "gameplay_lost": [
    "class_unsupported:func_bomb_target (approximated)",
    "class_unsupported:func_buyzone (ignored)",
@@ -168,7 +166,7 @@
   ]
  },
  "counts": {
-  "textures_unmapped": 20,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
@@ -176,24 +174,7 @@
   "keys_unmapped": 15,
   "links_unresolved": 3,
   "inputs_unimplemented": 1,
-  "surfaces_opaque": 6,
+  "surfaces_opaque": 0,
   "gameplay_lost": 5
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 4,
-   "input_unimplemented": 1,
-   "target_dangling": 7
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "target_dangling": "source"
-  },
-  "classes": {
-   "approximated": 5,
-   "ignored": 4,
-   "implemented": 46
-  }
  }
 }

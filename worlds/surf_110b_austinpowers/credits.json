@@ -97,10 +97,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PaintedMetal015",
+   "name": "pbr_Facade018A",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PaintedMetal015",
+   "url": "https://ambientcg.com/view?id=Facade018A",
    "source": "ambientCG",
    "attribution": false,
    "uses": 3234
@@ -113,7 +113,7 @@
    "url": "https://ambientcg.com/view?id=Fabric074",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 16
+   "uses": 13
   },
   {
    "kind": "texture",
@@ -127,23 +127,23 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Concrete008",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_snow_02",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Concrete008",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/snow_02",
+   "source": "polyhaven",
    "attribution": false,
-   "uses": 7
+   "uses": 5
   },
   {
    "kind": "texture",
-   "name": "pbr_Rock026",
+   "name": "pbr_Metal011",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Rock026",
+   "url": "https://ambientcg.com/view?id=Metal011",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 1
+   "uses": 3
   },
   {
    "kind": "texture",
@@ -163,24 +163,24 @@
    "url": "https://ambientcg.com/view?id=MetalPlates016A",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 6
+   "uses": 7
   },
   {
    "kind": "texture",
-   "name": "pbr_Concrete013",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_corrugated_iron",
+   "author": "Jenelle van Heerden, Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Concrete013",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/corrugated_iron",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 1
   },
   {
    "kind": "texture",
-   "name": "pbr_Terrazzo010",
+   "name": "pbr_Snow013",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Terrazzo010",
+   "url": "https://ambientcg.com/view?id=Snow013",
    "source": "ambientCG",
    "attribution": false,
    "uses": 2

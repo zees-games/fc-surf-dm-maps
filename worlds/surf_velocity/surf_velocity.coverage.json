@@ -8,14 +8,14 @@
   "drawn": 80,
   "by_tier": {
    "addon": 43,
-   "default": 36,
-   "fallback": 8
+   "default": 44
   },
   "free_by_tier": {
-   "addon": 62,
-   "default": 18
+   "addon": 63,
+   "default": 17
   },
   "nearest_photo": [
+   "360g/spraylogo",
    "commune3tp/triangle_final_256x256_v1",
    "concrete/offflra",
    "concrete/prodflrb",
@@ -29,6 +29,7 @@
    "de_piranesi/pi_cobbles",
    "de_prodigy/tunnelplaster02",
    "lights/white",
+   "metal/metalfloor010a",
    "metal/metalwall016a",
    "metal/metalwall021a",
    "metal/metalwall032a",
@@ -41,8 +42,7 @@
  "models": {
   "looked_up": 6,
   "by_tier": {
-   "default": 3,
-   "fallback": 3
+   "default": 6
   }
  },
  "sounds": {
@@ -87,23 +87,31 @@
   "total": 116,
   "unresolved": 4
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 6,
+   "input_unimplemented": 6,
+   "player_input": 5,
+   "target_dangling": 4,
+   "volume_parented": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported",
+   "target_dangling": "source",
+   "volume_parented": "unsupported"
+  },
+  "classes": {
+   "approximated": 7,
+   "ignored": 2,
+   "implemented": 40
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "360G/SPRAYLOGO",
-   "COMMUNE3TP/TRIANGLE_FINAL_256X256_V1",
-   "CS_ITALY/PWTRIM2",
-   "CUSTOM/CREDITSVELOCITY",
-   "CUSTOM/JAILCIRCLES",
-   "CUSTOM/JAILMAZE",
-   "CUSTOMTEXTURES/BUTTONSUMMARY",
-   "MODELS/PROPS_LAB/ROTATO_SHEETRED"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
-  "models_unmapped": [
-   "my model/circlejaillasers.mdl",
-   "my model/circlejailnames1.mdl",
-   "my model/circlejailnames2.mdl"
-  ],
+  "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
   "keys_unmapped": [
@@ -155,9 +163,9 @@
   ]
  },
  "counts": {
-  "textures_unmapped": 8,
+  "textures_unmapped": 0,
   "textures_flat": 0,
-  "models_unmapped": 3,
+  "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
   "keys_unmapped": 10,
@@ -165,26 +173,5 @@
   "inputs_unimplemented": 6,
   "surfaces_opaque": 0,
   "gameplay_lost": 18
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 6,
-   "input_unimplemented": 6,
-   "player_input": 5,
-   "target_dangling": 4,
-   "volume_parented": 1
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "player_input": "unsupported",
-   "target_dangling": "source",
-   "volume_parented": "unsupported"
-  },
-  "classes": {
-   "approximated": 7,
-   "ignored": 2,
-   "implemented": 40
-  }
  }
 }

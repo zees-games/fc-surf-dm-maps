@@ -254,6 +254,16 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 4
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Tiles071",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Tiles071",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 1
   }
  ]
 }

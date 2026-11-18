@@ -8,15 +8,15 @@
   "drawn": 29,
   "by_tier": {
    "addon": 20,
-   "default": 10,
-   "fallback": 1
+   "default": 11
   },
   "free_by_tier": {
-   "addon": 23,
-   "default": 6
+   "addon": 24,
+   "default": 5
   },
   "nearest_photo": [
    "building_template/courtyard_template001a",
+   "customs/mai_redone_credits",
    "de_train/train_bombsite_arrow_02",
    "effects/bluelaser1",
    "effects/tp_eyefx/tpeye",
@@ -65,10 +65,27 @@
   "total": 143,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 8,
+   "input_unimplemented": 3,
+   "player_input": 1,
+   "volume_parented": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported",
+   "volume_parented": "unsupported"
+  },
+  "classes": {
+   "approximated": 12,
+   "ignored": 3,
+   "implemented": 55
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "CUSTOMS/MAI_REDONE_CREDITS"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [
@@ -107,7 +124,7 @@
   ]
  },
  "counts": {
-  "textures_unmapped": 1,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 1,
@@ -117,24 +134,5 @@
   "inputs_unimplemented": 3,
   "surfaces_opaque": 1,
   "gameplay_lost": 13
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 8,
-   "input_unimplemented": 3,
-   "player_input": 1,
-   "volume_parented": 1
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "player_input": "unsupported",
-   "volume_parented": "unsupported"
-  },
-  "classes": {
-   "approximated": 12,
-   "ignored": 3,
-   "implemented": 55
-  }
  }
 }

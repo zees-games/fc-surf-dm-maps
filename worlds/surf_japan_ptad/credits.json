@@ -267,13 +267,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones109",
+   "name": "pbr_Concrete009",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones109",
+   "url": "https://ambientcg.com/view?id=Concrete009",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 3
+   "uses": 4
   },
   {
    "kind": "texture",
@@ -314,16 +314,6 @@
    "source": "polyhaven",
    "attribution": false,
    "uses": 4
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_PavingStones019",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones019",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 1
   },
   {
    "kind": "model",

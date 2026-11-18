@@ -147,11 +147,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_red_sandstone_tiles",
-   "author": "Amal Kumar",
+   "name": "pbr_Facade016",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/red_sandstone_tiles",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Facade016",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 14
   },
@@ -217,13 +217,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_rock_tile_floor_02",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_MetalWalkway005",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rock_tile_floor_02",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=MetalWalkway005",
+   "source": "ambientCG",
    "attribution": false,
-   "uses": 1
+   "uses": 89
   },
   {
    "kind": "texture",
@@ -304,16 +304,6 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_MetalWalkway005",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=MetalWalkway005",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 88
   },
   {
    "kind": "texture",
@@ -477,6 +467,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_Fabric032",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Fabric032",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "texture",
    "name": "pbr_RoofingTiles014B",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -564,6 +564,16 @@
    "source": "Poly Haven",
    "attribution": false,
    "uses": 1
+  },
+  {
+   "kind": "model",
+   "name": "signpost",
+   "author": "Kenney",
+   "licence": "CC0-1.0",
+   "url": "https://kenney.nl/assets/survival-kit",
+   "source": "Kenney Survival Kit",
+   "attribution": false,
+   "uses": 3
   },
   {
    "kind": "sound",

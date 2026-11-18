@@ -133,7 +133,7 @@
    "url": "https://ambientcg.com/view?id=Pipe001",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 1
+   "uses": 2
   },
   {
    "kind": "texture",
@@ -197,13 +197,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Wallpaper001A",
+   "name": "pbr_Snow007C",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Wallpaper001A",
+   "url": "https://ambientcg.com/view?id=Snow007C",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 14
+   "uses": 1
   },
   {
    "kind": "texture",
@@ -217,10 +217,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Plaster007",
+   "name": "pbr_WoodFloor039",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Plaster007",
+   "url": "https://ambientcg.com/view?id=WoodFloor039",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
@@ -257,6 +257,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_Snow009C",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Snow009C",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 10
+  },
+  {
+   "kind": "texture",
    "name": "pbr_Metal042B",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -267,10 +277,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Terrazzo001",
+   "name": "pbr_Snow014",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Terrazzo001",
+   "url": "https://ambientcg.com/view?id=Snow014",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
@@ -287,33 +297,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Concrete013",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Concrete013",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Wallpaper001C",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Wallpaper001C",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 2
-  },
-  {
-   "kind": "texture",
    "name": "pbr_Tiles003",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
    "url": "https://ambientcg.com/view?id=Tiles003",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 1
+   "uses": 5
   },
   {
    "kind": "texture",

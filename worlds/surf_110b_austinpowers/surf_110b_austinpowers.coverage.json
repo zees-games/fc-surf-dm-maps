@@ -8,12 +8,11 @@
   "drawn": 53,
   "by_tier": {
    "addon": 8,
-   "default": 14,
-   "fallback": 31
+   "default": 45
   },
   "free_by_tier": {
-   "addon": 45,
-   "default": 8
+   "addon": 44,
+   "default": 9
   },
   "nearest_photo": [
    "austinpowerstex/1",
@@ -27,7 +26,6 @@
    "austinpowerstex/9",
    "austinpowerstex/austinwallmat3",
    "austinpowerstex/campersheaven",
-   "austinpowerstex/clear",
    "austinpowerstex/corrugatediron",
    "austinpowerstex/crate",
    "austinpowerstex/drevil",
@@ -58,8 +56,7 @@
  "models": {
   "looked_up": 9,
   "by_tier": {
-   "default": 8,
-   "fallback": 1
+   "default": 9
   }
  },
  "sounds": {
@@ -117,44 +114,27 @@
   "total": 160,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2,
+   "input_unimplemented": 2,
+   "volume_parented": 9
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "volume_parented": "unsupported"
+  },
+  "classes": {
+   "approximated": 6,
+   "ignored": 3,
+   "implemented": 41
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "AUSTINPOWERSTEX/1",
-   "AUSTINPOWERSTEX/2",
-   "AUSTINPOWERSTEX/3",
-   "AUSTINPOWERSTEX/4",
-   "AUSTINPOWERSTEX/5",
-   "AUSTINPOWERSTEX/6",
-   "AUSTINPOWERSTEX/7",
-   "AUSTINPOWERSTEX/8",
-   "AUSTINPOWERSTEX/9",
-   "AUSTINPOWERSTEX/AUSTINWALLMAT3",
-   "AUSTINPOWERSTEX/CAMPERSHEAVEN",
-   "AUSTINPOWERSTEX/CLEAR",
-   "AUSTINPOWERSTEX/CRATE",
-   "AUSTINPOWERSTEX/DREVIL",
-   "AUSTINPOWERSTEX/FATBASTARD",
-   "AUSTINPOWERSTEX/FRAU",
-   "AUSTINPOWERSTEX/GOLDMEMBER",
-   "AUSTINPOWERSTEX/GOLDMEMBERPOSTER",
-   "AUSTINPOWERSTEX/HENCHMANSSTASH",
-   "AUSTINPOWERSTEX/JAILBALCONY",
-   "AUSTINPOWERSTEX/MADEBY",
-   "AUSTINPOWERSTEX/MI5QUARTERMASTER",
-   "AUSTINPOWERSTEX/MINIME",
-   "AUSTINPOWERSTEX/MRBIGGLESWORTH",
-   "AUSTINPOWERSTEX/NO2",
-   "AUSTINPOWERSTEX/SCOTT",
-   "AUSTINPOWERSTEX/SECURITYINACTIVE",
-   "AUSTINPOWERSTEX/START",
-   "AUSTINPOWERSTEX/TOP",
-   "AUSTINPOWERSTEX/TOPSECRETLAIR",
-   "AUSTINPOWERSTEX/WALLTEX1"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
-  "models_unmapped": [
-   "props_wasteland/prison_padlock001a.mdl"
-  ],
+  "models_unmapped": [],
   "sounds_unmapped": [
    "austin/deadlist.wav",
    "austin/death.wav",
@@ -207,9 +187,9 @@
   ]
  },
  "counts": {
-  "textures_unmapped": 31,
+  "textures_unmapped": 0,
   "textures_flat": 0,
-  "models_unmapped": 1,
+  "models_unmapped": 0,
   "sounds_unmapped": 5,
   "classes_unmapped": 0,
   "keys_unmapped": 19,
@@ -217,22 +197,5 @@
   "inputs_unimplemented": 2,
   "surfaces_opaque": 0,
   "gameplay_lost": 13
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 2,
-   "input_unimplemented": 2,
-   "volume_parented": 9
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "volume_parented": "unsupported"
-  },
-  "classes": {
-   "approximated": 6,
-   "ignored": 3,
-   "implemented": 41
-  }
  }
 }

@@ -7,10 +7,10 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_Tiles059",
+   "name": "pbr_SheetMetal004",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles059",
+   "url": "https://ambientcg.com/view?id=SheetMetal004",
    "source": "ambientCG",
    "attribution": false,
    "uses": 793

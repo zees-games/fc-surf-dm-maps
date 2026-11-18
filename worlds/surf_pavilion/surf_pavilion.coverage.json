@@ -8,16 +8,16 @@
   "drawn": 67,
   "by_tier": {
    "addon": 53,
-   "default": 24,
-   "fallback": 2
+   "default": 26
   },
   "free_by_tier": {
-   "addon": 63,
-   "default": 4
+   "addon": 64,
+   "default": 3
   },
   "nearest_photo": [
    "cs_havana/tunnelplaster02",
    "cs_havana/tunnelplaster02d",
+   "de_chateau/{cxarrow01",
    "de_nuke/nukfloora",
    "de_nuke/nukmetwallab",
    "de_prodigy/floor01",
@@ -59,11 +59,29 @@
   "total": 617,
   "unresolved": 4
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 6,
+   "input_unimplemented": 4,
+   "target_dangling": 4,
+   "volume_follows": 24,
+   "volume_parented": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "target_dangling": "source",
+   "volume_follows": "handled",
+   "volume_parented": "unsupported"
+  },
+  "classes": {
+   "approximated": 4,
+   "ignored": 3,
+   "implemented": 42
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "DE_CHATEAU/{CXARROW01",
-   "DE_PRODIGY/FLOOR01"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -98,35 +116,11 @@
    "input_unimplemented:phys_thruster.Deactivate",
    "input_unimplemented:player_weaponstrip.Strip",
    "volume_parented:trigger_hurt#1674 -> balling_1",
-   "volume_parented:trigger_hurt#1675 -> balling_2",
-   "volume_parented:trigger_hurt#458 -> gun_1",
-   "volume_parented:trigger_hurt#588 -> sweep",
-   "volume_parented:trigger_multiple#479 -> lbase_1",
-   "volume_parented:trigger_multiple#485 -> lbase_1",
-   "volume_parented:trigger_multiple#486 -> lbase_1",
-   "volume_parented:trigger_multiple#487 -> lbase_1",
-   "volume_parented:trigger_multiple#488 -> lbase_1",
-   "volume_parented:trigger_multiple#489 -> lbase_1",
-   "volume_parented:trigger_multiple#504 -> slam_board",
-   "volume_parented:trigger_multiple#505 -> slam_board",
-   "volume_parented:trigger_multiple#506 -> slam_board",
-   "volume_parented:trigger_multiple#507 -> slam_board",
-   "volume_parented:trigger_multiple#508 -> slam_board",
-   "volume_parented:trigger_multiple#509 -> slam_board",
-   "volume_parented:trigger_multiple#510 -> slam_board",
-   "volume_parented:trigger_multiple#511 -> slam_board",
-   "volume_parented:trigger_push#459 -> gun_1",
-   "volume_parented:trigger_push#470 -> gun_1",
-   "volume_parented:trigger_push#579 -> ball_rot",
-   "volume_parented:trigger_push#583 -> ball_rot",
-   "volume_parented:trigger_teleport#1065 -> random_move",
-   "volume_parented:trigger_teleport#1071 -> random_move",
-   "volume_parented:trigger_teleport#1072 -> random_move",
-   "volume_parented:trigger_teleport#1073 -> random_move"
+   "volume_parented:trigger_hurt#1675 -> balling_2"
   ]
  },
  "counts": {
-  "textures_unmapped": 2,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
@@ -135,25 +129,6 @@
   "links_unresolved": 4,
   "inputs_unimplemented": 4,
   "surfaces_opaque": 1,
-  "gameplay_lost": 36
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 6,
-   "input_unimplemented": 4,
-   "target_dangling": 4,
-   "volume_parented": 26
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "target_dangling": "source",
-   "volume_parented": "unsupported"
-  },
-  "classes": {
-   "approximated": 4,
-   "ignored": 3,
-   "implemented": 42
-  }
+  "gameplay_lost": 12
  }
 }

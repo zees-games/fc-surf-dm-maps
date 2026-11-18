@@ -8,12 +8,11 @@
   "drawn": 48,
   "by_tier": {
    "addon": 20,
-   "default": 14,
-   "fallback": 15
+   "default": 29
   },
   "free_by_tier": {
-   "addon": 40,
-   "default": 8
+   "addon": 39,
+   "default": 9
   },
   "nearest_photo": [
    "cs_assault/metalwall001a",
@@ -22,7 +21,6 @@
    "dev/dev_measurewall01d",
    "surf/bongo",
    "surf/cable",
-   "surf/clear",
    "surf/createdby",
    "surf/ct",
    "surf/cuban",
@@ -65,24 +63,21 @@
   "total": 115,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "approximated": 2,
+   "ignored": 4,
+   "implemented": 37
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "SURF/BONGO",
-   "SURF/CABLE",
-   "SURF/CLEAR",
-   "SURF/CREATEDBY",
-   "SURF/CT",
-   "SURF/CUBAN",
-   "SURF/HEALTH",
-   "SURF/JAIL",
-   "SURF/PLAY",
-   "SURF/PRESS",
-   "SURF/RETRO",
-   "SURF/SALSA",
-   "SURF/T",
-   "SURF/TOP",
-   "SURF/TRACK"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -97,7 +92,7 @@
   ]
  },
  "counts": {
-  "textures_unmapped": 15,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
@@ -107,18 +102,5 @@
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
   "gameplay_lost": 2
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 2
-  },
-  "severity": {
-   "class_unsupported": "unsupported"
-  },
-  "classes": {
-   "approximated": 2,
-   "ignored": 4,
-   "implemented": 37
-  }
  }
 }

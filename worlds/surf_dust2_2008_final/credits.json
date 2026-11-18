@@ -17,10 +17,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Rock026",
+   "name": "pbr_Concrete008",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Rock026",
+   "url": "https://ambientcg.com/view?id=Concrete008",
    "source": "ambientCG",
    "attribution": false,
    "uses": 10
@@ -37,13 +37,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones044",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_concrete_wall_009",
+   "author": "Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones044",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/concrete_wall_009",
+   "source": "polyhaven",
    "attribution": false,
-   "uses": 11
+   "uses": 10
   },
   {
    "kind": "texture",
@@ -301,6 +301,16 @@
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
    "url": "https://ambientcg.com/view?id=PavingStones052",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_PavingStones044",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=PavingStones044",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1

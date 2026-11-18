@@ -8,8 +8,7 @@
   "drawn": 27,
   "by_tier": {
    "addon": 11,
-   "default": 14,
-   "fallback": 2
+   "default": 16
   },
   "free_by_tier": {
    "addon": 19,
@@ -98,11 +97,29 @@
   "total": 59,
   "unresolved": 1
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2,
+   "input_unimplemented": 2,
+   "parent_dangling": 5,
+   "target_dangling": 2,
+   "volume_follows": 5
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "parent_dangling": "source",
+   "target_dangling": "source",
+   "volume_follows": "handled"
+  },
+  "classes": {
+   "approximated": 2,
+   "ignored": 1,
+   "implemented": 48
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "CS_HAVANA/CURB04",
-   "CUSTOMMATERIALS/MATRIXCODE"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -139,16 +156,11 @@
    "class_unsupported:env_entity_maker (approximated)",
    "class_unsupported:env_fire (approximated)",
    "input_unimplemented:env_entity_maker.ForceSpawn",
-   "input_unimplemented:func_monitor.SetCamera",
-   "volume_parented:trigger_hurt#456 -> Car Slide",
-   "volume_parented:trigger_hurt#459 -> Car Slide 3",
-   "volume_parented:trigger_hurt#462 -> Car Slide 2",
-   "volume_parented:trigger_hurt#466 -> Car Slide 4",
-   "volume_parented:trigger_teleport#693 -> Phone mover"
+   "input_unimplemented:func_monitor.SetCamera"
   ]
  },
  "counts": {
-  "textures_unmapped": 2,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
@@ -157,27 +169,6 @@
   "links_unresolved": 1,
   "inputs_unimplemented": 2,
   "surfaces_opaque": 2,
-  "gameplay_lost": 9
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 2,
-   "input_unimplemented": 2,
-   "parent_dangling": 5,
-   "target_dangling": 2,
-   "volume_parented": 5
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "parent_dangling": "source",
-   "target_dangling": "source",
-   "volume_parented": "unsupported"
-  },
-  "classes": {
-   "approximated": 2,
-   "ignored": 1,
-   "implemented": 48
-  }
+  "gameplay_lost": 4
  }
 }

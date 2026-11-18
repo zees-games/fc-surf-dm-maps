@@ -67,10 +67,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_cobblestone_pavement",
+   "name": "pbr_square_tiles_03",
    "author": "Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/cobblestone_pavement",
+   "url": "https://polyhaven.com/a/square_tiles_03",
    "source": "polyhaven",
    "attribution": false,
    "uses": 11
@@ -534,6 +534,16 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 8
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_forest_floor",
+   "author": "eye-candy.xyz",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/forest_floor",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 3
   },
   {
    "kind": "texture",

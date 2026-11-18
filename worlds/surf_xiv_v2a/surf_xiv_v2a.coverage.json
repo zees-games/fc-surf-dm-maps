@@ -8,12 +8,11 @@
   "drawn": 133,
   "by_tier": {
    "addon": 60,
-   "default": 48,
-   "fallback": 19
+   "default": 67
   },
   "free_by_tier": {
-   "addon": 118,
-   "default": 15
+   "addon": 119,
+   "default": 14
   },
   "nearest_photo": [
    "brick/brickwall056a",
@@ -42,6 +41,7 @@
    "de_aztec/azstatc",
    "de_aztec/trim64b",
    "de_chateau/rockf_blend",
+   "de_chateau/{cxarrow01",
    "de_dust/pi_rust",
    "de_dust/picrate2",
    "de_nuke/nukmetwallab",
@@ -58,6 +58,7 @@
    "de_train/blendgrassdirt001a",
    "de_train/train_bombsite_arrow_01",
    "environment maps/pipemetal001a",
+   "metal/metalhull003a",
    "metal/metalpipe001b",
    "metal/metalwall016a",
    "metal/metalwall065a",
@@ -74,7 +75,8 @@
    "smooth/metal_smooth",
    "smooth/rubber",
    "sprites/bluelaser1",
-   "stone/stonewall014a"
+   "stone/stonewall014a",
+   "vehicle/rubbertrainfloor001a"
   ]
  },
  "models": {
@@ -182,28 +184,31 @@
   "total": 1177,
   "unresolved": 10
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 10,
+   "input_unimplemented": 4,
+   "player_input": 1,
+   "target_dangling": 18,
+   "teleport_dangling": 2,
+   "volume_follows": 34
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported",
+   "target_dangling": "source",
+   "teleport_dangling": "source",
+   "volume_follows": "handled"
+  },
+  "classes": {
+   "approximated": 8,
+   "ignored": 3,
+   "implemented": 50
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "COLLAB/BIGLOOP_THUMB",
-   "COLLAB/BLOCKFORT_THUMB",
-   "COLLAB/ETERNAL_THUMB",
-   "COLLAB/FACTORY_THUMB",
-   "COLLAB/FOURCORNERSINFO",
-   "COLLAB/FOURCORNERS_THUMB",
-   "COLLAB/GREATCANAL_THUMB",
-   "COLLAB/HALFPIPE_THUMB",
-   "COLLAB/INFOSCREEN",
-   "COLLAB/JUNGLE_THUMB",
-   "COLLAB/KNIFEARENA_THUMB",
-   "COLLAB/LEET_THUMB",
-   "COLLAB/PARTICIPANTS",
-   "COLLAB/REBEL_THUMB",
-   "COLLAB/SCOUTZKNIVEZ_THUMB",
-   "COLLAB/SLIDE_THUMB",
-   "DE_CHATEAU/{CXARROW01",
-   "SMOOTH/RIVER_FLOW",
-   "SMOOTH/RUBBER"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -272,9 +277,6 @@
    "game_player_equip.Use"
   ],
   "surfaces_opaque": [
-   "collab/fourcornersinfo",
-   "collab/infoscreen",
-   "collab/participants",
    "de_train/train_bombsite_arrow_01"
   ],
   "gameplay_lost": [
@@ -292,45 +294,11 @@
    "input_unimplemented:func_conveyor.SetSpeed",
    "input_unimplemented:func_rot_button.Press",
    "input_unimplemented:game_player_equip.Use",
-   "player_input:color x30",
-   "volume_parented:trigger_hurt#548 -> slide_spikes",
-   "volume_parented:trigger_hurt#602 -> rebel_lasers_movelinear2",
-   "volume_parented:trigger_hurt#603 -> rebel_lasers_movelinear1",
-   "volume_parented:trigger_teleport#108 -> rotater_teleport_dest",
-   "volume_parented:trigger_teleport#157 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#158 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#159 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#160 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#189 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#190 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#218 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#219 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#341 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#342 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#432 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#433 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#452 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#453 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#457 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#458 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#561 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#562 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#621 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#622 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#688 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#689 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#776 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#777 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#818 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#819 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#902 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#903 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#936 -> spawn_sweeper",
-   "volume_parented:trigger_teleport#937 -> spawn_sweeper"
+   "player_input:color x30"
   ]
  },
  "counts": {
-  "textures_unmapped": 19,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
@@ -338,30 +306,7 @@
   "keys_unmapped": 43,
   "links_unresolved": 10,
   "inputs_unimplemented": 4,
-  "surfaces_opaque": 4,
-  "gameplay_lost": 49
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 10,
-   "input_unimplemented": 4,
-   "player_input": 1,
-   "target_dangling": 18,
-   "teleport_dangling": 2,
-   "volume_parented": 34
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "player_input": "unsupported",
-   "target_dangling": "source",
-   "teleport_dangling": "source",
-   "volume_parented": "unsupported"
-  },
-  "classes": {
-   "approximated": 8,
-   "ignored": 3,
-   "implemented": 50
-  }
+  "surfaces_opaque": 1,
+  "gameplay_lost": 15
  }
 }

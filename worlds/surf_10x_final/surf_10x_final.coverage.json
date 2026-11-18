@@ -8,8 +8,7 @@
   "drawn": 69,
   "by_tier": {
    "addon": 31,
-   "default": 36,
-   "fallback": 3
+   "default": 39
   },
   "free_by_tier": {
    "addon": 62,
@@ -77,12 +76,20 @@
   "total": 1,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "ignored": 2,
+   "implemented": 27
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "MODELS/PROPS/CS_ASSAULT/LIGHT_SHOP2_OFF",
-   "MODELS/PROPS/CS_ASSAULT/PYLON",
-   "MODELS/PROPS_CANAL/CANAL_BRIDGE_RAILING_01C"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -101,7 +108,7 @@
   ]
  },
  "counts": {
-  "textures_unmapped": 3,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
@@ -111,17 +118,5 @@
   "inputs_unimplemented": 0,
   "surfaces_opaque": 2,
   "gameplay_lost": 1
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 1
-  },
-  "severity": {
-   "class_unsupported": "unsupported"
-  },
-  "classes": {
-   "ignored": 2,
-   "implemented": 27
-  }
  }
 }

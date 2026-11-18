@@ -8,17 +8,17 @@
   "drawn": 51,
   "by_tier": {
    "addon": 29,
-   "default": 21,
-   "fallback": 1
+   "default": 22
   },
   "free_by_tier": {
-   "addon": 43,
-   "default": 8
+   "addon": 44,
+   "default": 7
   },
   "nearest_photo": [
    "brick/brickwall031a",
    "brick/brickwall038a",
    "cs_italy/plasterwall02",
+   "de_chateau/{cxarrow01",
    "de_dust/residbwall02",
    "de_nuke/nukfloora",
    "de_nuke/nukmetwallab",
@@ -59,10 +59,23 @@
   "total": 104,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2,
+   "input_unimplemented": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "approximated": 2,
+   "ignored": 2,
+   "implemented": 49
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "DE_CHATEAU/{CXARROW01"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -84,7 +97,7 @@
   ]
  },
  "counts": {
-  "textures_unmapped": 1,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
@@ -94,20 +107,5 @@
   "inputs_unimplemented": 2,
   "surfaces_opaque": 1,
   "gameplay_lost": 4
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 2,
-   "input_unimplemented": 2
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported"
-  },
-  "classes": {
-   "approximated": 2,
-   "ignored": 2,
-   "implemented": 49
-  }
  }
 }

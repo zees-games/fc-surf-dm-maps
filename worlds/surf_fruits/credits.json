@@ -127,13 +127,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Wood091B",
+   "name": "pbr_PaintedPlaster004",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Wood091B",
+   "url": "https://ambientcg.com/view?id=PaintedPlaster004",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 14
+   "uses": 16
   },
   {
    "kind": "texture",
@@ -247,10 +247,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Tiles090",
+   "name": "pbr_Marble016",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles090",
+   "url": "https://ambientcg.com/view?id=Marble016",
    "source": "ambientCG",
    "attribution": false,
    "uses": 90
@@ -273,7 +273,7 @@
    "url": "https://ambientcg.com/view?id=PaintedWood004",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 11
+   "uses": 13
   },
   {
    "kind": "texture",
@@ -507,6 +507,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_snow_02",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/snow_02",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 18
+  },
+  {
+   "kind": "texture",
    "name": "pbr_PaintedMetal009",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -557,10 +567,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Wallpaper002A",
+   "name": "pbr_Fabric032",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Wallpaper002A",
+   "url": "https://ambientcg.com/view?id=Fabric032",
    "source": "ambientCG",
    "attribution": false,
    "uses": 2
@@ -594,16 +604,6 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 23
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_snow_02",
-   "author": "Rob Tuytel",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/snow_02",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 15
   },
   {
    "kind": "texture",
@@ -817,13 +817,23 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_DiamondPlate006B",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_white_maple_veneer",
+   "author": "Jenelle van Heerden",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=DiamondPlate006B",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/white_maple_veneer",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 2
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_mud_cracked_dry_03",
+   "author": "Dario Barresi, Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/mud_cracked_dry_03",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 3
   },
   {
    "kind": "texture",

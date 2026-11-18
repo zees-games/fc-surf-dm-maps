@@ -213,7 +213,7 @@
    "url": "https://ambientcg.com/view?id=OfficeCeiling001",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 99
+   "uses": 103
   },
   {
    "kind": "texture",
@@ -223,7 +223,7 @@
    "url": "https://ambientcg.com/view?id=Tiles141",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 49
+   "uses": 61
   },
   {
    "kind": "texture",
@@ -233,7 +233,7 @@
    "url": "https://polyhaven.com/a/rusted_shutter",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 16
+   "uses": 37
   },
   {
    "kind": "texture",
@@ -303,25 +303,25 @@
    "url": "https://ambientcg.com/view?id=Tiles071",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 42
+   "uses": 47
   },
   {
    "kind": "texture",
-   "name": "pbr_rocks_ground_01",
-   "author": "Rob Tuytel",
+   "name": "pbr_Planks029L",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rocks_ground_01",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Planks029L",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 12
   },
   {
    "kind": "texture",
-   "name": "pbr_Bricks030",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_yellow_plaster",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Bricks030",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/yellow_plaster",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 4
   },
@@ -464,16 +464,6 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 2
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Tiles091",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles091",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 21
   },
   {
    "kind": "texture",

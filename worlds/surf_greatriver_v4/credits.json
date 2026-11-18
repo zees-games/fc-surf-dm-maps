@@ -97,10 +97,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_CorrugatedSteel009",
+   "name": "pbr_Ground014",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=CorrugatedSteel009",
+   "url": "https://ambientcg.com/view?id=Ground014",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
@@ -203,17 +203,27 @@
    "url": "https://ambientcg.com/view?id=Rock026",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 24
+   "uses": 16
   },
   {
    "kind": "texture",
-   "name": "pbr_PavingStones046",
+   "name": "pbr_Concrete008",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones046",
+   "url": "https://ambientcg.com/view?id=Concrete008",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 3
+   "uses": 5
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Concrete002",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Concrete002",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 6
   }
  ]
 }

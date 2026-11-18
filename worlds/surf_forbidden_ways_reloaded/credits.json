@@ -37,33 +37,33 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_Terrazzo017",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Terrazzo017",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 9
+  },
+  {
+   "kind": "texture",
    "name": "pbr_Ground014",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
    "url": "https://ambientcg.com/view?id=Ground014",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 2
+   "uses": 3
   },
   {
    "kind": "texture",
-   "name": "pbr_CorrugatedSteel009",
+   "name": "pbr_Snow004",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=CorrugatedSteel009",
+   "url": "https://ambientcg.com/view?id=Snow004",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_OfficeCeiling005",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=OfficeCeiling005",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 1
+   "uses": 31
   },
   {
    "kind": "model",

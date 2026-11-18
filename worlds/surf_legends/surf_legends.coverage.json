@@ -8,8 +8,7 @@
   "drawn": 9,
   "by_tier": {
    "addon": 1,
-   "default": 10,
-   "fallback": 1
+   "default": 11
   },
   "free_by_tier": {
    "addon": 6,
@@ -73,10 +72,27 @@
   "total": 83,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2,
+   "input_unimplemented": 3,
+   "volume_follows": 5,
+   "volume_key_unread": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "volume_follows": "handled",
+   "volume_key_unread": "unsupported"
+  },
+  "classes": {
+   "approximated": 3,
+   "ignored": 4,
+   "implemented": 45
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "HAPPYSKY/HAPPYSKY"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -115,16 +131,11 @@
    "input_unimplemented:env_entity_maker.ForceSpawn",
    "input_unimplemented:func_water_analog.Close",
    "input_unimplemented:func_water_analog.Open",
-   "volume_key_unread:func_water_analog.movedistance=255",
-   "volume_parented:trigger_teleport#124 -> secret1plat",
-   "volume_parented:trigger_teleport#125 -> secret1plat",
-   "volume_parented:trigger_teleport#131 -> secret2plat",
-   "volume_parented:trigger_teleport#132 -> secret2plat",
-   "volume_parented:trigger_teleport#169 -> secret3door"
+   "volume_key_unread:func_water_analog.movedistance=255"
   ]
  },
  "counts": {
-  "textures_unmapped": 1,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
@@ -133,25 +144,6 @@
   "links_unresolved": 0,
   "inputs_unimplemented": 3,
   "surfaces_opaque": 2,
-  "gameplay_lost": 11
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 2,
-   "input_unimplemented": 3,
-   "volume_key_unread": 1,
-   "volume_parented": 5
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "volume_key_unread": "unsupported",
-   "volume_parented": "unsupported"
-  },
-  "classes": {
-   "approximated": 3,
-   "ignored": 4,
-   "implemented": 45
-  }
+  "gameplay_lost": 6
  }
 }

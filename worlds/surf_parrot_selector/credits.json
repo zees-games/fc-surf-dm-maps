@@ -57,10 +57,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_MetalWalkway001",
+   "name": "pbr_Concrete041A",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=MetalWalkway001",
+   "url": "https://ambientcg.com/view?id=Concrete041A",
    "source": "ambientCG",
    "attribution": false,
    "uses": 167
@@ -87,10 +87,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Rock026",
+   "name": "pbr_Concrete008",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Rock026",
+   "url": "https://ambientcg.com/view?id=Concrete008",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1

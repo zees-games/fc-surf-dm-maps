@@ -217,6 +217,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_Snow009C",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Snow009C",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "texture",
    "name": "pbr_sand_01",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",

@@ -8,8 +8,7 @@
   "drawn": 27,
   "by_tier": {
    "addon": 11,
-   "default": 15,
-   "fallback": 1
+   "default": 16
   },
   "free_by_tier": {
    "addon": 18,
@@ -48,10 +47,15 @@
   "total": 12,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {},
+  "severity": {},
+  "classes": {
+   "implemented": 23
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "NATURE/CAVEWALL005A"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -65,7 +69,7 @@
   "gameplay_lost": []
  },
  "counts": {
-  "textures_unmapped": 1,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
@@ -75,12 +79,5 @@
   "inputs_unimplemented": 0,
   "surfaces_opaque": 1,
   "gameplay_lost": 0
- },
- "gameplay": {
-  "findings": {},
-  "severity": {},
-  "classes": {
-   "implemented": 23
-  }
  }
 }

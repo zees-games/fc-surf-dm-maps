@@ -8,14 +8,14 @@
   "drawn": 35,
   "by_tier": {
    "addon": 14,
-   "default": 20,
-   "fallback": 1
+   "default": 21
   },
   "free_by_tier": {
-   "addon": 27,
-   "default": 8
+   "addon": 28,
+   "default": 7
   },
   "nearest_photo": [
+   "bucknasty/bucknasty",
    "building_template/building_template024a",
    "concrete/offflrc",
    "cs_havana/furniturewooddrawers001b",
@@ -100,10 +100,20 @@
   "total": 2,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "ignored": 2,
+   "implemented": 35
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "BUCKNASTY/BUCKNASTY"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -135,7 +145,7 @@
   ]
  },
  "counts": {
-  "textures_unmapped": 1,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
@@ -145,17 +155,5 @@
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
   "gameplay_lost": 1
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 1
-  },
-  "severity": {
-   "class_unsupported": "unsupported"
-  },
-  "classes": {
-   "ignored": 2,
-   "implemented": 35
-  }
  }
 }

@@ -8,8 +8,7 @@
   "drawn": 50,
   "by_tier": {
    "addon": 24,
-   "default": 28,
-   "fallback": 1
+   "default": 29
   },
   "free_by_tier": {
    "addon": 41,
@@ -85,10 +84,29 @@
   "total": 160,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 8,
+   "filter_dangling": 1,
+   "input_unimplemented": 4,
+   "player_input": 3,
+   "volume_parented": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "filter_dangling": "source",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported",
+   "volume_parented": "unsupported"
+  },
+  "classes": {
+   "approximated": 9,
+   "ignored": 1,
+   "implemented": 36
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "CUSTOM/TORQUE2"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [],
@@ -136,7 +154,7 @@
   ]
  },
  "counts": {
-  "textures_unmapped": 1,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
@@ -146,26 +164,5 @@
   "inputs_unimplemented": 4,
   "surfaces_opaque": 0,
   "gameplay_lost": 17
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 8,
-   "filter_dangling": 1,
-   "input_unimplemented": 4,
-   "player_input": 3,
-   "volume_parented": 2
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "filter_dangling": "source",
-   "input_unimplemented": "unsupported",
-   "player_input": "unsupported",
-   "volume_parented": "unsupported"
-  },
-  "classes": {
-   "approximated": 9,
-   "ignored": 1,
-   "implemented": 36
-  }
  }
 }

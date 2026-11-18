@@ -507,21 +507,21 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Wood091B",
+   "name": "pbr_WoodFloor059",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Wood091B",
+   "url": "https://ambientcg.com/view?id=WoodFloor059",
    "source": "ambientCG",
    "attribution": false,
    "uses": 5
   },
   {
    "kind": "texture",
-   "name": "pbr_white_stucco",
-   "author": "Amal Kumar",
+   "name": "pbr_CorrugatedSteel003",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/white_stucco",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=CorrugatedSteel003",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 1
   },

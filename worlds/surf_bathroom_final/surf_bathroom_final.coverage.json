@@ -8,12 +8,11 @@
   "drawn": 87,
   "by_tier": {
    "addon": 25,
-   "default": 26,
-   "fallback": 36
+   "default": 62
   },
   "free_by_tier": {
-   "addon": 72,
-   "default": 15
+   "addon": 77,
+   "default": 10
   },
   "nearest_photo": [
    "brick/brickwall038a",
@@ -31,19 +30,23 @@
    "metal/metalroof008a_cheap",
    "props/cardboardbox001a",
    "props/cardboardbox001c",
-   "smooth/rubber",
+   "surf_bathroom/akron",
    "surf_bathroom/blowdryer_logo",
    "surf_bathroom/horseshampoo",
    "surf_bathroom/info",
    "surf_bathroom/laxative_1",
+   "surf_bathroom/manlyshampoo",
+   "surf_bathroom/mapmadebysmooth",
    "surf_bathroom/metal2",
    "surf_bathroom/soap",
+   "surf_bathroom/solidsurf",
    "surf_bathroom/spongeyellow",
    "surf_bathroom/surf_bathroom_alzheimer",
    "surf_bathroom/surf_bathroom_bfcafe",
    "surf_bathroom/surf_bathroom_bible",
    "surf_bathroom/surf_bathroom_creme",
    "surf_bathroom/surf_bathroom_duck",
+   "surf_bathroom/surf_bathroom_duck_transparent",
    "surf_bathroom/surf_bathroom_frontmag",
    "surf_bathroom/surf_bathroom_golfmag",
    "surf_bathroom/surf_bathroom_grandparents",
@@ -127,45 +130,27 @@
   "total": 100,
   "unresolved": 1
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1,
+   "input_unimplemented": 5,
+   "target_dangling": 7,
+   "volume_key_unread": 3
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "target_dangling": "source",
+   "volume_key_unread": "unsupported"
+  },
+  "classes": {
+   "approximated": 3,
+   "ignored": 1,
+   "implemented": 43
+  }
+ },
  "lists": {
-  "textures_unmapped": [
-   "PROPS/CARDBOARDBOX001A",
-   "PROPS/CARDBOARDBOX001C",
-   "SMOOTH/RIVER_FLOW",
-   "SMOOTH/RUBBER",
-   "SURF_BATHROOM/AKRON",
-   "SURF_BATHROOM/BLOWDRYER_LOGO",
-   "SURF_BATHROOM/HORSESHAMPOO",
-   "SURF_BATHROOM/INFO",
-   "SURF_BATHROOM/LAXATIVE_1",
-   "SURF_BATHROOM/MANLYSHAMPOO",
-   "SURF_BATHROOM/MAPMADEBYSMOOTH",
-   "SURF_BATHROOM/SOAP",
-   "SURF_BATHROOM/SOLIDSURF",
-   "SURF_BATHROOM/SPONGEYELLOW",
-   "SURF_BATHROOM/SURF_BATHROOM_ALZHEIMER",
-   "SURF_BATHROOM/SURF_BATHROOM_BEER",
-   "SURF_BATHROOM/SURF_BATHROOM_BFCAFE",
-   "SURF_BATHROOM/SURF_BATHROOM_BIBLE",
-   "SURF_BATHROOM/SURF_BATHROOM_CREME",
-   "SURF_BATHROOM/SURF_BATHROOM_DUCK",
-   "SURF_BATHROOM/SURF_BATHROOM_DUCK_TRANSPARENT",
-   "SURF_BATHROOM/SURF_BATHROOM_FRONTMAG",
-   "SURF_BATHROOM/SURF_BATHROOM_GOLFMAG",
-   "SURF_BATHROOM/SURF_BATHROOM_GRANDPARENTS",
-   "SURF_BATHROOM/SURF_BATHROOM_HORSEMAG",
-   "SURF_BATHROOM/SURF_BATHROOM_JETFATMAG",
-   "SURF_BATHROOM/SURF_BATHROOM_KUNGFUMAG",
-   "SURF_BATHROOM/SURF_BATHROOM_PAPER",
-   "SURF_BATHROOM/SURF_BATHROOM_SPONGEBOB",
-   "SURF_BATHROOM/SURF_BATHROOM_STRESS",
-   "SURF_BATHROOM/SURF_BATHROOM_TOILETPAPER",
-   "SURF_BATHROOM/SURF_BATHROOM_TOWEL",
-   "SURF_BATHROOM/SURF_BATHROOM_TOWEL_BLUE",
-   "SURF_BATHROOM/SURF_BATHROOM_TOWEL_YELLOW",
-   "SURF_BATHROOM/VIAGRA1",
-   "SURF_BATHROOM/WETAWDED"
-  ],
+  "textures_unmapped": [],
   "textures_flat": [],
   "models_unmapped": [],
   "sounds_unmapped": [
@@ -202,8 +187,7 @@
    "game_player_equip.Use"
   ],
   "surfaces_opaque": [
-   "de_train/train_bombsite_arrow_01",
-   "surf_bathroom/surf_bathroom_duck"
+   "de_train/train_bombsite_arrow_01"
   ],
   "gameplay_lost": [
    "class_unsupported:func_bomb_target (approximated)",
@@ -218,7 +202,7 @@
   ]
  },
  "counts": {
-  "textures_unmapped": 36,
+  "textures_unmapped": 0,
   "textures_flat": 0,
   "models_unmapped": 0,
   "sounds_unmapped": 1,
@@ -226,26 +210,7 @@
   "keys_unmapped": 17,
   "links_unresolved": 1,
   "inputs_unimplemented": 5,
-  "surfaces_opaque": 2,
+  "surfaces_opaque": 1,
   "gameplay_lost": 9
- },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 1,
-   "input_unimplemented": 5,
-   "target_dangling": 7,
-   "volume_key_unread": 3
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "target_dangling": "source",
-   "volume_key_unread": "unsupported"
-  },
-  "classes": {
-   "approximated": 3,
-   "ignored": 1,
-   "implemented": 43
-  }
  }
 }
