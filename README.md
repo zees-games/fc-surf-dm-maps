@@ -38,6 +38,10 @@ games:
         # ... one line per map in maps.json
 ```
 
+## Quality and ongoing improvement
+
+The maps, models, textures and sounds in this pack are being improved over time, and some of them are low quality today. Improvement is driven by the Nightly queue, a work queue where agents pick up items, and by a visual judge loop that views rendered frames and files defects until each asset passes repeated clean reviews. Known defects are filed there and fixed in later releases, and the screenshots here are regenerated as the assets improve.
+
 ## Credits
 
 All maps are credited here and on screen. They are published under the credited-community-map exception recorded in `licence.json`. Where the source page states a licence it is shown. Where it states none, the page text does not forbid sharing or porting. If an author or anyone speaking for them wants a map removed or credited differently, open an issue at https://github.com/zees-games/fc-surf-dm-maps/issues.
