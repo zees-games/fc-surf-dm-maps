@@ -1,3 +1,5 @@
+![FC Surf Maps banner](https://raw.githubusercontent.com/zees-games/fc-surf-dm-maps/main/docs/banner.png)
+
 Combat surf maps for [Fatal Contact](https://github.com/zees-games/game-fatal-contact) (FC), imported from the surf genre. They are not courses. They are small maps with buy zones, weapons on the floor and teleports back to a spawn, built to fight on. Each map's manifest has `"kind": "arena"`, which is what FC looks for. A map with another kind is skipped.
 
 Every map is somebody else's work, made for the genre years ago and imported so it can be played again. Each one is credited below and on screen when a server changes to it. If you made one of these maps and want it credited differently or taken down, open an issue and it will be done.
