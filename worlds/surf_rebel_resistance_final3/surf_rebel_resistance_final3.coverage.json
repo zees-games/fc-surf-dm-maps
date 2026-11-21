@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_rebel_resistance_final3",
  "sha256": "f2a6d37be27fb7c0209ae19f41413730da90e1ace863193535b88ebe092c35f5",

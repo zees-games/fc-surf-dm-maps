@@ -6,7 +6,7 @@ Every map is somebody else's work, made for the genre years ago and imported so 
 
 ## Why the maps are not in the game
 
-FC ships with its three built-in maps only. A server that wants these names them in its content configuration. Each map is its own signed pack, `gamemann/arena-surf-dm-maps-<map id>`, fetched the first time the server changes to it, so a player downloads only the map that is running. Keeping them here means a map can be added, fixed or withdrawn without a game release.
+FC ships with its three built-in maps only. A server that wants these names them in its content configuration. Each map is its own signed pack, `gamemann/fc-surf-dm-maps-<map id>`, fetched the first time the server changes to it, so a player downloads only the map that is running. Keeping them here means a map can be added, fixed or withdrawn without a game release.
 
 ## Layout
 
@@ -22,21 +22,21 @@ FC ships with its three built-in maps only. A server that wants these names them
 
 ## Using it
 
-For local development, FC's `maps/imported` is a link to this repository's `maps/` (dot-bootstrap creates it from the `# bootstrap-link:` line in the game's `.gitignore`). Without the link the game plays its built-in maps.
+For local development, FC's `maps/imported` is a link to this repository's `maps/` (gs-bootstrap creates it from the `# bootstrap-link:` line in the game's `.gitignore`). Without the link the game plays its built-in maps.
 
 Releasing is a tag: `git tag v1.x.y && git push --tags`. `.github/workflows/release.yml` imports each map and attaches one `<map>-<version>-pack.zip` per map. The site publishes each as `gamemann/<map>@<version>` and signs it. Maps added after the last tag become packs at the next tag.
 
 ## Naming them on a server
 
-A server offers a map when its server configuration (dot-server-deploy) lists it, one line per map in `maps.json`:
+A server offers a map when its server configuration (gs-server-deploy) lists it, one line per map in `maps.json`:
 
 ```yaml
 games:
-  game-arena:   # the Fatal Contact project directory
+  game-fatal-contact:   # the Fatal Contact project directory
     maps:
       add:
-        - gamemann/arena-surf-dm-maps-surf_10x_final
-        - gamemann/arena-surf-dm-maps-surf_adverse
+        - gamemann/fc-surf-dm-maps-surf_10x_final
+        - gamemann/fc-surf-dm-maps-surf_adverse
         # ... one line per map in maps.json
 ```
 

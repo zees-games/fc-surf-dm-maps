@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_snipers_island",
  "sha256": "98b93f6d7d27119ad60d978bd4dc952618cf9ef1b951181e15f6325115d62d5a",

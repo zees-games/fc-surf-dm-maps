@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_greatriver_v4",
  "sha256": "d46215e76c17d6751f3266a04a13185c952544f42e176c45b46ee8ff95dfbe1a",

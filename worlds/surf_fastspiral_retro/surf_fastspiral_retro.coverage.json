@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_fastspiral_retro",
  "sha256": "d2f13f514736c54f88f2b821fdb2b6f8e03dd6916b1955a837e4af8e84b040f1",

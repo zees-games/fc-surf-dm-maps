@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_akai_final",
  "sha256": "b5938c011dce9e0acee703530b297d07c990691d3a12f039541e45da918365f7",

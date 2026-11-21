@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_skate_park_v2",
  "sha256": "67b4ae34402d27c6296bb91e64a5ebf5601f04e4cbc611d27e74d9cc2f0192e8",

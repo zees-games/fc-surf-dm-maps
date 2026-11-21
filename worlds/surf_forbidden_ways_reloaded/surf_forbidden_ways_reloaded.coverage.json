@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_forbidden_ways_reloaded",
  "sha256": "5c2918ea90e3b75fbb73f50b7d20c05e523bf7aaa423d496c88440c0efabad13",

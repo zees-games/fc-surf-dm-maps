@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_japan_ptad",
  "sha256": "2a38a371af25681d7076f0423b2f6bc82e1753b26fb849145ebedae99398e142",

@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_110b_austinpowers",
  "sha256": "23d2c56976882579d1814e6d291f724f2136313c198f26046f9aada92d790efc",

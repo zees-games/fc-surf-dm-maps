@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_bathroom_final",
  "sha256": "f3f249b3f8fbfe400c05195bf0adf4149d2af3990848b14deca436c55e735cac",

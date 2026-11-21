@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_i_hate_campers",
  "sha256": "10c85759543cc5ed548d0c807c2aaa416f10be0ec6a288e68daf877a00308708",

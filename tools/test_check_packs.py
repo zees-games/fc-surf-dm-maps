@@ -113,7 +113,7 @@ class StagePacks(unittest.TestCase):
             put(os.path.join(repo, "worlds", "m1", "textures", "fb_Grass004.webp"))
             put(os.path.join(repo, "worlds", "m1", "textures", "fb_Grass004.webp.import"))
             put(os.path.join(repo, "maps", "m1", "m1_lightmap.png.import"))
-            conv = os.path.join(tmp, "convert")  # stub of dot-map-convert: `bsp.py bundle WORLD --out OUT --strict` copies the folder
+            conv = os.path.join(tmp, "convert")  # stub of gs-map-convert: `bsp.py bundle WORLD --out OUT --strict` copies the folder
             put(os.path.join(conv, "bsp.py"),
                 "import shutil, sys, os\nw = sys.argv[2]\nout = sys.argv[sys.argv.index('--out') + 1]\n"
                 "shutil.copytree(w, os.path.join(out, os.path.basename(w)))\n")

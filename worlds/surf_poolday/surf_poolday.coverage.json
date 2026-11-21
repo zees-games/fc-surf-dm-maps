@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_poolday",
  "sha256": "f585ec1c34cd53a9011f04e9e50a51ce5cd10974bbca64c442d5beca17d449e1",

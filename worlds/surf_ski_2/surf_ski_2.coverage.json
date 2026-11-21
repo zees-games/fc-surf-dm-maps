@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_ski_2",
  "sha256": "9baf9f15401522556940740dde72b6493df8c8cda56dfaa68a5156e6fe8d83df",

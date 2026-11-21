@@ -10,14 +10,14 @@
 set -euo pipefail
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 OUT="${1:?usage: stage_packs.sh OUT [id...]}"; shift
-CONVERT="${GS_MAP_CONVERT:-${DOT_MAP_CONVERT:-$HERE/../dot-map-convert}}"
+CONVERT="${GS_MAP_CONVERT:-$HERE/../gs-map-convert}"
 IDS=("$@"); [ ${#IDS[@]} -gt 0 ] || mapfile -t IDS < <(cd "$HERE/maps" && ls)
 STAGED=()
 for id in "${IDS[@]}"; do
     [ -d "$HERE/worlds/$id" ] || { echo "no world for $id, skipped" >&2; continue; }
     rm -rf "${OUT:?}/$id"; mkdir -p "$OUT/$id/worlds"
     [ -d "$HERE/maps/$id" ] && (cd "$HERE/maps/$id" && tar cf - --exclude=./textures .) | tar xf - -C "$OUT/$id"
-    ${GS_PY:-${DOT_PY:-python3 -P}} "$CONVERT/bsp.py" bundle "$HERE/worlds/$id" --out "$OUT/$id/worlds" --strict
+    ${GS_PY:-python3 -P} "$CONVERT/bsp.py" bundle "$HERE/worlds/$id" --out "$OUT/$id/worlds" --strict
     # An `.import` marker names the importing project's .godot cache, absent from a delivered pack: its texture would load null.
     find "$OUT/$id" -name '*.import' -delete
     STAGED+=("$id")

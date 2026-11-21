@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_10x_final",
  "sha256": "8bdc37c7e420d942dfe8347e8e13d17f3f588aca5212c7b50c323cebf066bd38",

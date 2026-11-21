@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_skyworld",
  "sha256": "79574688692e5f2c3cca5fbd6d5b87ba47da920d7b06700f3cf39446cca48ea9",

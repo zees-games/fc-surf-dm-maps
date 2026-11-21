@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_ny_bigloop_2008a",
  "sha256": "fc1ed83f2f8c1228327c413577b80e2c972442e8032682c2daf5655a93238031",

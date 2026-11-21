@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_torque2",
  "sha256": "f647e84545c732c03e4bcae3d79285164321ed2c5d7faecf40bccc41e0ec9c02",

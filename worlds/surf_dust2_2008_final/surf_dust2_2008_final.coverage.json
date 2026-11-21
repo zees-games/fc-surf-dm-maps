@@ -1,5 +1,5 @@
 {
- "format": "dot-bsp-coverage",
+ "format": "gs-bsp-coverage",
  "version": 1,
  "map": "surf_dust2_2008_final",
  "sha256": "83a7b483e280bb1c524f686af55c01c5223dee64bb9db75ce854a49ecc3d900c",
