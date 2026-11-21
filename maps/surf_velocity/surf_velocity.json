@@ -58411,6 +58411,590 @@
    "filtername": ""
   }
  ],
+ "not_run": {
+  "classes": {
+   "StartDisabled trigger_hurt": 1,
+   "filter_activator_team": 2,
+   "filter_damage_type": 1,
+   "game_player_equip": 9,
+   "logic_auto": 2,
+   "logic_compare": 2,
+   "logic_measure_movement": 1,
+   "logic_timer": 2,
+   "math_counter": 1,
+   "point_servercommand": 1
+  },
+  "switched_off": [
+   {
+    "class": "trigger_teleport",
+    "name": "end_of_round_teleports",
+    "by": [
+     "func_button",
+     "math_counter"
+    ],
+    "min": [
+     -1920.0,
+     -7744.0,
+     4160.0
+    ],
+    "max": [
+     8768.0,
+     704.0,
+     8128.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "end_of_round_teleports",
+    "by": [
+     "func_button",
+     "math_counter"
+    ],
+    "min": [
+     4128.0,
+     -5280.0,
+     -11872.0
+    ],
+    "max": [
+     5984.0,
+     992.0,
+     -1056.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "end_of_round_teleports",
+    "by": [
+     "func_button",
+     "math_counter"
+    ],
+    "min": [
+     -12832.0,
+     -9792.0,
+     -3232.0
+    ],
+    "max": [
+     1056.0,
+     -1056.0,
+     -2016.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "end_of_round_teleports",
+    "by": [
+     "func_button",
+     "math_counter"
+    ],
+    "min": [
+     -7744.0,
+     -14432.0,
+     -8256.0
+    ],
+    "max": [
+     -480.0,
+     -8736.0,
+     -5888.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "end_of_round_teleports",
+    "by": [
+     "func_button",
+     "math_counter"
+    ],
+    "min": [
+     3072.0,
+     -10624.0,
+     -0.0
+    ],
+    "max": [
+     7680.0,
+     -7168.0,
+     1024.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "end_of_round_teleports",
+    "by": [
+     "func_button",
+     "math_counter"
+    ],
+    "min": [
+     -3440.0,
+     -10480.0,
+     2048.0
+    ],
+    "max": [
+     -1024.0,
+     -8192.0,
+     2864.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "end_of_round_teleports",
+    "by": [
+     "func_button",
+     "math_counter"
+    ],
+    "min": [
+     10240.0,
+     -5664.0,
+     -3072.0
+    ],
+    "max": [
+     11408.0,
+     -2048.0,
+     12000.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "room_end_tele_circle",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -4216.0,
+     -4914.0,
+     2208.0
+    ],
+    "max": [
+     -4144.0,
+     -4768.0,
+     2272.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "room_end_tele_maze",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -4216.0,
+     -4914.0,
+     2592.0
+    ],
+    "max": [
+     -4144.0,
+     -4768.0,
+     2656.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "maze_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -736.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     -544.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "maze_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -480.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     -288.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "maze_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -224.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     -32.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "maze_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     32.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     224.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "maze_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     288.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     480.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "maze_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     544.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     736.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "maze_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -736.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     -544.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "maze_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -480.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     -288.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "maze_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -224.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     -32.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "maze_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     32.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     224.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "maze_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     288.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     480.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "maze_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     544.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     736.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "para_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -736.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     -544.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "para_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -480.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     -288.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "para_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -224.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     -32.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "para_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     32.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     224.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "para_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     288.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     480.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "para_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     544.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     736.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "para_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -736.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     -544.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "para_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -480.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     -288.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "para_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -224.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     -32.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "para_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     32.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     224.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "para_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     288.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     480.0,
+     -8640.0,
+     -1312.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "para_temp_tele",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     544.0,
+     -8672.0,
+     -1504.0
+    ],
+    "max": [
+     736.0,
+     -8640.0,
+     -1312.0
+    ]
+   }
+  ]
+ },
  "author": "copy-mark and six others",
  "kind": "arena",
  "notes": "Credit only, and deliberately no zones: a combat surf map by seven mappers, one level each. 29 team spawns a side on two facing rows, four func_buyzones, 66 placed rifles, pistols and grenades, nine game_player_equip, and an end jail with an equipment trigger per level (end_jail_equip_triggers). Its 115 trigger_teleports aim at each mapper's level start (targetpractice, sangre_spawn, jacky, hellstage, ...), a level-select and a loop rather than one route. gb-maps-2. Not published."

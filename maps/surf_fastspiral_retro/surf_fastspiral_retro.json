@@ -8045,6 +8045,12 @@
    "filtername": ""
   }
  ],
+ "not_run": {
+  "classes": {
+   "logic_timer": 2
+  },
+  "switched_off": []
+ },
  "train_movers": [
   {
    "name": "train2",

@@ -1576,6 +1576,13 @@
   }
  ],
  "trigger_volumes": [],
+ "not_run": {
+  "classes": {
+   "game_player_equip": 1,
+   "logic_timer": 2
+  },
+  "switched_off": []
+ },
  "author": "Loller Dan",
  "kind": "arena",
  "notes": "Credit only, and deliberately no zones: combat surf. Scouts and knives at the start, weapons scattered, teleporters back to the surf, a pirate ship that becomes a bomb zone after two minutes (not run)."

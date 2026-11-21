@@ -32198,12 +32198,107 @@
     "min": [
      12912.0,
      -13488.0,
-     12912.0
+     12913.0
+    ],
+    "max": [
+     12960.0,
+     -13183.999939308536,
+     13199.0
+    ],
+    "push": [
+     0.0,
+     1000.0,
+     -0.0
+    ],
+    "once": false,
+    "filtered": false
+   },
+   {
+    "min": [
+     12960.0,
+     -13488.0,
+     12913.0
+    ],
+    "max": [
+     13008.0,
+     -13183.000004046098,
+     13199.0
+    ],
+    "push": [
+     0.0,
+     1000.0,
+     -0.0
+    ],
+    "once": false,
+    "filtered": false
+   },
+   {
+    "min": [
+     13008.0,
+     -13488.0,
+     12913.0
+    ],
+    "max": [
+     13056.0,
+     -13183.000004046098,
+     13199.0
+    ],
+    "push": [
+     0.0,
+     1000.0,
+     -0.0
+    ],
+    "once": false,
+    "filtered": false
+   },
+   {
+    "min": [
+     13056.0,
+     -13488.0,
+     12913.0
+    ],
+    "max": [
+     13104.0,
+     -13183.000004046098,
+     13199.0
+    ],
+    "push": [
+     0.0,
+     1000.0,
+     -0.0
+    ],
+    "once": false,
+    "filtered": false
+   },
+   {
+    "min": [
+     13104.0,
+     -13488.0,
+     12913.0
+    ],
+    "max": [
+     13152.0,
+     -13183.000004046098,
+     13199.0
+    ],
+    "push": [
+     0.0,
+     1000.0,
+     -0.0
+    ],
+    "once": false,
+    "filtered": false
+   },
+   {
+    "min": [
+     13152.0,
+     -13488.0,
+     12913.0
     ],
     "max": [
      13200.0,
-     -13136.0,
-     13200.0
+     -13184.000004046098,
+     13199.0
     ],
     "push": [
      0.0,
@@ -32412,12 +32507,107 @@
    "min": [
     12912.0,
     -13488.0,
-    12912.0
+    12913.0
+   ],
+   "max": [
+    12960.0,
+    -13183.999939308536,
+    13199.0
+   ],
+   "push": [
+    0.0,
+    1000.0,
+    -0.0
+   ],
+   "once": false,
+   "filtered": false
+  },
+  {
+   "min": [
+    12960.0,
+    -13488.0,
+    12913.0
+   ],
+   "max": [
+    13008.0,
+    -13183.000004046098,
+    13199.0
+   ],
+   "push": [
+    0.0,
+    1000.0,
+    -0.0
+   ],
+   "once": false,
+   "filtered": false
+  },
+  {
+   "min": [
+    13008.0,
+    -13488.0,
+    12913.0
+   ],
+   "max": [
+    13056.0,
+    -13183.000004046098,
+    13199.0
+   ],
+   "push": [
+    0.0,
+    1000.0,
+    -0.0
+   ],
+   "once": false,
+   "filtered": false
+  },
+  {
+   "min": [
+    13056.0,
+    -13488.0,
+    12913.0
+   ],
+   "max": [
+    13104.0,
+    -13183.000004046098,
+    13199.0
+   ],
+   "push": [
+    0.0,
+    1000.0,
+    -0.0
+   ],
+   "once": false,
+   "filtered": false
+  },
+  {
+   "min": [
+    13104.0,
+    -13488.0,
+    12913.0
+   ],
+   "max": [
+    13152.0,
+    -13183.000004046098,
+    13199.0
+   ],
+   "push": [
+    0.0,
+    1000.0,
+    -0.0
+   ],
+   "once": false,
+   "filtered": false
+  },
+  {
+   "min": [
+    13152.0,
+    -13488.0,
+    12913.0
    ],
    "max": [
     13200.0,
-    -13136.0,
-    13200.0
+    -13184.000004046098,
+    13199.0
    ],
    "push": [
     0.0,
@@ -33588,6 +33778,89 @@
    "filtername": ""
   }
  ],
+ "not_run": {
+  "classes": {
+   "env_entity_maker": 2,
+   "filter_activator_team": 4,
+   "filter_damage_type": 1,
+   "game_player_equip": 2,
+   "logic_auto": 2,
+   "logic_timer": 1,
+   "math_counter": 4
+  },
+  "switched_off": [
+   {
+    "class": "trigger_teleport",
+    "name": "jail_side3_teleport",
+    "by": [
+     "logic_auto"
+    ],
+    "min": [
+     13024.0,
+     -13728.0,
+     14304.0
+    ],
+    "max": [
+     13088.0,
+     -13568.0,
+     14368.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "jail_side1_teleport",
+    "by": [
+     "logic_auto"
+    ],
+    "min": [
+     13024.0,
+     -13728.0,
+     11744.0
+    ],
+    "max": [
+     13088.0,
+     -13568.0,
+     11808.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "raht",
+    "by": [
+     "filter_activator_team",
+     "math_counter"
+    ],
+    "min": [
+     -14336.0,
+     -16256.0,
+     -3072.0
+    ],
+    "max": [
+     9728.0,
+     6656.0,
+     3072.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "rahct",
+    "by": [
+     "filter_activator_team",
+     "math_counter"
+    ],
+    "min": [
+     -14336.0,
+     -16256.0,
+     -3072.0
+    ],
+    "max": [
+     9728.0,
+     6656.0,
+     3072.0
+    ]
+   }
+  ]
+ },
  "author": "ptad",
  "kind": "arena",
  "notes": "Credit only, and deliberately no zones: a team surf minigame. 18 spawns a side, team filters, a knife/AWP equip, a jail timer and jail_win_ct / jail_win_t ends; 49 of its 75 teleports aim back at destination1 and the rest at jails, a selector rather than one route. chk-maps run 64. Not published."

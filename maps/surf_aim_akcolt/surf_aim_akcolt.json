@@ -930,14 +930,14 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
-    1440.0,
+    1490.0,
     -126.0,
-    407.0
+    466.0
    ],
    "max": [
-    1632.0,
+    1582.0,
     66.0,
-    599.0
+    540.0
    ],
    "inflated": true,
    "destination": [
@@ -951,14 +951,14 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
-    1438.0,
+    1488.0,
     -126.0,
-    859.0
+    918.0
    ],
    "max": [
-    1630.0,
+    1580.0,
     66.0,
-    1051.0
+    992.0
    ],
    "inflated": true,
    "destination": [
@@ -972,14 +972,14 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
-    -354.0,
+    -304.0,
     -126.0,
-    377.0
+    436.0
    ],
    "max": [
-    -162.0,
+    -212.0,
     66.0,
-    569.0
+    510.0
    ],
    "inflated": true,
    "destination": [
@@ -993,14 +993,14 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
-    -352.0,
+    -302.0,
     -126.0,
-    785.0
+    844.0
    ],
    "max": [
-    -160.0,
+    -210.0,
     66.0,
-    977.0
+    918.0
    ],
    "inflated": true,
    "destination": [
@@ -1022,13 +1022,13 @@
  "respawn_volumes": [
   {
    "min": [
-    1440.0,
-    -599.0,
+    1490.0,
+    -540.0,
     -126.0
    ],
    "max": [
-    1632.0,
-    -407.0,
+    1582.0,
+    -466.0,
     66.0
    ],
    "inflated": true,
@@ -1050,13 +1050,13 @@
   },
   {
    "min": [
-    1438.0,
-    -1051.0,
+    1488.0,
+    -992.0,
     -126.0
    ],
    "max": [
-    1630.0,
-    -859.0,
+    1580.0,
+    -918.0,
     66.0
    ],
    "inflated": true,
@@ -1078,13 +1078,13 @@
   },
   {
    "min": [
-    -354.0,
-    -569.0,
+    -304.0,
+    -510.0,
     -126.0
    ],
    "max": [
-    -162.0,
-    -377.0,
+    -212.0,
+    -436.0,
     66.0
    ],
    "inflated": true,
@@ -1106,13 +1106,13 @@
   },
   {
    "min": [
-    -352.0,
-    -977.0,
+    -302.0,
+    -918.0,
     -126.0
    ],
    "max": [
-    -160.0,
-    -785.0,
+    -210.0,
+    -844.0,
     66.0
    ],
    "inflated": true,
@@ -1193,6 +1193,83 @@
  },
  "push_volumes": [],
  "trigger_volumes": [],
+ "not_run": {
+  "classes": {
+   "game_player_equip": 1,
+   "logic_auto": 1,
+   "point_servercommand": 1
+  },
+  "switched_off": [
+   {
+    "class": "trigger_teleport",
+    "name": "surfcttelepad1",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     1506.0,
+     64.0,
+     482.0
+    ],
+    "max": [
+     1566.0,
+     66.0,
+     524.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "surfcttelepad2",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     1504.0,
+     64.0,
+     934.0
+    ],
+    "max": [
+     1564.0,
+     66.0,
+     976.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "surfttelepad1",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -288.0,
+     64.0,
+     452.0
+    ],
+    "max": [
+     -228.0,
+     66.0,
+     494.0
+    ]
+   },
+   {
+    "class": "trigger_teleport",
+    "name": "surfttelepad2",
+    "by": [
+     "func_button"
+    ],
+    "min": [
+     -286.0,
+     64.0,
+     860.0
+    ],
+    "max": [
+     -226.0,
+     66.0,
+     902.0
+    ]
+   }
+  ]
+ },
  "author": "Lagged",
  "kind": "arena",
  "notes": "Credit only, and deliberately no zones: combat surf. 30+30 team spawns, 36 AK47s and 36 M4A1s on the floor, a game_player_equip and weapon buttons. maps-conv-arena-surf-2. Not published."
