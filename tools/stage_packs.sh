@@ -11,7 +11,7 @@
 set -euo pipefail
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 OUT="${1:?usage: stage_packs.sh OUT [id...]}"; shift
-STORE="${MODEL_STORE:-${GS_ART_LIBRARY:-${DOT_ART_LIBRARY:-$HOME/art-library}}/models}"
+STORE="${MODEL_STORE:-${GS_ART_LIBRARY:-$HOME/art-library}/models}"
 CONVERT="${GS_MAP_CONVERT:-${GS_MAP_CONVERT:-$HERE/../gs-map-convert}}"
 IDS=("$@"); [ ${#IDS[@]} -gt 0 ] || mapfile -t IDS < <(cd "$HERE/maps" && ls)
 STAGED=()
