@@ -515,5 +515,434 @@
     "author": "smooth.nl",
     "source_url": "https://gamebanana.com/mods/123284",
     "removal_contact": "https://github.com/zees-games/fc-surf-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/01a5b64427984632bb44242da3813bb1"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Berk Gedik",
+    "url": "https://sketchfab.com/3d-models/none-01a5b64427984632bb44242da3813bb1",
+    "title": "Sketchfab model 01a5b6",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/093e5b05faa947729b1be24c013e563b"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Colin.Greenall",
+    "url": "https://sketchfab.com/3d-models/none-093e5b05faa947729b1be24c013e563b",
+    "title": "Sketchfab model 093e5b",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/0dc1c7d6cbab4d74bef7c4f82abf2caf"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "FlukierJupiter",
+    "url": "https://sketchfab.com/3d-models/none-0dc1c7d6cbab4d74bef7c4f82abf2caf",
+    "title": "Sketchfab model 0dc1c7",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/132a8ee2af3a40d39d270fbed3d3666c"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "HippoStance",
+    "url": "https://sketchfab.com/3d-models/none-132a8ee2af3a40d39d270fbed3d3666c",
+    "title": "Sketchfab model 132a8e",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/17cd007c38824321b184c763b1eec4e2"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Aike",
+    "url": "https://sketchfab.com/3d-models/none-17cd007c38824321b184c763b1eec4e2",
+    "title": "Sketchfab model 17cd00",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/1da1c21acb1f472c927c364b8429927b"
+    ],
+    "licence": "CC0-1.0",
+    "author": "Virtual Museums of Małopolska",
+    "url": "https://sketchfab.com/3d-models/none-1da1c21acb1f472c927c364b8429927b",
+    "title": "Sketchfab model 1da1c2",
+    "source": "Sketchfab",
+    "attribution": false
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/27a114c8a5a7476fb28c54a0177ee6c7"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "yxungsauce2",
+    "url": "https://sketchfab.com/3d-models/none-27a114c8a5a7476fb28c54a0177ee6c7",
+    "title": "Sketchfab model 27a114",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/3b631c600dd3454284958699bde08222"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Avadhoot",
+    "url": "https://sketchfab.com/3d-models/none-3b631c600dd3454284958699bde08222",
+    "title": "Sketchfab model 3b631c",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/431394ee886141349e187fb8dcc2307a"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "ditovirnantio",
+    "url": "https://sketchfab.com/3d-models/none-431394ee886141349e187fb8dcc2307a",
+    "title": "Sketchfab model 431394",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/504248ed68e3480a807aced6f002b2d5"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "HippoStance",
+    "url": "https://sketchfab.com/3d-models/none-504248ed68e3480a807aced6f002b2d5",
+    "title": "Sketchfab model 504248",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/5af99db17fb645bba7e55ace9e7b6b34"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Fantom Matter",
+    "url": "https://sketchfab.com/3d-models/none-5af99db17fb645bba7e55ace9e7b6b34",
+    "title": "Sketchfab model 5af99d",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/61b602b7e959408f9c6c5bf6392bc4b7"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "kubassa",
+    "url": "https://sketchfab.com/3d-models/none-61b602b7e959408f9c6c5bf6392bc4b7",
+    "title": "Sketchfab model 61b602",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/6468dd4d3eb240ef902b9057d9913606"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "evolveduk",
+    "url": "https://sketchfab.com/3d-models/none-6468dd4d3eb240ef902b9057d9913606",
+    "title": "Sketchfab model 6468dd",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/6b2862c241754f5d81690e8664e41091"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "sergeilihandristov",
+    "url": "https://sketchfab.com/3d-models/none-6b2862c241754f5d81690e8664e41091",
+    "title": "Sketchfab model 6b2862",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/6c95897de04143aeb5c75b7630707d27"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "The Lister",
+    "url": "https://sketchfab.com/3d-models/none-6c95897de04143aeb5c75b7630707d27",
+    "title": "Sketchfab model 6c9589",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/82797367c2b94fb1981e556577a3c898"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "HusarL",
+    "url": "https://sketchfab.com/3d-models/none-82797367c2b94fb1981e556577a3c898",
+    "title": "Sketchfab model 827973",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/8726b6c219a54ed585e096f267c2a35e"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "HASSAN",
+    "url": "https://sketchfab.com/3d-models/none-8726b6c219a54ed585e096f267c2a35e",
+    "title": "Sketchfab model 8726b6",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/8a1a2e0263aa401591c1e87d824a79ef"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "thethieme",
+    "url": "https://sketchfab.com/3d-models/none-8a1a2e0263aa401591c1e87d824a79ef",
+    "title": "Sketchfab model 8a1a2e",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/96534b56f0d9487db08f00f1f9301fa1"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Brainsick Games",
+    "url": "https://sketchfab.com/3d-models/none-96534b56f0d9487db08f00f1f9301fa1",
+    "title": "Sketchfab model 96534b",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/9c78bf2e37bb44a98a25db07ce749487"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Aleksey Kozhemyakin",
+    "url": "https://sketchfab.com/3d-models/none-9c78bf2e37bb44a98a25db07ce749487",
+    "title": "Sketchfab model 9c78bf",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/9d9ce79d3ae040619e96d5b22c7de1a6"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Daniel",
+    "url": "https://sketchfab.com/3d-models/none-9d9ce79d3ae040619e96d5b22c7de1a6",
+    "title": "Sketchfab model 9d9ce7",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/a8a6874f62da478f8572554959d3c62e"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Watanuki_San",
+    "url": "https://sketchfab.com/3d-models/none-a8a6874f62da478f8572554959d3c62e",
+    "title": "Sketchfab model a8a687",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/a8d7fe770fcf40ba8e257f5c73d2d55b"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Gherson",
+    "url": "https://sketchfab.com/3d-models/none-a8d7fe770fcf40ba8e257f5c73d2d55b",
+    "title": "Sketchfab model a8d7fe",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/af2f07d06f6349158c1d24d87f5ceb95"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "AK STUDIO",
+    "url": "https://sketchfab.com/3d-models/none-af2f07d06f6349158c1d24d87f5ceb95",
+    "title": "Sketchfab model af2f07",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/afed9756ba974d1395a336124ff326fd"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "DiggenDigga",
+    "url": "https://sketchfab.com/3d-models/none-afed9756ba974d1395a336124ff326fd",
+    "title": "Sketchfab model afed97",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/b0d0304c927b450d904163fa43978519"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "EXHALE",
+    "url": "https://sketchfab.com/3d-models/none-b0d0304c927b450d904163fa43978519",
+    "title": "Sketchfab model b0d030",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/c3fd982e932b4ac6951c58200d08f913"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "poala",
+    "url": "https://sketchfab.com/3d-models/none-c3fd982e932b4ac6951c58200d08f913",
+    "title": "Sketchfab model c3fd98",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/d141941578044b0f861ca83b36d4c411"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "sujirour",
+    "url": "https://sketchfab.com/3d-models/none-d141941578044b0f861ca83b36d4c411",
+    "title": "Sketchfab model d14194",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/d45218a3fab349e5b1de040f29e7b6f9"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "evolveduk",
+    "url": "https://sketchfab.com/3d-models/none-d45218a3fab349e5b1de040f29e7b6f9",
+    "title": "Sketchfab model d45218",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/d52b9c947f994d528e872f71a1cabba1"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Teilor Andersen",
+    "url": "https://sketchfab.com/3d-models/none-d52b9c947f994d528e872f71a1cabba1",
+    "title": "Sketchfab model d52b9c",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/d71ceeb303644e649d09fe8038aa5e47"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Wersaus33",
+    "url": "https://sketchfab.com/3d-models/none-d71ceeb303644e649d09fe8038aa5e47",
+    "title": "Sketchfab model d71cee",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/d799c08100974e1ba352fcd646cb0694"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Wersaus33",
+    "url": "https://sketchfab.com/3d-models/none-d799c08100974e1ba352fcd646cb0694",
+    "title": "Sketchfab model d799c0",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/da6507928c0c4a5c8776008cdb9f747e"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "by__Rx",
+    "url": "https://sketchfab.com/3d-models/none-da6507928c0c4a5c8776008cdb9f747e",
+    "title": "Sketchfab model da6507",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/e9832f38484f4f85b3f9081b51fa3799"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "AllQuad",
+    "url": "https://sketchfab.com/3d-models/none-e9832f38484f4f85b3f9081b51fa3799",
+    "title": "Sketchfab model e9832f",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/ea1ea4d5847b4550bc58ef4107df6f94"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "crazyshroomz",
+    "url": "https://sketchfab.com/3d-models/none-ea1ea4d5847b4550bc58ef4107df6f94",
+    "title": "Sketchfab model ea1ea4",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/eaaab08eac454e59840fa4818fc55ff3"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Mehdi Shahsavan",
+    "url": "https://sketchfab.com/3d-models/none-eaaab08eac454e59840fa4818fc55ff3",
+    "title": "Sketchfab model eaaab0",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/efc4dfe2c7284a64bc9281eb4f61d402"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Renafox",
+    "url": "https://sketchfab.com/3d-models/none-efc4dfe2c7284a64bc9281eb4f61d402",
+    "title": "Sketchfab model efc4df",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/f0742791a0ea432db1f432c24de83867"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "Siberia",
+    "url": "https://sketchfab.com/3d-models/none-f0742791a0ea432db1f432c24de83867",
+    "title": "Sketchfab model f07427",
+    "source": "Sketchfab",
+    "attribution": true
+  },
+  {
+    "paths": [
+      "model-library/sketchfab/f2ed9f555ff64eae95b408409cbff602"
+    ],
+    "licence": "CC-BY-4.0",
+    "author": "TampaJoey",
+    "url": "https://sketchfab.com/3d-models/none-f2ed9f555ff64eae95b408409cbff602",
+    "title": "Sketchfab model f2ed9f",
+    "source": "Sketchfab",
+    "attribution": true
   }
 ]
