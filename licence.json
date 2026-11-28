@@ -1230,5 +1230,16 @@
     "author": "JackTheStripper",
     "source_url": "https://gamebanana.com/mods/121880",
     "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_construction"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "surf_construction",
+    "author": "Lightning.",
+    "source_url": "https://gamebanana.com/mods/121859",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
   }
 ]

@@ -33,10 +33,10 @@ Gates run per map: `tools/check_teleports.py` and `tools/check_playable.py` (bot
 | `surf_flowing` | G-FLOW | ok | ok | ffa, tdm, gungame |
 | `surf_xiv_v3b` | SmOoth123 | ok | ok | ffa, tdm, gungame |
 | `surf_eternity_v1` | TheApexi | ok | ok | ffa, tdm, gungame |
+| `surf_construction` | see licence.json | ok | ok | ffa, tdm, gungame |
 
 ## Not converted
 
-- `surf_construction` (GameBanana 121859): 4562 brushes, `bsp_import.py` `merge_convex_brushes` does not finish in 40+ minutes. Tracked on nightly item fc-owner-maps-batch-2026-11-28.
 - Conflux: banned by the owner.
 
 ## Replaced

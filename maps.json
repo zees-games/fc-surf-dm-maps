@@ -439,6 +439,18 @@
       "author": "JackTheStripper",
       "source": "https://gamebanana.com/mods/121880",
       "bytes": 6185562
+    },
+    {
+      "id": "surf_construction",
+      "author": "Lightning. (GameBanana 121859)",
+      "source": "https://gamebanana.com/mods/121859",
+      "licence": "credited-community-map exception, textures and models replaced with free ones",
+      "published": true,
+      "modes": [
+        "ffa",
+        "tdm",
+        "gungame"
+      ]
     }
   ]
 }
