@@ -1,0 +1,821 @@
+{
+	"format": 1,
+	"mirrors": [],
+	"origin": "https://content.gamespice.net/content",
+	"packs": [
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf-ny-resist",
+			"into": "maps/surf_ny__resist",
+			"kind": "store",
+			"manifest_sha256": "d56ad774b2b83bdc220c6e380abe64c3784d85a8ff5fe3602d51d187828a9915",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "d56ad774b2b83bdc220c6e380abe64c3784d85a8ff5fe3602d51d187828a9915"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_10x_final",
+			"into": "maps/surf_10x_final",
+			"kind": "store",
+			"manifest_sha256": "c8e1c7b8d7e44dd7d631fcecf7970a4cbb220b0abcee6327af8d0fafb0cfc4f5",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "c8e1c7b8d7e44dd7d631fcecf7970a4cbb220b0abcee6327af8d0fafb0cfc4f5"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_10x_reloaded_fixed",
+			"into": "maps/surf_10x_reloaded_fixed",
+			"kind": "store",
+			"manifest_sha256": "21925422d4f6e9239cf2341c0438e6798c4d97927af373791d234ae2644e07df",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "21925422d4f6e9239cf2341c0438e6798c4d97927af373791d234ae2644e07df"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_110b_austinpowers",
+			"into": "maps/surf_110b_austinpowers",
+			"kind": "store",
+			"manifest_sha256": "ab2116caa7eb1bcf4ad3f3ab2125ac9d06d18b16090ba5b14321a7e62b54c2f4",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "ab2116caa7eb1bcf4ad3f3ab2125ac9d06d18b16090ba5b14321a7e62b54c2f4"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_2012_beta12",
+			"into": "maps/surf_2012_beta12",
+			"kind": "store",
+			"manifest_sha256": "367a26926dcb86349f3d346f990f57af8f2652c6212b6f372cedea9d92bb9203",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "367a26926dcb86349f3d346f990f57af8f2652c6212b6f372cedea9d92bb9203"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_29_12_06",
+			"into": "maps/surf_29_12_06",
+			"kind": "store",
+			"manifest_sha256": "f65366e4d78648249d8aecb128be410623d9e3f59c2c77acd984d1321a9be20b",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "f65366e4d78648249d8aecb128be410623d9e3f59c2c77acd984d1321a9be20b"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_2heaven_b1",
+			"into": "maps/surf_2heaven_b1",
+			"kind": "store",
+			"manifest_sha256": "055c7848452ddc7c11915f1fe210966750a7ba9d1bc36967420ecc950797528a",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "055c7848452ddc7c11915f1fe210966750a7ba9d1bc36967420ecc950797528a"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_adverse",
+			"into": "maps/surf_adverse",
+			"kind": "store",
+			"manifest_sha256": "93b7dc3cfad1729c87a4893d1c8cd48c0d7bb239e98f30546e3729336b32e928",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "93b7dc3cfad1729c87a4893d1c8cd48c0d7bb239e98f30546e3729336b32e928"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_ag_texture_final",
+			"into": "maps/surf_ag_texture_final",
+			"kind": "store",
+			"manifest_sha256": "b7a5e9892d4de494ded8a855c44327189a8d9d0c9308f77b166d18e76dfb5b2a",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "b7a5e9892d4de494ded8a855c44327189a8d9d0c9308f77b166d18e76dfb5b2a"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_aim_akcolt",
+			"into": "maps/surf_aim_akcolt",
+			"kind": "store",
+			"manifest_sha256": "869013bc737c35eefce42da8b947790b990858007e7fdb90c39cee9d7051d86c",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "869013bc737c35eefce42da8b947790b990858007e7fdb90c39cee9d7051d86c"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_akai_final",
+			"into": "maps/surf_akai_final",
+			"kind": "store",
+			"manifest_sha256": "305b31a098516b71e17b67477b0937eff64b027dfbe7237e3627b92c1239fbec",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "305b31a098516b71e17b67477b0937eff64b027dfbe7237e3627b92c1239fbec"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_amplitude_encore",
+			"into": "maps/surf_amplitude_encore",
+			"kind": "store",
+			"manifest_sha256": "ab1999cdc9a69e909cc3ee13a159a4ff8600720f9856386065f1629003bdc6e8",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "ab1999cdc9a69e909cc3ee13a159a4ff8600720f9856386065f1629003bdc6e8"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_banocanyon",
+			"into": "maps/surf_banocanyon",
+			"kind": "store",
+			"manifest_sha256": "262ff3fa48cda0b900c378ad9774e30da33c8d69bfa8cb12921953ab707f87de",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "262ff3fa48cda0b900c378ad9774e30da33c8d69bfa8cb12921953ab707f87de"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_bathroom_final",
+			"into": "maps/surf_bathroom_final",
+			"kind": "store",
+			"manifest_sha256": "d40179a76fca1aba235a0d472e82b6601e72022a6853fc89bca87569739613ad",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "d40179a76fca1aba235a0d472e82b6601e72022a6853fc89bca87569739613ad"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_bedroom",
+			"into": "maps/surf_bedroom",
+			"kind": "store",
+			"manifest_sha256": "7fdf6f86a2e8e9fb7bac9454b01e220abab1b4b4aaefb53c5cbe7ce74390bcd8",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "7fdf6f86a2e8e9fb7bac9454b01e220abab1b4b4aaefb53c5cbe7ce74390bcd8"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_buck_ed_up",
+			"into": "maps/surf_buck_ed_up",
+			"kind": "store",
+			"manifest_sha256": "1ce8f3d63fb6ae023116663479e02946d0dde258b82a8e668a98a568cdc861b5",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "1ce8f3d63fb6ae023116663479e02946d0dde258b82a8e668a98a568cdc861b5"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_buck_fever2",
+			"into": "maps/surf_buck_fever2",
+			"kind": "store",
+			"manifest_sha256": "593c50821d8de54166ca149a8984c2ca03e4abce8b891b318f20b2b342c56f65",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "593c50821d8de54166ca149a8984c2ca03e4abce8b891b318f20b2b342c56f65"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_buck_wild",
+			"into": "maps/surf_buck_wild",
+			"kind": "store",
+			"manifest_sha256": "cdc5f9fa4468e265c1d08ba3f7000c1843e838aad4fa9023068453154e0d59b4",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "cdc5f9fa4468e265c1d08ba3f7000c1843e838aad4fa9023068453154e0d59b4"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_buzzkill2",
+			"into": "maps/surf_buzzkill2",
+			"kind": "store",
+			"manifest_sha256": "c787bad630c32fcc085ddf5e4094379730d6769f8acf3b3dbab44bcf6a93e4d6",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "c787bad630c32fcc085ddf5e4094379730d6769f8acf3b3dbab44bcf6a93e4d6"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_concordia",
+			"into": "maps/surf_concordia",
+			"kind": "store",
+			"manifest_sha256": "d100f94269dd3a7ddf93b11aada52613ddc5518711389bf52d89d77867749995",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "d100f94269dd3a7ddf93b11aada52613ddc5518711389bf52d89d77867749995"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_construction",
+			"into": "maps/surf_construction",
+			"kind": "store",
+			"manifest_sha256": "aecc2bf1cc4500fbdd710b301db9b5fec5f612c15de37fc0af353a8b6c0d92b7",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "aecc2bf1cc4500fbdd710b301db9b5fec5f612c15de37fc0af353a8b6c0d92b7"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_crzyfrog_reloaded",
+			"into": "maps/surf_crzyfrog_reloaded",
+			"kind": "store",
+			"manifest_sha256": "86d00fad98e684d7163fca2d9bc81858665a60c8def8da6c3c7234d8c75ae921",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "86d00fad98e684d7163fca2d9bc81858665a60c8def8da6c3c7234d8c75ae921"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_dust2_2008_final",
+			"into": "maps/surf_dust2_2008_final",
+			"kind": "store",
+			"manifest_sha256": "fd52f66ec97b9dc87e1e577c2da64732390bfe71006243bda71b353806fa464e",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "fd52f66ec97b9dc87e1e577c2da64732390bfe71006243bda71b353806fa464e"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_dusty_roads",
+			"into": "maps/surf_dusty_roads",
+			"kind": "store",
+			"manifest_sha256": "c9a900394418af8701c335350d9a0d15fc0ebbfb4d26e9924eec0c370f0ae9b2",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "c9a900394418af8701c335350d9a0d15fc0ebbfb4d26e9924eec0c370f0ae9b2"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_eternity_v1",
+			"into": "maps/surf_eternity_v1",
+			"kind": "store",
+			"manifest_sha256": "1255bc3055c5c145ced386f381e48eb865f2e288187ea6dbf588d29570c02ab9",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "1255bc3055c5c145ced386f381e48eb865f2e288187ea6dbf588d29570c02ab9"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_fastspiral_retro",
+			"into": "maps/surf_fastspiral_retro",
+			"kind": "store",
+			"manifest_sha256": "5f2eb4c3f4397fcb44ecbaec770e2240ce27453d2ac2f28ccef5af99f42582fb",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "5f2eb4c3f4397fcb44ecbaec770e2240ce27453d2ac2f28ccef5af99f42582fb"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_flowing",
+			"into": "maps/surf_flowing",
+			"kind": "store",
+			"manifest_sha256": "2c847cd3cad1d60f9341c38d46e01210b233388e100ca6ca62e47386845c3ec1",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "2c847cd3cad1d60f9341c38d46e01210b233388e100ca6ca62e47386845c3ec1"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_forbidden_ways_2nd",
+			"into": "maps/surf_forbidden_ways_2nd",
+			"kind": "store",
+			"manifest_sha256": "01cf196e004d7e135caf80c141503a9ef9a7f776a124f06c1cda9103f57ae6f2",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "01cf196e004d7e135caf80c141503a9ef9a7f776a124f06c1cda9103f57ae6f2"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_forbidden_ways_reloaded",
+			"into": "maps/surf_forbidden_ways_reloaded",
+			"kind": "store",
+			"manifest_sha256": "de5106768329a10ac6f86c8b275a411ac8e9c5fe303e9a0acbaf06bfe65e1bde",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "de5106768329a10ac6f86c8b275a411ac8e9c5fe303e9a0acbaf06bfe65e1bde"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_fruits",
+			"into": "maps/surf_fruits",
+			"kind": "store",
+			"manifest_sha256": "f707cacc516af86809daebb17dd39574e49107e708662ac2f7d8ea50437c1f5f",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "f707cacc516af86809daebb17dd39574e49107e708662ac2f7d8ea50437c1f5f"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_funpark_reloaded_v1",
+			"into": "maps/surf_funpark_reloaded_v1",
+			"kind": "store",
+			"manifest_sha256": "4f45e40859353597c02db3e2f34f6562bc0275fcc9c14198efc7be3639da8f49",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "4f45e40859353597c02db3e2f34f6562bc0275fcc9c14198efc7be3639da8f49"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_gforce",
+			"into": "maps/surf_gforce",
+			"kind": "store",
+			"manifest_sha256": "b49446f14dc911e1149bf2a456e1af4d002f04a2e64d3e34a010c835d48e77a6",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "b49446f14dc911e1149bf2a456e1af4d002f04a2e64d3e34a010c835d48e77a6"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_grave_reloaded",
+			"into": "maps/surf_grave_reloaded",
+			"kind": "store",
+			"manifest_sha256": "9de90d31a39ccc5a6dd94932e2f375788e68bb36938f283bc4081ca176269b1d",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "9de90d31a39ccc5a6dd94932e2f375788e68bb36938f283bc4081ca176269b1d"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_greatriver",
+			"into": "maps/surf_greatriver",
+			"kind": "store",
+			"manifest_sha256": "99d16213f182071436dd26f871e74e7f5bcbbcd96bfe2f6ee6d7de5291585bc3",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "99d16213f182071436dd26f871e74e7f5bcbbcd96bfe2f6ee6d7de5291585bc3"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_greatriver_v4",
+			"into": "maps/surf_greatriver_v4",
+			"kind": "store",
+			"manifest_sha256": "da6f72d41ffb77525086292de6ff8bdf129f4252d734ff7e43ae0421fd1a5a6c",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "da6f72d41ffb77525086292de6ff8bdf129f4252d734ff7e43ae0421fd1a5a6c"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_greatriver_xdre4m",
+			"into": "maps/surf_greatriver_xdre4m",
+			"kind": "store",
+			"manifest_sha256": "a1e255d1f9b91254c8285ff5b330d7da42a3afaaab6402a02e1147d7756164b6",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "a1e255d1f9b91254c8285ff5b330d7da42a3afaaab6402a02e1147d7756164b6"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_i_hate_campers",
+			"into": "maps/surf_i_hate_campers",
+			"kind": "store",
+			"manifest_sha256": "f3691a30cbe00d224b9d7e649adfa61bc187f0e1cef9a2f918e488aceb128813",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "f3691a30cbe00d224b9d7e649adfa61bc187f0e1cef9a2f918e488aceb128813"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_japan_ptad",
+			"into": "maps/surf_japan_ptad",
+			"kind": "store",
+			"manifest_sha256": "fdc3e6f3bf08ba81761e05f9cfc793813bf62d76cf25042204aafcece197342d",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "fdc3e6f3bf08ba81761e05f9cfc793813bf62d76cf25042204aafcece197342d"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_legends",
+			"into": "maps/surf_legends",
+			"kind": "store",
+			"manifest_sha256": "089cb0e4ced268248d095f25fd06a82e207534ac8779cad1ebc5199aae893fa1",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "089cb0e4ced268248d095f25fd06a82e207534ac8779cad1ebc5199aae893fa1"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_machine",
+			"into": "maps/surf_machine",
+			"kind": "store",
+			"manifest_sha256": "4a6ed0641186a01d30f766e611b1e56793b6e5af6976823c0e1be1d480562fed",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "4a6ed0641186a01d30f766e611b1e56793b6e5af6976823c0e1be1d480562fed"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_machine2",
+			"into": "maps/surf_machine2",
+			"kind": "store",
+			"manifest_sha256": "d775ed3740975133b2b83a7d34011a65a47e26ed6fddbc6e656f95cbdd61885c",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "d775ed3740975133b2b83a7d34011a65a47e26ed6fddbc6e656f95cbdd61885c"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_machine_remix_final",
+			"into": "maps/surf_machine_remix_final",
+			"kind": "store",
+			"manifest_sha256": "650919ec2ce3c8d8e634ff205a156c0ccc24a40a133679f6bdeb29975e501361",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "650919ec2ce3c8d8e634ff205a156c0ccc24a40a133679f6bdeb29975e501361"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_machinery",
+			"into": "maps/surf_machinery",
+			"kind": "store",
+			"manifest_sha256": "7ae06b9d29e9c51b5642128bd854d54c53143bd5c93cd3f6ae5395c4a993a603",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "7ae06b9d29e9c51b5642128bd854d54c53143bd5c93cd3f6ae5395c4a993a603"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_mai_redone_final2",
+			"into": "maps/surf_mai_redone_final2",
+			"kind": "store",
+			"manifest_sha256": "ee603165b50963b84a0a6a3b74fe7ddf02d6119cd5318f76d1c06006edf108e8",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "ee603165b50963b84a0a6a3b74fe7ddf02d6119cd5318f76d1c06006edf108e8"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_mai_remix",
+			"into": "maps/surf_mai_remix",
+			"kind": "store",
+			"manifest_sha256": "0f9a386ba237c1dedb15f99f956ae3900dedef1c1e076672fbbd266b2aae01dc",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "0f9a386ba237c1dedb15f99f956ae3900dedef1c1e076672fbbd266b2aae01dc"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_matrix_v8",
+			"into": "maps/surf_matrix_v8",
+			"kind": "store",
+			"manifest_sha256": "fe86b211ab18fe20911166e4f9f52efd314aa10b73bd2d4b294b2ae35a356bf6",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "fe86b211ab18fe20911166e4f9f52efd314aa10b73bd2d4b294b2ae35a356bf6"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_megamachine",
+			"into": "maps/surf_megamachine",
+			"kind": "store",
+			"manifest_sha256": "d3b0f21bbd37aa0f35a16ea3e654f5d0a594c7616cd5825a6902e291d522a797",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "d3b0f21bbd37aa0f35a16ea3e654f5d0a594c7616cd5825a6902e291d522a797"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_meister_v3_final2",
+			"into": "maps/surf_meister_v3_final2",
+			"kind": "store",
+			"manifest_sha256": "a2d39d9aef38a715f4408a68f2990f5196add8a5f74a2bfe0c2a10e94d8d3cb3",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "a2d39d9aef38a715f4408a68f2990f5196add8a5f74a2bfe0c2a10e94d8d3cb3"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_melons",
+			"into": "maps/surf_melons",
+			"kind": "store",
+			"manifest_sha256": "e8117d2e5684e2ba455f907f6589031334f21bf5def27ba74102060122169efc",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "e8117d2e5684e2ba455f907f6589031334f21bf5def27ba74102060122169efc"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_ny_advance",
+			"into": "maps/surf_ny_advance",
+			"kind": "store",
+			"manifest_sha256": "32871b88ce0b62fa7d34d1d7335a071130093c31b2863cbab80fb086bf62d1d3",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "32871b88ce0b62fa7d34d1d7335a071130093c31b2863cbab80fb086bf62d1d3"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_ny_bigloop_2008a",
+			"into": "maps/surf_ny_bigloop_2008a",
+			"kind": "store",
+			"manifest_sha256": "655efa26f9f4c6fb12dfcaa0c9e53da3d0fa7536f55918fcad9df12c323548e9",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "655efa26f9f4c6fb12dfcaa0c9e53da3d0fa7536f55918fcad9df12c323548e9"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_ny_exploder_prime",
+			"into": "maps/surf_ny_exploder_prime",
+			"kind": "store",
+			"manifest_sha256": "364a36ea1710533795052c340888c1585630591303b40136d540a38fb9b40303",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "364a36ea1710533795052c340888c1585630591303b40136d540a38fb9b40303"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_olympics",
+			"into": "maps/surf_olympics",
+			"kind": "store",
+			"manifest_sha256": "f7eb37befb6ae16e360c138cf031e792236819d03b119d4cb2942f7643e6bc53",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "f7eb37befb6ae16e360c138cf031e792236819d03b119d4cb2942f7643e6bc53"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_parrot_selector",
+			"into": "maps/surf_parrot_selector",
+			"kind": "store",
+			"manifest_sha256": "308c267b4a2523ca79cc80cd581db571daee6f4b7e0221a7a7a966f549bb2409",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "308c267b4a2523ca79cc80cd581db571daee6f4b7e0221a7a7a966f549bb2409"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_pavilion",
+			"into": "maps/surf_pavilion",
+			"kind": "store",
+			"manifest_sha256": "8051a29f4d140fece9b269fa3a7dc69740d355899f5846094048400b2e31f416",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "8051a29f4d140fece9b269fa3a7dc69740d355899f5846094048400b2e31f416"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_phenomenon",
+			"into": "maps/surf_phenomenon",
+			"kind": "store",
+			"manifest_sha256": "d986c566ed4175744fda66fb27eba8ccf3e484a8b955e1464c4e709b5ac5b92f",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "d986c566ed4175744fda66fb27eba8ccf3e484a8b955e1464c4e709b5ac5b92f"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_poolday",
+			"into": "maps/surf_poolday",
+			"kind": "store",
+			"manifest_sha256": "6291d1ee30cfae330fae80d3c3e28e9255712b73617bb18ecdbb1ce540e60f5c",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "6291d1ee30cfae330fae80d3c3e28e9255712b73617bb18ecdbb1ce540e60f5c"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_pox",
+			"into": "maps/surf_pox",
+			"kind": "store",
+			"manifest_sha256": "4854d645c03ec5bffe0fd01452e419f789f9980e7beb4cb489c14ba97dcd8502",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "4854d645c03ec5bffe0fd01452e419f789f9980e7beb4cb489c14ba97dcd8502"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_prisoner_v2",
+			"into": "maps/surf_prisoner_v2",
+			"kind": "store",
+			"manifest_sha256": "73d72da45184bca39219752a67ac6771914e1bb086263bc4aaeddf4af29685c0",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "73d72da45184bca39219752a67ac6771914e1bb086263bc4aaeddf4af29685c0"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_rebel_resistance_final3",
+			"into": "maps/surf_rebel_resistance_final3",
+			"kind": "store",
+			"manifest_sha256": "434f9c77bd7eb5add4f7537f114cf9b5a043d9e4a1df122190de5a824a5305d4",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "434f9c77bd7eb5add4f7537f114cf9b5a043d9e4a1df122190de5a824a5305d4"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_skate_park_v2",
+			"into": "maps/surf_skate_park_v2",
+			"kind": "store",
+			"manifest_sha256": "dc537ac9d1dd010e0de139d2e6226c4be39552e43e3a4bdd4c5af582dfa715e3",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "dc537ac9d1dd010e0de139d2e6226c4be39552e43e3a4bdd4c5af582dfa715e3"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_ski_2",
+			"into": "maps/surf_ski_2",
+			"kind": "store",
+			"manifest_sha256": "4e71bc07381df08c70ee2be8505390066a6b67822d569a5fda762894ee7b402e",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "4e71bc07381df08c70ee2be8505390066a6b67822d569a5fda762894ee7b402e"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_ski_2_source",
+			"into": "maps/surf_ski_2_source",
+			"kind": "store",
+			"manifest_sha256": "67a5316715d8f0efd34c1258512b5bad1330973b030a07789ddb6ac3127094fd",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "67a5316715d8f0efd34c1258512b5bad1330973b030a07789ddb6ac3127094fd"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_skyscraper",
+			"into": "maps/surf_skyscraper",
+			"kind": "store",
+			"manifest_sha256": "edf564e1ec4eec5f802487cbfd36e3da069847d0da5ae4a36942c5963130081a",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "edf564e1ec4eec5f802487cbfd36e3da069847d0da5ae4a36942c5963130081a"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_skyworld",
+			"into": "maps/surf_skyworld",
+			"kind": "store",
+			"manifest_sha256": "2e0230b20e7e5e9d2f0060dbf81337a1fd81a802a9b3d14b1ae72157d8418e1e",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "2e0230b20e7e5e9d2f0060dbf81337a1fd81a802a9b3d14b1ae72157d8418e1e"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_snipers_island",
+			"into": "maps/surf_snipers_island",
+			"kind": "store",
+			"manifest_sha256": "84c3c95f0fa60cab32ade337c0a70722800def54ce9be332acbedd881e601c61",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "84c3c95f0fa60cab32ade337c0a70722800def54ce9be332acbedd881e601c61"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_snowycave",
+			"into": "maps/surf_snowycave",
+			"kind": "store",
+			"manifest_sha256": "245d030f7e09982034ad0a573fb6780e7de267adfc64a784a743c795e1f2e752",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "245d030f7e09982034ad0a573fb6780e7de267adfc64a784a743c795e1f2e752"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_the_flow",
+			"into": "maps/surf_the_flow",
+			"kind": "store",
+			"manifest_sha256": "098a16410859dec43e11c707439ae5f8617505dad2d455bb2bc5d51c14d4e49a",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "098a16410859dec43e11c707439ae5f8617505dad2d455bb2bc5d51c14d4e49a"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_the_gloaming",
+			"into": "maps/surf_the_gloaming",
+			"kind": "store",
+			"manifest_sha256": "a354e04fec5dd696f0815c51b3a66665e4d7d1bb7634bc50124b9cec49f1dd31",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "a354e04fec5dd696f0815c51b3a66665e4d7d1bb7634bc50124b9cec49f1dd31"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_thriller",
+			"into": "maps/surf_thriller",
+			"kind": "store",
+			"manifest_sha256": "7b855beb1c75ccff1216635719fe51955bc8bd7c2907d66b4cc44d3d19b9320d",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "7b855beb1c75ccff1216635719fe51955bc8bd7c2907d66b4cc44d3d19b9320d"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_torque2",
+			"into": "maps/surf_torque2",
+			"kind": "store",
+			"manifest_sha256": "41d04d205e1fa746a2cfba599f4f5a8cbfcbd1e9a84f549fa42c3a528673e541",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "41d04d205e1fa746a2cfba599f4f5a8cbfcbd1e9a84f549fa42c3a528673e541"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_velocity",
+			"into": "maps/surf_velocity",
+			"kind": "store",
+			"manifest_sha256": "1b05576ac9059b9883587317250be4018a4df00e2bc2a9e7d103739fcb9b2960",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "1b05576ac9059b9883587317250be4018a4df00e2bc2a9e7d103739fcb9b2960"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_vindictive",
+			"into": "maps/surf_vindictive",
+			"kind": "store",
+			"manifest_sha256": "754e7f8d84228599eaa87868c21d73a8fb2d069b95b38a3384c81da0609196ca",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "754e7f8d84228599eaa87868c21d73a8fb2d069b95b38a3384c81da0609196ca"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		},
+		{
+			"id": "gamemann/fc-surf-dm-maps-surf_xiv_v3b",
+			"into": "maps/surf_xiv_v3b",
+			"kind": "store",
+			"manifest_sha256": "faeb224c6591e8c6162ea5a3434f8125eaab957cc72250896b8e1c18e659189b",
+			"manifest_sha256_by_origin": {
+				"https://dev.dotgames.org/content": "faeb224c6591e8c6162ea5a3434f8125eaab957cc72250896b8e1c18e659189b"
+			},
+			"optional": true,
+			"version": "1.2.4"
+		}
+	]
+}

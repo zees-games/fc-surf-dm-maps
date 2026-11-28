@@ -5,3 +5,5 @@ __pycache__/
 /model-library/
 /pbr-library/
 /sources/
+/maps/*
+!/maps/.gitkeep
