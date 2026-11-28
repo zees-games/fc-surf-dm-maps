@@ -18632,5 +18632,10 @@
  },
  "author": "faj",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a race-and-fight surf round, not a timed route. 18 team spawns a side, 6 game_player_equip, four func_rot_buttons and a cart (death_kart, deposit_cart); its 71 trigger_teleports aim at nine section starts (p1s1..p3s3) and a last room (p4), and ten start-disabled jail_dest_* teleports that the round enables over each section once somebody wins. This importer runs no outputs, so there is no route to time without inventing one. gb-maps-2. Not published."
+ "notes": "Credit only, and deliberately no zones: a race-and-fight surf round, not a timed route. 18 team spawns a side, 6 game_player_equip, four func_rot_buttons and a cart (death_kart, deposit_cart); its 71 trigger_teleports aim at nine section starts (p1s1..p3s3) and a last room (p4), and ten start-disabled jail_dest_* teleports that the round enables over each section once somebody wins. This importer runs no outputs, so there is no route to time without inventing one. gb-maps-2. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

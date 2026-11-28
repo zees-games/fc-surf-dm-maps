@@ -1585,5 +1585,10 @@
  },
  "author": "Loller Dan",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: combat surf. Scouts and knives at the start, weapons scattered, teleporters back to the surf, a pirate ship that becomes a bomb zone after two minutes (not run)."
+ "notes": "Credit only, and deliberately no zones: combat surf. Scouts and knives at the start, weapons scattered, teleporters back to the surf, a pirate ship that becomes a bomb zone after two minutes (not run).",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

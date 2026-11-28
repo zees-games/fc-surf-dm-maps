@@ -4772,5 +4772,10 @@
  ],
  "author": "BeNnY",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). 27 placed weapons and 57 func_buttons (weapon and trap buttons); teleports aim at team spawns, 'noob', 'above' and the top -- combat. gb-maps-1 batch of 2026-10-09. Not published."
+ "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). 27 placed weapons and 57 func_buttons (weapon and trap buttons); teleports aim at team spawns, 'noob', 'above' and the top -- combat. gb-maps-1 batch of 2026-10-09. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

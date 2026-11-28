@@ -10758,5 +10758,10 @@
  "display_name": "surf: buck-wild",
  "author": "buck nasty",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). 125 placed weapons, team spawns, jail1 and a 'bye_bye_room'; teleports return players to the top, the middle or their spawn. gb-maps-1 batch of 2026-10-09. Not published."
+ "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). 125 placed weapons, team spawns, jail1 and a 'bye_bye_room'; teleports return players to the top, the middle or their spawn. gb-maps-1 batch of 2026-10-09. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

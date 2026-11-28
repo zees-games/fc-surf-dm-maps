@@ -5355,5 +5355,10 @@
  },
  "author": "Krusty and three others",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: combat surf. 20/21 team spawns, AWPs, deagles and grenades placed, three game_player_equip, jails (jail1, jail2, jail_tele) and every other teleport aimed at noob_teleport_1..4 or the ramp top. The black sky is the map's own (skyname sky_schwarz_). chk-maps run 64. Not published."
+ "notes": "Credit only, and deliberately no zones: combat surf. 20/21 team spawns, AWPs, deagles and grenades placed, three game_player_equip, jails (jail1, jail2, jail_tele) and every other teleport aimed at noob_teleport_1..4 or the ramp top. The black sky is the map's own (skyname sky_schwarz_). chk-maps run 64. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

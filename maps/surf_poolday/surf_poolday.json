@@ -2327,5 +2327,10 @@
  "trigger_volumes": [],
  "author": "iceeater",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: combat surf. 16+16 team spawns, AWPs, rifles and a bomb target, buyzones; teleports are the map's pits. maps-conv-arena-surf-2. Not published."
+ "notes": "Credit only, and deliberately no zones: combat surf. 16+16 team spawns, AWPs, rifles and a bomb target, buyzones; teleports are the map's pits. maps-conv-arena-surf-2. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

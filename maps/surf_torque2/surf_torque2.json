@@ -35867,5 +35867,10 @@
  },
  "author": "Sangre Nueva",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a race round with an end jail. 35 team spawns a side, 10 game_player_equip, gun buttons per level (gun_lvl1..gun_lvlbonus), glass that breaks when the first player through reaches each level, an Endround_tele and a knife-fight end jail with saw blades and rockets. Its 114 trigger_teleports are level spawns enabled and disabled by that system (spawn_lvl3, spawn4 behind cheat_protection, lvl2_spawn behind bonus_entry_denied). gb-maps-2. Not published."
+ "notes": "Credit only, and deliberately no zones: a race round with an end jail. 35 team spawns a side, 10 game_player_equip, gun buttons per level (gun_lvl1..gun_lvlbonus), glass that breaks when the first player through reaches each level, an Endround_tele and a knife-fight end jail with saw blades and rockets. Its 114 trigger_teleports are level spawns enabled and disabled by that system (spawn_lvl3, spawn4 behind cheat_protection, lvl2_spawn behind bonus_entry_denied). gb-maps-2. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

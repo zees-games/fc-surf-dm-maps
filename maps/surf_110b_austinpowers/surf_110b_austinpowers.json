@@ -7023,5 +7023,10 @@
  ],
  "author": "TheInvoker",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones (gb-maps-1): a combat surf map with no finish -- weapon-and-ammo teleporters per team (deagle, elites, usp, glock exits), jails, a sniper nest and 'campers heaven'. Every trigger_teleport aims back at a spawn, a jail or the top of a ramp, so there is a loop to fight on and no line a run could end at. Not published."
+ "notes": "Credit only, and deliberately no zones (gb-maps-1): a combat surf map with no finish -- weapon-and-ammo teleporters per team (deagle, elites, usp, glock exits), jails, a sniper nest and 'campers heaven'. Every trigger_teleport aims back at a spawn, a jail or the top of a ramp, so there is a loop to fight on and no line a run could end at. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

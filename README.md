@@ -8,6 +8,19 @@ Every map is somebody else's work, made for the genre years ago and imported so 
 
 FC ships with its three built-in maps only. A server that wants these names them in its content configuration. Each map is its own signed pack, `gamemann/fc-surf-dm-maps-<map id>`, fetched the first time the server changes to it, so a player downloads only the map that is running. Keeping them here means a map can be added, fixed or withdrawn without a game release.
 
+## Which maps host which modes
+
+Every map hosts free-for-all, team deathmatch and gun game. The terrorist and counter-terrorist spawns of the genre are the red and blue team spawns, so the teams start apart and a map's start and finish teleports are untouched. `tools/check_modes.py` fails when a map lacks one of the modes or cannot give two teams of 4 spawns, and writes this table from `zones/<id>.json` (`--write`).
+
+<!-- modes:start -->
+<!-- written by tools/check_modes.py --write; edit zones/<id>.json instead -->
+
+| Maps | Modes |
+| --- | --- |
+| every map (74) | free-for-all, gun game, team deathmatch |
+
+<!-- modes:end -->
+
 ## Layout
 
 | Path | Contents |

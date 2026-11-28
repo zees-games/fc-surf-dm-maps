@@ -10774,5 +10774,10 @@
  },
  "author": "SintaxError",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). Team spawns split by team filters, 27 func_buttons and 10 env_entity_makers for weapons, 64 placed rifles, and 57 trigger_teleports of which nearly all aim at jaildest1..4, jailtop1..3 or a team spawn -- jails and a loop, not a route. gb-maps-1. Not published."
+ "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). Team spawns split by team filters, 27 func_buttons and 10 env_entity_makers for weapons, 64 placed rifles, and 57 trigger_teleports of which nearly all aim at jaildest1..4, jailtop1..3 or a team spawn -- jails and a loop, not a route. gb-maps-1. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

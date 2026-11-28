@@ -5400,5 +5400,10 @@
  ],
  "author": "ptad, monkeydie",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). 90 placed weapons, 18 func_buttons, a catacomb and castle with trapdoor and fire traps, and team spawn teleports -- combat. gb-maps-1 batch of 2026-10-09. Not published."
+ "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). 90 placed weapons, 18 func_buttons, a catacomb and castle with trapdoor and fire traps, and team spawn teleports -- combat. gb-maps-1 batch of 2026-10-09. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }
