@@ -564,7 +564,8 @@
    266.0,
    -424.0
   ],
-  "yaw": 90.0
+  "yaw": 90.0,
+  "team": "red"
  },
  "spawns": [
   {
@@ -573,7 +574,8 @@
     266.0,
     -424.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "red"
   },
   {
    "origin": [
@@ -581,7 +583,8 @@
     266.0,
     -480.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "red"
   },
   {
    "origin": [
@@ -589,7 +592,8 @@
     264.0,
     -344.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "blue"
   },
   {
    "origin": [
@@ -597,7 +601,8 @@
     264.0,
     -288.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "blue"
   },
   {
    "origin": [
@@ -605,7 +610,8 @@
     264.0,
     -344.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "blue"
   },
   {
    "origin": [
@@ -613,7 +619,8 @@
     264.0,
     -288.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "blue"
   },
   {
    "origin": [
@@ -621,7 +628,8 @@
     266.0,
     -480.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "red"
   },
   {
    "origin": [
@@ -629,7 +637,8 @@
     266.0,
     -424.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "red"
   },
   {
    "origin": [
@@ -637,7 +646,8 @@
     391.0,
     -288.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "blue"
   },
   {
    "origin": [
@@ -645,7 +655,8 @@
     391.0,
     -344.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "blue"
   },
   {
    "origin": [
@@ -653,7 +664,8 @@
     391.0,
     -344.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "blue"
   },
   {
    "origin": [
@@ -661,7 +673,8 @@
     391.0,
     -288.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "blue"
   },
   {
    "origin": [
@@ -669,7 +682,8 @@
     391.0,
     -480.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "red"
   },
   {
    "origin": [
@@ -677,7 +691,8 @@
     391.0,
     -424.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "red"
   },
   {
    "origin": [
@@ -685,7 +700,8 @@
     391.0,
     -424.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "red"
   },
   {
    "origin": [
@@ -693,7 +709,8 @@
     391.0,
     -480.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "red"
   },
   {
    "origin": [
@@ -701,7 +718,8 @@
     511.0,
     -480.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "red"
   },
   {
    "origin": [
@@ -709,7 +727,8 @@
     511.0,
     -480.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "red"
   },
   {
    "origin": [
@@ -717,7 +736,8 @@
     511.0,
     -344.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "blue"
   },
   {
    "origin": [
@@ -725,7 +745,8 @@
     511.0,
     -288.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "blue"
   },
   {
    "origin": [
@@ -733,7 +754,8 @@
     511.0,
     -288.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "blue"
   },
   {
    "origin": [
@@ -741,7 +763,8 @@
     511.0,
     -344.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "blue"
   },
   {
    "origin": [
@@ -749,7 +772,8 @@
     511.0,
     -424.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "red"
   },
   {
    "origin": [
@@ -757,7 +781,8 @@
     511.0,
     -424.0
    ],
-   "yaw": 90.0
+   "yaw": 90.0,
+   "team": "red"
   }
  ],
  "min_zone_thickness": 192.0,
@@ -5870,6 +5895,12 @@
  },
  "push_volumes": [],
  "trigger_volumes": [],
+ "not_run": {
+  "classes": {
+   "game_player_equip": 1
+  },
+  "switched_off": []
+ },
  "author": "[Happy-camper] Flan",
  "kind": "arena",
  "notes": "Credit only, and deliberately no zones: combat surf map built to fight on. Teleports are the map's pits. maps-conv-arena-surf-2. Not published."
