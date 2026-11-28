@@ -2698,27 +2698,6 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
-    -7354.99,
-    2923.0,
-    -3030.0
-   ],
-   "max": [
-    -7265.99,
-    3292.0,
-    -2938.0
-   ],
-   "inflated": true,
-   "destination": [
-    15784.0,
-    15652.0,
-    -79.0
-   ],
-   "destination_yaw": 90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
     -2529.0,
     5228.0,
     -6154.0
@@ -3351,7 +3330,8 @@
  },
  "teleport_audit": {
   "teleports": 78,
-  "pits": 78,
+  "pits": 77,
+  "claimed": 1,
   "broken": []
  },
  "respawn_volumes": [
@@ -4725,34 +4705,6 @@
     2007.0,
     3776.0,
     7728.0
-   ]
-  },
-  {
-   "min": [
-    -7354.99,
-    2938.0,
-    2923.0
-   ],
-   "max": [
-    -7265.99,
-    3030.0,
-    3292.0
-   ],
-   "inflated": true,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "stood": false,
-   "track": 0,
-   "original_min": [
-    -7338.99,
-    2954.0,
-    2923.0
-   ],
-   "original_max": [
-    -7281.99,
-    3014.0,
-    3292.0
    ]
   },
   {

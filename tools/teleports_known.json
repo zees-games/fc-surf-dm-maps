@@ -1,0 +1,6 @@
+{
+  "surf_greatriver_xdre4m": {
+    "fails": {"wrong_destination": 1},
+    "reason": "a neighbouring teleport's grown (inflated) pit covers trigger #147 -> midspawn first, so its centre lands at (4034, 3385, 4034); importer pit growth must stop at another live teleport (nightly surf-teleport-1 note)"
+  }
+}

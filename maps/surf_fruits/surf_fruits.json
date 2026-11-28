@@ -10491,22 +10491,22 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
-    -12088.0,
-    -2792.0,
-    4337.0
+    -11744.0,
+    -1456.0,
+    552.0
    ],
    "max": [
-    -10040.0,
-    -2408.0,
-    7409.0
+    -11552.0,
+    -1264.0,
+    744.0
    ],
-   "inflated": false,
+   "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    7113.0
    ],
-   "destination_yaw": 180.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -10523,30 +10523,9 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
-   ],
-   "destination_yaw": 180.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    -11744.0,
-    -1456.0,
-    552.0
-   ],
-   "max": [
-    -11552.0,
-    -1264.0,
-    744.0
-   ],
-   "inflated": true,
-   "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    4633.0
    ],
    "destination_yaw": 180.0
   },
@@ -10565,11 +10544,11 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    7113.0
    ],
-   "destination_yaw": 180.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -10586,9 +10565,9 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    4633.0
    ],
    "destination_yaw": 180.0
   },
@@ -10607,11 +10586,11 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    7113.0
    ],
-   "destination_yaw": 180.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -10628,9 +10607,9 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    4633.0
    ],
    "destination_yaw": 180.0
   },
@@ -10649,11 +10628,11 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    7113.0
    ],
-   "destination_yaw": 180.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -10670,9 +10649,9 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    4633.0
    ],
    "destination_yaw": 180.0
   },
@@ -10691,11 +10670,11 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    7113.0
    ],
-   "destination_yaw": 180.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -10712,9 +10691,9 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    4633.0
    ],
    "destination_yaw": 180.0
   },
@@ -10733,11 +10712,11 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    7113.0
    ],
-   "destination_yaw": 180.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -10754,9 +10733,9 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    4633.0
    ],
    "destination_yaw": 180.0
   },
@@ -10775,11 +10754,11 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    7113.0
    ],
-   "destination_yaw": 180.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -10796,9 +10775,9 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    4633.0
    ],
    "destination_yaw": 180.0
   },
@@ -10817,11 +10796,11 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    7113.0
    ],
-   "destination_yaw": 180.0
+   "destination_yaw": 0.0
   },
   {
    "kind": "RESPAWN",
@@ -10838,9 +10817,9 @@
    ],
    "inflated": true,
    "destination": [
-    -9752.0,
-    -2624.0,
-    4078.0
+    -11080.0,
+    -2552.0,
+    4633.0
    ],
    "destination_yaw": 180.0
   },
@@ -10892,8 +10871,9 @@
  },
  "teleport_audit": {
   "teleports": 97,
-  "pits": 84,
-  "claimed": 13,
+  "pits": 83,
+  "claimed": 14,
+  "drawn_overlap": 8,
   "broken": []
  },
  "respawn_volumes": [
@@ -18231,34 +18211,6 @@
     2055.0,
     4711.0,
     -7982.0
-   ]
-  },
-  {
-   "min": [
-    -12088.0,
-    -7409.0,
-    -2792.0
-   ],
-   "max": [
-    -10040.0,
-    -4337.0,
-    -2408.0
-   ],
-   "inflated": false,
-   "hung": false,
-   "cleared": false,
-   "trimmed": false,
-   "stood": false,
-   "track": 0,
-   "original_min": [
-    -12088.0,
-    -7409.0,
-    -2792.0
-   ],
-   "original_max": [
-    -10040.0,
-    -4337.0,
-    -2408.0
    ]
   },
   {

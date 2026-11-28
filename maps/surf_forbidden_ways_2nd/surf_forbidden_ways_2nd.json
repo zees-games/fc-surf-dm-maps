@@ -2423,48 +2423,6 @@
    "kind": "RESPAWN",
    "track": 0,
    "min": [
-    7472.0,
-    -11232.0,
-    9240.0
-   ],
-   "max": [
-    7512.0,
-    -11040.0,
-    9312.0
-   ],
-   "inflated": true,
-   "destination": [
-    -113.0,
-    -7057.0,
-    655.0
-   ],
-   "destination_yaw": 90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
-    7676.0,
-    -11956.0,
-    2118.0
-   ],
-   "max": [
-    7736.0,
-    -11841.0,
-    2182.0
-   ],
-   "inflated": true,
-   "destination": [
-    8624.0,
-    -11887.0,
-    2384.0
-   ],
-   "destination_yaw": -90.0
-  },
-  {
-   "kind": "RESPAWN",
-   "track": 0,
-   "min": [
     8892.0,
     -11956.0,
     2327.0
@@ -3433,7 +3391,8 @@
  },
  "teleport_audit": {
   "teleports": 77,
-  "pits": 77,
+  "pits": 75,
+  "claimed": 2,
   "broken": []
  },
  "respawn_volumes": [
@@ -5227,62 +5186,6 @@
     8016.6,
     -9274.0,
     -10997.0
-   ]
-  },
-  {
-   "min": [
-    7472.0,
-    -9312.0,
-    -11232.0
-   ],
-   "max": [
-    7512.0,
-    -9240.0,
-    -11040.0
-   ],
-   "inflated": true,
-   "hung": true,
-   "cleared": false,
-   "trimmed": false,
-   "stood": false,
-   "track": 0,
-   "original_min": [
-    7488.0,
-    -9296.0,
-    -11088.0
-   ],
-   "original_max": [
-    7496.0,
-    -9256.0,
-    -11040.0
-   ]
-  },
-  {
-   "min": [
-    7676.0,
-    -2182.0,
-    -11956.0
-   ],
-   "max": [
-    7736.0,
-    -2118.0,
-    -11841.0
-   ],
-   "inflated": true,
-   "hung": true,
-   "cleared": false,
-   "trimmed": false,
-   "stood": true,
-   "track": 0,
-   "original_min": [
-    7692.0,
-    -2166.0,
-    -11904.0
-   ],
-   "original_max": [
-    7720.0,
-    -2134.0,
-    -11841.0
    ]
   },
   {
