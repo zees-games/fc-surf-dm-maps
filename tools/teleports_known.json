@@ -2,5 +2,13 @@
   "surf_greatriver_xdre4m": {
     "fails": {"wrong_destination": 1},
     "reason": "a neighbouring teleport's grown (inflated) pit covers trigger #147 -> midspawn first, so its centre lands at (4034, 3385, 4034); importer pit growth must stop at another live teleport (nightly surf-teleport-1 note)"
+  },
+  "surf_concordia": {
+    "fails": {"wrong_destination": 2},
+    "reason": "team-filtered pairs t_filter/ct_filter (jail #65/#66, spawn pit #231/#232) overlap one pit; the ct_filter side is dropped (conditional_teleports) and the checker still holds the CT trigger to its own target; nothing in this game is team-filtered"
+  },
+  "surf_crzyfrog_reloaded": {
+    "fails": {"wrong_destination": 1},
+    "reason": "team-filtered pair tfilter/ctfilter (#766/#767) over one pit; the ctfilter side is dropped (conditional_teleports) and the checker still holds #767 to its own target"
   }
 }

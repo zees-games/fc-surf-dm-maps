@@ -1,0 +1,24 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "Gamespice",
+    "url": "https://github.com/zees-games/fc-surf-dm-maps",
+    "title": "fc-surf-dm-maps (original content)"
+  },
+  {
+    "paths": [
+      "surf_buck_ed_up",
+      "textures/",
+      "worlds/surf_buck_ed_up/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Buck Ed Up",
+    "author": "BuckNasty",
+    "source_url": "https://gamebanana.com/mods/121784",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  }
+]

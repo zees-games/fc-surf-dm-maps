@@ -1,0 +1,1013 @@
+{
+ "id": "surf_snowycave",
+ "source": "surf_snowycave.bsp",
+ "units": "genre units (Source units), Godot axes; x metres = x * 0.01905",
+ "tier": 3,
+ "bounds": {
+  "min": [
+   -7936.0,
+   -6656.0,
+   4864.0
+  ],
+  "max": [
+   4608.0,
+   4704.0,
+   -3072.0
+  ]
+ },
+ "lightmap": {
+  "file": "surf_snowycave_lightmap.png",
+  "width": 1024,
+  "height": 2048
+ },
+ "lighting": {
+  "sun": {
+   "yaw_src": 1.0,
+   "pitch_src": -59.0,
+   "colour": [
+    0.396078431372549,
+    0.37254901960784315,
+    0.403921568627451
+   ],
+   "brightness": 590.0,
+   "ambient_colour": [
+    0.8823529411764706,
+    1.0,
+    0.984313725490196
+   ],
+   "ambient_brightness": 20.0,
+   "spread_degrees": 0.0
+  },
+  "sky_name": "militia_hdr",
+  "baked_light_count": 0
+ },
+ "surfaces": [
+  {
+   "material": "concrete/concwsnow01",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 0,
+   "vertex_count": 283,
+   "index_offset": 11320,
+   "index_count": 459,
+   "colour": [
+    0.6909,
+    0.6999,
+    0.6841
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "concrete/concwsnow01",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 13156,
+   "vertex_count": 47,
+   "index_offset": 15036,
+   "index_count": 81,
+   "colour": [
+    0.6909,
+    0.6999,
+    0.6841
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "concrete/offflrasnow",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 15360,
+   "vertex_count": 204,
+   "index_offset": 23520,
+   "index_count": 324,
+   "colour": [
+    0.6265,
+    0.6406,
+    0.6442
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "concrete/offflrasnow",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 24816,
+   "vertex_count": 73,
+   "index_offset": 27736,
+   "index_count": 135,
+   "colour": [
+    0.6265,
+    0.6406,
+    0.6442
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "ground/snow01",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 28276,
+   "vertex_count": 788,
+   "index_offset": 59796,
+   "index_count": 1314,
+   "colour": [
+    0.8307,
+    0.853,
+    0.868
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "ground/snow01",
+   "role": "RAMP",
+   "prototype": true,
+   "vertex_offset": 65052,
+   "vertex_count": 445,
+   "index_offset": 82852,
+   "index_count": 753,
+   "colour": [
+    0.8307,
+    0.853,
+    0.868
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "nature/snowwall001a",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 85864,
+   "vertex_count": 5363,
+   "index_offset": 300384,
+   "index_count": 8535,
+   "colour": [
+    0.7544,
+    0.7839,
+    0.8205
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "nature/snowwall001a",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 334524,
+   "vertex_count": 282,
+   "index_offset": 345804,
+   "index_count": 492,
+   "colour": [
+    0.7544,
+    0.7839,
+    0.8205
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "nature/snowwall001a",
+   "role": "RAMP",
+   "prototype": true,
+   "vertex_offset": 347772,
+   "vertex_count": 77,
+   "index_offset": 350852,
+   "index_count": 123,
+   "colour": [
+    0.7544,
+    0.7839,
+    0.8205
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "nature/water_dx70_beneath",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 351344,
+   "vertex_count": 296,
+   "index_offset": 363184,
+   "index_count": 492,
+   "colour": [
+    0.6902,
+    0.6947,
+    0.6955
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "nature/water_dx70_beneath",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 365152,
+   "vertex_count": 168,
+   "index_offset": 371872,
+   "index_count": 264,
+   "colour": [
+    0.6902,
+    0.6947,
+    0.6955
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "nature/water_lowmurkref_dx70",
+   "role": "FLOOR",
+   "prototype": true,
+   "vertex_offset": 372928,
+   "vertex_count": 292,
+   "index_offset": 384608,
+   "index_count": 480,
+   "colour": [
+    0.6902,
+    0.6947,
+    0.6955
+   ],
+   "texture": null,
+   "translucent": false
+  },
+  {
+   "material": "nature/water_lowmurkref_dx70",
+   "role": "PLATFORM",
+   "prototype": true,
+   "vertex_offset": 386528,
+   "vertex_count": 172,
+   "index_offset": 393408,
+   "index_count": 276,
+   "colour": [
+    0.6902,
+    0.6947,
+    0.6955
+   ],
+   "texture": null,
+   "translucent": false
+  }
+ ],
+ "collision": {
+  "hull_count": 44,
+  "hull_offset": 394512,
+  "displacement_vertex_offset": 398936,
+  "displacement_vertex_count": 0,
+  "displacement_index_offset": 398936,
+  "displacement_index_count": 0,
+  "playerclip_hulls": 0,
+  "prop_hulls": 0,
+  "hull_kinds": {
+   "sky": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+   ]
+  }
+ },
+ "skybox": null,
+ "static_props": {
+  "placed": 0,
+  "drawn": 0,
+  "stock_models": 0,
+  "stock_standins": 0,
+  "stock_standins_estimated": 0,
+  "surfaces": 0,
+  "tinted": 0,
+  "open_sky_lit": 0
+ },
+ "brush_entities": {
+  "solid": 0,
+  "faces_drawn": 0
+ },
+ "units_per_square": 64.0,
+ "max_slope": 45.57,
+ "spawn": {
+  "origin": [
+   -2672.0,
+   1073.0,
+   -896.0
+  ],
+  "yaw": -90.0
+ },
+ "spawns": [
+  {
+   "origin": [
+    -2509.0,
+    1073.0,
+    1395.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2672.0,
+    1073.0,
+    -896.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2509.0,
+    1073.0,
+    1331.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2493.0,
+    1073.0,
+    1235.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2493.0,
+    1073.0,
+    1171.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2525.0,
+    1073.0,
+    1092.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2528.0,
+    1073.0,
+    1031.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2528.0,
+    1073.0,
+    967.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2461.0,
+    1073.0,
+    1392.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2461.0,
+    1073.0,
+    1328.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2445.0,
+    1073.0,
+    1232.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2445.0,
+    1073.0,
+    1168.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2477.0,
+    1073.0,
+    1089.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2480.0,
+    1073.0,
+    1028.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2480.0,
+    1073.0,
+    964.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2557.0,
+    1073.0,
+    1385.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2557.0,
+    1073.0,
+    1321.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2541.0,
+    1073.0,
+    1225.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2541.0,
+    1073.0,
+    1161.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2573.0,
+    1073.0,
+    1082.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2576.0,
+    1073.0,
+    1021.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2576.0,
+    1073.0,
+    957.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2672.0,
+    1073.0,
+    -976.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2672.0,
+    1073.0,
+    -1040.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2605.0,
+    1073.0,
+    -973.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2605.0,
+    1073.0,
+    -893.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2605.0,
+    1073.0,
+    -1037.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2547.0,
+    1073.0,
+    -973.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2547.0,
+    1073.0,
+    -893.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2547.0,
+    1073.0,
+    -1037.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2407.0,
+    1073.0,
+    -1088.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2349.0,
+    1073.0,
+    -1088.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2474.0,
+    1073.0,
+    -1091.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2407.0,
+    1073.0,
+    -1168.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2349.0,
+    1073.0,
+    -1168.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2474.0,
+    1073.0,
+    -1171.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2474.0,
+    1073.0,
+    -1235.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2407.0,
+    1073.0,
+    -1232.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2349.0,
+    1073.0,
+    -1232.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2682.0,
+    1073.0,
+    -1251.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2615.0,
+    1073.0,
+    -1248.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2557.0,
+    1073.0,
+    -1248.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2557.0,
+    1073.0,
+    -1328.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2615.0,
+    1073.0,
+    -1328.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2682.0,
+    1073.0,
+    -1331.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2682.0,
+    1073.0,
+    -1395.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2615.0,
+    1073.0,
+    -1392.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -2557.0,
+    1073.0,
+    -1392.0
+   ],
+   "yaw": -90.0
+  },
+  {
+   "origin": [
+    -3477.27,
+    2881.0,
+    781.498
+   ],
+   "yaw": -90.0
+  }
+ ],
+ "min_zone_thickness": 192.0,
+ "zones": [
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    256.0,
+    -1664.0,
+    768.0
+   ],
+   "max": [
+    2048.0,
+    -1472.0,
+    1536.0
+   ],
+   "inflated": true,
+   "destination": [
+    -3312.93,
+    2758.49,
+    1152.0
+   ],
+   "destination_yaw": -90.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    256.0,
+    -1664.0,
+    -0.0
+   ],
+   "max": [
+    2048.0,
+    -1472.0,
+    768.0
+   ],
+   "inflated": true,
+   "destination": [
+    -3314.59,
+    2759.46,
+    384.0
+   ],
+   "destination_yaw": -90.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    256.0,
+    -1664.0,
+    -1536.0
+   ],
+   "max": [
+    2048.0,
+    -1472.0,
+    -768.0
+   ],
+   "inflated": true,
+   "destination": [
+    -3311.35,
+    2760.59,
+    -1024.0
+   ],
+   "destination_yaw": -90.0
+  },
+  {
+   "kind": "RESPAWN",
+   "track": 0,
+   "min": [
+    256.0,
+    -1664.0,
+    -768.0
+   ],
+   "max": [
+    2048.0,
+    -1472.0,
+    -0.0
+   ],
+   "inflated": true,
+   "destination": [
+    -3314.42,
+    2759.94,
+    -256.0
+   ],
+   "destination_yaw": -90.0
+  }
+ ],
+ "track_names": {
+  "0": "main"
+ },
+ "teleport_audit": {
+  "teleports": 4,
+  "pits": 4,
+  "broken": []
+ },
+ "respawn_volumes": [
+  {
+   "min": [
+    256.0,
+    -1536.0,
+    -1664.0
+   ],
+   "max": [
+    2048.0,
+    -768.0,
+    -1472.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": false,
+   "track": 0,
+   "original_min": [
+    256.0,
+    -1536.0,
+    -1536.0
+   ],
+   "original_max": [
+    2048.0,
+    -768.0,
+    -1472.0
+   ]
+  },
+  {
+   "min": [
+    256.0,
+    -768.0,
+    -1664.0
+   ],
+   "max": [
+    2048.0,
+    0.0,
+    -1472.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": false,
+   "track": 0,
+   "original_min": [
+    256.0,
+    -768.0,
+    -1536.0
+   ],
+   "original_max": [
+    2048.0,
+    0.0,
+    -1472.0
+   ]
+  },
+  {
+   "min": [
+    256.0,
+    768.0,
+    -1664.0
+   ],
+   "max": [
+    2048.0,
+    1536.0,
+    -1472.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": false,
+   "track": 0,
+   "original_min": [
+    256.0,
+    768.0,
+    -1536.0
+   ],
+   "original_max": [
+    2048.0,
+    1536.0,
+    -1472.0
+   ]
+  },
+  {
+   "min": [
+    256.0,
+    0.0,
+    -1664.0
+   ],
+   "max": [
+    2048.0,
+    768.0,
+    -1472.0
+   ],
+   "inflated": true,
+   "hung": true,
+   "cleared": false,
+   "trimmed": false,
+   "stood": false,
+   "track": 0,
+   "original_min": [
+    256.0,
+    0.0,
+    -1536.0
+   ],
+   "original_max": [
+    2048.0,
+    768.0,
+    -1472.0
+   ]
+  }
+ ],
+ "mechanics": {
+  "water": [
+   {
+    "min": [
+     384.0,
+     -1600.0,
+     -1536.0
+    ],
+    "max": [
+     2048.0,
+     -1536.0,
+     1536.0
+    ],
+    "from": "world"
+   }
+  ],
+  "push": [
+   {
+    "min": [
+     640.0,
+     1280.0,
+     1216.0
+    ],
+    "max": [
+     704.0,
+     1728.0,
+     1536.0
+    ],
+    "push": [
+     1000.0,
+     -0.0,
+     -0.0
+    ],
+    "once": false,
+    "filtered": false
+   },
+   {
+    "min": [
+     640.0,
+     1280.0,
+     -1536.0
+    ],
+    "max": [
+     704.0,
+     1856.0,
+     -1216.0
+    ],
+    "push": [
+     1000.0,
+     -0.0,
+     -0.0
+    ],
+    "once": false,
+    "filtered": false
+   }
+  ],
+  "gravity": [],
+  "hurt": [],
+  "conveyors": [],
+  "ladders": [],
+  "blocks": []
+ },
+ "push_volumes": [
+  {
+   "min": [
+    640.0,
+    1280.0,
+    1216.0
+   ],
+   "max": [
+    704.0,
+    1728.0,
+    1536.0
+   ],
+   "push": [
+    1000.0,
+    -0.0,
+    -0.0
+   ],
+   "once": false,
+   "filtered": false
+  },
+  {
+   "min": [
+    640.0,
+    1280.0,
+    -1536.0
+   ],
+   "max": [
+    704.0,
+    1856.0,
+    -1216.0
+   ],
+   "push": [
+    1000.0,
+    -0.0,
+    -0.0
+   ],
+   "once": false,
+   "filtered": false
+  }
+ ],
+ "trigger_volumes": [],
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ],
+ "author": "Moskin (GameBanana 137699)",
+ "kind": "arena",
+ "notes": "Combat surf map for game-fatal-contact (owner's Surf Combat list): the map's own spawns; teleports that only a map event enables are not run; textures and models are free replacements; published as a credited community map with a removal offer."
+}

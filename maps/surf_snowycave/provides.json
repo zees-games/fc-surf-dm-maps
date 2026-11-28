@@ -1,0 +1,20 @@
+{
+    "schema": 1,
+    "title": "Surf Snowycave",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-fatal-contact"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "surf_snowycave",
+            "name": "Surf Snowycave",
+            "scene": "surf_snowycave.json",
+            "map_kind": "arena"
+        }
+    ],
+    "collection": "fc-surf-dm-maps"
+}

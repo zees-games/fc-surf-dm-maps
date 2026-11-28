@@ -1,0 +1,24 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "Gamespice",
+    "url": "https://github.com/zees-games/fc-surf-dm-maps",
+    "title": "fc-surf-dm-maps (original content)"
+  },
+  {
+    "paths": [
+      "surf_concordia",
+      "textures/",
+      "worlds/surf_concordia/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Concordia",
+    "author": "razEr^surf",
+    "source_url": "https://gamebanana.com/mods/137682",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  }
+]

@@ -1,0 +1,159 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_crzyfrog_reloaded",
+ "sha256": "46aaff9e43907e630bb3edaace01c48f3da95fff773687391e6d04e2fa3a8723",
+ "textures": {
+  "looked_up": 26,
+  "drawn": 23,
+  "by_tier": {
+   "addon": 17,
+   "default": 2,
+   "fallback": 7
+  },
+  "free_by_tier": {
+   "addon": 18,
+   "default": 5
+  },
+  "nearest_photo": [
+   "360g/sonstiges/surf_crzyfrog_specbild",
+   "customs/rot_tex"
+  ]
+ },
+ "models": {
+  "looked_up": 5,
+  "by_tier": {
+   "default": 5
+  }
+ },
+ "sounds": {
+  "looked_up": 6,
+  "by_tier": {
+   "default": 6
+  }
+ },
+ "classes": {
+  "distinct": 48,
+  "entities": 850,
+  "by_tier": {
+   "default": 48
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "weapon_ak47": [
+    "ammo"
+   ],
+   "weapon_aug": [
+    "ammo"
+   ],
+   "weapon_awp": [
+    "ammo"
+   ],
+   "weapon_famas": [
+    "ammo"
+   ],
+   "weapon_galil": [
+    "ammo"
+   ],
+   "weapon_m249": [
+    "ammo"
+   ],
+   "weapon_m3": [
+    "ammo"
+   ],
+   "weapon_m4a1": [
+    "ammo"
+   ],
+   "weapon_mac10": [
+    "IdleModifier",
+    "NeverSayHello",
+    "StartDisabled",
+    "ammo"
+   ],
+   "weapon_p90": [
+    "ammo"
+   ],
+   "weapon_sg550": [
+    "ammo"
+   ],
+   "weapon_tmp": [
+    "ammo"
+   ]
+  }
+ },
+ "links": {
+  "total": 243,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "approximated": 3,
+   "ignored": 1,
+   "implemented": 43
+  }
+ },
+ "lists": {
+  "textures_unmapped": [
+   "360G/GLAS/MILCHGLAS GLASTEXTUR",
+   "360G/SONSTIGES/PFEIL_WEISS",
+   "360G/SONSTIGES/SURF_CRZYFROG_SPECBILD",
+   "CUSTOMS/ROT_TEX",
+   "VNIX/VNIXA",
+   "VNIX/VNIXB",
+   "VNIX/VNIXC"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "weapon_ak47.ammo",
+   "weapon_aug.ammo",
+   "weapon_awp.ammo",
+   "weapon_famas.ammo",
+   "weapon_galil.ammo",
+   "weapon_m249.ammo",
+   "weapon_m3.ammo",
+   "weapon_m4a1.ammo",
+   "weapon_mac10.IdleModifier",
+   "weapon_mac10.NeverSayHello",
+   "weapon_mac10.StartDisabled",
+   "weapon_mac10.ammo",
+   "weapon_p90.ammo",
+   "weapon_sg550.ammo",
+   "weapon_tmp.ammo"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:point_tesla (approximated)",
+   "class_unsupported:point_viewcontrol (ignored)"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 7,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 15,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0,
+  "gameplay_lost": 2
+ },
+ "prop_fit": {
+  "rescaled": 6,
+  "boxed": 3,
+  "fits": 8
+ }
+}

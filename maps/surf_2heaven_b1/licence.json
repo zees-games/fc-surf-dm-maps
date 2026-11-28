@@ -1,0 +1,24 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "Gamespice",
+    "url": "https://github.com/zees-games/fc-surf-dm-maps",
+    "title": "fc-surf-dm-maps (original content)"
+  },
+  {
+    "paths": [
+      "surf_2heaven_b1",
+      "textures/",
+      "worlds/surf_2heaven_b1/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf 2heaven B1",
+    "author": "arcangel845",
+    "source_url": "https://gamebanana.com/mods/121541",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  }
+]

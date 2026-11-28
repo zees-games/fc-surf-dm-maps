@@ -1,0 +1,122 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_concordia",
+ "sha256": "ce2bc666df181a42b91e2353832da4ea300b763b3cf6c7cd0cd00b61add941e1",
+ "textures": {
+  "looked_up": 30,
+  "drawn": 49,
+  "by_tier": {
+   "addon": 14,
+   "default": 16
+  },
+  "free_by_tier": {
+   "addon": 45,
+   "default": 4
+  },
+  "nearest_photo": [
+   "alkateut/concreteflat",
+   "buildings/trim10",
+   "concrete/baggage_concretefloora",
+   "concrete/concrete_ext_14b",
+   "concrete/concrete_floor_02_blue",
+   "concrete/concrete_floor_05",
+   "concrete/concrete_floor_06",
+   "concrete/vertigo_concretefloora",
+   "effects/combinemuzzle2_dark",
+   "lights/white002",
+   "models/models/razermodels/concordiaramp_3/concretefloor008a",
+   "models/models/razermodels/concordiaramp_3/infwllf2",
+   "models/models/razermodels/concordiaramp_3/train_metalceiling_02",
+   "models/razermodels/concordiaboost1/train_metalceiling_02",
+   "models/razermodels/concordiaboost2/concretefloor008a",
+   "models/razermodels/concordiaboost2/train_metalceiling_02",
+   "models/razermodels/concordiaboost3/train_metalceiling_02",
+   "models/razermodels/concordiaboost4/train_metalceiling_02",
+   "models/razermodels/concordiaboost5/train_metalceiling_02",
+   "models/razermodels/concordiaramp5/concretefloor008a",
+   "models/razermodels/concordiaramp5/infwllf2",
+   "models/razermodels/concordiaramp5/train_metalceiling_02",
+   "models/razermodels/concordiaramp_2/concretefloor008a",
+   "models/razermodels/concordiaramp_2/infwllf2",
+   "models/razermodels/concordiaramp_2/train_metalceiling_02",
+   "models/razermodels/explodingprimus01/nuke_metaltrims_01",
+   "models/razermodels/explodingprimus01/train_metalceiling_02",
+   "models/razermodels/razer_logo448x208/metalcombine002",
+   "models/razermodels/razer_logo448x208/train_metalceiling_02",
+   "nature/blend_grass_gravel_02_wvt_patch",
+   "stone/infwllf2"
+  ]
+ },
+ "models": {
+  "looked_up": 10,
+  "by_tier": {
+   "default": 1,
+   "fallback": 9
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 31,
+  "entities": 369,
+  "by_tier": {
+   "default": 31
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 8,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {},
+  "severity": {},
+  "classes": {
+   "implemented": 30
+  }
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [
+   "models/razermodels/concordiaramp_3.mdl",
+   "razermodels/concordiaboost1.mdl",
+   "razermodels/concordiaboost2.mdl",
+   "razermodels/concordiaboost3.mdl",
+   "razermodels/concordiaboost4.mdl",
+   "razermodels/concordiaboost5.mdl",
+   "razermodels/concordiaramp5.mdl",
+   "razermodels/concordiaramp_2.mdl",
+   "razermodels/explodingprimus01.mdl"
+  ],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": [],
+  "gameplay_lost": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 9,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0,
+  "gameplay_lost": 0
+ },
+ "prop_fit": {
+  "rescaled": 2,
+  "fitted_in": 2
+ }
+}

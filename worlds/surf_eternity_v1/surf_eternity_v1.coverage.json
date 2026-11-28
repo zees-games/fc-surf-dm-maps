@@ -1,0 +1,131 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_eternity_v1",
+ "sha256": "18c51a9fa9fab73d8f3b6c80c4021c1b597a6e2c08b518be4c45b627b82153b3",
+ "textures": {
+  "looked_up": 13,
+  "drawn": 13,
+  "by_tier": {
+   "addon": 11,
+   "default": 2
+  },
+  "free_by_tier": {
+   "addon": 11,
+   "default": 2
+  },
+  "nearest_photo": []
+ },
+ "models": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 23,
+  "entities": 244,
+  "by_tier": {
+   "default": 23
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "game_player_equip": [
+    "weapon_knife",
+    "weapon_p228"
+   ],
+   "weapon_ak47": [
+    "ammo"
+   ],
+   "weapon_awp": [
+    "ammo"
+   ],
+   "weapon_famas": [
+    "ammo"
+   ],
+   "weapon_g3sg1": [
+    "ammo"
+   ],
+   "weapon_galil": [
+    "ammo"
+   ],
+   "weapon_m3": [
+    "ammo"
+   ],
+   "weapon_m4a1": [
+    "ammo"
+   ],
+   "weapon_mp5navy": [
+    "ammo"
+   ],
+   "weapon_scout": [
+    "ammo"
+   ],
+   "weapon_xm1014": [
+    "ammo"
+   ]
+  }
+ },
+ "links": {
+  "total": 0,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "ignored": 1,
+   "implemented": 22
+  }
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "game_player_equip.weapon_knife",
+   "game_player_equip.weapon_p228",
+   "weapon_ak47.ammo",
+   "weapon_awp.ammo",
+   "weapon_famas.ammo",
+   "weapon_g3sg1.ammo",
+   "weapon_galil.ammo",
+   "weapon_m3.ammo",
+   "weapon_m4a1.ammo",
+   "weapon_mp5navy.ammo",
+   "weapon_scout.ammo",
+   "weapon_xm1014.ammo"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": [
+   "models/props_combine/portalball001_sheet"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:point_viewcontrol (ignored)"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 12,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 1,
+  "gameplay_lost": 1
+ },
+ "prop_fit": {}
+}

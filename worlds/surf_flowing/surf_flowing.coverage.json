@@ -1,0 +1,112 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_flowing",
+ "sha256": "4b341dea3e548b94a7efb22c2ce76b46ad88cade5e10ec8aac7d8008ae730a43",
+ "textures": {
+  "looked_up": 17,
+  "drawn": 19,
+  "by_tier": {
+   "addon": 11,
+   "default": 6
+  },
+  "free_by_tier": {
+   "addon": 16,
+   "default": 3
+  },
+  "nearest_photo": [
+   "de_train/train_grass_floor_01",
+   "effects/tp_eyefx/tpeye",
+   "kc_main/blend_dirtgrass",
+   "nature/blenddirtgrass001a"
+  ]
+ },
+ "models": {
+  "looked_up": 11,
+  "by_tier": {
+   "default": 11
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 31,
+  "entities": 265,
+  "by_tier": {
+   "default": 31
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "game_player_equip": [
+    "weapon_knife"
+   ]
+  }
+ },
+ "links": {
+  "total": 36,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 12
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "approximated": 10,
+   "ignored": 2,
+   "implemented": 18
+  }
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "game_player_equip.weapon_knife"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:func_bomb_target (ignored)",
+   "class_unsupported:item_defuser (approximated)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "class_unsupported:weapon_ak47 (approximated)",
+   "class_unsupported:weapon_awp (approximated)",
+   "class_unsupported:weapon_c4 (approximated)",
+   "class_unsupported:weapon_deagle (approximated)",
+   "class_unsupported:weapon_g3sg1 (approximated)",
+   "class_unsupported:weapon_m4a1 (approximated)",
+   "class_unsupported:weapon_mp5navy (approximated)",
+   "class_unsupported:weapon_sg550 (approximated)",
+   "class_unsupported:weapon_tmp (approximated)"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 1,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0,
+  "gameplay_lost": 12
+ },
+ "prop_fit": {
+  "rescaled": 10,
+  "boxed": 2,
+  "unmeasured": 18,
+  "fits": 44,
+  "rescaled_upright": 6
+ }
+}

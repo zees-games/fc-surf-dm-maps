@@ -1,0 +1,20 @@
+{
+    "schema": 1,
+    "title": "Surf Buck Ed Up",
+    "kinds": [
+        "map"
+    ],
+    "games": [
+        "gamemann/game-fatal-contact"
+    ],
+    "entries": [
+        {
+            "kind": "map",
+            "id": "surf_buck_ed_up",
+            "name": "Surf Buck Ed Up",
+            "scene": "surf_buck_ed_up.json",
+            "map_kind": "arena"
+        }
+    ],
+    "collection": "fc-surf-dm-maps"
+}

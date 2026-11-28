@@ -1,0 +1,24 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "Gamespice",
+    "url": "https://github.com/zees-games/fc-surf-dm-maps",
+    "title": "fc-surf-dm-maps (original content)"
+  },
+  {
+    "paths": [
+      "surf_dusty_roads",
+      "textures/",
+      "worlds/surf_dusty_roads/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Dusty Roads",
+    "author": "Rebell",
+    "source_url": "https://gamebanana.com/mods/121966",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  }
+]

@@ -507,17 +507,6 @@
   },
   {
     "paths": [
-      "maps/surf_xiv_v2a"
-    ],
-    "licence": "none stated",
-    "exception": "credited-community-map",
-    "title": "Surf Xiv V2a",
-    "author": "smooth.nl",
-    "source_url": "https://gamebanana.com/mods/123284",
-    "removal_contact": "https://github.com/zees-games/fc-surf-dm-maps/issues"
-  },
-  {
-    "paths": [
       "model-library/sketchfab/01a5b64427984632bb44242da3813bb1"
     ],
     "licence": "CC-BY-4.0",
@@ -944,5 +933,302 @@
     "title": "Sketchfab model f2ed9f",
     "source": "Sketchfab",
     "attribution": true
+  },
+  {
+    "paths": [
+      "maps/surf_eternity_v1"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Eternity V1",
+    "author": "TheApexi",
+    "source_url": "https://gamebanana.com/mods/137684",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_phenomenon"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Phenomenon",
+    "author": "equaleyez90",
+    "source_url": "https://gamebanana.com/mods/137693",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_machinery"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Machinery",
+    "author": "That Deviant",
+    "source_url": "https://gamebanana.com/mods/137692",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_snowycave"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Snowycave",
+    "author": "Moskin",
+    "source_url": "https://gamebanana.com/mods/137699",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_ag_texture_final"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Ag Texture Final",
+    "author": "SmOoth123",
+    "source_url": "https://gamebanana.com/mods/121589",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_olympics"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Olympics",
+    "author": "THAY-imagine-",
+    "source_url": "https://gamebanana.com/mods/122667",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_banocanyon"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Banocanyon",
+    "author": "BANORRACHY",
+    "source_url": "https://gamebanana.com/mods/121688",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_buzzkill2"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Buzzkill2",
+    "author": "SmirnOFF.",
+    "source_url": "https://gamebanana.com/mods/121791",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_skyscraper"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Skyscraper",
+    "author": "Goerge",
+    "source_url": "https://gamebanana.com/mods/122978",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_buck_ed_up"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Buck Ed Up",
+    "author": "BuckNasty",
+    "source_url": "https://gamebanana.com/mods/121784",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_2012_beta12"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf 2012 Beta12",
+    "author": "Ryan S",
+    "source_url": "https://gamebanana.com/mods/121537",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_meister_v3_final2"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Meister V3 Final2",
+    "author": "VVeltmeister",
+    "source_url": "https://gamebanana.com/mods/122536",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_melons"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Melons",
+    "author": "kaos4u",
+    "source_url": "https://gamebanana.com/mods/122538",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_amplitude_encore"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Amplitude Encore",
+    "author": "BuckNasty",
+    "source_url": "https://gamebanana.com/mods/121623",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_funpark_reloaded_v1"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Funpark Reloaded V1",
+    "author": "Paper-Cut",
+    "source_url": "https://gamebanana.com/mods/122098",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_prisoner_v2"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Prisoner V2",
+    "author": "EncryptedCell",
+    "source_url": "https://gamebanana.com/mods/122749",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_ny__resist"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Ny  Resist",
+    "author": "FAJ",
+    "source_url": "https://gamebanana.com/mods/122656",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_gforce"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Gforce",
+    "author": "latrosicarius",
+    "source_url": "https://gamebanana.com/mods/122130",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_buck_fever2"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Buck Fever2",
+    "author": "BuckNasty",
+    "source_url": "https://gamebanana.com/mods/121786",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_bedroom"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Bedroom",
+    "author": ".Nixon^",
+    "source_url": "https://gamebanana.com/mods/121712",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_flowing"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Flowing",
+    "author": "G-FLOW",
+    "source_url": "https://gamebanana.com/mods/122062",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_concordia"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Concordia",
+    "author": "razEr^surf",
+    "source_url": "https://gamebanana.com/mods/137682",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_vindictive"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Vindictive",
+    "author": "-[Element]-",
+    "source_url": "https://gamebanana.com/mods/137703",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_xiv_v3b"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Xiv V3b",
+    "author": "SmOoth123",
+    "source_url": "https://gamebanana.com/mods/123285",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_dusty_roads"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Dusty Roads",
+    "author": "Rebell",
+    "source_url": "https://gamebanana.com/mods/121966",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_2heaven_b1"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf 2heaven B1",
+    "author": "arcangel845",
+    "source_url": "https://gamebanana.com/mods/121541",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  },
+  {
+    "paths": [
+      "maps/surf_crzyfrog_reloaded"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Crzyfrog Reloaded",
+    "author": "JackTheStripper",
+    "source_url": "https://gamebanana.com/mods/121880",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
   }
 ]

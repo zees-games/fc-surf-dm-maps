@@ -1,0 +1,21 @@
+# Suggested by the converter from commands in surf_2012_beta12's entities.
+# Nothing here is applied. Uncomment a line to set it for this map; a key the game does
+# not whitelist is logged and ignored (docs/map-config.md).
+# mp_roundtime: 7
+# skipped, never run: not a setting: say 6 Minute timer activated.
+# skipped, never run: not a setting: say CT's opened -10 Health door.
+# skipped, never run: not a setting: say T's opened -10 Health door.
+# skipped, never run: not a setting: say CT's opened -20 Health door.
+# skipped, never run: not a setting: say T's opened -20 Health door.
+# skipped, never run: not a setting: say CT's opened -30 Health door.
+# skipped, never run: not a setting: say T's opened -30 Health door.
+# skipped, never run: not a setting: say CT's opened -50 Health door.
+# skipped, never run: not a setting: say T's opened -50 Health door.
+# skipped, never run: not a setting: say CT's opened -60 Health door.
+# skipped, never run: not a setting: say CT's opened End Door.
+# skipped, never run: not a setting: say T's opened -60 Health door.
+# skipped, never run: not a setting: say T's opened End Door.
+# skipped, never run: not a setting: say November 8th 2012.
+# skipped, never run: not a setting: say T's opened -40 Health door.
+# skipped, never run: not a setting: say CT's opened -40 Health door.
+# skipped, never run: not a setting: say Worthless mortals FIGHT to death!

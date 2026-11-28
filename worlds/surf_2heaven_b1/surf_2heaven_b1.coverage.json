@@ -1,0 +1,128 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_2heaven_b1",
+ "sha256": "d594b9fa3f555fdbf11a3bc4c75500c9741e5c46bbd8c126e7f95e419802a96b",
+ "textures": {
+  "looked_up": 29,
+  "drawn": 27,
+  "by_tier": {
+   "addon": 24,
+   "default": 4,
+   "fallback": 1
+  },
+  "free_by_tier": {
+   "addon": 23,
+   "default": 4
+  },
+  "nearest_photo": [
+   "cs_italy/door_sn01"
+  ]
+ },
+ "models": {
+  "looked_up": 10,
+  "by_tier": {
+   "category": 4,
+   "default": 4,
+   "fallback": 2
+  }
+ },
+ "sounds": {
+  "looked_up": 9,
+  "by_tier": {
+   "default": 1,
+   "fallback": 8
+  }
+ },
+ "classes": {
+  "distinct": 40,
+  "entities": 381,
+  "by_tier": {
+   "default": 40
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 37,
+  "unresolved": 1
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 3,
+   "input_unimplemented": 1,
+   "target_dangling": 1,
+   "teleport_dangling": 1,
+   "volume_follows": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "target_dangling": "source",
+   "teleport_dangling": "source",
+   "volume_follows": "handled"
+  },
+  "classes": {
+   "approximated": 6,
+   "ignored": 3,
+   "implemented": 30
+  }
+ },
+ "lists": {
+  "textures_unmapped": [
+   "2HEAVEN/LOGO"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [
+   "antlion.mdl",
+   "props/de_piranesi/pi_sundial.mdl"
+  ],
+  "sounds_unmapped": [
+   "ambient/animal/bird10.wav",
+   "ambient/animal/bird11.wav",
+   "ambient/animal/bird13.wav",
+   "ambient/animal/bird16.wav",
+   "ambient/animal/bird20.wav",
+   "ambient/animal/bird4.wav",
+   "ambient/animal/bird8.wav",
+   "ambient/animal/dog2.wav"
+  ],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [
+   "func_button.OnPressed->jail_ct"
+  ],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn"
+  ],
+  "surfaces_opaque": [
+   "models/props_combine/portalball001_sheet"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:env_fire (approximated)",
+   "class_unsupported:path_track (approximated)",
+   "input_unimplemented:env_entity_maker.ForceSpawn"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 1,
+  "textures_flat": 0,
+  "models_unmapped": 2,
+  "sounds_unmapped": 8,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 1,
+  "inputs_unimplemented": 1,
+  "surfaces_opaque": 1,
+  "gameplay_lost": 4
+ },
+ "prop_fit": {
+  "rescaled": 2,
+  "fitted_in": 2,
+  "unmeasured": 18,
+  "fits": 2
+ }
+}

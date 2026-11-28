@@ -1,0 +1,282 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_meister_v3_final2",
+ "sha256": "579e5cf27505a2c10d918f7077e418aaea2443920fd95c94e8686116876d5c61",
+ "textures": {
+  "looked_up": 109,
+  "drawn": 109,
+  "by_tier": {
+   "addon": 80,
+   "default": 29
+  },
+  "free_by_tier": {
+   "addon": 103,
+   "default": 6
+  },
+  "nearest_photo": [
+   "concrete/concretewall013d",
+   "concrete/concretewall028a",
+   "de_chateau/stairmarble01",
+   "de_dust/rockwall_blend",
+   "de_piranesi/marblefloor04",
+   "de_prodigy/ceiling01",
+   "decals/infnum1",
+   "decals/infnum2",
+   "decals/infnum3",
+   "decals/infnum4",
+   "decals/infnum5",
+   "decals/infnum6",
+   "decals/infnum7",
+   "decals/infnum8",
+   "decals/infnum9",
+   "metal/industrialbellbottomon02",
+   "metal/metalwall001b_cheap",
+   "metal/metalwall021a_cheap",
+   "metal/metalwall042a",
+   "metal/metalwall066a",
+   "metal/metalwall068a",
+   "nature/dirtfloor003a",
+   "nature/water_canals_waterbeneath_clear"
+  ]
+ },
+ "models": {
+  "looked_up": 41,
+  "by_tier": {
+   "category": 1,
+   "default": 40
+  }
+ },
+ "sounds": {
+  "looked_up": 1,
+  "by_tier": {
+   "default": 1
+  }
+ },
+ "classes": {
+  "distinct": 84,
+  "entities": 687,
+  "by_tier": {
+   "default": 84
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "env_explosion": [
+    ""
+   ],
+   "game_player_equip": [
+    "weapon_awp",
+    "weapon_knife",
+    "weapon_m3",
+    "weapon_m4a1",
+    "weapon_scout"
+   ],
+   "trigger_once": [
+    "wait"
+   ],
+   "weapon_ak47": [
+    "ammo"
+   ],
+   "weapon_aug": [
+    "ammo"
+   ],
+   "weapon_awp": [
+    "ammo"
+   ],
+   "weapon_deagle": [
+    "ammo"
+   ],
+   "weapon_elite": [
+    "ammo"
+   ],
+   "weapon_famas": [
+    "ammo"
+   ],
+   "weapon_fiveseven": [
+    "ammo"
+   ],
+   "weapon_galil": [
+    "ammo"
+   ],
+   "weapon_glock": [
+    "ammo"
+   ],
+   "weapon_m3": [
+    "ammo"
+   ],
+   "weapon_m4a1": [
+    "ammo"
+   ],
+   "weapon_mac10": [
+    "ammo"
+   ],
+   "weapon_mp5navy": [
+    "ammo"
+   ],
+   "weapon_p228": [
+    "ammo"
+   ],
+   "weapon_scout": [
+    "ammo"
+   ],
+   "weapon_sg550": [
+    "ammo"
+   ],
+   "weapon_sg552": [
+    "ammo"
+   ],
+   "weapon_tmp": [
+    "ammo"
+   ],
+   "weapon_ump45": [
+    "ammo"
+   ],
+   "weapon_usp": [
+    "ammo"
+   ],
+   "weapon_xm1014": [
+    "ammo"
+   ]
+  }
+ },
+ "links": {
+  "total": 327,
+  "unresolved": 8
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 11,
+   "input_unimplemented": 12,
+   "player_input": 1,
+   "target_dangling": 10,
+   "teleport_dangling": 1,
+   "volume_follows": 6,
+   "volume_key_unread": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported",
+   "target_dangling": "source",
+   "teleport_dangling": "source",
+   "volume_follows": "handled",
+   "volume_key_unread": "unsupported"
+  },
+  "classes": {
+   "approximated": 13,
+   "ignored": 5,
+   "implemented": 65
+  }
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "env_explosion.",
+   "game_player_equip.weapon_awp",
+   "game_player_equip.weapon_knife",
+   "game_player_equip.weapon_m3",
+   "game_player_equip.weapon_m4a1",
+   "game_player_equip.weapon_scout",
+   "trigger_once.wait",
+   "weapon_ak47.ammo",
+   "weapon_aug.ammo",
+   "weapon_awp.ammo",
+   "weapon_deagle.ammo",
+   "weapon_elite.ammo",
+   "weapon_famas.ammo",
+   "weapon_fiveseven.ammo",
+   "weapon_galil.ammo",
+   "weapon_glock.ammo",
+   "weapon_m3.ammo",
+   "weapon_m4a1.ammo",
+   "weapon_mac10.ammo",
+   "weapon_mp5navy.ammo",
+   "weapon_p228.ammo",
+   "weapon_scout.ammo",
+   "weapon_sg550.ammo",
+   "weapon_sg552.ammo",
+   "weapon_tmp.ammo",
+   "weapon_ump45.ammo",
+   "weapon_usp.ammo",
+   "weapon_xm1014.ammo"
+  ],
+  "links_unresolved": [
+   "func_door_rotating.OnFullyClosed->sound_dooropen",
+   "func_movelinear.OnFullyClosed->sound_dooropen",
+   "func_movelinear.OnFullyOpen->sound_dooropen",
+   "logic_auto.OnMapSpawn->armourspawner",
+   "logic_auto.OnMapSpawn->brush_shouldequip",
+   "logic_compare.OnEqualTo->sound_dooropen",
+   "math_counter.OnHitMax->trigger_bomber4",
+   "trigger_teleport.OnStartTouch->case_jail_middle"
+  ],
+  "inputs_unimplemented": [
+   "ai_changetarget.Activate",
+   "env_entity_maker.ForceSpawn",
+   "filter_activator_team.TestActivator",
+   "func_button.Press",
+   "func_water_analog.Close",
+   "func_water_analog.Open",
+   "game_player_equip.Use",
+   "light.FadeToPattern",
+   "light_spot.FadeToPattern",
+   "logic_branch_listener.Test",
+   "point_hurt.Hurt",
+   "point_servercommand.Command"
+  ],
+  "surfaces_opaque": [
+   "models/props_combine/portalball001_sheet"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:ai_changetarget (approximated)",
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:func_fish_pool (approximated)",
+   "class_unsupported:item_assaultsuit (approximated)",
+   "class_unsupported:logic_branch_listener (approximated)",
+   "class_unsupported:logic_multicompare (ignored)",
+   "class_unsupported:path_track (ignored)",
+   "class_unsupported:player_speedmod (ignored)",
+   "class_unsupported:player_weaponstrip (ignored)",
+   "class_unsupported:point_hurt (approximated)",
+   "class_unsupported:weapon_hegrenade (approximated)",
+   "input_unimplemented:ai_changetarget.Activate",
+   "input_unimplemented:env_entity_maker.ForceSpawn",
+   "input_unimplemented:filter_activator_team.TestActivator",
+   "input_unimplemented:func_button.Press",
+   "input_unimplemented:func_water_analog.Close",
+   "input_unimplemented:func_water_analog.Open",
+   "input_unimplemented:game_player_equip.Use",
+   "input_unimplemented:light.FadeToPattern",
+   "input_unimplemented:light_spot.FadeToPattern",
+   "input_unimplemented:logic_branch_listener.Test",
+   "input_unimplemented:point_hurt.Hurt",
+   "input_unimplemented:point_servercommand.Command",
+   "player_input:sethealth x2",
+   "volume_key_unread:func_water_analog.movedistance=384"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 28,
+  "links_unresolved": 8,
+  "inputs_unimplemented": 12,
+  "surfaces_opaque": 1,
+  "gameplay_lost": 25
+ },
+ "prop_fit": {
+  "unmeasured": 124,
+  "rescaled": 46,
+  "boxed": 18,
+  "fits": 61
+ }
+}

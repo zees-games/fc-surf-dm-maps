@@ -1,0 +1,24 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "Gamespice",
+    "url": "https://github.com/zees-games/fc-surf-dm-maps",
+    "title": "fc-surf-dm-maps (original content)"
+  },
+  {
+    "paths": [
+      "surf_crzyfrog_reloaded",
+      "textures/",
+      "worlds/surf_crzyfrog_reloaded/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Crzyfrog Reloaded",
+    "author": "JackTheStripper",
+    "source_url": "https://gamebanana.com/mods/121880",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  }
+]

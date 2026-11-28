@@ -1,0 +1,24 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "Gamespice",
+    "url": "https://github.com/zees-games/fc-surf-dm-maps",
+    "title": "fc-surf-dm-maps (original content)"
+  },
+  {
+    "paths": [
+      "surf_olympics",
+      "textures/",
+      "worlds/surf_olympics/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Olympics",
+    "author": "THAY-imagine-",
+    "source_url": "https://gamebanana.com/mods/122667",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  }
+]

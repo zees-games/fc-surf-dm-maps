@@ -1,0 +1,24 @@
+{
+ "id": "surf_concordia",
+ "author": "razEr^surf (GameBanana 137682)",
+ "attribution": {
+  "author": "razEr^surf",
+  "source": "https://gamebanana.com/mods/137682",
+  "archive": "surf_concordia.bsp",
+  "recorded": "2026-11-28"
+ },
+ "notes": "Combat surf map for game-fatal-contact (owner's Surf Combat list): the map's own spawns; teleports that only a map event enables are not run; textures and models are free replacements; published as a credited community map with a removal offer.",
+ "kind": "arena",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ],
+ "kind_why": "A combat surf map: built to fight on rather than to time. 'arena' marks it for game-fatal-contact's deathmatch.",
+ "conditional_teleports": {
+  "filters": [
+   "ct_filter"
+  ],
+  "why": "team-filtered pairs over one pit: this game has no teams in the pit, T side kept"
+ }
+}

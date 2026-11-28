@@ -1,0 +1,105 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_gforce",
+ "sha256": "fc0186daef774a04b83145c71d721d3f5416d4af2f8dfdaf06a7ec8d7c53c4d4",
+ "textures": {
+  "looked_up": 23,
+  "drawn": 23,
+  "by_tier": {
+   "addon": 18,
+   "default": 3,
+   "fallback": 2
+  },
+  "free_by_tier": {
+   "addon": 19,
+   "default": 4
+  },
+  "nearest_photo": [
+   "sourcecartographer/cart_free",
+   "sourcecartographer/cart_kill"
+  ]
+ },
+ "models": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "sounds": {
+  "looked_up": 2,
+  "by_tier": {
+   "default": 1,
+   "fallback": 1
+  }
+ },
+ "classes": {
+  "distinct": 28,
+  "entities": 484,
+  "by_tier": {
+   "default": 28
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 103,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 3,
+   "filter_dangling": 2,
+   "input_unimplemented": 1,
+   "volume_follows": 3
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "filter_dangling": "source",
+   "input_unimplemented": "unsupported",
+   "volume_follows": "handled"
+  },
+  "classes": {
+   "approximated": 4,
+   "ignored": 3,
+   "implemented": 21
+  }
+ },
+ "lists": {
+  "textures_unmapped": [
+   "SOURCECARTOGRAPHER/CART_FREE",
+   "SOURCECARTOGRAPHER/CART_KILL"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [
+   "weapondissolve.dissolve"
+  ],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_hudhint.ShowHudHint"
+  ],
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:func_buyzone (ignored)",
+   "class_unsupported:path_track (approximated)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "input_unimplemented:env_hudhint.ShowHudHint"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 2,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 1,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 1,
+  "surfaces_opaque": 0,
+  "gameplay_lost": 4
+ },
+ "prop_fit": {}
+}

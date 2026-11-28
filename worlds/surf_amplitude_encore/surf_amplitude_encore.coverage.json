@@ -1,0 +1,133 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_amplitude_encore",
+ "sha256": "11835a3f5e36963d5696ab67525c011511d687ccaf879b696e2cbafe3fe60396",
+ "textures": {
+  "looked_up": 29,
+  "drawn": 29,
+  "by_tier": {
+   "addon": 14,
+   "default": 15
+  },
+  "free_by_tier": {
+   "addon": 24,
+   "default": 5
+  },
+  "nearest_photo": [
+   "bucknasty/encore_white",
+   "bucknasty/roostatrans"
+  ]
+ },
+ "models": {
+  "looked_up": 1,
+  "by_tier": {
+   "default": 1
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 38,
+  "entities": 950,
+  "by_tier": {
+   "default": 38
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "func_brush": [
+    "movedir",
+    "wait"
+   ],
+   "game_player_equip": [
+    "weapon_hegrenade",
+    "weapon_knife",
+    "weapon_m249"
+   ],
+   "trigger_once": [
+    "wait"
+   ]
+  }
+ },
+ "links": {
+  "total": 745,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 5,
+   "input_unimplemented": 5,
+   "player_input": 1,
+   "volume_follows": 33
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported",
+   "volume_follows": "handled"
+  },
+  "classes": {
+   "approximated": 4,
+   "ignored": 1,
+   "implemented": 32
+  }
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "func_brush.movedir",
+   "func_brush.wait",
+   "game_player_equip.weapon_hegrenade",
+   "game_player_equip.weapon_knife",
+   "game_player_equip.weapon_m249",
+   "trigger_once.wait"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn",
+   "func_rot_button.Press",
+   "game_player_equip.Use",
+   "player_weaponstrip.Strip",
+   "point_servercommand.Command"
+  ],
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:player_weaponstrip (approximated)",
+   "class_unsupported:point_tesla (approximated)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "class_unsupported:weapon_hegrenade (approximated)",
+   "input_unimplemented:env_entity_maker.ForceSpawn",
+   "input_unimplemented:func_rot_button.Press",
+   "input_unimplemented:game_player_equip.Use",
+   "input_unimplemented:player_weaponstrip.Strip",
+   "input_unimplemented:point_servercommand.Command",
+   "player_input:setdamagefilter x4"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 6,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 5,
+  "surfaces_opaque": 0,
+  "gameplay_lost": 11
+ },
+ "prop_fit": {
+  "rescaled": 11,
+  "fitted_in": 11,
+  "fits": 11
+ }
+}

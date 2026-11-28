@@ -1,0 +1,99 @@
+{
+ "map": {
+  "author": "equaleyez90 (GameBanana 137693)",
+  "page": "https://gamebanana.com/mods/137693",
+  "licence": "none stated"
+ },
+ "works": [
+  {
+   "kind": "texture",
+   "name": "pbr_brick_wall_02",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/brick_wall_02",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 198
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Concrete030",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Concrete030",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 232
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Rock031",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Rock031",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 44
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_MetalWalkway004",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=MetalWalkway004",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 16
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_metal_plate_02",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/metal_plate_02",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_MetalPlates017B",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=MetalPlates017B",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 15
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Marble013",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Marble013",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Ground014",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Ground014",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 0
+  },
+  {
+   "kind": "model",
+   "name": "lib/ph_desk_lamp_arm_01",
+   "author": "Yann Kervran, Kuutti Siitonen",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/desk_lamp_arm_01",
+   "source": "Poly Haven",
+   "attribution": false,
+   "uses": 4
+  }
+ ]
+}

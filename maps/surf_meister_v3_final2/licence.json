@@ -1,0 +1,24 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "Gamespice",
+    "url": "https://github.com/zees-games/fc-surf-dm-maps",
+    "title": "fc-surf-dm-maps (original content)"
+  },
+  {
+    "paths": [
+      "surf_meister_v3_final2",
+      "textures/",
+      "worlds/surf_meister_v3_final2/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Meister V3 Final2",
+    "author": "VVeltmeister",
+    "source_url": "https://gamebanana.com/mods/122536",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  }
+]

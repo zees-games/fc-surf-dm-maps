@@ -1,0 +1,165 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_vindictive",
+ "sha256": "8efddb0d4a4f8f90857e27de47fb69903658448d440bd0697e9b0213146ea348",
+ "textures": {
+  "looked_up": 13,
+  "drawn": 13,
+  "by_tier": {
+   "addon": 7,
+   "default": 3,
+   "fallback": 3
+  },
+  "free_by_tier": {
+   "addon": 10,
+   "default": 3
+  },
+  "nearest_photo": [
+   "custom/credits1",
+   "custom/credits2",
+   "custom/open-vindictive"
+  ]
+ },
+ "models": {
+  "looked_up": 9,
+  "by_tier": {
+   "default": 9
+  }
+ },
+ "sounds": {
+  "looked_up": 1,
+  "by_tier": {
+   "default": 1
+  }
+ },
+ "classes": {
+  "distinct": 42,
+  "entities": 413,
+  "by_tier": {
+   "default": 42
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "weapon_ak47": [
+    "ammo"
+   ],
+   "weapon_awp": [
+    "ammo"
+   ],
+   "weapon_deagle": [
+    "ammo"
+   ],
+   "weapon_m249": [
+    "ammo"
+   ],
+   "weapon_m3": [
+    "ammo"
+   ],
+   "weapon_m4a1": [
+    "ammo"
+   ],
+   "weapon_mac10": [
+    "ammo"
+   ],
+   "weapon_mp5navy": [
+    "ammo"
+   ],
+   "weapon_p228": [
+    "ammo"
+   ],
+   "weapon_tmp": [
+    "ammo"
+   ],
+   "weapon_ump45": [
+    "ammo"
+   ]
+  }
+ },
+ "links": {
+  "total": 78,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 11,
+   "input_unimplemented": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "approximated": 11,
+   "ignored": 2,
+   "implemented": 29
+  }
+ },
+ "lists": {
+  "textures_unmapped": [
+   "CUSTOM/CREDITS1",
+   "CUSTOM/CREDITS2",
+   "CUSTOM/OPEN-VINDICTIVE"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "weapon_ak47.ammo",
+   "weapon_awp.ammo",
+   "weapon_deagle.ammo",
+   "weapon_m249.ammo",
+   "weapon_m3.ammo",
+   "weapon_m4a1.ammo",
+   "weapon_mac10.ammo",
+   "weapon_mp5navy.ammo",
+   "weapon_p228.ammo",
+   "weapon_tmp.ammo",
+   "weapon_ump45.ammo"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_tonemap_controller.SetTonemapRate",
+   "trigger_teleport.ForceSpawn"
+  ],
+  "surfaces_opaque": [
+   "models/props_combine/portalball001_sheet"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:func_buyzone (ignored)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "class_unsupported:weapon_ak47 (approximated)",
+   "class_unsupported:weapon_deagle (approximated)",
+   "class_unsupported:weapon_m3 (approximated)",
+   "class_unsupported:weapon_m4a1 (approximated)",
+   "class_unsupported:weapon_mac10 (approximated)",
+   "class_unsupported:weapon_mp5navy (approximated)",
+   "class_unsupported:weapon_p228 (approximated)",
+   "class_unsupported:weapon_tmp (approximated)",
+   "class_unsupported:weapon_ump45 (approximated)",
+   "input_unimplemented:env_tonemap_controller.SetTonemapRate",
+   "input_unimplemented:trigger_teleport.ForceSpawn"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 3,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 11,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 2,
+  "surfaces_opaque": 1,
+  "gameplay_lost": 13
+ },
+ "prop_fit": {
+  "unmeasured": 24,
+  "rescaled": 8,
+  "boxed": 4,
+  "fits": 4
+ }
+}

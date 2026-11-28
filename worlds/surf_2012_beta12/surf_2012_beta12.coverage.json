@@ -1,0 +1,172 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_2012_beta12",
+ "sha256": "6f096b6b819fd997027c6bd70c1e96c76a14a7f6f015ad0f1623a940023f99ea",
+ "textures": {
+  "looked_up": 85,
+  "drawn": 91,
+  "by_tier": {
+   "addon": 62,
+   "default": 18,
+   "fallback": 5
+  },
+  "free_by_tier": {
+   "addon": 79,
+   "default": 12
+  },
+  "nearest_photo": [
+   "concrete/concretefloor039a_cheap",
+   "concrete/concretewall002a",
+   "concrete/concretewall075e",
+   "concrete/concretewall076h",
+   "concrete/concretewall076j",
+   "de_chateau/rockf_blend",
+   "icecreamlock/colordblue",
+   "icecreamlock/colorred",
+   "metal/metalpipe006a",
+   "metal/metalwall033a",
+   "metal/metalwall052b",
+   "metal/metalwall077a",
+   "models/portal/white",
+   "nature/blendgrassdirt001a",
+   "props/signcaution002b"
+  ]
+ },
+ "models": {
+  "looked_up": 5,
+  "by_tier": {
+   "category": 1,
+   "default": 4
+  }
+ },
+ "sounds": {
+  "looked_up": 12,
+  "by_tier": {
+   "default": 12
+  }
+ },
+ "classes": {
+  "distinct": 53,
+  "entities": 684,
+  "by_tier": {
+   "default": 53
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "env_fire": [
+    "current",
+    "density",
+    "frequency"
+   ],
+   "game_player_equip": [
+    "weapon_deagle",
+    "weapon_knife",
+    "weapon_m3"
+   ],
+   "trigger_once": [
+    "wait"
+   ],
+   "weapon_scout": [
+    "ammo"
+   ],
+   "weapon_usp": [
+    "ammo"
+   ]
+  }
+ },
+ "links": {
+  "total": 121,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 6,
+   "filter_dangling": 4,
+   "input_unimplemented": 5,
+   "player_input": 2,
+   "teleport_dangling": 4
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "filter_dangling": "source",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported",
+   "teleport_dangling": "source"
+  },
+  "classes": {
+   "approximated": 7,
+   "ignored": 3,
+   "implemented": 42
+  }
+ },
+ "lists": {
+  "textures_unmapped": [
+   "/SURF_2012LOGO_TRY2",
+   "CS_ITALY/IVY05",
+   "ICECREAMLOCK/COLORDBLUE",
+   "ICECREAMLOCK/COLORRED",
+   "MODELS/PORTAL/WHITE"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "env_fire.current",
+   "env_fire.density",
+   "env_fire.frequency",
+   "game_player_equip.weapon_deagle",
+   "game_player_equip.weapon_knife",
+   "game_player_equip.weapon_m3",
+   "trigger_once.wait",
+   "weapon_scout.ammo",
+   "weapon_usp.ammo"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn",
+   "func_rot_button.Press",
+   "game_player_equip.Use",
+   "player_weaponstrip.Strip",
+   "point_servercommand.Command"
+  ],
+  "surfaces_opaque": [
+   "models/props_combine/portalball001_sheet"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:env_fire (approximated)",
+   "class_unsupported:player_weaponstrip (approximated)",
+   "class_unsupported:point_tesla (approximated)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "class_unsupported:weapon_hegrenade (approximated)",
+   "input_unimplemented:env_entity_maker.ForceSpawn",
+   "input_unimplemented:func_rot_button.Press",
+   "input_unimplemented:game_player_equip.Use",
+   "input_unimplemented:player_weaponstrip.Strip",
+   "input_unimplemented:point_servercommand.Command",
+   "player_input:color x2",
+   "player_input:setdamagefilter x1"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 5,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 9,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 5,
+  "surfaces_opaque": 1,
+  "gameplay_lost": 13
+ },
+ "prop_fit": {
+  "rescaled": 4,
+  "fits": 4,
+  "unmeasured": 32
+ }
+}

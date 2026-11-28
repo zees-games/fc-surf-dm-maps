@@ -96,4 +96,30 @@ All maps are credited here and on screen. They are published under the credited-
 | `surf_thriller` | buck nasty | https://gamebanana.com/mods/123141 | None stated on the source page |
 | `surf_torque2` | Sangre Nueva | https://gamebanana.com/mods/123157 | None stated on the source page |
 | `surf_velocity` | copy-mark, jack the stripper, sangre, hellraisedsurfer, target practice, jesuswashomeless, skar | https://gamebanana.com/mods/123224 | None stated on the source page |
-| `surf_xiv_v2a` | smooth.nl | https://gamebanana.com/mods/123284 | None stated on the source page |
+| `surf_eternity_v1` | TheApexi | https://gamebanana.com/mods/137684 | None stated on the source page |
+| `surf_phenomenon` | equaleyez90 | https://gamebanana.com/mods/137693 | None stated on the source page |
+| `surf_machinery` | That Deviant | https://gamebanana.com/mods/137692 | None stated on the source page |
+| `surf_concordia` | razEr^surf | https://gamebanana.com/mods/137682 | None stated on the source page |
+| `surf_snowycave` | Moskin | https://gamebanana.com/mods/137699 | None stated on the source page |
+| `surf_ag_texture_final` | SmOoth123 | https://gamebanana.com/mods/121589 | None stated on the source page |
+| `surf_olympics` | THAY-imagine- | https://gamebanana.com/mods/122667 | None stated on the source page |
+| `surf_2heaven_b1` | arcangel845 | https://gamebanana.com/mods/121541 | None stated on the source page |
+| `surf_banocanyon` | BANORRACHY | https://gamebanana.com/mods/121688 | None stated on the source page |
+| `surf_crzyfrog_reloaded` | JackTheStripper | https://gamebanana.com/mods/121880 | None stated on the source page |
+| `surf_buzzkill2` | SmirnOFF. | https://gamebanana.com/mods/121791 | None stated on the source page |
+| `surf_skyscraper` | Goerge | https://gamebanana.com/mods/122978 | None stated on the source page |
+| `surf_buck_ed_up` | BuckNasty | https://gamebanana.com/mods/121784 | None stated on the source page |
+| `surf_2012_beta12` | Ryan S | https://gamebanana.com/mods/121537 | None stated on the source page |
+| `surf_dusty_roads` | Rebell | https://gamebanana.com/mods/121966 | None stated on the source page |
+| `surf_meister_v3_final2` | VVeltmeister | https://gamebanana.com/mods/122536 | None stated on the source page |
+| `surf_melons` | kaos4u | https://gamebanana.com/mods/122538 | None stated on the source page |
+| `surf_amplitude_encore` | BuckNasty | https://gamebanana.com/mods/121623 | None stated on the source page |
+| `surf_funpark_reloaded_v1` | Paper-Cut | https://gamebanana.com/mods/122098 | None stated on the source page |
+| `surf_prisoner_v2` | EncryptedCell | https://gamebanana.com/mods/122749 | None stated on the source page |
+| `surf_ny__resist` | FAJ | https://gamebanana.com/mods/122656 | None stated on the source page |
+| `surf_buck_fever2` | BuckNasty | https://gamebanana.com/mods/121786 | None stated on the source page |
+| `surf_bedroom` | .Nixon^ | https://gamebanana.com/mods/121712 | None stated on the source page |
+| `surf_vindictive` | -[Element]- | https://gamebanana.com/mods/137703 | None stated on the source page |
+| `surf_gforce` | latrosicarius | https://gamebanana.com/mods/122130 | None stated on the source page |
+| `surf_flowing` | G-FLOW | https://gamebanana.com/mods/122062 | None stated on the source page |
+| `surf_xiv_v3b` | SmOoth123 | https://gamebanana.com/mods/123285 | None stated on the source page |

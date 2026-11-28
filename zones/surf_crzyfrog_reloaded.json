@@ -1,0 +1,33 @@
+{
+ "id": "surf_crzyfrog_reloaded",
+ "author": "JackTheStripper (GameBanana 121880)",
+ "attribution": {
+  "author": "JackTheStripper",
+  "source": "https://gamebanana.com/mods/121880",
+  "archive": "surf_crzyfrog_reloaded.bsp",
+  "recorded": "2026-11-28"
+ },
+ "notes": "Combat surf map for game-fatal-contact (owner's Surf Combat list): the map's own spawns; teleports that only a map event enables are not run; textures and models are free replacements; published as a credited community map with a removal offer.",
+ "kind": "arena",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ],
+ "kind_why": "A combat surf map: built to fight on rather than to time. 'arena' marks it for game-fatal-contact's deathmatch.",
+ "conditional_teleports": {
+  "filters": [
+   "ctfilter"
+  ],
+  "why": "team-filtered pairs over one pit: T side kept"
+ },
+ "sealed_teleports": {
+  "targets": [
+   "jail top1",
+   "jail top2",
+   "jail top3",
+   "jail top4"
+  ],
+  "why": "four stacked jail pads over one floor; a fall in the jail room is a trap this game cannot undo (shadowed pits)"
+ }
+}

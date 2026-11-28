@@ -1,0 +1,77 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_skyscraper",
+ "sha256": "b16f373bd313c3f68a6f5e20f18e7e158ee763410367427014e8df0e7fafa384",
+ "textures": {
+  "looked_up": 21,
+  "drawn": 21,
+  "by_tier": {
+   "addon": 17,
+   "default": 4
+  },
+  "free_by_tier": {
+   "addon": 20,
+   "default": 1
+  },
+  "nearest_photo": [
+   "brick/brickwall031g",
+   "metal/metalwall018a"
+  ]
+ },
+ "models": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 18,
+  "entities": 171,
+  "by_tier": {
+   "default": 18
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {}
+ },
+ "links": {
+  "total": 0,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {},
+  "severity": {},
+  "classes": {
+   "implemented": 18
+  }
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": [],
+  "gameplay_lost": []
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 0,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0,
+  "gameplay_lost": 0
+ },
+ "prop_fit": {}
+}

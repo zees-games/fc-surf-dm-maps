@@ -1,0 +1,124 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_ag_texture_final",
+ "sha256": "9728f682ee4dfa9404e7ffe8e6eafff0dcfd698a4954b2828c4780e6e6c72eca",
+ "textures": {
+  "looked_up": 24,
+  "drawn": 24,
+  "by_tier": {
+   "addon": 16,
+   "default": 8
+  },
+  "free_by_tier": {
+   "addon": 19,
+   "default": 5
+  },
+  "nearest_photo": [
+   "dev/dev_measurebarrel",
+   "dev/dev_measurecounter",
+   "dev/dev_measurecrate03",
+   "dev/dev_measureswitch02"
+  ]
+ },
+ "models": {
+  "looked_up": 1,
+  "by_tier": {
+   "default": 1
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 52,
+  "entities": 389,
+  "by_tier": {
+   "default": 52
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "game_player_equip": [
+    "ammo_50ae",
+    "no_decomp",
+    "weapon_deagle",
+    "weapon_knife"
+   ]
+  }
+ },
+ "links": {
+  "total": 76,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 12,
+   "input_unimplemented": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "approximated": 14,
+   "ignored": 2,
+   "implemented": 36
+  }
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "game_player_equip.ammo_50ae",
+   "game_player_equip.no_decomp",
+   "game_player_equip.weapon_deagle",
+   "game_player_equip.weapon_knife"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn",
+   "prop_physics.Wake"
+  ],
+  "surfaces_opaque": [
+   "dev/dev_measureladder01"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:ammo_338mag (approximated)",
+   "class_unsupported:ammo_357sig (approximated)",
+   "class_unsupported:ammo_45acp (approximated)",
+   "class_unsupported:ammo_50ae (approximated)",
+   "class_unsupported:ammo_556mm (approximated)",
+   "class_unsupported:ammo_556mm_box (approximated)",
+   "class_unsupported:ammo_57mm (approximated)",
+   "class_unsupported:ammo_762mm (approximated)",
+   "class_unsupported:ammo_9mm (approximated)",
+   "class_unsupported:ammo_buckshot (approximated)",
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:item_assaultsuit (approximated)",
+   "input_unimplemented:env_entity_maker.ForceSpawn",
+   "input_unimplemented:prop_physics.Wake"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 4,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 2,
+  "surfaces_opaque": 1,
+  "gameplay_lost": 14
+ },
+ "prop_fit": {
+  "rescaled": 13,
+  "fits": 13
+ }
+}

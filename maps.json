@@ -58,7 +58,7 @@
     },
     {
       "id": "surf_dust2_2008_final",
-      "author": "Matrix Hetman, Karatek\u00e4fer",
+      "author": "Matrix Hetman, Karatekäfer",
       "source": "https://gamebanana.com/mods/121962",
       "bytes": 6801091
     },
@@ -76,7 +76,7 @@
     },
     {
       "id": "surf_forbidden_ways_reloaded",
-      "author": "Krusty, sky by Karatek\u00e4fer",
+      "author": "Krusty, sky by Karatekäfer",
       "source": "https://gamebanana.com/mods/122076",
       "bytes": 5845343
     },
@@ -208,7 +208,7 @@
     },
     {
       "id": "surf_pox",
-      "author": "Krusty, Pariah, Karatek\u00e4fer, Korr",
+      "author": "Krusty, Pariah, Karatekäfer, Korr",
       "source": "https://gamebanana.com/mods/122741",
       "bytes": 3940630
     },
@@ -250,7 +250,7 @@
     },
     {
       "id": "surf_the_flow",
-      "author": "G-Flow, Karatek\u00e4fer (skybox), Stavros Xanthis",
+      "author": "G-Flow, Karatekäfer (skybox), Stavros Xanthis",
       "source": "https://gamebanana.com/mods/137701",
       "bytes": 4504936
     },
@@ -279,10 +279,166 @@
       "bytes": 12147324
     },
     {
-      "id": "surf_xiv_v2a",
-      "author": "smooth.nl",
-      "source": "https://gamebanana.com/mods/123284",
-      "bytes": 13340039
+      "id": "surf_eternity_v1",
+      "author": "TheApexi",
+      "source": "https://gamebanana.com/mods/137684",
+      "bytes": 6244759
+    },
+    {
+      "id": "surf_phenomenon",
+      "author": "equaleyez90",
+      "source": "https://gamebanana.com/mods/137693",
+      "bytes": 4165741
+    },
+    {
+      "id": "surf_machinery",
+      "author": "That Deviant",
+      "source": "https://gamebanana.com/mods/137692",
+      "bytes": 2229576
+    },
+    {
+      "id": "surf_snowycave",
+      "author": "Moskin",
+      "source": "https://gamebanana.com/mods/137699",
+      "bytes": 624348
+    },
+    {
+      "id": "surf_ag_texture_final",
+      "author": "SmOoth123",
+      "source": "https://gamebanana.com/mods/121589",
+      "bytes": 3822717
+    },
+    {
+      "id": "surf_olympics",
+      "author": "THAY-imagine-",
+      "source": "https://gamebanana.com/mods/122667",
+      "bytes": 7365558
+    },
+    {
+      "id": "surf_banocanyon",
+      "author": "BANORRACHY",
+      "source": "https://gamebanana.com/mods/121688",
+      "bytes": 1173478
+    },
+    {
+      "id": "surf_buzzkill2",
+      "author": "SmirnOFF.",
+      "source": "https://gamebanana.com/mods/121791",
+      "bytes": 1922102
+    },
+    {
+      "id": "surf_skyscraper",
+      "author": "Goerge",
+      "source": "https://gamebanana.com/mods/122978",
+      "bytes": 1073553
+    },
+    {
+      "id": "surf_buck_ed_up",
+      "author": "BuckNasty",
+      "source": "https://gamebanana.com/mods/121784",
+      "bytes": 4432116
+    },
+    {
+      "id": "surf_2012_beta12",
+      "author": "Ryan S",
+      "source": "https://gamebanana.com/mods/121537",
+      "bytes": 8602588
+    },
+    {
+      "id": "surf_meister_v3_final2",
+      "author": "VVeltmeister",
+      "source": "https://gamebanana.com/mods/122536",
+      "bytes": 3932201
+    },
+    {
+      "id": "surf_melons",
+      "author": "kaos4u",
+      "source": "https://gamebanana.com/mods/122538",
+      "bytes": 3614178
+    },
+    {
+      "id": "surf_amplitude_encore",
+      "author": "BuckNasty",
+      "source": "https://gamebanana.com/mods/121623",
+      "bytes": 4919305
+    },
+    {
+      "id": "surf_funpark_reloaded_v1",
+      "author": "Paper-Cut",
+      "source": "https://gamebanana.com/mods/122098",
+      "bytes": 3083629
+    },
+    {
+      "id": "surf_prisoner_v2",
+      "author": "EncryptedCell",
+      "source": "https://gamebanana.com/mods/122749",
+      "bytes": 820501
+    },
+    {
+      "id": "surf_ny__resist",
+      "author": "FAJ",
+      "source": "https://gamebanana.com/mods/122656",
+      "bytes": 2441322
+    },
+    {
+      "id": "surf_gforce",
+      "author": "latrosicarius",
+      "source": "https://gamebanana.com/mods/122130",
+      "bytes": 3018427
+    },
+    {
+      "id": "surf_buck_fever2",
+      "author": "BuckNasty",
+      "source": "https://gamebanana.com/mods/121786",
+      "bytes": 4520412
+    },
+    {
+      "id": "surf_bedroom",
+      "author": ".Nixon^",
+      "source": "https://gamebanana.com/mods/121712",
+      "bytes": 2043789
+    },
+    {
+      "id": "surf_flowing",
+      "author": "G-FLOW",
+      "source": "https://gamebanana.com/mods/122062",
+      "bytes": 6685627
+    },
+    {
+      "id": "surf_concordia",
+      "author": "razEr^surf",
+      "source": "https://gamebanana.com/mods/137682",
+      "bytes": 10207398
+    },
+    {
+      "id": "surf_vindictive",
+      "author": "-[Element]-",
+      "source": "https://gamebanana.com/mods/137703",
+      "bytes": 7696148
+    },
+    {
+      "id": "surf_xiv_v3b",
+      "author": "SmOoth123",
+      "source": "https://gamebanana.com/mods/123285",
+      "bytes": 14783542
+    },
+    {
+      "id": "surf_dusty_roads",
+      "author": "Rebell",
+      "source": "https://gamebanana.com/mods/121966",
+      "bytes": 3469139
+    },
+    {
+      "id": "surf_2heaven_b1",
+      "author": "arcangel845",
+      "source": "https://gamebanana.com/mods/121541",
+      "bytes": 717724
+    },
+    {
+      "id": "surf_crzyfrog_reloaded",
+      "author": "JackTheStripper",
+      "source": "https://gamebanana.com/mods/121880",
+      "bytes": 6185562
     }
   ]
 }

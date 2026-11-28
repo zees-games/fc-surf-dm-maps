@@ -1,0 +1,126 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_prisoner_v2",
+ "sha256": "d07e9f0d55f3c223cca2eedc8fc7830706d73b57c78b1fb3c28a00c7e88dcab5",
+ "textures": {
+  "looked_up": 35,
+  "drawn": 36,
+  "by_tier": {
+   "addon": 15,
+   "default": 4,
+   "fallback": 16
+  },
+  "free_by_tier": {
+   "addon": 33,
+   "default": 3
+  },
+  "nearest_photo": [
+   "custom/beliar",
+   "custom/brokensurfbanner2",
+   "custom/chrisx",
+   "custom/creditarea",
+   "custom/credits2",
+   "custom/finalalloy",
+   "custom/heypeople",
+   "custom/jail",
+   "custom/mattdev",
+   "custom/nettles",
+   "custom/omega",
+   "custom/perojr",
+   "custom/release",
+   "custom/tele-ct",
+   "custom/tele-t2",
+   "custom/tele-top",
+   "effects/tp_eyefx/tpeye",
+   "metal/standin_fence"
+  ]
+ },
+ "models": {
+  "looked_up": 4,
+  "by_tier": {
+   "default": 4
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 12,
+  "entities": 113,
+  "by_tier": {
+   "default": 12
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "func_door": [
+    "message"
+   ]
+  }
+ },
+ "links": {
+  "total": 1,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {},
+  "severity": {},
+  "classes": {
+   "ignored": 1,
+   "implemented": 10
+  }
+ },
+ "lists": {
+  "textures_unmapped": [
+   "CUSTOM/BELIAR",
+   "CUSTOM/BROKENSURFBANNER2",
+   "CUSTOM/CHRISX",
+   "CUSTOM/CREDITAREA",
+   "CUSTOM/CREDITS2",
+   "CUSTOM/FINALALLOY",
+   "CUSTOM/HEYPEOPLE",
+   "CUSTOM/JAIL",
+   "CUSTOM/MATTDEV",
+   "CUSTOM/NETTLES",
+   "CUSTOM/OMEGA",
+   "CUSTOM/PEROJR",
+   "CUSTOM/RELEASE",
+   "CUSTOM/TELE-CT",
+   "CUSTOM/TELE-T2",
+   "CUSTOM/TELE-TOP"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "func_door.message"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": [
+   "models/effects/portalfunnel_sheet",
+   "models/props_combine/portalball001_sheet"
+  ],
+  "gameplay_lost": []
+ },
+ "counts": {
+  "textures_unmapped": 16,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 1,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 2,
+  "gameplay_lost": 0
+ },
+ "prop_fit": {
+  "unmeasured": 34,
+  "fits": 2
+ }
+}

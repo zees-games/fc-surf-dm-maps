@@ -1,0 +1,142 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_phenomenon",
+ "sha256": "d1ec101b41280628e5da926c4a8203f38343444dcb8304cbdc74b4bf369145f7",
+ "textures": {
+  "looked_up": 11,
+  "drawn": 11,
+  "by_tier": {
+   "addon": 7,
+   "default": 3,
+   "fallback": 1
+  },
+  "free_by_tier": {
+   "addon": 8,
+   "default": 3
+  },
+  "nearest_photo": [
+   "effects/ar2_altfire1",
+   "nature/water_dx70_beneath"
+  ]
+ },
+ "models": {
+  "looked_up": 1,
+  "by_tier": {
+   "default": 1
+  }
+ },
+ "sounds": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "classes": {
+  "distinct": 32,
+  "entities": 229,
+  "by_tier": {
+   "default": 32
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "weapon_ak47": [
+    "ammo"
+   ],
+   "weapon_aug": [
+    "ammo"
+   ],
+   "weapon_awp": [
+    "ammo"
+   ],
+   "weapon_deagle": [
+    "ammo"
+   ],
+   "weapon_elite": [
+    "ammo"
+   ],
+   "weapon_m249": [
+    "ammo"
+   ],
+   "weapon_m3": [
+    "ammo"
+   ],
+   "weapon_m4a1": [
+    "ammo"
+   ],
+   "weapon_mp5navy": [
+    "ammo"
+   ],
+   "weapon_scout": [
+    "ammo"
+   ],
+   "weapon_sg552": [
+    "ammo"
+   ],
+   "weapon_ump45": [
+    "ammo"
+   ]
+  }
+ },
+ "links": {
+  "total": 8,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "ignored": 1,
+   "implemented": 30
+  }
+ },
+ "lists": {
+  "textures_unmapped": [
+   "HOMETEXTURES/SHOCK_SIGN"
+  ],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "weapon_ak47.ammo",
+   "weapon_aug.ammo",
+   "weapon_awp.ammo",
+   "weapon_deagle.ammo",
+   "weapon_elite.ammo",
+   "weapon_m249.ammo",
+   "weapon_m3.ammo",
+   "weapon_m4a1.ammo",
+   "weapon_mp5navy.ammo",
+   "weapon_scout.ammo",
+   "weapon_sg552.ammo",
+   "weapon_ump45.ammo"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:point_viewcontrol (ignored)"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 1,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 12,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0,
+  "gameplay_lost": 1
+ },
+ "prop_fit": {
+  "rescaled": 4,
+  "fits": 4
+ }
+}

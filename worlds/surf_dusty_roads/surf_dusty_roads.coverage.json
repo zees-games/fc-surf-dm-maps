@@ -1,0 +1,144 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_dusty_roads",
+ "sha256": "d64674c133f66674ffe5283f33500ee98ed5a2f1f63e6162f491063287cd3e84",
+ "textures": {
+  "looked_up": 59,
+  "drawn": 60,
+  "by_tier": {
+   "addon": 26,
+   "default": 33
+  },
+  "free_by_tier": {
+   "addon": 57,
+   "default": 3
+  },
+  "nearest_photo": [
+   "de_dust/door05",
+   "de_dust/door10",
+   "de_dust/groundsand_blend",
+   "de_dust/residbwall02",
+   "de_dust/residbwall02a",
+   "de_dust/residbwall03",
+   "de_dust/residbwall03b",
+   "de_dust/residbwall04a",
+   "de_dust/residbwall04b",
+   "de_dust/residwall01b",
+   "de_dust/sitebwall05c",
+   "de_dust/sitebwall10a",
+   "de_dust/sitebwall10b",
+   "de_dust/sitebwall12",
+   "de_dust/sitebwall12a",
+   "de_dust/sitebwall12b",
+   "de_dust/sitebwall13",
+   "de_dust/sitebwall13a",
+   "de_dust/sitebwall13b",
+   "de_dust/sitebwall14",
+   "de_dust/sitebwall14b",
+   "de_dust/stonestep02",
+   "de_dust/stonestep03",
+   "de_dust/templewall02a",
+   "de_dust/templewall02b",
+   "de_dust/templewall02d",
+   "de_dust/templewall02e",
+   "de_dust/templewall03",
+   "de_dust/templewall03b",
+   "de_train/train_abombsite_01",
+   "metal/standin_pole"
+  ]
+ },
+ "models": {
+  "looked_up": 36,
+  "by_tier": {
+   "category": 7,
+   "default": 29
+  }
+ },
+ "sounds": {
+  "looked_up": 2,
+  "by_tier": {
+   "default": 2
+  }
+ },
+ "classes": {
+  "distinct": 49,
+  "entities": 508,
+  "by_tier": {
+   "default": 49
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "game_player_equip": [
+    "weapon_flashbang",
+    "weapon_hegrenade",
+    "weapon_m3",
+    "weapon_usp"
+   ]
+  }
+ },
+ "links": {
+  "total": 8,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2,
+   "input_unimplemented": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "ignored": 5,
+   "implemented": 43
+  }
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "game_player_equip.weapon_flashbang",
+   "game_player_equip.weapon_hegrenade",
+   "game_player_equip.weapon_m3",
+   "game_player_equip.weapon_usp"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [
+   "game_player_equip.use"
+  ],
+  "surfaces_opaque": [
+   "de_train/train_abombsite_01"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:func_bomb_target (ignored)",
+   "class_unsupported:point_viewcontrol (ignored)",
+   "input_unimplemented:game_player_equip.use"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 4,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 1,
+  "surfaces_opaque": 1,
+  "gameplay_lost": 3
+ },
+ "prop_fit": {
+  "rescaled": 168,
+  "fits": 173,
+  "boxed": 11,
+  "unmeasured": 85,
+  "fitted_in": 7
+ }
+}

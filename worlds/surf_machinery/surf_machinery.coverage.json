@@ -1,0 +1,129 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_machinery",
+ "sha256": "59906c79e6e257cb6da02380df94bf5ac0a547d67ca0ad3b824430e84f79028b",
+ "textures": {
+  "looked_up": 9,
+  "drawn": 9,
+  "by_tier": {
+   "addon": 7,
+   "default": 2
+  },
+  "free_by_tier": {
+   "addon": 7,
+   "default": 2
+  },
+  "nearest_photo": []
+ },
+ "models": {
+  "looked_up": 0,
+  "by_tier": {}
+ },
+ "sounds": {
+  "looked_up": 1,
+  "by_tier": {
+   "default": 1
+  }
+ },
+ "classes": {
+  "distinct": 31,
+  "entities": 219,
+  "by_tier": {
+   "default": 31
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "game_player_equip": [
+    "weapon_knife"
+   ],
+   "weapon_ak47": [
+    "ammo"
+   ],
+   "weapon_awp": [
+    "ammo"
+   ],
+   "weapon_deagle": [
+    "ammo"
+   ],
+   "weapon_elite": [
+    "ammo"
+   ],
+   "weapon_m3": [
+    "ammo"
+   ],
+   "weapon_m4a1": [
+    "ammo"
+   ],
+   "weapon_mp5navy": [
+    "ammo"
+   ],
+   "weapon_p228": [
+    "ammo"
+   ],
+   "weapon_p90": [
+    "ammo"
+   ],
+   "weapon_scout": [
+    "ammo"
+   ]
+  }
+ },
+ "links": {
+  "total": 10,
+  "unresolved": 0
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "approximated": 2,
+   "implemented": 29
+  }
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "game_player_equip.weapon_knife",
+   "weapon_ak47.ammo",
+   "weapon_awp.ammo",
+   "weapon_deagle.ammo",
+   "weapon_elite.ammo",
+   "weapon_m3.ammo",
+   "weapon_m4a1.ammo",
+   "weapon_mp5navy.ammo",
+   "weapon_p228.ammo",
+   "weapon_p90.ammo",
+   "weapon_scout.ammo"
+  ],
+  "links_unresolved": [],
+  "inputs_unimplemented": [],
+  "surfaces_opaque": [],
+  "gameplay_lost": [
+   "class_unsupported:point_tesla (approximated)"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 11,
+  "links_unresolved": 0,
+  "inputs_unimplemented": 0,
+  "surfaces_opaque": 0,
+  "gameplay_lost": 1
+ },
+ "prop_fit": {}
+}

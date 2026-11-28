@@ -1,0 +1,69 @@
+{
+ "map": {
+  "author": "BANORRACHY (GameBanana 121688)",
+  "page": "https://gamebanana.com/mods/121688",
+  "licence": "none stated"
+ },
+ "works": [
+  {
+   "kind": "texture",
+   "name": "pbr_slate_floor_03",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/slate_floor_03",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 210
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Metal028",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Metal028",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 24
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_plaster_stone_wall_01",
+   "author": "Charlotte Baglioni",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/plaster_stone_wall_01",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 210
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_WoodSiding003",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=WoodSiding003",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 53
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Planks026A",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Planks026A",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 7
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_MetalPlates007",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=MetalPlates007",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 2
+  }
+ ]
+}

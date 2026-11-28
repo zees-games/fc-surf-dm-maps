@@ -1,0 +1,118 @@
+{
+ "format": "gs-bsp-coverage",
+ "version": 1,
+ "map": "surf_melons",
+ "sha256": "5e2b3f493ae1e4830773ab08ab89d0ab58baed8985b81cbed3dfb1889248c52b",
+ "textures": {
+  "looked_up": 28,
+  "drawn": 30,
+  "by_tier": {
+   "addon": 22,
+   "default": 6
+  },
+  "free_by_tier": {
+   "addon": 27,
+   "default": 3
+  },
+  "nearest_photo": [
+   "custom/skystone",
+   "de_chateau/rockf_blend",
+   "de_dust/sitebwall11",
+   "de_tides/tides_storagedoor",
+   "models/props_wasteland/rockcliff_standin"
+  ]
+ },
+ "models": {
+  "looked_up": 8,
+  "by_tier": {
+   "default": 8
+  }
+ },
+ "sounds": {
+  "looked_up": 3,
+  "by_tier": {
+   "default": 3
+  }
+ },
+ "classes": {
+  "distinct": 42,
+  "entities": 282,
+  "by_tier": {
+   "default": 42
+  }
+ },
+ "keys": {
+  "catalogue": true,
+  "unmapped": {
+   "game_player_equip": [
+    "weapon_knife"
+   ]
+  }
+ },
+ "links": {
+  "total": 38,
+  "unresolved": 1
+ },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2,
+   "input_unimplemented": 2,
+   "target_dangling": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "target_dangling": "source"
+  },
+  "classes": {
+   "approximated": 5,
+   "ignored": 2,
+   "implemented": 34
+  }
+ },
+ "lists": {
+  "textures_unmapped": [],
+  "textures_flat": [],
+  "models_unmapped": [],
+  "sounds_unmapped": [],
+  "classes_unmapped": [],
+  "keys_unmapped": [
+   "game_player_equip.weapon_knife"
+  ],
+  "links_unresolved": [
+   "logic_timer.OnTimer->1point5"
+  ],
+  "inputs_unimplemented": [
+   "env_entity_maker.ForceSpawn",
+   "env_shooter.Shoot"
+  ],
+  "surfaces_opaque": [
+   "de_train/train_bombsite_arrow_01"
+  ],
+  "gameplay_lost": [
+   "class_unsupported:env_entity_maker (approximated)",
+   "class_unsupported:func_bomb_target (ignored)",
+   "input_unimplemented:env_entity_maker.ForceSpawn",
+   "input_unimplemented:env_shooter.Shoot"
+  ]
+ },
+ "counts": {
+  "textures_unmapped": 0,
+  "textures_flat": 0,
+  "models_unmapped": 0,
+  "sounds_unmapped": 0,
+  "classes_unmapped": 0,
+  "keys_unmapped": 1,
+  "links_unresolved": 1,
+  "inputs_unimplemented": 2,
+  "surfaces_opaque": 1,
+  "gameplay_lost": 4
+ },
+ "prop_fit": {
+  "rescaled": 15,
+  "fits": 40,
+  "rescaled_upright": 2,
+  "boxed": 1,
+  "unmeasured": 2
+ }
+}

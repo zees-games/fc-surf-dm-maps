@@ -1,0 +1,24 @@
+[
+  {
+    "paths": [
+      ""
+    ],
+    "licence": "MIT",
+    "author": "Gamespice",
+    "url": "https://github.com/zees-games/fc-surf-dm-maps",
+    "title": "fc-surf-dm-maps (original content)"
+  },
+  {
+    "paths": [
+      "surf_buck_fever2",
+      "textures/",
+      "worlds/surf_buck_fever2/"
+    ],
+    "licence": "none stated",
+    "exception": "credited-community-map",
+    "title": "Surf Buck Fever2",
+    "author": "BuckNasty",
+    "source_url": "https://gamebanana.com/mods/121786",
+    "removal_contact": "https://github.com/zees-games/fc-dm-maps/issues"
+  }
+]
