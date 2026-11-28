@@ -5,21 +5,21 @@
  "sha256": "f6faca2893c94e38c3c0b298bb14bf7e92572052d636638a86aba42d77204190",
  "textures": {
   "looked_up": 24,
-  "drawn": 23,
+  "drawn": 24,
   "by_tier": {
-   "addon": 13,
-   "default": 11
+   "addon": 15,
+   "default": 9
   },
   "free_by_tier": {
-   "addon": 17,
-   "default": 6
+   "addon": 19,
+   "default": 5
   },
   "nearest_photo": [
-   "brick/brickwall038a",
    "de_train/train_abombsite_02",
    "effects/bluelaser1",
    "halflife/c3a2a_telred1d",
-   "nature/cavewall005a"
+   "nature/cavewall005a",
+   "nature/water_dx70_beneath"
   ]
  },
  "models": {
@@ -59,9 +59,9 @@
    "input_unimplemented": "unsupported"
   },
   "classes": {
-   "approximated": 2,
+   "approximated": 1,
    "ignored": 2,
-   "implemented": 43
+   "implemented": 44
   }
  },
  "lists": {
@@ -95,5 +95,10 @@
   "inputs_unimplemented": 1,
   "surfaces_opaque": 1,
   "gameplay_lost": 3
+ },
+ "prop_fit": {
+  "rescaled": 11,
+  "unmeasured": 6,
+  "fits": 11
  }
 }

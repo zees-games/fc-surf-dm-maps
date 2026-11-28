@@ -5,20 +5,17 @@
  "sha256": "206ad9f0c0b8ff24da25a78c16418538fc19d81424e8d149c22d939b8aa0500a",
  "textures": {
   "looked_up": 31,
-  "drawn": 29,
+  "drawn": 30,
   "by_tier": {
-   "addon": 20,
-   "default": 11
+   "addon": 23,
+   "default": 8
   },
   "free_by_tier": {
-   "addon": 24,
-   "default": 5
+   "addon": 26,
+   "default": 4
   },
   "nearest_photo": [
-   "building_template/courtyard_template001a",
    "customs/mai_redone_credits",
-   "de_train/train_bombsite_arrow_02",
-   "effects/bluelaser1",
    "effects/tp_eyefx/tpeye",
    "sprites/strider_bluebeam"
   ]
@@ -67,8 +64,8 @@
  },
  "gameplay": {
   "findings": {
-   "class_unsupported": 8,
-   "input_unimplemented": 3,
+   "class_unsupported": 7,
+   "input_unimplemented": 2,
    "player_input": 1,
    "volume_parented": 1
   },
@@ -79,9 +76,9 @@
    "volume_parented": "unsupported"
   },
   "classes": {
-   "approximated": 12,
+   "approximated": 7,
    "ignored": 3,
-   "implemented": 55
+   "implemented": 60
   }
  },
  "lists": {
@@ -101,15 +98,13 @@
   "links_unresolved": [],
   "inputs_unimplemented": [
    "env_entity_maker.ForceSpawn",
-   "env_hudhint.ShowHudHint",
-   "point_servercommand.Command"
+   "env_hudhint.ShowHudHint"
   ],
   "surfaces_opaque": [
    "de_train/train_bombsite_arrow_02"
   ],
   "gameplay_lost": [
    "class_unsupported:env_entity_maker (approximated)",
-   "class_unsupported:env_laser (approximated)",
    "class_unsupported:func_buyzone (ignored)",
    "class_unsupported:item_kevlar (approximated)",
    "class_unsupported:path_track (approximated)",
@@ -118,7 +113,6 @@
    "class_unsupported:weapon_sg552 (approximated)",
    "input_unimplemented:env_entity_maker.ForceSpawn",
    "input_unimplemented:env_hudhint.ShowHudHint",
-   "input_unimplemented:point_servercommand.Command",
    "player_input:setdamagefilter x1",
    "volume_parented:trigger_once#515 -> kevlar_model"
   ]
@@ -131,8 +125,13 @@
   "classes_unmapped": 0,
   "keys_unmapped": 4,
   "links_unresolved": 0,
-  "inputs_unimplemented": 3,
+  "inputs_unimplemented": 2,
   "surfaces_opaque": 1,
-  "gameplay_lost": 13
+  "gameplay_lost": 11
+ },
+ "prop_fit": {
+  "fits": 142,
+  "unmeasured": 80,
+  "rescaled": 67
  }
 }

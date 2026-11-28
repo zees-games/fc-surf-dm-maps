@@ -147,11 +147,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_whitewashed_brick",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_Bricks061",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/whitewashed_brick",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Bricks061",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 46
   },
@@ -167,13 +167,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_patterned_brick_wall_02",
-   "author": "Dario Barresi, Charlotte Baglioni",
+   "name": "pbr_Bricks003",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/patterned_brick_wall_02",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Bricks003",
+   "source": "ambientCG",
    "attribution": false,
-   "uses": 6
+   "uses": 4
   },
   {
    "kind": "texture",
@@ -237,11 +237,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_marble_01",
-   "author": "Rob Tuytel",
+   "name": "pbr_Rock021",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/marble_01",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Rock021",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 2
   },
@@ -267,6 +267,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_patterned_brick_wall_02",
+   "author": "Dario Barresi, Charlotte Baglioni",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/patterned_brick_wall_02",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "texture",
    "name": "pbr_stone_tiles",
    "author": "Christopher Melani",
    "licence": "CC0-1.0",
@@ -287,11 +297,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Metal021",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_blue_painted_planks",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal021",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/blue_painted_planks",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 10
   },
@@ -304,6 +314,16 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Ground014",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Ground014",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 0
   },
   {
    "kind": "model",

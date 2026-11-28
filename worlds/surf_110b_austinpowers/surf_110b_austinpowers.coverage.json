@@ -5,14 +5,14 @@
  "sha256": "23d2c56976882579d1814e6d291f724f2136313c198f26046f9aada92d790efc",
  "textures": {
   "looked_up": 53,
-  "drawn": 53,
+  "drawn": 54,
   "by_tier": {
-   "addon": 8,
-   "default": 45
+   "addon": 12,
+   "default": 41
   },
   "free_by_tier": {
-   "addon": 44,
-   "default": 9
+   "addon": 46,
+   "default": 8
   },
   "nearest_photo": [
    "austinpowerstex/1",
@@ -45,10 +45,7 @@
    "austinpowerstex/start",
    "austinpowerstex/top",
    "austinpowerstex/topsecretlair",
-   "austinpowerstex/walltex1",
-   "building_template/courtyard_template001a",
-   "de_piranesi/walltrim01",
-   "nature/mudfloor005a",
+   "metal/standin_fence",
    "nippertextures/westwood/nm_gas_floor1",
    "nippertextures/westwood/nmww_wall1"
   ]
@@ -116,7 +113,7 @@
  },
  "gameplay": {
   "findings": {
-   "class_unsupported": 2,
+   "class_unsupported": 1,
    "input_unimplemented": 2,
    "volume_parented": 9
   },
@@ -126,9 +123,8 @@
    "volume_parented": "unsupported"
   },
   "classes": {
-   "approximated": 6,
    "ignored": 3,
-   "implemented": 41
+   "implemented": 47
   }
  },
  "lists": {
@@ -171,7 +167,6 @@
   ],
   "surfaces_opaque": [],
   "gameplay_lost": [
-   "class_unsupported:env_fire (approximated)",
    "class_unsupported:path_track (ignored)",
    "input_unimplemented:func_monitor.SetCamera",
    "input_unimplemented:game_player_equip.Use",
@@ -196,6 +191,11 @@
   "links_unresolved": 0,
   "inputs_unimplemented": 2,
   "surfaces_opaque": 0,
-  "gameplay_lost": 13
+  "gameplay_lost": 12
+ },
+ "prop_fit": {
+  "fits": 70,
+  "unmeasured": 112,
+  "rescaled": 4
  }
 }

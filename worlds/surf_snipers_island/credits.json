@@ -117,6 +117,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 2
+  },
+  {
+   "kind": "texture",
    "name": "pbr_bark_willow",
    "author": "Dario Barresi, Dimitrios Savva",
    "licence": "CC0-1.0",
@@ -124,6 +134,16 @@
    "source": "polyhaven",
    "attribution": false,
    "uses": 6
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Rock046L",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Rock046L",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 0
   },
   {
    "kind": "model",

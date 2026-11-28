@@ -27,6 +27,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_Concrete030",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Concrete030",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 49
+  },
+  {
+   "kind": "texture",
    "name": "pbr_metal_grate_rusty",
    "author": "Rob Tuytel, Dimitrios Savva",
    "licence": "CC0-1.0",
@@ -207,11 +217,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_patterned_plaster_wall",
-   "author": "Amal Kumar",
+   "name": "pbr_Bricks093",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/patterned_plaster_wall",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Bricks093",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 12
   },
@@ -327,11 +337,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_DiamondPlate007C",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_white_stucco_02",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=DiamondPlate007C",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/white_stucco_02",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 2
   },
@@ -427,11 +437,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Metal024",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_climbing_wall_base",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal024",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/climbing_wall_base",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 26
   },
@@ -517,16 +527,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Concrete030",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Concrete030",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 3
-  },
-  {
-   "kind": "texture",
    "name": "pbr_Tiles135D",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -534,16 +534,6 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 8
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_forest_floor",
-   "author": "eye-candy.xyz",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/forest_floor",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 3
   },
   {
    "kind": "texture",
@@ -577,13 +567,23 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_rusty_metal_03",
-   "author": "Amal Kumar",
+   "name": "pbr_PaintedWood003",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rusty_metal_03",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=PaintedWood003",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 1
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Metal039",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Metal039",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 0
   },
   {
    "kind": "model",

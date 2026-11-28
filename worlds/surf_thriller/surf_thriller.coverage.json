@@ -5,13 +5,13 @@
  "sha256": "cb0d4ffaaf48234f94b859ee08c37aa0c14518fbdbbb189f1dcf24e58e8f1a27",
  "textures": {
   "looked_up": 29,
-  "drawn": 18,
+  "drawn": 29,
   "by_tier": {
-   "addon": 14,
-   "default": 15
+   "addon": 16,
+   "default": 13
   },
   "free_by_tier": {
-   "addon": 15,
+   "addon": 26,
    "default": 3
   },
   "nearest_photo": [
@@ -78,7 +78,7 @@
  "gameplay": {
   "findings": {
    "class_unsupported": 1,
-   "input_unimplemented": 4,
+   "input_unimplemented": 1,
    "parent_dangling": 16,
    "target_dangling": 3
   },
@@ -89,9 +89,8 @@
    "target_dangling": "source"
   },
   "classes": {
-   "approximated": 2,
    "ignored": 1,
-   "implemented": 27
+   "implemented": 29
   }
  },
  "lists": {
@@ -122,20 +121,15 @@
    "math_counter.OnHitMax->usp_light_t"
   ],
   "inputs_unimplemented": [
-   "func_button.Press",
-   "func_rot_button.Press",
-   "game_player_equip.Use",
-   "point_servercommand.Command"
+   "game_player_equip.Use"
   ],
   "surfaces_opaque": [
+   "decals/decalmetalspeaker002a",
    "metal/mildoor001"
   ],
   "gameplay_lost": [
    "class_unsupported:func_buyzone (ignored)",
-   "input_unimplemented:func_button.Press",
-   "input_unimplemented:func_rot_button.Press",
-   "input_unimplemented:game_player_equip.Use",
-   "input_unimplemented:point_servercommand.Command"
+   "input_unimplemented:game_player_equip.Use"
   ]
  },
  "counts": {
@@ -146,8 +140,12 @@
   "classes_unmapped": 0,
   "keys_unmapped": 12,
   "links_unresolved": 3,
-  "inputs_unimplemented": 4,
-  "surfaces_opaque": 1,
-  "gameplay_lost": 5
+  "inputs_unimplemented": 1,
+  "surfaces_opaque": 2,
+  "gameplay_lost": 2
+ },
+ "prop_fit": {
+  "unmeasured": 6,
+  "fits": 2
  }
 }

@@ -75,5 +75,6 @@
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
   "gameplay_lost": 0
- }
+ },
+ "prop_fit": {}
 }

@@ -17,20 +17,20 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Ground059",
+   "name": "pbr_Travertine001",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Ground059",
+   "url": "https://ambientcg.com/view?id=Travertine001",
    "source": "ambientCG",
    "attribution": false,
    "uses": 14
   },
   {
    "kind": "texture",
-   "name": "pbr_aerial_ground_rock",
-   "author": "Rob Tuytel",
+   "name": "pbr_mossy_cobblestone",
+   "author": "S\u01a1n Nguy\u1ec5n",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/aerial_ground_rock",
+   "url": "https://polyhaven.com/a/mossy_cobblestone",
    "source": "polyhaven",
    "attribution": false,
    "uses": 50
@@ -43,7 +43,7 @@
    "url": "https://ambientcg.com/view?id=Gravel021",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 10
+   "uses": 15
   },
   {
    "kind": "texture",
@@ -54,16 +54,6 @@
    "source": "polyhaven",
    "attribution": false,
    "uses": 46
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_mud_forest",
-   "author": "eye-candy.xyz",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/mud_forest",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 5
   },
   {
    "kind": "texture",
@@ -84,6 +74,16 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 7
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 19
   },
   {
    "kind": "texture",
@@ -127,11 +127,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_whitewashed_brick",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_Bricks061",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/whitewashed_brick",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Bricks061",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 6
   },

@@ -73,7 +73,7 @@
    "url": "https://polyhaven.com/a/blue_plaster_wall",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 19
+   "uses": 30
   },
   {
    "kind": "texture",
@@ -107,11 +107,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_patterned_brick_floor",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_Bricks032",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/patterned_brick_floor",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Bricks032",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 5
   },

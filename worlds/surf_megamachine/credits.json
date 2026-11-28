@@ -23,7 +23,7 @@
    "url": "https://ambientcg.com/view?id=PaintedPlaster006",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 77
+   "uses": 67
   },
   {
    "kind": "texture",
@@ -61,6 +61,16 @@
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
    "url": "https://ambientcg.com/view?id=MetalWalkway007",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Metal037",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Metal037",
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
@@ -137,10 +147,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Metal046B",
+   "name": "pbr_MetalWalkway012",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal046B",
+   "url": "https://ambientcg.com/view?id=MetalWalkway012",
    "source": "ambientCG",
    "attribution": false,
    "uses": 4
@@ -167,11 +177,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_clay_roof_tiles_03",
-   "author": "Amal Kumar",
+   "name": "pbr_RoofingTiles004",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/clay_roof_tiles_03",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=RoofingTiles004",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 2
   },
@@ -207,6 +217,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_Bricks024",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Bricks024",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 10
+  },
+  {
+   "kind": "texture",
    "name": "pbr_Ground014",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -227,13 +247,23 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Concrete034",
+   "name": "pbr_Terrazzo017",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Concrete034",
+   "url": "https://ambientcg.com/view?id=Terrazzo017",
    "source": "ambientCG",
    "attribution": false,
    "uses": 5
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 2
   },
   {
    "kind": "texture",

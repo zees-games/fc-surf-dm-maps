@@ -23,7 +23,7 @@
    "url": "https://polyhaven.com/a/stone_wall_04",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 102
+   "uses": 31
   },
   {
    "kind": "texture",
@@ -83,7 +83,7 @@
    "url": "https://polyhaven.com/a/rocks_ground_01",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 68
+   "uses": 69
   },
   {
    "kind": "texture",
@@ -104,6 +104,16 @@
    "source": "polyhaven",
    "attribution": false,
    "uses": 86
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Rocks004",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Rocks004",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 71
   },
   {
    "kind": "texture",
@@ -157,10 +167,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_metal_plate",
-   "author": "Rob Tuytel",
+   "name": "pbr_pebble_embedded_concrete_02",
+   "author": "Charlotte Baglioni",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/metal_plate",
+   "url": "https://polyhaven.com/a/pebble_embedded_concrete_02",
    "source": "polyhaven",
    "attribution": false,
    "uses": 13
@@ -287,21 +297,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_stone_tiles_02",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_worn_plaster_wall",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/stone_tiles_02",
+   "url": "https://polyhaven.com/a/worn_plaster_wall",
    "source": "polyhaven",
-   "attribution": false,
-   "uses": 1
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_PavingStones067",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=PavingStones067",
-   "source": "ambientCG",
    "attribution": false,
    "uses": 23
   },
@@ -314,6 +314,16 @@
    "source": "polyhaven",
    "attribution": false,
    "uses": 4
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Ground014",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Ground014",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 0
   },
   {
    "kind": "model",

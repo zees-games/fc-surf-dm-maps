@@ -7,13 +7,13 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_stone_tile_wall",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_Marble018",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/stone_tile_wall",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Marble018",
+   "source": "ambientCG",
    "attribution": false,
-   "uses": 539
+   "uses": 104
   },
   {
    "kind": "texture",
@@ -53,7 +53,7 @@
    "url": "https://ambientcg.com/view?id=Rock026",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 4
+   "uses": 439
   },
   {
    "kind": "texture",
@@ -76,12 +76,22 @@
    "uses": 1
   },
   {
+   "kind": "texture",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 3
+  },
+  {
    "kind": "model",
    "name": "lib/dm_weaponpistol",
-   "author": "TMC (modelled for gs-map)",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/weapons.py",
-   "source": "gs-map Blender model",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py",
+   "source": "dot-map Blender model",
    "attribution": false,
    "uses": 9
   },

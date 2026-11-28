@@ -5,26 +5,22 @@
  "sha256": "f3f249b3f8fbfe400c05195bf0adf4149d2af3990848b14deca436c55e735cac",
  "textures": {
   "looked_up": 87,
-  "drawn": 87,
+  "drawn": 90,
   "by_tier": {
-   "addon": 25,
-   "default": 62
+   "addon": 30,
+   "default": 57
   },
   "free_by_tier": {
-   "addon": 77,
-   "default": 10
+   "addon": 81,
+   "default": 9
   },
   "nearest_photo": [
-   "brick/brickwall038a",
    "building_template/building_template002j",
    "building_template/building_template004f",
    "building_template/building_template011g",
    "building_template/building_template011i",
    "building_template/building_template014k",
-   "building_template/building_template015a",
    "building_template/building_template015i",
-   "de_train/train_bombsite_arrow_01",
-   "dev/dev_blendmeasure2",
    "dev/dev_measurecolorscale01",
    "halflife/+aexit",
    "metal/metalroof008a_cheap",
@@ -144,9 +140,9 @@
    "volume_key_unread": "unsupported"
   },
   "classes": {
-   "approximated": 3,
+   "approximated": 2,
    "ignored": 1,
-   "implemented": 43
+   "implemented": 44
   }
  },
  "lists": {
@@ -212,5 +208,12 @@
   "inputs_unimplemented": 5,
   "surfaces_opaque": 1,
   "gameplay_lost": 9
+ },
+ "prop_fit": {
+  "rescaled": 17,
+  "boxed": 2,
+  "unmeasured": 18,
+  "rescaled_upright": 1,
+  "fits": 10
  }
 }

@@ -37,20 +37,20 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_wood_inlaid_stone_wall",
-   "author": "Amal Kumar",
+   "name": "pbr_patterned_cobblestone_02",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/wood_inlaid_stone_wall",
+   "url": "https://polyhaven.com/a/patterned_cobblestone_02",
    "source": "polyhaven",
    "attribution": false,
    "uses": 4
   },
   {
    "kind": "texture",
-   "name": "pbr_Facade020B",
+   "name": "pbr_DiamondPlate008D",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Facade020B",
+   "url": "https://ambientcg.com/view?id=DiamondPlate008D",
    "source": "ambientCG",
    "attribution": false,
    "uses": 46
@@ -107,10 +107,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Metal021",
+   "name": "pbr_MetalWalkway006",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal021",
+   "url": "https://ambientcg.com/view?id=MetalWalkway006",
    "source": "ambientCG",
    "attribution": false,
    "uses": 5
@@ -166,6 +166,16 @@
    "uses": 20
   },
   {
+   "kind": "texture",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 10
+  },
+  {
    "kind": "model",
    "name": "cabinet",
    "author": "Kenney",
@@ -198,10 +208,10 @@
   {
    "kind": "model",
    "name": "lib/dm_weaponrifle",
-   "author": "TMC (modelled for gs-map)",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/weapons.py",
-   "source": "gs-map Blender model",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py",
+   "source": "dot-map Blender model",
    "attribution": false,
    "uses": 4
   },

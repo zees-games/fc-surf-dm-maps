@@ -32,6 +32,7 @@ Every texture of this map is a free replacement; the original map's textures and
 - pbr (pbr_Snow009C): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Snow009C
 - pbr (pbr_Metal042B): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal042B
 - pbr (pbr_Snow014): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Snow014
+- pbr (pbr_Metal037): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Metal037
 - pbr (pbr_metal_plate_02): polyhaven, Rob Tuytel, CC0-1.0, https://polyhaven.com/a/metal_plate_02
 - pbr (pbr_Tiles003): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=Tiles003
 - pbr (pbr_WoodFloor068): ambientCG, Lennart Demes and contributors, CC0-1.0, https://ambientcg.com/view?id=WoodFloor068

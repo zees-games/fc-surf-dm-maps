@@ -27,10 +27,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_aerial_ground_rock",
-   "author": "Rob Tuytel",
+   "name": "pbr_mossy_cobblestone",
+   "author": "S\u01a1n Nguy\u1ec5n",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/aerial_ground_rock",
+   "url": "https://polyhaven.com/a/mossy_cobblestone",
    "source": "polyhaven",
    "attribution": false,
    "uses": 81
@@ -127,13 +127,23 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_flower_scattered_dirt",
-   "author": "Dimitrios Savva",
+   "name": "pbr_Ground001",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/flower_scattered_dirt",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Ground001",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 1
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 12
   },
   {
    "kind": "texture",

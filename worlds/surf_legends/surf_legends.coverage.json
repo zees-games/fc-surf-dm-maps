@@ -5,21 +5,21 @@
  "sha256": "3e64540e9bd7d1d3d8b91f6daa2b52cde8a3daec236fb30413c15f61a068cf35",
  "textures": {
   "looked_up": 12,
-  "drawn": 9,
+  "drawn": 12,
   "by_tier": {
-   "addon": 1,
-   "default": 11
+   "addon": 5,
+   "default": 7
   },
   "free_by_tier": {
-   "addon": 6,
-   "default": 3
+   "addon": 8,
+   "default": 4
   },
   "nearest_photo": [
    "de_aztec/road01_cheap",
-   "de_aztec/stonework01c",
-   "de_train/train_bombsite_arrow_01",
+   "dev/dev_waterbeneath2",
    "happysky/happysky",
-   "models/props/de_nuke/light_red1_glass"
+   "models/props/de_nuke/light_red1_glass",
+   "nature/water_movingplane_beneath"
   ]
  },
  "models": {
@@ -86,9 +86,9 @@
    "volume_key_unread": "unsupported"
   },
   "classes": {
-   "approximated": 3,
+   "approximated": 1,
    "ignored": 4,
-   "implemented": 45
+   "implemented": 47
   }
  },
  "lists": {
@@ -145,5 +145,9 @@
   "inputs_unimplemented": 3,
   "surfaces_opaque": 2,
   "gameplay_lost": 6
+ },
+ "prop_fit": {
+  "rescaled": 12,
+  "fitted_in": 12
  }
 }

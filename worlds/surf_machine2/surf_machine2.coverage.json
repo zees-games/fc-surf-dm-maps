@@ -5,27 +5,21 @@
  "sha256": "f49ed87e0d65db73d085b0116237e9f4eff9dcb6c7bf81da936dfae2561f0e9a",
  "textures": {
   "looked_up": 51,
-  "drawn": 51,
+  "drawn": 52,
   "by_tier": {
-   "addon": 29,
-   "default": 22
+   "addon": 37,
+   "default": 14
   },
   "free_by_tier": {
-   "addon": 44,
+   "addon": 45,
    "default": 7
   },
   "nearest_photo": [
-   "brick/brickwall031a",
-   "brick/brickwall038a",
-   "cs_italy/plasterwall02",
-   "de_chateau/{cxarrow01",
    "de_dust/residbwall02",
-   "de_nuke/nukfloora",
-   "de_nuke/nukmetwallab",
-   "de_train/blendgraveldirt001a",
    "halflife/c3a2a_telred1d",
    "metal/metalroof008a_cheap",
    "metal/metalwall070a",
+   "metal/standin_fence",
    "nature/blendmilground004_2",
    "sprites/greenglow1",
    "sprites/redglow1"
@@ -62,16 +56,16 @@
  "gameplay": {
   "findings": {
    "class_unsupported": 2,
-   "input_unimplemented": 2
+   "input_unimplemented": 1
   },
   "severity": {
    "class_unsupported": "unsupported",
    "input_unimplemented": "unsupported"
   },
   "classes": {
-   "approximated": 2,
-   "ignored": 2,
-   "implemented": 49
+   "approximated": 1,
+   "ignored": 1,
+   "implemented": 51
   }
  },
  "lists": {
@@ -83,8 +77,7 @@
   "keys_unmapped": [],
   "links_unresolved": [],
   "inputs_unimplemented": [
-   "env_entity_maker.ForceSpawn",
-   "point_servercommand.Command"
+   "env_entity_maker.ForceSpawn"
   ],
   "surfaces_opaque": [
    "models/props_c17/frostedglass_01a_dx60"
@@ -92,8 +85,7 @@
   "gameplay_lost": [
    "class_unsupported:env_entity_maker (approximated)",
    "class_unsupported:point_teleport (ignored)",
-   "input_unimplemented:env_entity_maker.ForceSpawn",
-   "input_unimplemented:point_servercommand.Command"
+   "input_unimplemented:env_entity_maker.ForceSpawn"
   ]
  },
  "counts": {
@@ -104,8 +96,13 @@
   "classes_unmapped": 0,
   "keys_unmapped": 0,
   "links_unresolved": 0,
-  "inputs_unimplemented": 2,
+  "inputs_unimplemented": 1,
   "surfaces_opaque": 1,
-  "gameplay_lost": 4
+  "gameplay_lost": 3
+ },
+ "prop_fit": {
+  "rescaled": 16,
+  "unmeasured": 20,
+  "fits": 13
  }
 }

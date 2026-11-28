@@ -5,14 +5,14 @@
  "sha256": "5c2918ea90e3b75fbb73f50b7d20c05e523bf7aaa423d496c88440c0efabad13",
  "textures": {
   "looked_up": 16,
-  "drawn": 15,
+  "drawn": 16,
   "by_tier": {
-   "addon": 5,
-   "default": 11
+   "addon": 7,
+   "default": 9
   },
   "free_by_tier": {
-   "addon": 8,
-   "default": 7
+   "addon": 10,
+   "default": 6
   },
   "nearest_photo": [
    "customs/forbiddenadvice",
@@ -142,9 +142,8 @@
    "target_dangling": "source"
   },
   "classes": {
-   "approximated": 1,
    "ignored": 5,
-   "implemented": 55
+   "implemented": 56
   }
  },
  "lists": {
@@ -207,5 +206,8 @@
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
   "gameplay_lost": 3
+ },
+ "prop_fit": {
+  "fits": 12
  }
 }

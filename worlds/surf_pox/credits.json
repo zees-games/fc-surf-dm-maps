@@ -7,10 +7,10 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_Metal046B",
+   "name": "pbr_MetalWalkway012",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Metal046B",
+   "url": "https://ambientcg.com/view?id=MetalWalkway012",
    "source": "ambientCG",
    "attribution": false,
    "uses": 688
@@ -56,6 +56,16 @@
    "uses": 164
   },
   {
+   "kind": "texture",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 4
+  },
+  {
    "kind": "model",
    "name": "lib/dm_light_inset",
    "author": "Gamespice (modelled for map)",
@@ -68,10 +78,10 @@
   {
    "kind": "model",
    "name": "lib/dm_weaponpistol",
-   "author": "TMC (modelled for gs-map)",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/weapons.py",
-   "source": "gs-map Blender model",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py",
+   "source": "dot-map Blender model",
    "attribution": false,
    "uses": 8
   }

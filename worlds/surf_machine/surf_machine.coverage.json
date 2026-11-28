@@ -7,16 +7,15 @@
   "looked_up": 32,
   "drawn": 32,
   "by_tier": {
-   "addon": 19,
-   "default": 13
+   "addon": 21,
+   "default": 11
   },
   "free_by_tier": {
-   "addon": 26,
-   "default": 6
+   "addon": 27,
+   "default": 5
   },
   "nearest_photo": [
    "building_template/building_template022a",
-   "de_piranesi/marblefloor13",
    "de_train/train_blinds_03",
    "z_just_jump",
    "z_thanks",
@@ -52,8 +51,7 @@
   "findings": {},
   "severity": {},
   "classes": {
-   "ignored": 1,
-   "implemented": 36
+   "implemented": 37
   }
  },
  "lists": {
@@ -79,5 +77,11 @@
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
   "gameplay_lost": 0
+ },
+ "prop_fit": {
+  "rescaled": 10,
+  "unmeasured": 15,
+  "fits": 8,
+  "fitted_in": 8
  }
 }

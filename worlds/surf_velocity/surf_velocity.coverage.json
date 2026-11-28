@@ -5,19 +5,18 @@
  "sha256": "7f3b800837242df2ec0d994baf6ab5147b6286fd39d38b4cf5cbb4fa3b8599e5",
  "textures": {
   "looked_up": 87,
-  "drawn": 80,
+  "drawn": 90,
   "by_tier": {
-   "addon": 43,
-   "default": 44
+   "addon": 56,
+   "default": 31
   },
   "free_by_tier": {
-   "addon": 63,
-   "default": 17
+   "addon": 73,
+   "default": 16
   },
   "nearest_photo": [
    "360g/spraylogo",
    "commune3tp/triangle_final_256x256_v1",
-   "concrete/offflra",
    "concrete/prodflrb",
    "cs_assault/assault_police_tape01",
    "cs_italy/pwtrim2",
@@ -25,14 +24,9 @@
    "custom/jailcircles",
    "custom/jailmaze",
    "customtextures/buttonsummary",
-   "de_dust/tilefloor01",
-   "de_piranesi/pi_cobbles",
-   "de_prodigy/tunnelplaster02",
-   "lights/white",
    "metal/metalfloor010a",
    "metal/metalwall016a",
    "metal/metalwall021a",
-   "metal/metalwall032a",
    "metal/metalwall066a",
    "models/props_lab/rotato_sheetred",
    "props/metalcrate004d",
@@ -89,8 +83,8 @@
  },
  "gameplay": {
   "findings": {
-   "class_unsupported": 6,
-   "input_unimplemented": 6,
+   "class_unsupported": 5,
+   "input_unimplemented": 5,
    "player_input": 5,
    "target_dangling": 4,
    "volume_parented": 1
@@ -103,14 +97,16 @@
    "volume_parented": "unsupported"
   },
   "classes": {
-   "approximated": 7,
+   "approximated": 4,
    "ignored": 2,
-   "implemented": 40
+   "implemented": 43
   }
  },
  "lists": {
   "textures_unmapped": [],
-  "textures_flat": [],
+  "textures_flat": [
+   "models/my model/black"
+  ],
   "models_unmapped": [],
   "sounds_unmapped": [],
   "classes_unmapped": [],
@@ -137,12 +133,13 @@
    "game_player_equip.Use",
    "phys_thruster.Activate",
    "phys_thruster.Deactivate",
-   "player_weaponstrip.Strip",
-   "point_servercommand.Command"
+   "player_weaponstrip.Strip"
   ],
-  "surfaces_opaque": [],
+  "surfaces_opaque": [
+   "effects/flicker_128",
+   "effects/flicker_256"
+  ],
   "gameplay_lost": [
-   "class_unsupported:env_laser (approximated)",
    "class_unsupported:func_buyzone (ignored)",
    "class_unsupported:phys_thruster (approximated)",
    "class_unsupported:player_weaponstrip (approximated)",
@@ -153,7 +150,6 @@
    "input_unimplemented:phys_thruster.Activate",
    "input_unimplemented:phys_thruster.Deactivate",
    "input_unimplemented:player_weaponstrip.Strip",
-   "input_unimplemented:point_servercommand.Command",
    "player_input:addoutput health x1",
    "player_input:addoutput targetname x8",
    "player_input:color x3",
@@ -164,14 +160,19 @@
  },
  "counts": {
   "textures_unmapped": 0,
-  "textures_flat": 0,
+  "textures_flat": 1,
   "models_unmapped": 0,
   "sounds_unmapped": 0,
   "classes_unmapped": 0,
   "keys_unmapped": 10,
   "links_unresolved": 4,
-  "inputs_unimplemented": 6,
-  "surfaces_opaque": 0,
-  "gameplay_lost": 18
+  "inputs_unimplemented": 5,
+  "surfaces_opaque": 2,
+  "gameplay_lost": 16
+ },
+ "prop_fit": {
+  "fitted_in": 1,
+  "rescaled": 3,
+  "fits": 103
  }
 }

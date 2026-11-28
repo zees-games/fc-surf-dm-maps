@@ -5,23 +5,17 @@
  "sha256": "f0afd6ecac4ce89dab4d6d6a8c76652d4682d78be5b2eebd62f1b58bbeaed342",
  "textures": {
   "looked_up": 57,
-  "drawn": 55,
+  "drawn": 56,
   "by_tier": {
-   "addon": 41,
-   "default": 16
+   "addon": 48,
+   "default": 9
   },
   "free_by_tier": {
-   "addon": 49,
+   "addon": 50,
    "default": 6
   },
   "nearest_photo": [
-   "cs_havana/concretefloor011a",
-   "cs_italy/boxsides_t01",
-   "de_cbble/wallinterior01",
-   "de_nuke/nukmetwallab",
    "effects/combinemuzzle2_dark",
-   "environment maps/pipemetal001a",
-   "environment maps/pipemetal004b",
    "sprites/640hud7"
   ]
  },
@@ -70,6 +64,22 @@
   "total": 363,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1,
+   "input_unimplemented": 1,
+   "player_input": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported"
+  },
+  "classes": {
+   "ignored": 1,
+   "implemented": 30
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -107,21 +117,10 @@
   "surfaces_opaque": 0,
   "gameplay_lost": 3
  },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 1,
-   "input_unimplemented": 1,
-   "player_input": 1
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "player_input": "unsupported"
-  },
-  "classes": {
-   "approximated": 1,
-   "ignored": 1,
-   "implemented": 29
-  }
+ "prop_fit": {
+  "rescaled": 24,
+  "boxed": 1,
+  "fits": 27,
+  "unmeasured": 24
  }
 }

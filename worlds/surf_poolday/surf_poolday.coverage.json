@@ -5,23 +5,20 @@
  "sha256": "f585ec1c34cd53a9011f04e9e50a51ce5cd10974bbca64c442d5beca17d449e1",
  "textures": {
   "looked_up": 35,
-  "drawn": 34,
+  "drawn": 35,
   "by_tier": {
-   "addon": 21,
-   "default": 14
+   "addon": 26,
+   "default": 9
   },
   "free_by_tier": {
-   "addon": 31,
+   "addon": 32,
    "default": 3
   },
   "nearest_photo": [
-   "brick/brickwall008d",
-   "brick/brickwall019a",
    "de_cbble/rooftile02",
-   "de_piranesi/marblefloor14",
    "dev/dev_brickwall012d",
    "dev/dev_brickwall012e",
-   "halflife/glassblue2",
+   "dev/dev_waterbeneath2",
    "models/props_combine/citadel_cable",
    "stone/infstairsatp",
    "stone/stonecolumn001a"
@@ -54,6 +51,18 @@
   "total": 4,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "ignored": 2,
+   "implemented": 22
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -83,17 +92,9 @@
   "surfaces_opaque": 1,
   "gameplay_lost": 2
  },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 2
-  },
-  "severity": {
-   "class_unsupported": "unsupported"
-  },
-  "classes": {
-   "approximated": 1,
-   "ignored": 2,
-   "implemented": 21
-  }
+ "prop_fit": {
+  "rescaled": 20,
+  "fits": 34,
+  "fitted_in": 7
  }
 }

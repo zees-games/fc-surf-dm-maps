@@ -7,28 +7,21 @@
   "looked_up": 52,
   "drawn": 52,
   "by_tier": {
-   "addon": 25,
-   "default": 27
+   "addon": 32,
+   "default": 20
   },
   "free_by_tier": {
-   "addon": 40,
-   "default": 12
+   "addon": 41,
+   "default": 11
   },
   "nearest_photo": [
-   "de_cbble/cratesm01a",
-   "de_cbble/cratesm01c",
    "de_cbble/outwall01a",
    "de_cbble/outwall01b",
    "de_cbble/outwall01bmoss",
-   "de_cbble/outwall02b",
-   "de_cbble/outwall02d",
    "de_cbble/rooftile02",
-   "de_cbble/wallinterior01",
    "de_cbble/wallinterior01a",
-   "de_cbble/wallinterior01b",
    "de_nuke/nukblenddirtgrassb",
    "de_piranesi/stairoutdoor02",
-   "metal/citadel_metalwall063a",
    "nature/rockfloor006a",
    "wood/milwall015"
   ]
@@ -92,6 +85,19 @@
   "total": 4,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "approximated": 1,
+   "ignored": 2,
+   "implemented": 31
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -129,17 +135,9 @@
   "surfaces_opaque": 0,
   "gameplay_lost": 1
  },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 1
-  },
-  "severity": {
-   "class_unsupported": "unsupported"
-  },
-  "classes": {
-   "approximated": 2,
-   "ignored": 2,
-   "implemented": 30
-  }
+ "prop_fit": {
+  "unmeasured": 5,
+  "rescaled": 2,
+  "fits": 16
  }
 }

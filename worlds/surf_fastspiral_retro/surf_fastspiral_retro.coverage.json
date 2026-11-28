@@ -5,20 +5,16 @@
  "sha256": "d2f13f514736c54f88f2b821fdb2b6f8e03dd6916b1955a837e4af8e84b040f1",
  "textures": {
   "looked_up": 49,
-  "drawn": 48,
+  "drawn": 49,
   "by_tier": {
-   "addon": 20,
-   "default": 29
+   "addon": 25,
+   "default": 24
   },
   "free_by_tier": {
-   "addon": 39,
+   "addon": 40,
    "default": 9
   },
   "nearest_photo": [
-   "cs_assault/metalwall001a",
-   "dev/dev_measurehall01",
-   "dev/dev_measureladder01",
-   "dev/dev_measurewall01d",
    "surf/bongo",
    "surf/cable",
    "surf/createdby",
@@ -71,9 +67,8 @@
    "class_unsupported": "unsupported"
   },
   "classes": {
-   "approximated": 2,
-   "ignored": 4,
-   "implemented": 37
+   "ignored": 3,
+   "implemented": 40
   }
  },
  "lists": {
@@ -85,7 +80,10 @@
   "keys_unmapped": [],
   "links_unresolved": [],
   "inputs_unimplemented": [],
-  "surfaces_opaque": [],
+  "surfaces_opaque": [
+   "decals/decalmetalspeaker002a",
+   "dev/dev_measureladder01"
+  ],
   "gameplay_lost": [
    "class_unsupported:path_track (ignored)",
    "class_unsupported:point_viewcontrol (ignored)"
@@ -100,7 +98,12 @@
   "keys_unmapped": 0,
   "links_unresolved": 0,
   "inputs_unimplemented": 0,
-  "surfaces_opaque": 0,
+  "surfaces_opaque": 2,
   "gameplay_lost": 2
+ },
+ "prop_fit": {
+  "unmeasured": 25,
+  "rescaled": 7,
+  "fits": 7
  }
 }

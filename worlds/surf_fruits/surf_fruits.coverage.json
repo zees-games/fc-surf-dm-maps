@@ -5,13 +5,13 @@
  "sha256": "57af7c798d791d9126da39f47d033d2d3b372cafbea2987e57fb97316f7efb8d",
  "textures": {
   "looked_up": 131,
-  "drawn": 126,
+  "drawn": 134,
   "by_tier": {
-   "addon": 67,
-   "default": 64
+   "addon": 81,
+   "default": 50
   },
   "free_by_tier": {
-   "addon": 106,
+   "addon": 114,
    "default": 20
   },
   "nearest_photo": [
@@ -21,7 +21,6 @@
    "cs_havana/floor02",
    "cs_italy/cellarwall01",
    "cs_italy/orange",
-   "cs_italy/pipe_wall5_1",
    "custom/banana",
    "custom/lemon",
    "custom/lemonglass",
@@ -35,23 +34,17 @@
    "customs/orange",
    "customs/orange2",
    "de_dust/rockwall_blend",
-   "de_prodigy/tunnelplaster02",
-   "de_train/blendgraveldirt001a",
-   "de_train/train_bombsite_arrow_01",
    "halflife/+0~white",
    "icecreamlock/colorddgreen",
    "icecreamlock/colordred",
    "icecreamlock/pineapple",
    "icecreamlock/rainbow1",
-   "metal/metalfloor001a",
    "metal/metalwall058a",
-   "metal/metalwall082a",
    "metal/metalwall102a",
    "models/debug/debugwhite",
    "models/props/de_nuke/pipeset_metal",
    "nature/blenddirtgrass001b",
    "reflex_pseudo/mat_dark",
-   "stone/stonewall013a",
    "surf_fruit/groen",
    "surf_fruits section - strawberries/strawb tex2",
    "tile/tilebreak001c"
@@ -167,5 +160,12 @@
   "inputs_unimplemented": 2,
   "surfaces_opaque": 2,
   "gameplay_lost": 6
+ },
+ "prop_fit": {
+  "rescaled": 102,
+  "fitted_in": 2,
+  "fits": 101,
+  "rescaled_upright": 25,
+  "unmeasured": 32
  }
 }

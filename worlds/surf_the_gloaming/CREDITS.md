@@ -25,11 +25,11 @@ Every texture of this map is a free replacement; the original map's textures and
 # Model stand-ins
 
 - lib/dm_watermelon: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/props.py
-- lib/dm_weaponpistol: gs-map Blender model, TMC (modelled for gs-map), CC0-1.0, https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/weapons.py
+- lib/dm_weaponpistol: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py
 - lib/dm_weaponrifle: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/weapons.py
 - lib/dm_weaponshotgun: Gamespice map Blender model, Gamespice (modelled for map), CC0-1.0, https://github.com/gamespice-platform/map-convert/blob/main/tools/models/weapons.py
-- lib/dm_weaponsmg: gs-map Blender model, TMC (modelled for gs-map), CC0-1.0, https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/weapons.py
-- lib/dm_weaponsniper: gs-map Blender model, TMC (modelled for gs-map), CC0-1.0, https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/weapons.py
+- lib/dm_weaponsmg: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py
+- lib/dm_weaponsniper: dot-map Blender model, TMC (modelled for dot-map), CC0-1.0, https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py
 - lib/ph_industrial_wall_lamp: Poly Haven, Kuutti Siitonen, CC0-1.0, https://polyhaven.com/a/industrial_wall_lamp
 - lib/ph_ladder_sectioned_01: Poly Haven, MP, CC0-1.0, https://polyhaven.com/a/ladder_sectioned_01
 - lib/ph_street_lamp_01: Poly Haven, Josh Dean, CC0-1.0, https://polyhaven.com/a/street_lamp_01

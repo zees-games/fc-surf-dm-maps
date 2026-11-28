@@ -5,14 +5,14 @@
  "sha256": "7e8fd59c5f83081e3c0d7f35207a4946fdab499722e3de9e7b7751fbfcab85d1",
  "textures": {
   "looked_up": 127,
-  "drawn": 133,
+  "drawn": 134,
   "by_tier": {
-   "addon": 60,
-   "default": 67
+   "addon": 84,
+   "default": 43
   },
   "free_by_tier": {
-   "addon": 119,
-   "default": 14
+   "addon": 121,
+   "default": 13
   },
   "nearest_photo": [
    "brick/brickwall056a",
@@ -35,29 +35,12 @@
    "collab/rocket_thumb",
    "collab/scoutzknivez_thumb",
    "collab/slide_thumb",
-   "concrete/prodflrd",
    "cs_havana/rockwall011f",
    "cs_italy/tileroof01trim",
-   "de_aztec/azstatc",
-   "de_aztec/trim64b",
    "de_chateau/rockf_blend",
-   "de_chateau/{cxarrow01",
-   "de_dust/pi_rust",
-   "de_dust/picrate2",
-   "de_nuke/nukmetwallab",
-   "de_nuke/nukmetwalli",
-   "de_piranesi/castle01",
-   "de_piranesi/castle01a",
-   "de_piranesi/marblefloor10",
-   "de_piranesi/marblefloor13",
-   "de_piranesi/pi_archt64b",
-   "de_piranesi/pi_bigbrk",
-   "de_piranesi/pi_cobbles",
    "de_piranesi/pi_grnmetal",
    "de_tides/blend_concrete_dirt",
    "de_train/blendgrassdirt001a",
-   "de_train/train_bombsite_arrow_01",
-   "environment maps/pipemetal001a",
    "metal/metalhull003a",
    "metal/metalpipe001b",
    "metal/metalwall016a",
@@ -70,12 +53,9 @@
    "nature/blendrocksgrass006a",
    "nature/blendsandsand008b_antlion",
    "nature/grassfloor002a",
-   "nature/rockwall010c",
-   "props/carpetfloor003a",
    "smooth/metal_smooth",
    "smooth/rubber",
    "sprites/bluelaser1",
-   "stone/stonewall014a",
    "vehicle/rubbertrainfloor001a"
   ]
  },
@@ -186,8 +166,8 @@
  },
  "gameplay": {
   "findings": {
-   "class_unsupported": 10,
-   "input_unimplemented": 4,
+   "class_unsupported": 9,
+   "input_unimplemented": 2,
    "player_input": 1,
    "target_dangling": 18,
    "teleport_dangling": 2,
@@ -202,9 +182,9 @@
    "volume_follows": "handled"
   },
   "classes": {
-   "approximated": 8,
+   "approximated": 6,
    "ignored": 3,
-   "implemented": 50
+   "implemented": 52
   }
  },
  "lists": {
@@ -271,16 +251,13 @@
    "trigger_teleport.OnStartTouch->fade_eternal"
   ],
   "inputs_unimplemented": [
-   "filter_activator_team.TestActivator",
    "func_conveyor.SetSpeed",
-   "func_rot_button.Press",
    "game_player_equip.Use"
   ],
   "surfaces_opaque": [
    "de_train/train_bombsite_arrow_01"
   ],
   "gameplay_lost": [
-   "class_unsupported:env_laser (approximated)",
    "class_unsupported:func_bomb_target (ignored)",
    "class_unsupported:func_buyzone (ignored)",
    "class_unsupported:path_track (ignored)",
@@ -290,9 +267,7 @@
    "class_unsupported:weapon_m3 (approximated)",
    "class_unsupported:weapon_m4a1 (approximated)",
    "class_unsupported:weapon_mp5navy (approximated)",
-   "input_unimplemented:filter_activator_team.TestActivator",
    "input_unimplemented:func_conveyor.SetSpeed",
-   "input_unimplemented:func_rot_button.Press",
    "input_unimplemented:game_player_equip.Use",
    "player_input:color x30"
   ]
@@ -305,8 +280,14 @@
   "classes_unmapped": 0,
   "keys_unmapped": 43,
   "links_unresolved": 10,
-  "inputs_unimplemented": 4,
+  "inputs_unimplemented": 2,
   "surfaces_opaque": 1,
-  "gameplay_lost": 15
+  "gameplay_lost": 12
+ },
+ "prop_fit": {
+  "fits": 27,
+  "rescaled": 19,
+  "rescaled_upright": 4,
+  "unmeasured": 32
  }
 }

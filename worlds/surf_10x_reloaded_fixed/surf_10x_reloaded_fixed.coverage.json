@@ -7,28 +7,20 @@
   "looked_up": 35,
   "drawn": 35,
   "by_tier": {
-   "addon": 14,
-   "default": 21
+   "addon": 23,
+   "default": 12
   },
   "free_by_tier": {
    "addon": 28,
    "default": 7
   },
   "nearest_photo": [
-   "bucknasty/bucknasty",
    "building_template/building_template024a",
-   "concrete/offflrc",
    "cs_havana/furniturewooddrawers001b",
-   "de_piranesi/castle02",
-   "de_piranesi/pi_cobbles",
-   "environment maps/pipemetal001a",
    "metal/citadel_metalwall063a_cheap",
-   "nature/dirtwall001a",
-   "nature/snowfloor003a",
    "plaster/plasterwall012a",
    "plaster/plasterwall023a",
-   "test_speakers/floor04",
-   "vehicle/metaltrain002d"
+   "test_speakers/floor04"
   ]
  },
  "models": {
@@ -155,5 +147,6 @@
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
   "gameplay_lost": 1
- }
+ },
+ "prop_fit": {}
 }

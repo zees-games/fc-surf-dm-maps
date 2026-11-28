@@ -67,13 +67,13 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Pipe001",
+   "name": "pbr_MetalWalkway010",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Pipe001",
+   "url": "https://ambientcg.com/view?id=MetalWalkway010",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 27
+   "uses": 4
   },
   {
    "kind": "texture",
@@ -127,6 +127,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_CorrugatedSteel007C",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=CorrugatedSteel007C",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 23
+  },
+  {
+   "kind": "texture",
    "name": "pbr_Metal028",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -147,21 +157,21 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_wood_inlaid_stone_wall",
-   "author": "Amal Kumar",
+   "name": "pbr_patterned_cobblestone_02",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/wood_inlaid_stone_wall",
+   "url": "https://polyhaven.com/a/patterned_cobblestone_02",
    "source": "polyhaven",
    "attribution": false,
    "uses": 2
   },
   {
    "kind": "texture",
-   "name": "pbr_DiamondPlate007C",
-   "author": "Lennart Demes and contributors",
+   "name": "pbr_white_stucco_02",
+   "author": "Dimitrios Savva",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=DiamondPlate007C",
-   "source": "ambientCG",
+   "url": "https://polyhaven.com/a/white_stucco_02",
+   "source": "polyhaven",
    "attribution": false,
    "uses": 8
   },
@@ -214,6 +224,16 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 3
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 1
   },
   {
    "kind": "texture",

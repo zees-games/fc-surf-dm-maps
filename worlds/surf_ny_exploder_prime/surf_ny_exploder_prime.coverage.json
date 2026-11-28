@@ -7,12 +7,12 @@
   "looked_up": 8,
   "drawn": 8,
   "by_tier": {
-   "addon": 5,
-   "default": 3
+   "addon": 6,
+   "default": 2
   },
   "free_by_tier": {
-   "addon": 5,
-   "default": 3
+   "addon": 6,
+   "default": 2
   },
   "nearest_photo": []
  },
@@ -73,6 +73,18 @@
   "total": 2,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "approximated": 1,
+   "implemented": 22
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -111,16 +123,5 @@
   "surfaces_opaque": 0,
   "gameplay_lost": 1
  },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 1
-  },
-  "severity": {
-   "class_unsupported": "unsupported"
-  },
-  "classes": {
-   "approximated": 1,
-   "implemented": 22
-  }
- }
+ "prop_fit": {}
 }

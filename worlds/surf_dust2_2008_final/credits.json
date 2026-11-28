@@ -13,7 +13,7 @@
    "url": "https://polyhaven.com/a/stone_wall",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 57
+   "uses": 24
   },
   {
    "kind": "texture",
@@ -53,7 +53,7 @@
    "url": "https://polyhaven.com/a/rock_wall_06",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 18
+   "uses": 8
   },
   {
    "kind": "texture",
@@ -93,7 +93,17 @@
    "url": "https://polyhaven.com/a/marble_01",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 77
+   "uses": 94
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Wood096",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Wood096",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 12
   },
   {
    "kind": "texture",
@@ -123,7 +133,7 @@
    "url": "https://polyhaven.com/a/rock_boulder_dry",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 20
+   "uses": 14
   },
   {
    "kind": "texture",
@@ -147,13 +157,23 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_aerial_ground_rock",
+   "name": "pbr_white_sandstone_blocks_02",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/aerial_ground_rock",
+   "url": "https://polyhaven.com/a/white_sandstone_blocks_02",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 38
+   "uses": 6
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_white_plaster_rough_01",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/white_plaster_rough_01",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 8
   },
   {
    "kind": "texture",
@@ -167,13 +187,43 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_rocks_ground_01",
+   "name": "pbr_Facade004",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Facade004",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 10
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_aerial_ground_rock",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rocks_ground_01",
+   "url": "https://polyhaven.com/a/aerial_ground_rock",
    "source": "polyhaven",
    "attribution": false,
-   "uses": 13
+   "uses": 16
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_grey_plaster_02",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/grey_plaster_02",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 11
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_rock_tile_floor",
+   "author": "Charlotte Baglioni",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/rock_tile_floor",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 4
   },
   {
    "kind": "texture",
@@ -207,6 +257,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_beige_wall_002",
+   "author": "Dimitrios Savva, Rico Cilliers",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/beige_wall_002",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 14
+  },
+  {
+   "kind": "texture",
    "name": "pbr_plaster_stone_wall_01",
    "author": "Charlotte Baglioni",
    "licence": "CC0-1.0",
@@ -214,6 +274,16 @@
    "source": "polyhaven",
    "attribution": false,
    "uses": 1
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_rocks_ground_01",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/rocks_ground_01",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 5
   },
   {
    "kind": "texture",
@@ -254,16 +324,6 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 2
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_stone_tiles_02",
-   "author": "Charlotte Baglioni",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/stone_tiles_02",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 3
   },
   {
    "kind": "texture",
@@ -314,6 +374,26 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 1
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Metal039",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Metal039",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 0
   },
   {
    "kind": "model",
@@ -388,10 +468,10 @@
   {
    "kind": "model",
    "name": "lib/dm_weaponsniper",
-   "author": "TMC (modelled for gs-map)",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/weapons.py",
-   "source": "gs-map Blender model",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py",
+   "source": "dot-map Blender model",
    "attribution": false,
    "uses": 3
   },

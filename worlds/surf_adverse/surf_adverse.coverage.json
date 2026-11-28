@@ -5,18 +5,16 @@
  "sha256": "f4a51959267ba75263f05837622931824ad8a086f3d343ea6d748149268d568d",
  "textures": {
   "looked_up": 22,
-  "drawn": 21,
+  "drawn": 22,
   "by_tier": {
-   "addon": 18,
-   "default": 4
-  },
-  "free_by_tier": {
-   "addon": 18,
+   "addon": 19,
    "default": 3
   },
-  "nearest_photo": [
-   "tp/triangle_final_256x256_v1"
-  ]
+  "free_by_tier": {
+   "addon": 19,
+   "default": 3
+  },
+  "nearest_photo": []
  },
  "models": {
   "looked_up": 3,
@@ -81,7 +79,7 @@
  "gameplay": {
   "findings": {
    "class_unsupported": 4,
-   "input_unimplemented": 2,
+   "input_unimplemented": 1,
    "player_input": 1
   },
   "severity": {
@@ -90,9 +88,9 @@
    "player_input": "unsupported"
   },
   "classes": {
-   "approximated": 4,
+   "approximated": 3,
    "ignored": 1,
-   "implemented": 35
+   "implemented": 36
   }
  },
  "lists": {
@@ -117,8 +115,7 @@
   ],
   "links_unresolved": [],
   "inputs_unimplemented": [
-   "env_entity_maker.ForceSpawn",
-   "point_servercommand.Command"
+   "env_entity_maker.ForceSpawn"
   ],
   "surfaces_opaque": [],
   "gameplay_lost": [
@@ -127,7 +124,6 @@
    "class_unsupported:weapon_ak47 (approximated)",
    "class_unsupported:weapon_m4a1 (approximated)",
    "input_unimplemented:env_entity_maker.ForceSpawn",
-   "input_unimplemented:point_servercommand.Command",
    "player_input:setdamagefilter x96"
   ]
  },
@@ -139,8 +135,13 @@
   "classes_unmapped": 0,
   "keys_unmapped": 12,
   "links_unresolved": 0,
-  "inputs_unimplemented": 2,
+  "inputs_unimplemented": 1,
   "surfaces_opaque": 0,
-  "gameplay_lost": 7
+  "gameplay_lost": 6
+ },
+ "prop_fit": {
+  "rescaled": 2,
+  "boxed": 1,
+  "fits": 4
  }
 }

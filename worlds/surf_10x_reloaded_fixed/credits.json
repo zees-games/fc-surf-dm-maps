@@ -7,11 +7,11 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_flower_scattered_dirt",
-   "author": "Dimitrios Savva",
+   "name": "pbr_Ground023",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/flower_scattered_dirt",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Ground023",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 161
   },
@@ -67,10 +67,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_stone_wall_05",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_concrete_floor_painted",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/stone_wall_05",
+   "url": "https://polyhaven.com/a/concrete_floor_painted",
    "source": "polyhaven",
    "attribution": false,
    "uses": 9
@@ -237,13 +237,23 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Pipe001",
+   "name": "pbr_CorrugatedSteel007C",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Pipe001",
+   "url": "https://ambientcg.com/view?id=CorrugatedSteel007C",
    "source": "ambientCG",
    "attribution": false,
    "uses": 10
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 2
   },
   {
    "kind": "texture",
@@ -254,16 +264,6 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 4
-  },
-  {
-   "kind": "texture",
-   "name": "pbr_Tiles071",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Tiles071",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 1
   }
  ]
 }

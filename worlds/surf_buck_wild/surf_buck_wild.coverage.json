@@ -5,31 +5,26 @@
  "sha256": "1a4a9150afd3da7b34a3704eea7919fe79c81787f346f57f2bd541f901013213",
  "textures": {
   "looked_up": 69,
-  "drawn": 57,
+  "drawn": 69,
   "by_tier": {
-   "addon": 23,
-   "default": 46
+   "addon": 33,
+   "default": 36
   },
   "free_by_tier": {
-   "addon": 45,
-   "default": 12
+   "addon": 56,
+   "default": 13
   },
   "nearest_photo": [
    "bucknasty/10xrvmf",
    "bucknasty/ampvmf",
    "bucknasty/b-wvmf",
-   "bucknasty/bucknasty",
    "bucknasty/bullseye",
    "bucknasty/droughtvmf",
-   "bucknasty/gaj",
    "bucknasty/insanityvmf",
    "bucknasty/nocturnalvmf",
    "bucknasty/spacedoutvmf",
    "bucknasty/thriller2vmf",
    "bucknasty/thrillervmf",
-   "de_cbble/grassfloor01",
-   "de_dust/stonewall02a",
-   "de_dust/tilefloor01",
    "effects/tp_eyefx/tpeye",
    "models/combine_citadel/combine_citadel001"
   ]
@@ -111,18 +106,16 @@
  "gameplay": {
   "findings": {
    "class_unsupported": 4,
-   "input_unimplemented": 1,
    "target_dangling": 7
   },
   "severity": {
    "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
    "target_dangling": "source"
   },
   "classes": {
-   "approximated": 5,
+   "approximated": 2,
    "ignored": 4,
-   "implemented": 46
+   "implemented": 49
   }
  },
  "lists": {
@@ -153,16 +146,13 @@
    "logic_branch.OnTrue->stage02_ct_door",
    "prop_dynamic.OnUser1->stage02_ct_door"
   ],
-  "inputs_unimplemented": [
-   "func_button.Press"
-  ],
+  "inputs_unimplemented": [],
   "surfaces_opaque": [],
   "gameplay_lost": [
    "class_unsupported:func_bomb_target (approximated)",
    "class_unsupported:func_buyzone (ignored)",
    "class_unsupported:point_viewcontrol (ignored)",
-   "class_unsupported:weapon_m3 (approximated)",
-   "input_unimplemented:func_button.Press"
+   "class_unsupported:weapon_m3 (approximated)"
   ]
  },
  "counts": {
@@ -173,8 +163,13 @@
   "classes_unmapped": 0,
   "keys_unmapped": 15,
   "links_unresolved": 3,
-  "inputs_unimplemented": 1,
+  "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
-  "gameplay_lost": 5
+  "gameplay_lost": 4
+ },
+ "prop_fit": {
+  "fitted_in": 14,
+  "rescaled": 14,
+  "fits": 46
  }
 }

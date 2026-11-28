@@ -7,11 +7,11 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_flower_scattered_dirt",
-   "author": "Dimitrios Savva",
+   "name": "pbr_Ground001",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/flower_scattered_dirt",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Ground001",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 52
   },
@@ -37,11 +37,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_white_stucco",
-   "author": "Amal Kumar",
+   "name": "pbr_Metal062A",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/white_stucco",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Metal062A",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 90
   },
@@ -53,7 +53,7 @@
    "url": "https://ambientcg.com/view?id=PaintedPlaster006",
    "source": "ambientCG",
    "attribution": false,
-   "uses": 55
+   "uses": 58
   },
   {
    "kind": "texture",
@@ -77,11 +77,11 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_metal_plate_02",
-   "author": "Rob Tuytel",
+   "name": "pbr_Concrete032",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/metal_plate_02",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Concrete032",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 6
   },
@@ -94,6 +94,16 @@
    "source": "polyhaven",
    "attribution": false,
    "uses": 6
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 13
   },
   {
    "kind": "texture",
@@ -127,16 +137,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Plaster007",
-   "author": "Lennart Demes and contributors",
-   "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Plaster007",
-   "source": "ambientCG",
-   "attribution": false,
-   "uses": 3
-  },
-  {
-   "kind": "texture",
    "name": "pbr_PaintedWood004",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -158,10 +158,10 @@
   {
    "kind": "model",
    "name": "lib/dm_weaponrifle",
-   "author": "TMC (modelled for gs-map)",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/weapons.py",
-   "source": "gs-map Blender model",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py",
+   "source": "dot-map Blender model",
    "attribution": false,
    "uses": 1
   },

@@ -7,17 +7,14 @@
   "looked_up": 11,
   "drawn": 11,
   "by_tier": {
-   "addon": 6,
-   "default": 5
+   "addon": 9,
+   "default": 2
   },
   "free_by_tier": {
-   "addon": 8,
-   "default": 3
+   "addon": 9,
+   "default": 2
   },
-  "nearest_photo": [
-   "stone/stonewall013a",
-   "stone/stonewall024a"
-  ]
+  "nearest_photo": []
  },
  "models": {
   "looked_up": 10,
@@ -78,6 +75,20 @@
   "total": 17,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1,
+   "input_unimplemented": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "approximated": 1,
+   "implemented": 25
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -119,18 +130,10 @@
   "surfaces_opaque": 0,
   "gameplay_lost": 2
  },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 1,
-   "input_unimplemented": 1
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported"
-  },
-  "classes": {
-   "approximated": 1,
-   "implemented": 25
-  }
+ "prop_fit": {
+  "unmeasured": 22,
+  "rescaled": 8,
+  "boxed": 2,
+  "fits": 4
  }
 }

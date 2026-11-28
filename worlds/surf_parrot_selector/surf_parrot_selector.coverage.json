@@ -5,17 +5,16 @@
  "sha256": "d444507bcf279e74408b5e1cb2df0a988e7cac0e6de17d6c0ac687a4fdf62242",
  "textures": {
   "looked_up": 15,
-  "drawn": 13,
+  "drawn": 14,
   "by_tier": {
-   "addon": 5,
-   "default": 10
+   "addon": 7,
+   "default": 8
   },
   "free_by_tier": {
-   "addon": 9,
+   "addon": 10,
    "default": 4
   },
   "nearest_photo": [
-   "metal/citadel_metalwall063a",
    "surf_parrot_selector/castiron",
    "surf_parrot_selector/parrot",
    "surf_parrot_selector/ps1",
@@ -67,7 +66,7 @@
  },
  "gameplay": {
   "findings": {
-   "class_unsupported": 9,
+   "class_unsupported": 8,
    "input_unimplemented": 4,
    "player_input": 2,
    "target_dangling": 5
@@ -79,9 +78,9 @@
    "target_dangling": "source"
   },
   "classes": {
-   "approximated": 14,
+   "approximated": 9,
    "ignored": 2,
-   "implemented": 25
+   "implemented": 30
   }
  },
  "lists": {
@@ -116,7 +115,6 @@
    "class_unsupported:env_entity_maker (approximated)",
    "class_unsupported:info_teleport_destination (approximated)",
    "class_unsupported:player_weaponstrip (approximated)",
-   "class_unsupported:point_tesla (approximated)",
    "class_unsupported:point_viewcontrol (ignored)",
    "class_unsupported:weapon_ak47 (approximated)",
    "class_unsupported:weapon_awp (approximated)",
@@ -140,6 +138,10 @@
   "links_unresolved": 4,
   "inputs_unimplemented": 4,
   "surfaces_opaque": 0,
-  "gameplay_lost": 15
+  "gameplay_lost": 14
+ },
+ "prop_fit": {
+  "rescaled": 3,
+  "fits": 3
  }
 }

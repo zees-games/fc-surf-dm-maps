@@ -27,16 +27,6 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_patterned_clay_plaster",
-   "author": "Amal Kumar",
-   "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/patterned_clay_plaster",
-   "source": "polyhaven",
-   "attribution": false,
-   "uses": 81
-  },
-  {
-   "kind": "texture",
    "name": "pbr_Metal007",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
@@ -64,6 +54,16 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 8
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_patterned_clay_plaster",
+   "author": "Amal Kumar",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/patterned_clay_plaster",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 6
   },
   {
    "kind": "texture",
@@ -148,10 +148,10 @@
   {
    "kind": "model",
    "name": "lib/dm_weaponpistol",
-   "author": "TMC (modelled for gs-map)",
+   "author": "TMC (modelled for dot-map)",
    "licence": "CC0-1.0",
-   "url": "https://github.com/modcommunity/gs-map-convert/blob/main/tools/models/weapons.py",
-   "source": "gs-map Blender model",
+   "url": "https://github.com/modcommunity/dot-map-convert/blob/main/tools/models/weapons.py",
+   "source": "dot-map Blender model",
    "attribution": false,
    "uses": 7
   }

@@ -5,27 +5,21 @@
  "sha256": "b5938c011dce9e0acee703530b297d07c990691d3a12f039541e45da918365f7",
  "textures": {
   "looked_up": 18,
-  "drawn": 17,
+  "drawn": 18,
   "by_tier": {
-   "addon": 4,
-   "default": 14
+   "addon": 10,
+   "default": 8
   },
   "free_by_tier": {
    "addon": 15,
-   "default": 2
+   "default": 3
   },
   "nearest_photo": [
    "dev/dev_measurebarrel",
    "dev/dev_measurecomputer01",
    "dev/dev_measurecrate03",
    "dev/dev_measuredoor01",
-   "dev/dev_measurehall01",
-   "dev/dev_measureladder01",
-   "dev/dev_measurerails01",
-   "dev/dev_measureswitch01",
-   "dev/dev_measureswitch02",
-   "dev/dev_measureswitch03",
-   "dev/dev_measurewall01d"
+   "dev/dev_measureswitch02"
   ]
  },
  "models": {
@@ -77,6 +71,21 @@
   "total": 164,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2,
+   "input_unimplemented": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "approximated": 1,
+   "ignored": 1,
+   "implemented": 47
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -111,7 +120,9 @@
    "ai_changetarget.Activate",
    "game_player_equip.Use"
   ],
-  "surfaces_opaque": [],
+  "surfaces_opaque": [
+   "dev/dev_measureladder01"
+  ],
   "gameplay_lost": [
    "class_unsupported:ai_changetarget (approximated)",
    "class_unsupported:point_viewcontrol (ignored)",
@@ -128,22 +139,13 @@
   "keys_unmapped": 19,
   "links_unresolved": 0,
   "inputs_unimplemented": 2,
-  "surfaces_opaque": 0,
+  "surfaces_opaque": 1,
   "gameplay_lost": 4
  },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 2,
-   "input_unimplemented": 2
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported"
-  },
-  "classes": {
-   "approximated": 3,
-   "ignored": 1,
-   "implemented": 45
-  }
+ "prop_fit": {
+  "unmeasured": 14,
+  "rescaled": 6,
+  "boxed": 2,
+  "fits": 2
  }
 }

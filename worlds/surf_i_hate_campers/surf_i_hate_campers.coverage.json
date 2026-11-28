@@ -7,15 +7,14 @@
   "looked_up": 20,
   "drawn": 21,
   "by_tier": {
-   "addon": 11,
-   "default": 9
+   "addon": 13,
+   "default": 7
   },
   "free_by_tier": {
-   "addon": 17,
-   "default": 4
+   "addon": 18,
+   "default": 3
   },
   "nearest_photo": [
-   "ground/snow01",
    "models/props/cs_office/snowmana",
    "nature/blendgrassdirt001a",
    "props/hazardstrip001a",
@@ -47,6 +46,19 @@
   "total": 10,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 3
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "approximated": 1,
+   "ignored": 2,
+   "implemented": 14
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -58,7 +70,6 @@
   "inputs_unimplemented": [],
   "surfaces_opaque": [],
   "gameplay_lost": [
-   "class_unsupported:env_fire (approximated)",
    "class_unsupported:func_bomb_target (approximated)",
    "class_unsupported:func_buyzone (ignored)",
    "class_unsupported:path_track (ignored)"
@@ -74,19 +85,7 @@
   "links_unresolved": 0,
   "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
-  "gameplay_lost": 4
+  "gameplay_lost": 3
  },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 4
-  },
-  "severity": {
-   "class_unsupported": "unsupported"
-  },
-  "classes": {
-   "approximated": 2,
-   "ignored": 2,
-   "implemented": 13
-  }
- }
+ "prop_fit": {}
 }

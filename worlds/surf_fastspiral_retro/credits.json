@@ -287,6 +287,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_Metal037",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Metal037",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 1
+  },
+  {
+   "kind": "texture",
    "name": "pbr_metal_plate_02",
    "author": "Rob Tuytel",
    "licence": "CC0-1.0",

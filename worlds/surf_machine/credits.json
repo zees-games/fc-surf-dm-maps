@@ -147,10 +147,10 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_Marble018",
+   "name": "pbr_Granite002A",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://ambientcg.com/view?id=Marble018",
+   "url": "https://ambientcg.com/view?id=Granite002A",
    "source": "ambientCG",
    "attribution": false,
    "uses": 20
@@ -214,6 +214,16 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 3
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 1
   },
   {
    "kind": "texture",

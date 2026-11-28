@@ -37,10 +37,20 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_stone_wall_05",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_Metal037",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/stone_wall_05",
+   "url": "https://ambientcg.com/view?id=Metal037",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 6
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_concrete_floor_painted",
+   "author": "Rob Tuytel",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/concrete_floor_painted",
    "source": "polyhaven",
    "attribution": false,
    "uses": 50
@@ -54,6 +64,16 @@
    "source": "ambientCG",
    "attribution": false,
    "uses": 32
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Ground014",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Ground014",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 0
   }
  ]
 }

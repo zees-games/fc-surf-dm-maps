@@ -5,17 +5,18 @@
  "sha256": "fc1ed83f2f8c1228327c413577b80e2c972442e8032682c2daf5655a93238031",
  "textures": {
   "looked_up": 8,
-  "drawn": 7,
+  "drawn": 8,
   "by_tier": {
-   "addon": 4,
-   "default": 4
+   "addon": 5,
+   "default": 3
   },
   "free_by_tier": {
-   "addon": 5,
+   "addon": 6,
    "default": 2
   },
   "nearest_photo": [
-   "cs_italy/marketwall01e"
+   "cs_italy/marketwall01e",
+   "nature/water_dx70_beneath"
   ]
  },
  "models": {
@@ -54,6 +55,13 @@
   "total": 2,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {},
+  "severity": {},
+  "classes": {
+   "implemented": 17
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -83,11 +91,5 @@
   "surfaces_opaque": 0,
   "gameplay_lost": 0
  },
- "gameplay": {
-  "findings": {},
-  "severity": {},
-  "classes": {
-   "implemented": 17
-  }
- }
+ "prop_fit": {}
 }

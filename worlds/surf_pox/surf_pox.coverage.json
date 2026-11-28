@@ -7,16 +7,15 @@
   "looked_up": 11,
   "drawn": 11,
   "by_tier": {
-   "addon": 1,
-   "default": 10
+   "addon": 3,
+   "default": 8
   },
   "free_by_tier": {
-   "addon": 6,
-   "default": 5
+   "addon": 7,
+   "default": 4
   },
   "nearest_photo": [
    "customs/hellblau_neon",
-   "customs/metal_002",
    "customs/texblau",
    "customs/texweiss_1",
    "customs/weiss_neon"
@@ -86,9 +85,9 @@
    "input_unimplemented": "unsupported"
   },
   "classes": {
-   "approximated": 8,
+   "approximated": 6,
    "ignored": 2,
-   "implemented": 23
+   "implemented": 25
   }
  },
  "lists": {
@@ -145,5 +144,11 @@
   "inputs_unimplemented": 4,
   "surfaces_opaque": 0,
   "gameplay_lost": 12
+ },
+ "prop_fit": {
+  "unmeasured": 12,
+  "rescaled": 2,
+  "boxed": 1,
+  "fits": 16
  }
 }

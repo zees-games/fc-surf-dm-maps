@@ -5,26 +5,23 @@
  "sha256": "8bdc37c7e420d942dfe8347e8e13d17f3f588aca5212c7b50c323cebf066bd38",
  "textures": {
   "looked_up": 70,
-  "drawn": 69,
+  "drawn": 70,
   "by_tier": {
-   "addon": 31,
-   "default": 39
+   "addon": 39,
+   "default": 31
   },
   "free_by_tier": {
-   "addon": 62,
-   "default": 7
+   "addon": 64,
+   "default": 6
   },
   "nearest_photo": [
    "building_template/building_template024a",
    "de_chateau/wllc",
    "de_dust/marketwall03a",
-   "de_piranesi/pi_cobbles",
-   "dev/dev_measureladder01",
    "dev/value90",
    "dev/valuesand80",
    "effects/tp_eyefx/tpeye",
    "effects/tp_eyefx/tpeye3",
-   "environment maps/pipemetal001a",
    "halflife/c3a2a_telred1d",
    "metal/awning001a",
    "metal/citadel_metalwall101b",
@@ -36,16 +33,12 @@
    "models/props_c17/furniturefabric003a",
    "models/props_c17/furniturewooddrawers001a",
    "models/props_c17/metalladder001",
-   "models/props_c17/metalladder002",
    "models/props_canal/canal_bridge_railing_01c",
    "nature/dirtfloor003a",
-   "nature/dirtwall001a",
-   "plaster/plasterceiling003a",
    "plaster/plasterwall012a",
    "plaster/plasterwall023a",
    "test_speakers/floor04",
    "tile/tilewall006c",
-   "vehicle/metaltrain002d",
    "vehicle/metaltrainglass001a"
   ]
  },
@@ -100,6 +93,7 @@
   "links_unresolved": [],
   "inputs_unimplemented": [],
   "surfaces_opaque": [
+   "dev/dev_measureladder01",
    "models/props_combine/portalball001_sheet",
    "vehicle/metaltrainglass001a"
   ],
@@ -116,7 +110,8 @@
   "keys_unmapped": 1,
   "links_unresolved": 0,
   "inputs_unimplemented": 0,
-  "surfaces_opaque": 2,
+  "surfaces_opaque": 3,
   "gameplay_lost": 1
- }
+ },
+ "prop_fit": {}
 }

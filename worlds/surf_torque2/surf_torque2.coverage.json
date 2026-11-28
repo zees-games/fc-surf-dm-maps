@@ -5,21 +5,18 @@
  "sha256": "f647e84545c732c03e4bcae3d79285164321ed2c5d7faecf40bccc41e0ec9c02",
  "textures": {
   "looked_up": 53,
-  "drawn": 50,
+  "drawn": 53,
   "by_tier": {
-   "addon": 24,
-   "default": 29
+   "addon": 28,
+   "default": 25
   },
   "free_by_tier": {
-   "addon": 41,
-   "default": 9
+   "addon": 45,
+   "default": 8
   },
   "nearest_photo": [
    "custom/torque2",
-   "de_chateau/intbrickk",
    "de_nuke/nukwater_movingplane",
-   "de_train/train_metalceiling_02",
-   "metal/metalfloor003a_black",
    "metal/metalfloor003a_blue",
    "metal/metalfloor003a_pink",
    "metal/metalfloor003a_red",
@@ -32,9 +29,6 @@
    "metal/prodcaution_pink",
    "metal/prodcaution_red",
    "metal/prodcaution_white",
-   "metal/train_metalceiling_02_blue",
-   "metal/train_metalceiling_02_pink",
-   "metal/train_metalceiling_02_red",
    "metal/train_metalceiling_02_white"
   ]
  },
@@ -86,7 +80,7 @@
  },
  "gameplay": {
   "findings": {
-   "class_unsupported": 8,
+   "class_unsupported": 7,
    "filter_dangling": 1,
    "input_unimplemented": 4,
    "player_input": 3,
@@ -100,9 +94,9 @@
    "volume_parented": "unsupported"
   },
   "classes": {
-   "approximated": 9,
+   "approximated": 7,
    "ignored": 1,
-   "implemented": 36
+   "implemented": 38
   }
  },
  "lists": {
@@ -136,7 +130,6 @@
   "gameplay_lost": [
    "class_unsupported:player_speedmod (approximated)",
    "class_unsupported:player_weaponstrip (approximated)",
-   "class_unsupported:point_tesla (approximated)",
    "class_unsupported:point_viewcontrol (ignored)",
    "class_unsupported:weapon_hegrenade (approximated)",
    "class_unsupported:weapon_knife (approximated)",
@@ -163,6 +156,7 @@
   "links_unresolved": 0,
   "inputs_unimplemented": 4,
   "surfaces_opaque": 0,
-  "gameplay_lost": 17
- }
+  "gameplay_lost": 16
+ },
+ "prop_fit": {}
 }

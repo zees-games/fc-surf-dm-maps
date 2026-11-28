@@ -7,19 +7,14 @@
   "looked_up": 11,
   "drawn": 11,
   "by_tier": {
-   "addon": 4,
-   "default": 7
+   "addon": 9,
+   "default": 2
   },
   "free_by_tier": {
    "addon": 11
   },
   "nearest_photo": [
-   "brick/brickwall031a",
-   "brick/brickwall040c",
-   "building_template/building_template005a",
    "building_template/building_trainstation_truss_template001f",
-   "cs_havana/dirtfloor006a",
-   "cs_italy/boxsides_t01",
    "stone/stonewall051b"
   ]
  },
@@ -51,6 +46,13 @@
   "total": 9,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {},
+  "severity": {},
+  "classes": {
+   "implemented": 14
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -62,13 +64,9 @@
    "game_player_equip.weapon_knife"
   ],
   "links_unresolved": [],
-  "inputs_unimplemented": [
-   "point_servercommand.Command"
-  ],
+  "inputs_unimplemented": [],
   "surfaces_opaque": [],
-  "gameplay_lost": [
-   "input_unimplemented:point_servercommand.Command"
-  ]
+  "gameplay_lost": []
  },
  "counts": {
   "textures_unmapped": 0,
@@ -78,19 +76,9 @@
   "classes_unmapped": 0,
   "keys_unmapped": 2,
   "links_unresolved": 0,
-  "inputs_unimplemented": 1,
+  "inputs_unimplemented": 0,
   "surfaces_opaque": 0,
-  "gameplay_lost": 1
+  "gameplay_lost": 0
  },
- "gameplay": {
-  "findings": {
-   "input_unimplemented": 1
-  },
-  "severity": {
-   "input_unimplemented": "unsupported"
-  },
-  "classes": {
-   "implemented": 14
-  }
- }
+ "prop_fit": {}
 }

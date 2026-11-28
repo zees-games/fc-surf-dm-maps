@@ -47,6 +47,16 @@
   },
   {
    "kind": "texture",
+   "name": "pbr_blue_plaster_wall",
+   "author": "Dimitrios Savva",
+   "licence": "CC0-1.0",
+   "url": "https://polyhaven.com/a/blue_plaster_wall",
+   "source": "polyhaven",
+   "attribution": false,
+   "uses": 6
+  },
+  {
+   "kind": "texture",
    "name": "pbr_Ground014",
    "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",

@@ -5,23 +5,20 @@
  "sha256": "2a38a371af25681d7076f0423b2f6bc82e1753b26fb849145ebedae99398e142",
  "textures": {
   "looked_up": 41,
-  "drawn": 40,
+  "drawn": 41,
   "by_tier": {
-   "addon": 20,
-   "default": 21
+   "addon": 28,
+   "default": 13
   },
   "free_by_tier": {
-   "addon": 37,
+   "addon": 38,
    "default": 3
   },
   "nearest_photo": [
-   "cs_havana/iceilb01",
-   "de_aztec/azstatc",
    "de_aztec/stonework05d",
    "de_dust/dusandcrete",
-   "de_dust/tilefloor01",
-   "de_nuke/nukblenddirtgrass",
    "metal/e3_logodoor",
+   "nature/water_canals03_beneath",
    "stone/infflrd_blend_dirt",
    "surf_japan_ptad/banner1b",
    "surf_japan_ptad/banner2c",
@@ -126,7 +123,7 @@
  },
  "gameplay": {
   "findings": {
-   "class_unsupported": 7,
+   "class_unsupported": 6,
    "input_unimplemented": 3,
    "player_input": 1
   },
@@ -136,9 +133,9 @@
    "player_input": "unsupported"
   },
   "classes": {
-   "approximated": 10,
+   "approximated": 5,
    "ignored": 4,
-   "implemented": 43
+   "implemented": 48
   }
  },
  "lists": {
@@ -181,7 +178,6 @@
   ],
   "surfaces_opaque": [],
   "gameplay_lost": [
-   "class_unsupported:env_fire (approximated)",
    "class_unsupported:func_bomb_target (ignored)",
    "class_unsupported:func_buyzone (ignored)",
    "class_unsupported:path_track (ignored)",
@@ -204,6 +200,11 @@
   "links_unresolved": 0,
   "inputs_unimplemented": 3,
   "surfaces_opaque": 0,
-  "gameplay_lost": 11
+  "gameplay_lost": 10
+ },
+ "prop_fit": {
+  "rescaled": 11,
+  "rescaled_upright": 10,
+  "fits": 11
  }
 }

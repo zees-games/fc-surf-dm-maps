@@ -5,28 +5,21 @@
  "sha256": "6256bd99085f6a1c2b705f8a8f13b6e098ae384413546a0720c5ca9ccf5b4f69",
  "textures": {
   "looked_up": 79,
-  "drawn": 67,
+  "drawn": 80,
   "by_tier": {
-   "addon": 53,
-   "default": 26
+   "addon": 72,
+   "default": 7
   },
   "free_by_tier": {
-   "addon": 64,
-   "default": 3
+   "addon": 73,
+   "default": 7
   },
   "nearest_photo": [
-   "cs_havana/tunnelplaster02",
-   "cs_havana/tunnelplaster02d",
-   "de_chateau/{cxarrow01",
-   "de_nuke/nukfloora",
-   "de_nuke/nukmetwallab",
    "de_prodigy/floor01",
    "metal/metalpipe006a",
-   "models/props/de_nuke/light_red1_glass_on",
+   "metal/standin_rail",
    "models/props/de_nuke/pipeset_metal02",
-   "models/props_canal/metalcrate001d",
-   "plaster/plasterwall005a",
-   "plaster/plasterwall017a"
+   "models/props_canal/metalcrate001d"
   ]
  },
  "models": {
@@ -61,7 +54,7 @@
  },
  "gameplay": {
   "findings": {
-   "class_unsupported": 6,
+   "class_unsupported": 5,
    "input_unimplemented": 4,
    "target_dangling": 4,
    "volume_follows": 24,
@@ -75,9 +68,9 @@
    "volume_parented": "unsupported"
   },
   "classes": {
-   "approximated": 4,
+   "approximated": 3,
    "ignored": 3,
-   "implemented": 42
+   "implemented": 43
   }
  },
  "lists": {
@@ -102,11 +95,11 @@
    "player_weaponstrip.Strip"
   ],
   "surfaces_opaque": [
+   "decals/decal_signroute004b",
    "models/props/de_nuke/light_red1_glass_on"
   ],
   "gameplay_lost": [
    "class_unsupported:path_track (ignored)",
-   "class_unsupported:phys_constraint (approximated)",
    "class_unsupported:phys_thruster (approximated)",
    "class_unsupported:player_weaponstrip (approximated)",
    "class_unsupported:point_viewcontrol (ignored)",
@@ -128,7 +121,13 @@
   "keys_unmapped": 1,
   "links_unresolved": 4,
   "inputs_unimplemented": 4,
-  "surfaces_opaque": 1,
-  "gameplay_lost": 12
+  "surfaces_opaque": 2,
+  "gameplay_lost": 11
+ },
+ "prop_fit": {
+  "rescaled": 54,
+  "unmeasured": 8,
+  "fits": 49,
+  "boxed": 4
  }
 }

@@ -5,13 +5,13 @@
  "sha256": "a72414176e0ffeb9743e66f6fd7992c0c1702f221eaf9f57fba0b9b169b328a0",
  "textures": {
   "looked_up": 22,
-  "drawn": 20,
+  "drawn": 22,
   "by_tier": {
-   "addon": 12,
-   "default": 10
+   "addon": 14,
+   "default": 8
   },
   "free_by_tier": {
-   "addon": 14,
+   "addon": 16,
    "default": 6
   },
   "nearest_photo": [
@@ -102,6 +102,18 @@
   "total": 31,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "ignored": 2,
+   "implemented": 50
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -129,17 +141,13 @@
    "weapon_xm1014.ammo"
   ],
   "links_unresolved": [],
-  "inputs_unimplemented": [
-   "point_servercommand.Command"
-  ],
+  "inputs_unimplemented": [],
   "surfaces_opaque": [
    "models/props_combine/portalball001_sheet"
   ],
   "gameplay_lost": [
-   "class_unsupported:env_fire (approximated)",
    "class_unsupported:func_buyzone (ignored)",
-   "class_unsupported:path_track (ignored)",
-   "input_unimplemented:point_servercommand.Command"
+   "class_unsupported:path_track (ignored)"
   ]
  },
  "counts": {
@@ -150,23 +158,14 @@
   "classes_unmapped": 0,
   "keys_unmapped": 18,
   "links_unresolved": 0,
-  "inputs_unimplemented": 1,
+  "inputs_unimplemented": 0,
   "surfaces_opaque": 1,
-  "gameplay_lost": 4
+  "gameplay_lost": 2
  },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 3,
-   "input_unimplemented": 1
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported"
-  },
-  "classes": {
-   "approximated": 2,
-   "ignored": 2,
-   "implemented": 48
-  }
+ "prop_fit": {
+  "rescaled": 13,
+  "unmeasured": 44,
+  "fitted_in": 8,
+  "fits": 6
  }
 }

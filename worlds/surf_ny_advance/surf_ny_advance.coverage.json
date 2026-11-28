@@ -5,13 +5,13 @@
  "sha256": "d54736b661e85cc97d192719938b9791b29651ade84a944058729e17bd5e4848",
  "textures": {
   "looked_up": 24,
-  "drawn": 23,
+  "drawn": 24,
   "by_tier": {
-   "addon": 19,
-   "default": 5
+   "addon": 20,
+   "default": 4
   },
   "free_by_tier": {
-   "addon": 19,
+   "addon": 20,
    "default": 4
   },
   "nearest_photo": []
@@ -51,6 +51,26 @@
   "total": 120,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1,
+   "input_unimplemented": 3,
+   "player_input": 1,
+   "volume_follows": 3,
+   "volume_parented": 2
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported",
+   "player_input": "unsupported",
+   "volume_follows": "handled",
+   "volume_parented": "unsupported"
+  },
+  "classes": {
+   "approximated": 1,
+   "implemented": 28
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -68,7 +88,6 @@
   ],
   "links_unresolved": [],
   "inputs_unimplemented": [
-   "func_rot_button.Press",
    "game_player_equip.Use",
    "phys_thruster.Activate",
    "phys_thruster.Deactivate"
@@ -76,16 +95,12 @@
   "surfaces_opaque": [],
   "gameplay_lost": [
    "class_unsupported:phys_thruster (approximated)",
-   "input_unimplemented:func_rot_button.Press",
    "input_unimplemented:game_player_equip.Use",
    "input_unimplemented:phys_thruster.Activate",
    "input_unimplemented:phys_thruster.Deactivate",
    "player_input:setdamagefilter x1",
    "volume_parented:trigger_hurt#449 -> car",
-   "volume_parented:trigger_hurt#450 -> car",
-   "volume_parented:trigger_hurt#647 -> jail_splitter",
-   "volume_parented:trigger_teleport#532 -> jail_slider",
-   "volume_parented:trigger_teleport#642 -> deposit_mover"
+   "volume_parented:trigger_hurt#450 -> car"
   ]
  },
  "counts": {
@@ -96,26 +111,9 @@
   "classes_unmapped": 0,
   "keys_unmapped": 7,
   "links_unresolved": 0,
-  "inputs_unimplemented": 4,
+  "inputs_unimplemented": 3,
   "surfaces_opaque": 0,
-  "gameplay_lost": 11
+  "gameplay_lost": 7
  },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 1,
-   "input_unimplemented": 4,
-   "player_input": 1,
-   "volume_parented": 5
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported",
-   "player_input": "unsupported",
-   "volume_parented": "unsupported"
-  },
-  "classes": {
-   "approximated": 1,
-   "implemented": 28
-  }
- }
+ "prop_fit": {}
 }

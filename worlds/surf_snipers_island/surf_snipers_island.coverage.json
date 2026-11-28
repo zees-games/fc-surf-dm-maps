@@ -5,16 +5,17 @@
  "sha256": "98b93f6d7d27119ad60d978bd4dc952618cf9ef1b951181e15f6325115d62d5a",
  "textures": {
   "looked_up": 12,
-  "drawn": 15,
+  "drawn": 16,
   "by_tier": {
-   "addon": 10,
-   "default": 2
+   "addon": 11,
+   "default": 1
   },
   "free_by_tier": {
-   "addon": 13,
-   "default": 2
+   "addon": 15,
+   "default": 1
   },
   "nearest_photo": [
+   "models/props_wasteland/rockcliff_standin",
    "nature/blendgrassgravel001a",
    "nature/blendsandgrass008a"
   ]
@@ -78,6 +79,18 @@
   "total": 4,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported"
+  },
+  "classes": {
+   "approximated": 1,
+   "implemented": 23
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -116,16 +129,10 @@
   "surfaces_opaque": 0,
   "gameplay_lost": 1
  },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 1
-  },
-  "severity": {
-   "class_unsupported": "unsupported"
-  },
-  "classes": {
-   "approximated": 1,
-   "implemented": 23
-  }
+ "prop_fit": {
+  "rescaled": 26,
+  "rescaled_upright": 26,
+  "unmeasured": 18,
+  "fits": 26
  }
 }

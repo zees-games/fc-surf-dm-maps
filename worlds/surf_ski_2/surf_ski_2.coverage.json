@@ -5,21 +5,16 @@
  "sha256": "9baf9f15401522556940740dde72b6493df8c8cda56dfaa68a5156e6fe8d83df",
  "textures": {
   "looked_up": 32,
-  "drawn": 31,
+  "drawn": 32,
   "by_tier": {
-   "addon": 18,
-   "default": 14
+   "addon": 24,
+   "default": 8
   },
   "free_by_tier": {
-   "addon": 27,
-   "default": 4
+   "addon": 29,
+   "default": 3
   },
   "nearest_photo": [
-   "cs_italy/boxsides_t01",
-   "de_nuke/nuke_ceiling_02",
-   "de_nuke/nukmetwallab",
-   "environment maps/pipemetal001a",
-   "environment maps/pipemetal004b",
    "metal/metaldoor003a",
    "props/plasticexitsign001b",
    "props/plasticexitsign002a"
@@ -84,6 +79,20 @@
   "total": 15,
   "unresolved": 0
  },
+ "gameplay": {
+  "findings": {
+   "class_unsupported": 2,
+   "input_unimplemented": 1
+  },
+  "severity": {
+   "class_unsupported": "unsupported",
+   "input_unimplemented": "unsupported"
+  },
+  "classes": {
+   "ignored": 2,
+   "implemented": 26
+  }
+ },
  "lists": {
   "textures_unmapped": [],
   "textures_flat": [],
@@ -131,19 +140,10 @@
   "surfaces_opaque": 0,
   "gameplay_lost": 3
  },
- "gameplay": {
-  "findings": {
-   "class_unsupported": 2,
-   "input_unimplemented": 1
-  },
-  "severity": {
-   "class_unsupported": "unsupported",
-   "input_unimplemented": "unsupported"
-  },
-  "classes": {
-   "approximated": 1,
-   "ignored": 2,
-   "implemented": 25
-  }
+ "prop_fit": {
+  "rescaled": 23,
+  "boxed": 1,
+  "fits": 26,
+  "unmeasured": 10
  }
 }

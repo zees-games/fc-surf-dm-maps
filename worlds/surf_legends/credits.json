@@ -7,10 +7,10 @@
  "works": [
   {
    "kind": "texture",
-   "name": "pbr_stone_wall_04",
-   "author": "Amal Kumar",
+   "name": "pbr_aerial_ground_rock",
+   "author": "Rob Tuytel",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/stone_wall_04",
+   "url": "https://polyhaven.com/a/aerial_ground_rock",
    "source": "polyhaven",
    "attribution": false,
    "uses": 3282
@@ -57,13 +57,23 @@
   },
   {
    "kind": "texture",
-   "name": "pbr_rusty_corrugated_iron",
-   "author": "Charlotte Baglioni",
+   "name": "pbr_Wood013",
+   "author": "Lennart Demes and contributors",
    "licence": "CC0-1.0",
-   "url": "https://polyhaven.com/a/rusty_corrugated_iron",
-   "source": "polyhaven",
+   "url": "https://ambientcg.com/view?id=Wood013",
+   "source": "ambientCG",
    "attribution": false,
    "uses": 4
+  },
+  {
+   "kind": "texture",
+   "name": "pbr_Ground014",
+   "author": "Lennart Demes and contributors",
+   "licence": "CC0-1.0",
+   "url": "https://ambientcg.com/view?id=Ground014",
+   "source": "ambientCG",
+   "attribution": false,
+   "uses": 0
   },
   {
    "kind": "model",
