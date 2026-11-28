@@ -1,0 +1,458 @@
+{
+ "surf_10x_final": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_10x_reloaded_fixed": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_110b_austinpowers": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_2012_beta12": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_29_12_06": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_2heaven_b1": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_adverse": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_ag_texture_final": {
+  "fails": {
+   "high": 1,
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides); a high spawn is a mapper placement"
+ },
+ "surf_aim_akcolt": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_akai_final": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_amplitude_encore": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_banocanyon": {
+  "fails": {
+   "high": 40,
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides); a high spawn is a mapper placement"
+ },
+ "surf_bathroom_final": {
+  "fails": {
+   "high": 1,
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides); a high spawn is a mapper placement"
+ },
+ "surf_bedroom": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_buck_ed_up": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_buck_fever2": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_buck_wild": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_buzzkill2": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_concordia": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_construction": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_crzyfrog_reloaded": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_dust2_2008_final": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_dusty_roads": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_eternity_v1": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_fastspiral_retro": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_flowing": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_forbidden_ways_2nd": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_forbidden_ways_reloaded": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_fruits": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_funpark_reloaded_v1": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_gforce": {
+  "fails": {
+   "high": 1,
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides); a high spawn is a mapper placement"
+ },
+ "surf_grave_reloaded": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_greatriver": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_greatriver_v4": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_greatriver_xdre4m": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_i_hate_campers": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_japan_ptad": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_legends": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_machine": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_machine2": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_machine_remix_final": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_machinery": {
+  "fails": {
+   "high": 1,
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides); a high spawn is a mapper placement"
+ },
+ "surf_mai_redone_final2": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_mai_remix": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_matrix_v8": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_megamachine": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_meister_v3_final2": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_melons": {
+  "fails": {
+   "high": 1,
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides); a high spawn is a mapper placement"
+ },
+ "surf_ny__resist": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_ny_advance": {
+  "fails": {
+   "high": 1,
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides); a high spawn is a mapper placement"
+ },
+ "surf_ny_bigloop_2008a": {
+  "fails": {
+   "facing_wall": 1,
+   "high": 1,
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides); a high spawn is a mapper placement"
+ },
+ "surf_ny_exploder_prime": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_olympics": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_parrot_selector": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_pavilion": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_phenomenon": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_poolday": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_pox": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_prisoner_v2": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_rebel_resistance_final3": {
+  "fails": {
+   "high": 1,
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides); a high spawn is a mapper placement"
+ },
+ "surf_skate_park_v2": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_ski_2": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_ski_2_source": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_skyscraper": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_skyworld": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_snipers_island": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_snowycave": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_the_flow": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_the_gloaming": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_thriller": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_torque2": {
+  "fails": {
+   "high": 1,
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides); a high spawn is a mapper placement"
+ },
+ "surf_velocity": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_vindictive": {
+  "fails": {
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides)"
+ },
+ "surf_xiv_v3b": {
+  "fails": {
+   "high": 1,
+   "untagged": 1
+  },
+  "reason": "importer does not tag team spawns yet (source has both sides); a high spawn is a mapper placement"
+ }
+}

@@ -1,0 +1,497 @@
+{
+ "surf_10x_final": [
+  "class_unsupported:func_buyzone"
+ ],
+ "surf_10x_reloaded_fixed": [
+  "class_unsupported:func_buyzone"
+ ],
+ "surf_110b_austinpowers": [
+  "class_unsupported:path_track",
+  "input_unimplemented:func_monitor.SetCamera",
+  "input_unimplemented:game_player_equip.Use",
+  "volume_parented:trigger_multiple"
+ ],
+ "surf_2012_beta12": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:player_weaponstrip",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_hegrenade",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "input_unimplemented:game_player_equip.Use",
+  "input_unimplemented:player_weaponstrip.Strip",
+  "player_input:color",
+  "player_input:setdamagefilter"
+ ],
+ "surf_29_12_06": [
+  "class_unsupported:env_entity_maker",
+  "input_unimplemented:env_entity_maker.ForceSpawn"
+ ],
+ "surf_2heaven_b1": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:path_track",
+  "input_unimplemented:env_entity_maker.ForceSpawn"
+ ],
+ "surf_adverse": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_ak47",
+  "class_unsupported:weapon_m4a1",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "player_input:setdamagefilter"
+ ],
+ "surf_ag_texture_final": [
+  "class_unsupported:ammo_338mag",
+  "class_unsupported:ammo_357sig",
+  "class_unsupported:ammo_45acp",
+  "class_unsupported:ammo_50ae",
+  "class_unsupported:ammo_556mm",
+  "class_unsupported:ammo_556mm_box",
+  "class_unsupported:ammo_57mm",
+  "class_unsupported:ammo_762mm",
+  "class_unsupported:ammo_9mm",
+  "class_unsupported:ammo_buckshot",
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:item_assaultsuit",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "input_unimplemented:prop_physics.Wake"
+ ],
+ "surf_akai_final": [
+  "class_unsupported:ai_changetarget",
+  "class_unsupported:point_viewcontrol",
+  "input_unimplemented:ai_changetarget.Activate",
+  "input_unimplemented:game_player_equip.Use"
+ ],
+ "surf_amplitude_encore": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:player_weaponstrip",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_hegrenade",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "input_unimplemented:game_player_equip.Use",
+  "input_unimplemented:player_weaponstrip.Strip",
+  "player_input:setdamagefilter"
+ ],
+ "surf_banocanyon": [
+  "class_unsupported:func_buyzone"
+ ],
+ "surf_bathroom_final": [
+  "class_unsupported:func_bomb_target",
+  "input_unimplemented:env_splash.Splash",
+  "input_unimplemented:func_water_analog.Close",
+  "input_unimplemented:func_water_analog.Open",
+  "input_unimplemented:func_water_analog.SetPosition",
+  "input_unimplemented:game_player_equip.Use",
+  "volume_key_unread:func_water_analog.movedistance=36",
+  "volume_key_unread:func_water_analog.movedistance=48",
+  "volume_key_unread:func_water_analog.movedistance=96"
+ ],
+ "surf_buck_ed_up": [
+  "class_unsupported:func_bomb_target",
+  "class_unsupported:func_buyzone",
+  "class_unsupported:point_viewcontrol"
+ ],
+ "surf_buck_fever2": [
+  "class_unsupported:func_bomb_target",
+  "class_unsupported:func_buyzone",
+  "class_unsupported:point_viewcontrol",
+  "player_input:color"
+ ],
+ "surf_buck_wild": [
+  "class_unsupported:func_bomb_target",
+  "class_unsupported:func_buyzone",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_m3"
+ ],
+ "surf_buzzkill2": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:func_bomb_target",
+  "class_unsupported:func_buyzone",
+  "class_unsupported:point_viewcontrol",
+  "input_unimplemented:env_entity_maker.ForceSpawn"
+ ],
+ "surf_construction": [
+  "class_unsupported:ai_changetarget",
+  "class_unsupported:player_speedmod",
+  "class_unsupported:player_weaponstrip",
+  "class_unsupported:weapon_m249",
+  "input_unimplemented:ai_changetarget.Activate",
+  "input_unimplemented:env_hudhint.ShowHudHint",
+  "input_unimplemented:game_player_equip.Use",
+  "input_unimplemented:player_speedmod.ModifySpeed",
+  "input_unimplemented:player_weaponstrip.Strip",
+  "player_input:setdamagefilter"
+ ],
+ "surf_crzyfrog_reloaded": [
+  "class_unsupported:point_viewcontrol"
+ ],
+ "surf_dust2_2008_final": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:func_bomb_target",
+  "class_unsupported:func_buyzone",
+  "class_unsupported:player_weaponstrip",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "input_unimplemented:game_player_equip.",
+  "input_unimplemented:player_weaponstrip.Strip"
+ ],
+ "surf_dusty_roads": [
+  "class_unsupported:func_bomb_target",
+  "class_unsupported:point_viewcontrol",
+  "input_unimplemented:game_player_equip.use"
+ ],
+ "surf_eternity_v1": [
+  "class_unsupported:point_viewcontrol"
+ ],
+ "surf_fastspiral_retro": [
+  "class_unsupported:path_track",
+  "class_unsupported:point_viewcontrol"
+ ],
+ "surf_flowing": [
+  "class_unsupported:func_bomb_target",
+  "class_unsupported:item_defuser",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_ak47",
+  "class_unsupported:weapon_awp",
+  "class_unsupported:weapon_c4",
+  "class_unsupported:weapon_deagle",
+  "class_unsupported:weapon_g3sg1",
+  "class_unsupported:weapon_m4a1",
+  "class_unsupported:weapon_mp5navy",
+  "class_unsupported:weapon_sg550",
+  "class_unsupported:weapon_tmp"
+ ],
+ "surf_forbidden_ways_2nd": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:func_buyzone",
+  "class_unsupported:player_weaponstrip",
+  "class_unsupported:point_viewcontrol",
+  "input_unimplemented:env_entity_maker.ForceSpawn"
+ ],
+ "surf_forbidden_ways_reloaded": [
+  "class_unsupported:func_buyzone",
+  "class_unsupported:player_weaponstrip",
+  "class_unsupported:point_viewcontrol"
+ ],
+ "surf_fruits": [
+  "class_unsupported:player_weaponstrip",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_hegrenade",
+  "input_unimplemented:game_player_equip.Use",
+  "input_unimplemented:player_weaponstrip.Strip",
+  "player_input:setdamagefilter"
+ ],
+ "surf_funpark_reloaded_v1": [
+  "class_unsupported:env_entity_maker",
+  "input_unimplemented:env_entity_maker.ForceSpawn"
+ ],
+ "surf_gforce": [
+  "class_unsupported:func_buyzone",
+  "class_unsupported:path_track",
+  "class_unsupported:point_viewcontrol",
+  "input_unimplemented:env_hudhint.ShowHudHint"
+ ],
+ "surf_grave_reloaded": [
+  "class_unsupported:func_bomb_target"
+ ],
+ "surf_greatriver_v4": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:func_bomb_target",
+  "class_unsupported:path_track",
+  "input_unimplemented:env_entity_maker.ForceSpawn"
+ ],
+ "surf_greatriver_xdre4m": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:func_buyzone",
+  "class_unsupported:path_track",
+  "class_unsupported:player_weaponstrip",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_awp",
+  "class_unsupported:weapon_hegrenade",
+  "class_unsupported:weapon_knife",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "input_unimplemented:player_weaponstrip.Strip"
+ ],
+ "surf_i_hate_campers": [
+  "class_unsupported:func_bomb_target",
+  "class_unsupported:func_buyzone",
+  "class_unsupported:path_track"
+ ],
+ "surf_japan_ptad": [
+  "class_unsupported:func_bomb_target",
+  "class_unsupported:func_buyzone",
+  "class_unsupported:path_track",
+  "class_unsupported:prop_ragdoll",
+  "class_unsupported:weapon_awp",
+  "class_unsupported:weapon_deagle",
+  "input_unimplemented:env_hudhint.ShowHudHint",
+  "input_unimplemented:point_spotlight.LightOff",
+  "input_unimplemented:prop_ragdoll.ignite",
+  "player_input:addoutput health"
+ ],
+ "surf_legends": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:point_viewcontrol",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "input_unimplemented:func_water_analog.Close",
+  "input_unimplemented:func_water_analog.Open",
+  "volume_key_unread:func_water_analog.movedistance=255"
+ ],
+ "surf_machine2": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:point_teleport",
+  "input_unimplemented:env_entity_maker.ForceSpawn"
+ ],
+ "surf_machine_remix_final": [
+  "class_unsupported:func_buyzone",
+  "class_unsupported:path_track"
+ ],
+ "surf_mai_redone_final2": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:func_buyzone",
+  "class_unsupported:item_kevlar",
+  "class_unsupported:path_track",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_aug",
+  "class_unsupported:weapon_sg552",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "input_unimplemented:env_hudhint.ShowHudHint",
+  "player_input:setdamagefilter",
+  "volume_parented:trigger_once"
+ ],
+ "surf_mai_remix": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:func_bomb_target",
+  "input_unimplemented:env_entity_maker.ForceSpawn"
+ ],
+ "surf_matrix_v8": [
+  "class_unsupported:env_entity_maker",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "input_unimplemented:func_monitor.SetCamera"
+ ],
+ "surf_megamachine": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:path_track",
+  "class_unsupported:point_teleport",
+  "class_unsupported:weapon_elite",
+  "class_unsupported:weapon_fiveseven",
+  "class_unsupported:weapon_flashbang",
+  "class_unsupported:weapon_m249",
+  "class_unsupported:weapon_p228",
+  "class_unsupported:weapon_smokegrenade",
+  "input_unimplemented:env_beam.StrikeOnce",
+  "input_unimplemented:env_entity_maker.ForceSpawn"
+ ],
+ "surf_meister_v3_final2": [
+  "class_unsupported:ai_changetarget",
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:func_fish_pool",
+  "class_unsupported:item_assaultsuit",
+  "class_unsupported:logic_branch_listener",
+  "class_unsupported:logic_multicompare",
+  "class_unsupported:path_track",
+  "class_unsupported:player_speedmod",
+  "class_unsupported:player_weaponstrip",
+  "class_unsupported:point_hurt",
+  "class_unsupported:weapon_hegrenade",
+  "input_unimplemented:ai_changetarget.Activate",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "input_unimplemented:func_water_analog.Close",
+  "input_unimplemented:func_water_analog.Open",
+  "input_unimplemented:game_player_equip.Use",
+  "input_unimplemented:light.FadeToPattern",
+  "input_unimplemented:light_spot.FadeToPattern",
+  "input_unimplemented:logic_branch_listener.Test",
+  "input_unimplemented:point_hurt.Hurt",
+  "player_input:sethealth",
+  "volume_key_unread:func_water_analog.movedistance=384"
+ ],
+ "surf_melons": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:func_bomb_target",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "input_unimplemented:env_shooter.Shoot"
+ ],
+ "surf_ny__resist": [
+  "class_unsupported:weapon_awp",
+  "input_unimplemented:game_player_equip.Use"
+ ],
+ "surf_ny_advance": [
+  "class_unsupported:phys_thruster",
+  "input_unimplemented:game_player_equip.Use",
+  "input_unimplemented:phys_thruster.Activate",
+  "input_unimplemented:phys_thruster.Deactivate",
+  "player_input:setdamagefilter",
+  "volume_parented:trigger_hurt"
+ ],
+ "surf_ny_exploder_prime": [
+  "class_unsupported:func_bomb_target"
+ ],
+ "surf_olympics": [
+  "class_unsupported:point_viewcontrol",
+  "input_unimplemented:game_player_equip.Use",
+  "player_input:color",
+  "player_input:setdamagefilter"
+ ],
+ "surf_parrot_selector": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:info_teleport_destination",
+  "class_unsupported:player_weaponstrip",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_ak47",
+  "class_unsupported:weapon_awp",
+  "class_unsupported:weapon_m3",
+  "class_unsupported:weapon_m4a1",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "input_unimplemented:env_hudhint.ShowHudHint",
+  "input_unimplemented:game_player_equip.Use",
+  "input_unimplemented:player_weaponstrip.Strip",
+  "player_input:color",
+  "player_input:setdamagefilter"
+ ],
+ "surf_pavilion": [
+  "class_unsupported:path_track",
+  "class_unsupported:phys_thruster",
+  "class_unsupported:player_weaponstrip",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_m249",
+  "input_unimplemented:game_player_equip.Use",
+  "input_unimplemented:phys_thruster.Activate",
+  "input_unimplemented:phys_thruster.Deactivate",
+  "input_unimplemented:player_weaponstrip.Strip",
+  "volume_parented:trigger_hurt"
+ ],
+ "surf_phenomenon": [
+  "class_unsupported:point_viewcontrol"
+ ],
+ "surf_poolday": [
+  "class_unsupported:func_bomb_target",
+  "class_unsupported:func_buyzone"
+ ],
+ "surf_pox": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:player_weaponstrip",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_ak47",
+  "class_unsupported:weapon_deagle",
+  "class_unsupported:weapon_hegrenade",
+  "class_unsupported:weapon_m4a1",
+  "class_unsupported:weapon_mp5navy",
+  "input_unimplemented:game_player_equip.Use",
+  "input_unimplemented:player_weaponstrip.Strip",
+  "input_unimplemented:point_spotlight.LightOff",
+  "input_unimplemented:point_spotlight.LightOn"
+ ],
+ "surf_rebel_resistance_final3": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:game_weapon_manager",
+  "class_unsupported:path_track",
+  "class_unsupported:weapon_mp5navy",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "input_unimplemented:func_monitor.SetCamera"
+ ],
+ "surf_ski_2": [
+  "class_unsupported:func_buyzone",
+  "class_unsupported:point_viewcontrol",
+  "input_unimplemented:prop_physics.Skin"
+ ],
+ "surf_ski_2_source": [
+  "class_unsupported:func_buyzone",
+  "input_unimplemented:prop_physics.Skin",
+  "player_input:setdamagefilter"
+ ],
+ "surf_snipers_island": [
+  "class_unsupported:func_bomb_target"
+ ],
+ "surf_snowycave": [
+  "class_unsupported:func_buyzone"
+ ],
+ "surf_the_flow": [
+  "class_unsupported:point_viewcontrol"
+ ],
+ "surf_the_gloaming": [
+  "class_unsupported:env_entity_maker",
+  "class_unsupported:env_muzzleflash",
+  "class_unsupported:point_teleport",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_ak47",
+  "class_unsupported:weapon_awp",
+  "class_unsupported:weapon_deagle",
+  "class_unsupported:weapon_hegrenade",
+  "class_unsupported:weapon_m3",
+  "class_unsupported:weapon_m4a1",
+  "class_unsupported:weapon_ump45",
+  "input_unimplemented:env_entity_maker.ForceSpawn",
+  "input_unimplemented:env_hudhint.ShowHudHint",
+  "input_unimplemented:env_muzzleflash.Fire",
+  "input_unimplemented:game_player_equip.Use",
+  "input_unimplemented:point_spotlight.LightOff",
+  "input_unimplemented:point_spotlight.LightOn",
+  "input_unimplemented:point_teleport.Teleport",
+  "player_input:setdamagefilter",
+  "volume_parented:trigger_hurt"
+ ],
+ "surf_thriller": [
+  "class_unsupported:func_buyzone",
+  "input_unimplemented:game_player_equip.Use"
+ ],
+ "surf_torque2": [
+  "class_unsupported:player_speedmod",
+  "class_unsupported:player_weaponstrip",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_hegrenade",
+  "class_unsupported:weapon_knife",
+  "class_unsupported:weapon_scout",
+  "class_unsupported:weapon_smokegrenade",
+  "input_unimplemented:env_hudhint.ShowHudHint",
+  "input_unimplemented:game_player_equip.Use",
+  "input_unimplemented:player_speedmod.ModifySpeed",
+  "input_unimplemented:player_weaponstrip.Strip",
+  "player_input:addoutput targetname",
+  "player_input:color",
+  "player_input:setdamagefilter",
+  "volume_parented:trigger_hurt"
+ ],
+ "surf_velocity": [
+  "class_unsupported:func_buyzone",
+  "class_unsupported:phys_thruster",
+  "class_unsupported:player_weaponstrip",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_hegrenade",
+  "input_unimplemented:env_hudhint.ShowHudHint",
+  "input_unimplemented:game_player_equip.Use",
+  "input_unimplemented:phys_thruster.Activate",
+  "input_unimplemented:phys_thruster.Deactivate",
+  "input_unimplemented:player_weaponstrip.Strip",
+  "player_input:addoutput health",
+  "player_input:addoutput targetname",
+  "player_input:color",
+  "player_input:ignite",
+  "player_input:setdamagefilter",
+  "volume_parented:trigger_hurt"
+ ],
+ "surf_vindictive": [
+  "class_unsupported:func_buyzone",
+  "class_unsupported:point_viewcontrol",
+  "class_unsupported:weapon_ak47",
+  "class_unsupported:weapon_deagle",
+  "class_unsupported:weapon_m3",
+  "class_unsupported:weapon_m4a1",
+  "class_unsupported:weapon_mac10",
+  "class_unsupported:weapon_mp5navy",
+  "class_unsupported:weapon_p228",
+  "class_unsupported:weapon_tmp",
+  "class_unsupported:weapon_ump45",
+  "input_unimplemented:env_tonemap_controller.SetTonemapRate",
+  "input_unimplemented:trigger_teleport.ForceSpawn"
+ ],
+ "surf_xiv_v3b": [
+  "class_unsupported:func_bomb_target",
+  "class_unsupported:func_buyzone",
+  "class_unsupported:trigger_wind",
+  "input_unimplemented:env_hudhint.HideHudHint",
+  "input_unimplemented:env_hudhint.ShowHudHint",
+  "input_unimplemented:env_screenoverlay.StopOverlays",
+  "input_unimplemented:func_conveyor.SetSpeed",
+  "input_unimplemented:game_player_equip.Use",
+  "player_input:color"
+ ]
+}
