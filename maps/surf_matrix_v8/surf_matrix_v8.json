@@ -6882,5 +6882,10 @@
  },
  "author": "Flippi273",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). 124 placed weapons, four jails and a 'glass box' most teleports aim at -- combat. gb-maps-1 batch of 2026-10-09. Not published."
+ "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). 124 placed weapons, four jails and a 'glass box' most teleports aim at -- combat. gb-maps-1 batch of 2026-10-09. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

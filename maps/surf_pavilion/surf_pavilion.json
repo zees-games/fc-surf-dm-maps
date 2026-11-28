@@ -25938,5 +25938,10 @@
  ],
  "author": "Black Sheep",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a scored race-and-fight round. 27 and 24 team spawns, 37 game_score entities awarding points per level end and per fail (lvl_1_end_trig, lvl_2_fail_trig, ...), two jails with timers, 21 func_breakables, placed weapons (deagle, m249, grenades) and two game_player_equip. Its levels are scored against each other rather than timed from a line, and the winner's room is a kill box. gb-maps-2. Not published."
+ "notes": "Credit only, and deliberately no zones: a scored race-and-fight round. 27 and 24 team spawns, 37 game_score entities awarding points per level end and per fail (lvl_1_end_trig, lvl_2_fail_trig, ...), two jails with timers, 21 func_breakables, placed weapons (deagle, m249, grenades) and two game_player_equip. Its levels are scored against each other rather than timed from a line, and the winner's room is a kill box. gb-maps-2. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

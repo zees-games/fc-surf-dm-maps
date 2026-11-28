@@ -5872,5 +5872,10 @@
  "trigger_volumes": [],
  "author": "[Happy-camper] Flan",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: combat surf map built to fight on. Teleports are the map's pits. maps-conv-arena-surf-2. Not published."
+ "notes": "Credit only, and deliberately no zones: combat surf map built to fight on. Teleports are the map's pits. maps-conv-arena-surf-2. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

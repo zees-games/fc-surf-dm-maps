@@ -2361,5 +2361,10 @@
  "trigger_volumes": [],
  "author": "Ace Of Spades13",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). VBSP 19 (it was the map that found bsp_read's v19 leaf bug). 96 placed weapons, team spawn teleports (ct, t), a 'prizon' and a 'noob' teleport -- combat. gb-maps-1 batch of 2026-10-09. Not published."
+ "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). VBSP 19 (it was the map that found bsp_read's v19 leaf bug). 96 placed weapons, team spawn teleports (ct, t), a 'prizon' and a 'noob' teleport -- combat. gb-maps-1 batch of 2026-10-09. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

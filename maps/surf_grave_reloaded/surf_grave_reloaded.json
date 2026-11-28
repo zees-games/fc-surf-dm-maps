@@ -4198,5 +4198,10 @@
  },
  "author": "xblah",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). Spawn rooms with weapon stashes behind func_doors (elites, M3s, MAC-10s, scouts, AWPs), and every trigger_teleport sends a player back to a spawn, the prison or the cliff top -- a loop, not a route. gb-maps-1. Not published."
+ "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). Spawn rooms with weapon stashes behind func_doors (elites, M3s, MAC-10s, scouts, AWPs), and every trigger_teleport sends a player back to a spawn, the prison or the cliff top -- a loop, not a route. gb-maps-1. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

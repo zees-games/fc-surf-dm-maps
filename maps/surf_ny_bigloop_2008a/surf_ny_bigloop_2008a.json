@@ -12454,5 +12454,10 @@
  },
  "author": "Paper-Cut and FAJ",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a combat surf loop (its readme: 'all about ramp combat ... grab yourself an M3'). 20 spawns a side facing each other, 64 placed shotguns, scouts, TMPs and G3s, four teleports into jail1..jail4 and no line a run could end at. chk-maps run 64. Not published."
+ "notes": "Credit only, and deliberately no zones: a combat surf loop (its readme: 'all about ramp combat ... grab yourself an M3'). 20 spawns a side facing each other, 64 placed shotguns, scouts, TMPs and G3s, four teleports into jail1..jail4 and no line a run could end at. chk-maps run 64. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

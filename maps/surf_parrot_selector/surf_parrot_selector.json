@@ -33765,5 +33765,10 @@
  },
  "author": "ptad",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a team surf minigame. 18 spawns a side, team filters, a knife/AWP equip, a jail timer and jail_win_ct / jail_win_t ends; 49 of its 75 teleports aim back at destination1 and the rest at jails, a selector rather than one route. chk-maps run 64. Not published."
+ "notes": "Credit only, and deliberately no zones: a team surf minigame. 18 spawns a side, team filters, a knife/AWP equip, a jail timer and jail_win_ct / jail_win_t ends; 49 of its 75 teleports aim back at destination1 and the rest at jails, a selector rather than one route. chk-maps run 64. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

@@ -1074,5 +1074,10 @@
  },
  "author": "Lagged",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: combat surf. 30+30 team spawns, 36 AK47s and 36 M4A1s on the floor, a game_player_equip and weapon buttons. maps-conv-arena-surf-2. Not published."
+ "notes": "Credit only, and deliberately no zones: combat surf. 30+30 team spawns, 36 AK47s and 36 M4A1s on the floor, a game_player_equip and weapon buttons. maps-conv-arena-surf-2. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

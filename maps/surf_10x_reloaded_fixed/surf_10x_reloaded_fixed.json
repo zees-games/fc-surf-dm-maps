@@ -10669,5 +10669,10 @@
  "trigger_volumes": [],
  "author": "Buck Nasty",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones (gb-maps-1): a combat surf map with no finish -- two buyzones, 100-odd weapons on the floor, jail1/jail2/jailbreak destinations and a middle sniper perch. Every trigger_teleport aims back at a spawn, a jail or the top of a ramp, so there is a loop to fight on and no line a run could end at. Not published."
+ "notes": "Credit only, and deliberately no zones (gb-maps-1): a combat surf map with no finish -- two buyzones, 100-odd weapons on the floor, jail1/jail2/jailbreak destinations and a middle sniper perch. Every trigger_teleport aims back at a spawn, a jail or the top of a ramp, so there is a loop to fight on and no line a run could end at. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

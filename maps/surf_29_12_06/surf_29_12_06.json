@@ -2331,5 +2331,10 @@
  },
  "author": "matrix-hetman",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). 16 T and 16 CT spawns, 17 placed weapons, and team routes (g1..g4, b1..b4) each with one teleport -- built for two teams to fight across. gb-maps-1 batch of 2026-10-09. Not published."
+ "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). 16 T and 16 CT spawns, 17 placed weapons, and team routes (g1..g4, b1..b4) each with one teleport -- built for two teams to fight across. gb-maps-1 batch of 2026-10-09. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

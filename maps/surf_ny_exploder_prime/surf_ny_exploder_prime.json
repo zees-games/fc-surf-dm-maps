@@ -4042,5 +4042,10 @@
  },
  "author": "FAJ",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: combat surf. The page calls it a combat surf map (sequel to a combat map): 55+55 spawns, shotguns and rifles on the floor, a bomb site enabled late. maps-conv-arena-surf-2. Not published."
+ "notes": "Credit only, and deliberately no zones: combat surf. The page calls it a combat surf map (sequel to a combat map): 55+55 spawns, shotguns and rifles on the floor, a bomb site enabled late. maps-conv-arena-surf-2. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

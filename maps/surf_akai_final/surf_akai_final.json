@@ -16095,5 +16095,10 @@
  },
  "author": "akai",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). Team spawns, 42 placed weapons and 17 func_buttons; 43 of its trigger_teleports aim at one 'targ1' and the rest at per-team floor and anti-stuck teleports -- a fight in a loop, not a route. gb-maps-1 batch of 2026-10-09. Not published."
+ "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). Team spawns, 42 placed weapons and 17 func_buttons; 43 of its trigger_teleports aim at one 'targ1' and the rest at per-team floor and anti-stuck teleports -- a fight in a loop, not a route. gb-maps-1 batch of 2026-10-09. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

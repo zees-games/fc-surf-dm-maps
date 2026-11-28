@@ -1,0 +1,18 @@
+{
+ "id": "surf_mai_remix",
+ "author": "Krusty",
+ "attribution": {
+  "author": "Krusty",
+  "source": "https://gamebanana.com/mods/122505",
+  "archive": "surf_mai_remix.bsp",
+  "recorded": "2026-11-28"
+ },
+ "notes": "Combat surf map for game-fatal-contact (owner's Surf Combat list): the map's own spawns; textures and models are free replacements; published as a credited community map with a removal offer.",
+ "kind": "arena",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ],
+ "kind_why": "A combat surf map: built to fight on rather than to time. 'arena' marks it for game-fatal-contact's deathmatch."
+}

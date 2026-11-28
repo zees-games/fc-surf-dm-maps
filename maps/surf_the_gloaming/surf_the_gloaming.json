@@ -146027,5 +146027,10 @@
  },
  "author": "Roosta, Teeth",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). 38 placed weapons, jails (jail1, jail2, jailt), a control room and a scout round -- combat. gb-maps-1 batch of 2026-10-09. Not published. The scout round's start-disabled teleports over the spawns are dropped (round_teleports)."
+ "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). 38 placed weapons, jails (jail1, jail2, jailt), a control room and a scout round -- combat. gb-maps-1 batch of 2026-10-09. Not published. The scout round's start-disabled teleports over the spawns are dropped (round_teleports).",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

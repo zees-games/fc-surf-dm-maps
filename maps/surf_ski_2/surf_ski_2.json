@@ -3609,5 +3609,10 @@
  "trigger_volumes": [],
  "author": "Massive Boredom and Mario",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones (gb-maps-1): a combat surf map with no finish -- two buyzones, a weapon room, a jail with a button door and a keypad secret room. Every trigger_teleport aims back at a spawn, a jail or the top of a ramp, so there is a loop to fight on and no line a run could end at. Not published."
+ "notes": "Credit only, and deliberately no zones (gb-maps-1): a combat surf map with no finish -- two buyzones, a weapon room, a jail with a button door and a keypad secret room. Every trigger_teleport aims back at a spawn, a jail or the top of a ramp, so there is a loop to fight on and no line a run could end at. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }

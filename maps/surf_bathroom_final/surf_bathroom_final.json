@@ -9432,5 +9432,10 @@
  },
  "author": "smooth",
  "kind": "arena",
- "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). A bathroom-scale combat surf: 32 placed weapons, and every teleport aims at a team's spawn (tele_dest_t1/ct1/ct2) or the top -- no line to time. gb-maps-1 batch of 2026-10-09. Not published."
+ "notes": "Credit only, and deliberately no zones: a combat surf map with no finish (see maps/zones/README.md). A bathroom-scale combat surf: 32 placed weapons, and every teleport aims at a team's spawn (tele_dest_t1/ct1/ct2) or the top -- no line to time. gb-maps-1 batch of 2026-10-09. Not published.",
+ "modes": [
+  "ffa",
+  "tdm",
+  "gungame"
+ ]
 }
