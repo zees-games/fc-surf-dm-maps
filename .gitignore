@@ -5,3 +5,13 @@ __pycache__/
 /model-library/
 /pbr-library/
 /sources/
+/maps/*
+!/maps/.gitkeep
+
+# Heavy bins live on the CDN only (content.lock.json pins the packs); tools/fetch_worlds.sh brings them back,
+# tools/regen_worlds.sh rebuilds them from sources/. Never commit them.
+/worlds/*/*.bin
+/maps/*/*.bin
+/.stores
+/pbr-library
+/model-library
