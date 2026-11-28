@@ -11,29 +11,29 @@ Gates run per map: `tools/check_teleports.py` and `tools/check_playable.py` (bot
 | `surf_concordia` | razEr^surf | ratchet | ok | ffa, tdm, gungame | ok 2026-11-28 (tiled deck, sky, floating discs) |
 | `surf_snowycave` | Moskin | ok | ok | ffa, tdm, gungame | ok 2026-11-28 (terrazzo walls, sky) |
 | `surf_ag_texture_final` | SmOoth123 | ok | ok | ffa, tdm, gungame | ok 2026-11-28 (brick, signs, rails) |
-| `surf_olympics` | THAY-imagine- | ok | ok | ffa, tdm, gungame | 2026-11-28: spawn views blown out to white (lightmap/exposure too bright); needs a converter look at the lightmap gain |
+| `surf_olympics` | THAY-imagine- | ok | ok | ffa, tdm, gungame | 2026-11-28: spawn was blown out white; fixed in the converter (overexposed bakes are capped, hue kept), room now shows its tile texture |
 | `surf_2heaven_b1` | arcangel845 | ok | ok | ffa, tdm, gungame | ok 2026-11-28 (brick, stairs, metal floor) |
-| `surf_banocanyon` | BANORRACHY | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_crzyfrog_reloaded` | JackTheStripper | ratchet | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_buzzkill2` | SmirnOFF. | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_skyscraper` | Goerge | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_buck_ed_up` | BuckNasty | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_2012_beta12` | Ryan S | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_dusty_roads` | Rebell | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_meister_v3_final2` | VVeltmeister | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_melons` | kaos4u | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_amplitude_encore` | BuckNasty | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_funpark_reloaded_v1` | Paper-Cut | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_prisoner_v2` | EncryptedCell | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_ny__resist` | FAJ | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_buck_fever2` | BuckNasty | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_bedroom` | .Nixon^ | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_vindictive` | -[Element]- | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_gforce` | latrosicarius | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_flowing` | G-FLOW | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_xiv_v3b` | SmOoth123 | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_eternity_v1` | TheApexi | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
-| `surf_construction` | see licence.json | ok | ok | ffa, tdm, gungame | not rendered yet (queued) |
+| `surf_banocanyon` | BANORRACHY | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: textured canyon walls, sand ramps, sky; sparse but correct |
+| `surf_crzyfrog_reloaded` | JackTheStripper | ratchet | ok | ffa, tdm, gungame | 2026-11-28 rendered: timber floor, lit, no defects |
+| `surf_buzzkill2` | SmirnOFF. | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: cave rock textured, dim by design |
+| `surf_skyscraper` | Goerge | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: dark tiled room, textured, dim by design |
+| `surf_buck_ed_up` | BuckNasty | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: grass arena, textured |
+| `surf_2012_beta12` | Ryan S | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: dim olive interior, textured |
+| `surf_dusty_roads` | Rebell | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: brick tunnel with lamps, textured |
+| `surf_meister_v3_final2` | VVeltmeister | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: rock island overview fine; spawn view is distant and plain |
+| `surf_melons` | kaos4u | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: water surface, textured |
+| `surf_amplitude_encore` | BuckNasty | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: space skybox, lava trim, dark by design |
+| `surf_funpark_reloaded_v1` | Paper-Cut | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: textured, no defects |
+| `surf_prisoner_v2` | EncryptedCell | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: night map, very dark by design |
+| `surf_ny__resist` | FAJ | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: night map, dark by design, textures present |
+| `surf_buck_fever2` | BuckNasty | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: pale water arena, textured |
+| `surf_bedroom` | .Nixon^ | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: giant bedroom, textured, hazy |
+| `surf_vindictive` | -[Element]- | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: sunset sky, textured |
+| `surf_gforce` | latrosicarius | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: rusty steel at night, textured |
+| `surf_flowing` | G-FLOW | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: sandstone with tree, textured |
+| `surf_xiv_v3b` | SmOoth123 | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: dark but textured |
+| `surf_eternity_v1` | TheApexi | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: no defects seen |
+| `surf_construction` | see licence.json | ok | ok | ffa, tdm, gungame | 2026-11-28 rendered: grey steel hall, textured, no defects |
 
 ## Not converted
 
